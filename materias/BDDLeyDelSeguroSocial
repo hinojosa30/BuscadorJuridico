@@ -1,0 +1,968 @@
+[   
+    {
+  "PalabraClave": "Régimen del seguro social",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "6",
+  "Texto": "El Seguro Social comprende: ",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El régimen obligatorio."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El régimen voluntario."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo delimita los dos regímenes bajo los cuales opera el Seguro Social.",
+    "El régimen obligatorio implica afiliación forzosa conforme a la Ley.",
+    "El régimen voluntario permite la incorporación por decisión propia, bajo condiciones específicas.",
+    "Cada régimen define el tipo de prestaciones, requisitos y sujetos obligados.",
+    "**Principio rector: Universalidad de cobertura mediante esquemas diferenciados.**"
+    ]
+    },
+    {
+  "PalabraClave": "Prestaciones, Contingencias",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "7",
+  "Texto": "El Seguro Social cubre las contingencias y proporciona los servicios que se especifican a propósito de cada régimen particular, mediante prestaciones en especie y en dinero, en las formas y condiciones previstas por esta Ley y sus reglamentos.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Define el alcance de la protección que brinda el Seguro Social.",
+    "Las prestaciones pueden ser en especie (servicios) o en dinero (pagos).",
+    "Cada régimen tiene condiciones específicas para otorgar dichas prestaciones.",
+    "La Ley y sus reglamentos determinan las formas de acceso y cobertura.",
+    "**Principio rector: Integralidad en la protección social.**"
+    ]
+    },
+    {
+  "PalabraClave": "Derechohabientes, Requisitos, Identificación, Prestaciones, Instituto",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "8",
+  "Texto": "Los derechohabientes para recibir o, en su caso, seguir disfrutando de las prestaciones que esta Ley otorga, deberán cumplir con los requisitos establecidos en la misma y en sus reglamentos.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Para tal efecto el Instituto expedirá a todos los derechohabientes, un documento de identificación a fin de que puedan ejercitar los derechos que la Ley les confiere, según el caso."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Establece la obligación de cumplir requisitos para acceder a las prestaciones.",
+    "El Instituto debe facilitar un documento de identificación a los derechohabientes.",
+    "Este documento permite ejercer los derechos conferidos por la Ley.",
+    "La continuidad de las prestaciones depende del cumplimiento normativo.",
+    "**Principio rector: Accesibilidad condicionada por cumplimiento normativo.**"
+    ]
+    },
+    {
+  "PalabraClave": "Aplicación supletoria, Cargas fiscales, Procedimiento administrativo",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "9",
+  "Texto": "Las disposiciones fiscales de esta Ley que establecen cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas las normas que se refieran a sujeto, objeto, base de cotización y tasa.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "A falta de norma expresa en esta Ley, se aplicarán supletoriamente las disposiciones de la Ley Federal de Trabajo, del Código o del derecho común, en ese orden, cuando su aplicación no sea contraria a la naturaleza propia del régimen de seguridad social que establece esta Ley."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "El Instituto deberá sujetarse al Título Tercero A de la Ley Federal del Procedimiento Administrativo para efectos de lo previsto en éste, con las excepciones que la citada ley indica y las correspondientes a los trámites y procedimientos directamente relacionados con la prestación de servicios médicos de carácter preventivo, de diagnóstico, rehabilitación, manejo y tratamiento hospitalarios."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece que las disposiciones fiscales deben interpretarse de forma estricta, sin extensiones.",
+    "Define qué se entiende por cargas: sujeto, objeto, base de cotización y tasa.",
+    "En ausencia de norma expresa, se aplican leyes supletorias en orden jerárquico, siempre que no contradigan la naturaleza del régimen.",
+    "El Instituto debe acatar el procedimiento administrativo federal, salvo en trámites médicos específicos.",
+    "**Principio rector: Legalidad estricta y supletoriedad condicionada por la naturaleza del régimen de seguridad social.**"
+    ]
+    },
+    {
+  "PalabraClave": "Inembargabilidad, ",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "10",
+  "Texto": "Las prestaciones que corresponden a los asegurados y a sus beneficiarios son inembargables. Sólo en los casos de obligaciones alimenticias a su cargo, pueden embargarse por la autoridad judicial las pensiones y subsidios hasta por el cincuenta por ciento de su monto.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Establece la protección jurídica de las prestaciones otorgadas por el Seguro Social.",
+    "Las pensiones y subsidios son inembargables, salvo por obligaciones alimenticias.",
+    "La excepción permite el embargo judicial hasta el 50% del monto correspondiente.",
+    "Se garantiza el acceso a prestaciones sin riesgo de afectación por deudas comunes.",
+    "**Principio rector: Protección patrimonial de las prestaciones frente a terceros.**"
+    ]
+    },
+    {
+  "PalabraClave": "Régimen obligatorio, Seguros sociales, Cobertura, Prestaciones, IMSS",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "11",
+  "Texto": "El régimen obligatorio comprende los seguros de:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Riesgos de trabajo;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Enfermedades y maternidad;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Invalidez y vida;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Retiro, cesantía en edad avanzada y vejez;"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Guarderías y prestaciones sociales."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Enumera los seguros que integran el régimen obligatorio del Seguro Social.",
+    "Cada seguro cubre contingencias específicas vinculadas al trabajo y la vida.",
+    "La cobertura incluye salud, riesgos laborales, pensiones y servicios sociales.",
+    "Este régimen es financiado por aportaciones tripartitas y tiene carácter obligatorio.",
+    "**Principio rector: Cobertura integral de riesgos sociales mediante seguros específicos.**"
+    ]
+    },
+    {
+  "PalabraClave": "Sujetos asegurados, Régimen obligatorio, LFT, Cooperativas, Trabajadoras del hogar",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "12",
+  "Texto": "Son sujetos de aseguramiento del régimen obligatorio:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Las personas que de conformidad con los artículos 20 y 21 de la Ley Federal del Trabajo, presten, en forma permanente o eventual, a otras de carácter físico o moral o unidades económicas sin personalidad jurídica, un servicio remunerado, personal y subordinado, cualquiera que sea el acto que le dé origen y cualquiera que sea la personalidad jurídica o la naturaleza económica del patrón aun cuando éste, en virtud de alguna ley especial, esté exento del pago de contribuciones;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Los socios de sociedades cooperativas;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las personas que determine el Ejecutivo Federal a través del Decreto respectivo, bajo los términos y condiciones que señala esta Ley y los reglamentos correspondientes;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las personas trabajadoras del hogar."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Define quiénes están obligados a incorporarse al régimen obligatorio del Seguro Social.",
+    "Incluye trabajadores subordinados, socios cooperativistas y personas determinadas por decreto.",
+    "Reconoce expresamente a las personas trabajadoras del hogar como sujetos de aseguramiento.",
+    "La inclusión no depende de la personalidad jurídica del patrón ni de su obligación fiscal.",
+    "**Principio rector: Inclusión laboral amplia en el sistema de seguridad social.**"
+    ]
+    },
+    {
+  "PalabraClave": "Aseguramiento voluntario, Independientes, Administraciones públicas, Derogaciones, Régimen obligatorio",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "13",
+  "Texto": "Voluntariamente podrán ser sujetos de aseguramiento al régimen obligatorio:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Los trabajadores independientes o por cuenta propia;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Los trabajadores al servicio de las administraciones públicas de la Federación, entidades federativas y municipios que estén excluidas o no comprendidas en otras leyes o decretos como sujetos de seguridad social."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite el aseguramiento voluntario al régimen obligatorio en casos específicos.",
+    "Incluye a trabajadores independientes y servidores públicos no cubiertos por otras leyes.",
+    "Las fracciones II, III y IV han sido derogadas, lo que delimita el alcance actual del artículo.",
+    "La incorporación voluntaria requiere convenio conforme a lo previsto en la Ley.",
+    "**Principio rector: Inclusión voluntaria condicionada por exclusión normativa previa.**"
+    ]
+    },
+    {
+  "PalabraClave": "Convenios, Prestaciones, Cuotas, Gobierno Federal, Inscripción",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "14",
+  "Texto": "En los convenios a que se refiere el artículo 13 se establecerá:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "La fecha de inicio de la prestación de los servicios y los sujetos de aseguramiento que comprende;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "La vigencia;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las prestaciones que se otorgarán;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las cuotas a cargo de los asegurados y demás sujetos obligados;"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La contribución a cargo del Gobierno Federal, cuando en su caso proceda;"
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Los procedimientos de inscripción y los de cobro de las cuotas;"
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Las demás modalidades que se requieran conforme a esta Ley y sus reglamentos."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula el contenido mínimo de los convenios de aseguramiento voluntario.",
+    "Establece los elementos operativos: inicio, vigencia, prestaciones y cuotas.",
+    "Incluye la participación del Gobierno Federal cuando proceda como contribuyente.",
+    "Permite adaptar modalidades conforme a la Ley y sus reglamentos.",
+    "**Principio rector: Formalización normativa de convenios de aseguramiento voluntario.**"
+    ]
+    },
+    {
+  "PalabraClave": "Convenios, Prestaciones, Cuotas, Gobierno Federal, Inscripción",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "14",
+  "Texto": "En los convenios a que se refiere el artículo anterior se establecerá:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "La fecha de inicio de la prestación de los servicios y los sujetos de aseguramiento que comprende;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "La vigencia;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las prestaciones que se otorgarán;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las cuotas a cargo de los asegurados y demás sujetos obligados;"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La contribución a cargo del Gobierno Federal, cuando en su caso proceda;"
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Los procedimientos de inscripción y los de cobro de las cuotas;"
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Las demás modalidades que se requieran conforme a esta Ley y sus reglamentos."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula el contenido mínimo de los convenios de aseguramiento voluntario.",
+    "Establece los elementos operativos: inicio, vigencia, prestaciones y cuotas.",
+    "Incluye la participación del Gobierno Federal cuando proceda como contribuyente.",
+    "Permite adaptar modalidades conforme a la Ley y sus reglamentos.",
+    "**Principio rector: Formalización normativa de convenios de aseguramiento voluntario.**"
+    ]
+    },
+    {
+  "PalabraClave": "Servicios especializados, Contratos, Subcontratación, STPS, Seguridad social",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "15 A",
+  "Texto": "La contratación de servicios especializados o la ejecución de obras especializadas deberán cumplir con las condiciones y requisitos establecidos en la Ley Federal del Trabajo. La persona física o moral que preste servicios especializados o ejecute obras especializadas deberá proporcionar cuatrimestralmente a más tardar el día 17 de los meses de enero, mayo y septiembre, la información de los contratos celebrados en el cuatrimestre de que se trate, conforme a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "De las partes en el contrato: Nombre, denominación o razón social; Registro Federal de Contribuyentes, domicilio social o convencional en caso de ser distinto al fiscal, correo electrónico y teléfono de contacto."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "De cada contrato: Objeto; periodo de vigencia; relación de trabajadores u otros sujetos que prestarán los servicios especializados o ejecutarán las obras especializadas a favor del beneficiario, indicando su nombre, CURP, número de seguridad social y salario base de cotización, así como nombre y Registro Federal de Contribuyentes del beneficiario de los servicios por cada uno de los contratos."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Copia simple del registro emitido por la Secretaría del Trabajo y Previsión Social para la prestación de servicios especializados o la ejecución de obras especializadas."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula la subcontratación especializada en materia de seguridad social.",
+    "Establece la obligación de informar cuatrimestralmente sobre los contratos celebrados.",
+    "Detalla los datos que deben proporcionarse sobre las partes, los contratos y los trabajadores involucrados.",
+    "Exige contar con el registro oficial emitido por la Secretaría del Trabajo y Previsión Social.",
+    "**Principio rector: Transparencia y trazabilidad en la contratación especializada vinculada al régimen de seguridad social.**"
+    ]
+    },
+    {
+  "PalabraClave": "Convenio en parcialidades, Casa habitación, Remodelaciones, Cuotas obrero patronales, Alta de trabajadores",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "15 B",
+  "Texto": "Las personas que no se encuentren en el supuesto establecido en el penúltimo párrafo del artículo 15 de esta Ley, que realicen en su casa habitación ampliaciones, remodelaciones, o bien, la construcción de su propia casa habitación y aquéllas que de manera esporádica realicen ampliaciones o remodelaciones de cualquier tipo de obra, podrán celebrar convenio de pago en parcialidades de las cuotas obrero patronales que resulten a su cargo, desde el momento en que den de alta a los trabajadores que se encarguen de las mismas, individualizando la cuenta del trabajador.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite a particulares celebrar convenios para pagar en parcialidades las cuotas obrero patronales.",
+    "Aplica a quienes realicen obras en su casa habitación o remodelaciones esporádicas fuera del supuesto del artículo 15.",
+    "La obligación surge desde el momento en que se da de alta a los trabajadores involucrados.",
+    "Se exige individualizar la cuenta del trabajador para efectos de control y registro.",
+    "**Principio rector: Flexibilidad contributiva para obras particulares con responsabilidad individualizada.**"
+    ]
+    },
+    {
+  "PalabraClave": "Dictamen, Contador público, Visita domiciliaria, Obligaciones patronales, Reglamento",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "16",
+  "Texto": "Los patrones que de conformidad con el reglamento cuenten con un promedio anual de trescientos o más trabajadores en el ejercicio fiscal inmediato anterior, están obligados a dictaminar el cumplimiento de sus obligaciones ante el Instituto por contador público autorizado, en los términos que se señalen en el reglamento que al efecto emita el Ejecutivo Federal. Los patrones que presenten dictamen, no serán sujetos de visita domiciliaria por los ejercicios dictaminados a excepción de que:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El dictamen se haya presentado con abstención de opinión, con opinión negativa o con salvedades sobre aspectos que, a juicio del contador público, recaigan sobre elementos esenciales del dictamen."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Derivado de la revisión interna del dictamen, se determinaren diferencias a su cargo y éstas no fueran aclaradas y, en su caso, pagadas."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece la obligación de dictaminar el cumplimiento de obligaciones ante el Instituto para patrones con más de 300 trabajadores.",
+    "El dictamen debe ser elaborado por contador público autorizado conforme al reglamento emitido por el Ejecutivo.",
+    "Los patrones que dictaminen no serán sujetos de visita domiciliaria, salvo en casos específicos.",
+    "Las excepciones incluyen dictámenes con abstención, opinión negativa o salvedades relevantes, y diferencias no aclaradas ni pagadas.",
+    "**Principio rector: Fiscalización condicionada por dictamen profesional y cumplimiento verificable.**"
+    ]
+    },
+    {
+  "PalabraClave": "Avisos, Excepciones, Cuotas, Baja, Verificación",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "17",
+  "Texto": "Al dar los avisos a que se refiere la fracción I del artículo 15 de esta Ley, el patrón puede expresar por escrito los motivos en que funde alguna excepción o duda acerca de sus obligaciones, sin que por ello quede relevado de pagar las cuotas correspondientes. El Instituto, dentro de un plazo de cuarenta y cinco días hábiles, notificará al patrón la resolución que dicte y, en su caso, procederá a dar de baja al patrón, al trabajador o a ambos, así como al reembolso correspondiente.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "La información que proporcionen los patrones para su registro podrá ser analizada por el Instituto, a fin de verificar la existencia de los supuestos y requisitos establecidos en esta Ley. Si el Instituto determina que no se dan los supuestos previstos en el artículo 12, fracción I, de esta Ley, notificará al presunto patrón para que éste, en el plazo de cinco días hábiles manifieste lo que a su derecho convenga y, en el caso de que no desvirtúe tales situaciones, el Instituto procederá a dar de baja al presunto patrón, a los presuntos trabajadores o a ambos."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite al patrón expresar dudas o excepciones al presentar avisos, sin que ello lo exima del pago de cuotas.",
+    "El Instituto tiene un plazo de 45 días hábiles para resolver y, en su caso, dar de baja al patrón, trabajador o ambos.",
+    "La información proporcionada por el patrón puede ser verificada por el Instituto para confirmar los supuestos legales.",
+    "Si no se cumplen los requisitos del artículo 12, fracción I, el Instituto puede dar de baja al presunto patrón y trabajadores tras un proceso de notificación.",
+    "**Principio rector: Transparencia y verificación institucional ante excepciones patronales.**"
+    ]
+    },
+    {
+  "PalabraClave": "Inscripción, Modificaciones salariales, Documentación laboral, Pensiones, Obligaciones patronales",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "18",
+  "Texto": "Los trabajadores tienen el derecho de solicitar al Instituto su inscripción, comunicar las modificaciones de su salario y demás condiciones de trabajo y, en su caso, presentar la documentación que acredite dicha relación, demuestre el período laborado y los salarios percibidos. Lo anterior no libera a los patrones del cumplimiento de sus obligaciones ni les exime de las sanciones y responsabilidades en que hubieran incurrido.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Asimismo el trabajador por conducto del Instituto podrá realizar los trámites administrativos necesarios para ejercer los derechos derivados de las pensiones establecidas por esta Ley."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo reconoce el derecho del trabajador a solicitar su inscripción y comunicar cambios en sus condiciones laborales.",
+    "El trabajador puede presentar documentación que respalde su relación laboral, tiempo trabajado y salario recibido.",
+    "El cumplimiento de estas acciones no exime al patrón de sus obligaciones ni de posibles sanciones.",
+    "También se faculta al trabajador para realizar trámites relacionados con pensiones a través del Instituto.",
+    "**Principio rector: Protección activa de derechos laborales y previsionales del trabajador.**"
+    ]
+    },
+    {
+  "PalabraClave": "Sociedades cooperativas, Cuotas patronales, Socios, Fracción II, Obligaciones",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "19",
+  "Texto": "Para los efectos de esta Ley, las sociedades cooperativas pagarán la cuota correspondiente a los patrones, y cada uno de los socios a que se refiere la fracción II del artículo 12 de esta Ley cubrirán sus cuotas como trabajadores.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece la obligación de las sociedades cooperativas de cubrir las cuotas patronales.",
+    "Cada socio, conforme a la fracción II del artículo 12, debe pagar su cuota como trabajador.",
+    "Se equipara la responsabilidad de las cooperativas con la de los patrones tradicionales.",
+    "La norma busca garantizar la cobertura del Seguro Social para socios cooperativistas.",
+    "**Principio rector: Equidad contributiva entre figuras patronales y cooperativas.**"
+    ]
+    },
+    {
+  "PalabraClave": "Semanas cotizadas, Prestaciones, Días acumulados, Sobrante, Cálculo proporcional",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "20",
+  "Texto": "Las semanas reconocidas para el otorgamiento de las prestaciones a que se refiere este título, se obtendrán dividiendo entre siete los días de cotización acumulados, hecha esta división, si existiera un sobrante de días mayor a tres, éste se considerará como otra semana completa, no tomándose en cuenta el exceso si el número de días fuera de tres o menor.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo define el método para calcular semanas cotizadas a partir de días acumulados.",
+    "Se establece que cada siete días de cotización equivalen a una semana reconocida.",
+    "Un sobrante mayor a tres días se considera como una semana adicional completa.",
+    "Si el sobrante es de tres días o menos, no se contabiliza como semana adicional.",
+    "**Principio rector: Proporcionalidad técnica en el reconocimiento de derechos por cotización.**"
+      ]
+    },
+    {
+  "PalabraClave": "Baja, Incapacidad temporal, Efectos legales, Seguro Social, Protección laboral",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "21",
+  "Texto": "Los avisos de baja de los trabajadores incapacitados temporalmente para el trabajo, no surtirán efectos para las finalidades del Seguro Social, mientras dure el estado de incapacidad.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo protege al trabajador incapacitado temporalmente frente a bajas indebidas.",
+    "Los avisos de baja no tienen efectos legales mientras dure la incapacidad.",
+    "Se garantiza la continuidad de derechos durante el periodo de incapacidad.",
+    "El Instituto reconoce la suspensión de efectos administrativos en estos casos.",
+    "**Principio rector: Salvaguarda de derechos durante incapacidad laboral.**"
+      ]
+    },
+    {
+  "PalabraClave": "Confidencialidad, Instituto, Juicios, Convenios, Autoridades",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "22",
+  "Texto": "Los documentos, datos e informes que los trabajadores, patrones y demás personas proporcionen al Instituto, en cumplimiento de las obligaciones que les impone esta Ley, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer en forma nominativa e individual.",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Se trate de juicios y procedimientos en que el Instituto fuere parte."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Se hubieran celebrado convenios de colaboración con la Federación, entidades federativas o municipios o sus respectivas administraciones públicas, para el intercambio de información relacionada con el cumplimiento de sus objetivos, con las restricciones pactadas en los convenios en los cuales se incluirá invariablemente una cláusula de confidencialidad y no difusión de la información intercambiada."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Lo soliciten la Secretaría de la Función Pública, la Contraloría Interna en el Instituto, las autoridades fiscales federales, las instituciones de seguridad social y el Ministerio Público Federal, en ejercicio de sus atribuciones."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "En los casos previstos en ley."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo garantiza la confidencialidad de la información proporcionada al Instituto por trabajadores, patrones y terceros.",
+    "La divulgación nominativa e individual está prohibida, salvo en casos expresamente previstos.",
+    "Se permiten excepciones en juicios donde el Instituto sea parte o mediante convenios con autoridades públicas.",
+    "También pueden acceder a la información ciertas autoridades en ejercicio de sus atribuciones o cuando lo disponga la ley.",
+    "**Principio rector: Protección de datos personales con excepciones institucionales reguladas.**"
+      ]
+    },
+    {
+  "PalabraClave": "Contratos colectivos, Prestaciones, Cuotas, Aportes, Seguros adicionales",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "23",
+  "Texto": "Cuando los contratos colectivos concedan prestaciones inferiores a las otorgadas por esta Ley, el patrón pagará al Instituto todos los aportes proporcionales a las prestaciones contractuales. Para satisfacer las diferencias entre estas últimas y las establecidas por la Ley, las partes cubrirán las cuotas correspondientes.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Si en los contratos colectivos se pactan prestaciones iguales a las establecidas por esta Ley, el patrón pagará al Instituto íntegramente las cuotas obrero patronales."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "En los casos en que los contratos colectivos consignen prestaciones superiores a las que concede esta Ley, se estará a lo dispuesto en el párrafo anterior hasta la igualdad de prestaciones, y respecto de las excedentes el patrón quedará obligado a cumplirlas. Tratándose de prestaciones económicas, el patrón podrá contratar con el Instituto los seguros adicionales correspondientes, en los términos del Título Tercero capítulo II de esta Ley."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula la relación entre prestaciones contractuales y las establecidas por la Ley del Seguro Social.",
+    "Si las prestaciones contractuales son inferiores, el patrón cubre aportes proporcionales y las partes pagan las diferencias.",
+    "Cuando las prestaciones son iguales, el patrón debe pagar íntegramente las cuotas obrero patronales.",
+    "Si las prestaciones son superiores, el patrón debe cumplir con las excedentes y puede contratar seguros adicionales con el Instituto.",
+    "**Principio rector: Equilibrio contributivo según el nivel de prestaciones pactadas.**"
+    ]
+    },
+    {
+  "PalabraClave": "Prestaciones contractuales, Descuento, Instituto, Patrón, Equivalencia",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "24",
+  "Texto": "Los patrones tendrán el derecho a descontar del importe de las prestaciones contractuales que deben cubrir directamente, las cuantías correspondientes a las prestaciones de la misma naturaleza otorgadas por el Instituto.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite al patrón descontar de las prestaciones contractuales las cuantías equivalentes otorgadas por el Instituto.",
+    "El descuento aplica únicamente cuando ambas prestaciones son de la misma naturaleza.",
+    "Se busca evitar duplicidad en el cumplimiento de obligaciones patronales.",
+    "La norma reconoce la cobertura institucional como parte del cumplimiento contractual.",
+    "**Principio rector: Equivalencia contributiva entre prestaciones contractuales e institucionales.**"
+      ]
+    },
+    {
+  "PalabraClave": "Contribución estatal, Valuación actuarial, Cuotas, Prestaciones en especie, Porcentaje",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "25",
+  "Texto": "En los casos previstos por el artículo 23, el Estado aportará la contribución que le corresponda en términos de esta Ley, independientemente de la que resulte a cargo del patrón por la valuación actuarial de su contrato, pagando éste, tanto su propia cuota como la parte de la cuota obrera que le corresponda conforme a dicha valuación.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Para cubrir las prestaciones en especie del seguro de enfermedades y maternidad de los pensionados y sus beneficiarios, en los seguros de riesgos de trabajo, invalidez y vida, así como retiro, cesantía en edad avanzada y vejez, los patrones, los trabajadores y el Estado aportarán una cuota de uno punto cinco por ciento sobre el salario base de cotización. De dicha cuota corresponderá al patrón pagar el uno punto cero cinco por ciento, a los trabajadores el cero punto trescientos setenta y cinco por ciento y al Estado el cero punto cero setenta y cinco por ciento."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece la participación del Estado en las contribuciones derivadas de contratos colectivos.",
+    "El patrón debe cubrir su cuota y la parte obrera conforme a la valuación actuarial.",
+    "Se define una cuota conjunta del 1.5% para prestaciones en especie de seguros clave.",
+    "La cuota se distribuye entre patrón, trabajador y Estado con porcentajes específicos.",
+    "**Principio rector: Solidaridad tripartita en el financiamiento de prestaciones sociales.**"
+      ]
+    },
+    {
+  "PalabraClave": "Sujetos obligados, Aplicación conducente, Patrones, Trabajadores, Aseguramiento",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "26",
+  "Texto": "Las disposiciones de esta Ley, que se refieren a los patrones y a los trabajadores, serán aplicables, en lo conducente, a los demás sujetos obligados y de aseguramiento.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo amplía el alcance de la Ley a otros sujetos obligados además de patrones y trabajadores.",
+    "La aplicación se realiza en lo conducente, respetando la naturaleza de cada figura jurídica.",
+    "Se garantiza la inclusión normativa de actores relevantes en el sistema de aseguramiento.",
+    "La disposición permite adaptar obligaciones según el tipo de sujeto involucrado.",
+    "**Principio rector: Inclusión normativa proporcional en el régimen de seguridad social.**"
+      ]
+    },
+    {
+  "PalabraClave": "Salario base, Cotización, Exclusiones, Prestaciones, Aportaciones",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "27",
+  "Texto": "El salario base de cotización se integra con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquiera otra cantidad o prestación que se entregue al trabajador por su trabajo. Se excluyen como integrantes del salario base de cotización, dada su naturaleza, los siguientes conceptos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Los instrumentos de trabajo tales como herramientas, ropa y otros similares."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El ahorro, cuando se integre por un depósito de cantidad semanaria, quincenal o mensual igual del trabajador y de la empresa; si se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, integrará salario; tampoco se tomarán en cuenta las cantidades otorgadas por el patrón para fines sociales de carácter sindical."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las aportaciones adicionales que el patrón convenga otorgar a favor de sus trabajadores por concepto de cuotas del seguro de retiro, cesantía en edad avanzada y vejez."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las cuotas que en términos de esta Ley le corresponde cubrir al patrón, las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, y las participaciones en las utilidades de la empresa."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La alimentación y la habitación cuando se entreguen en forma onerosa a los trabajadores; se entiende que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario que rija en el Distrito Federal."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Las despensas en especie o en dinero, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general diario vigente en el Distrito Federal."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Los premios por asistencia y puntualidad, siempre que el importe de cada uno de estos conceptos no rebase el diez por ciento del salario base de cotización."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "El tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo define los elementos que integran el salario base de cotización para efectos del Seguro Social.",
+    "Incluye pagos en efectivo y prestaciones derivadas directamente del trabajo realizado.",
+    "Establece una lista de conceptos excluidos por su naturaleza, como herramientas, ahorro condicionado y aportaciones específicas.",
+    "Las exclusiones buscan evitar distorsiones en la base de cálculo de las cuotas y asegurar proporcionalidad.",
+    "**Principio rector: Claridad y equidad en la determinación del salario base para cotización.**"
+      ]
+    },
+    {
+  "PalabraClave": "Salario base, Cotización, Límite superior, Límite inferior, Afiliación",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "28",
+  "Texto": "Los asegurados se inscribirán con el salario base de cotización que perciban en el momento de su afiliación, estableciéndose como límite superior el equivalente a veinticinco veces el salario mínimo general que rija en el Distrito Federal y como límite inferior el salario mínimo general del área geográfica respectiva.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece que el salario base de cotización se determina al momento de la afiliación del asegurado.",
+    "Se fija un límite superior de veinticinco veces el salario mínimo general vigente en el Distrito Federal.",
+    "El límite inferior corresponde al salario mínimo general del área geográfica respectiva.",
+    "La disposición busca mantener proporcionalidad y evitar distorsiones en la base de cotización.",
+    "**Principio rector: Equidad contributiva mediante límites salariales razonables.**"
+      ]
+    },
+    {
+  "PalabraClave": "Sujetos obligados, Fracción II, Percepciones, Trabajo personal, Base de cotización",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "28 A",
+  "Texto": "La base de cotización para los sujetos obligados señalados en la fracción II del artículo 12 de esta Ley, se integrará por el total de las percepciones que reciban por la aportación de su trabajo personal, aplicándose en lo conducente lo establecido en los artículos 28, 29, 30, 32 y demás aplicables de esta Ley.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo define la base de cotización para los sujetos obligados conforme a la fracción II del artículo 12.",
+    "Se considera el total de percepciones derivadas del trabajo personal como base de cotización.",
+    "Se aplican de forma conducente las disposiciones de los artículos 28, 29, 30, 32 y demás correlativos.",
+    "La norma extiende el régimen contributivo a figuras no tradicionales bajo criterios equivalentes.",
+    "**Principio rector: Inclusión proporcional de sujetos obligados en el régimen de cotización.**"
+      ]
+    },
+    {
+  "PalabraClave": "Cotización, Salario diario, Periodicidad, Unidad de tiempo, Mínimo legal",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "29",
+  "Texto": "Para determinar la forma de cotización se aplicarán las siguientes reglas:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El mes natural será el período de pago de cuotas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Para fijar el salario diario en caso de que se pague por semana, quincena o mes, se dividirá la remuneración correspondiente entre siete, quince o treinta respectivamente. Análogo procedimiento será empleado cuando el salario se fije por períodos distintos a los señalados."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Si por la naturaleza o peculiaridades de las labores, el salario no se estipula por semana o por mes, sino por día trabajado y comprende menos días de los de una semana o el asegurado labora jornadas reducidas y su salario se determina por unidad de tiempo, en ningún caso se recibirán cuotas con base en un salario inferior al mínimo."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece reglas para calcular la forma de cotización según la periodicidad del salario.",
+    "El mes natural se considera como el período estándar para el pago de cuotas.",
+    "Se definen fórmulas para convertir remuneraciones semanales, quincenales o mensuales en salario diario.",
+    "Se garantiza que ningún asegurado cotice por debajo del salario mínimo, incluso en jornadas reducidas.",
+    "**Principio rector: Uniformidad y protección mínima en la base de cotización.**"
+      ]
+    },
+    {
+  "PalabraClave": "Salario diario, Elementos fijos, Variables, Mixto, Cotización",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "30",
+  "Texto": "Para determinar el salario diario base de cotización se estará a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Cuando además de los elementos fijos del salario el trabajador percibiera regularmente otras retribuciones periódicas de cuantía previamente conocida, éstas se sumarán a dichos elementos fijos."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Si por la naturaleza del trabajo, el salario se integra con elementos variables que no puedan ser previamente conocidos, se sumarán los ingresos totales percibidos durante los dos meses inmediatos anteriores y se dividirán entre el número de días de salario devengado en ese período. Si se trata de un trabajador de nuevo ingreso, se tomará el salario probable que le corresponda en dicho período."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "En los casos en que el salario de un trabajador se integre con elementos fijos y variables, se considerará de carácter mixto, por lo que, para los efectos de cotización, se sumará a los elementos fijos el promedio obtenido de los variables en términos de lo que se establece en la fracción anterior."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo define cómo calcular el salario diario base de cotización según la composición del salario.",
+    "Las retribuciones periódicas conocidas se suman a los elementos fijos para obtener el salario base.",
+    "Cuando el salario incluye elementos variables, se promedia lo devengado en los dos meses anteriores.",
+    "En caso de salario mixto, se suman los elementos fijos y el promedio de los variables para cotizar.",
+    "**Principio rector: Precisión proporcional en la determinación del salario base.**"
+      ]
+    },
+    {
+  "PalabraClave": "Ausencias, Cotización, Enfermedades, Incapacidad médica, Nómina",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "31",
+  "Texto": "Cuando por ausencias del trabajador a sus labores no se paguen salarios, pero subsista la relación laboral, la cotización mensual se ajustará a las reglas siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Si las ausencias del trabajador son por períodos menores de ocho días consecutivos o interrumpidos, se cotizará y pagará por dichos períodos únicamente en el seguro de enfermedades y maternidad. En estos casos los patrones deberán presentar la aclaración correspondiente, indicando que se trata de cuotas omitidas por ausentismo y comprobarán la falta de pago de salarios respectivos, mediante la exhibición de las listas de raya o de las nóminas correspondientes. Para este efecto el número de días de cada mes se obtendrá restando del total de días que contenga el período de cuotas de que se trate, el número de ausencias sin pago de salario correspondiente al mismo período."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "En los casos de las fracciones II y III del artículo 30, se seguirán las mismas reglas de la fracción anterior."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "En el caso de ausencias de trabajadores comprendidos en la fracción III del artículo 29, cualquiera que sea la naturaleza del salario que perciban, el reglamento determinará lo procedente conforme al criterio sustentado en las bases anteriores."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Tratándose de ausencias amparadas por incapacidades médicas expedidas por el Instituto no será obligatorio cubrir las cuotas obrero patronales, excepto por lo que se refiere al ramo de retiro."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula cómo ajustar la cotización mensual cuando hay ausencias sin pago de salario.",
+    "Las ausencias menores a ocho días se cotizan solo en el seguro de enfermedades y maternidad.",
+    "Los patrones deben justificar el ausentismo mediante nóminas o listas de raya.",
+    "Las incapacidades médicas eximen del pago de cuotas, salvo en el ramo de retiro.",
+    "**Principio rector: Ajuste proporcional de cotización ante ausencias justificadas.**"
+     ]
+    },
+    {
+  "PalabraClave": "Alimentación, Habitación, Prestaciones, Aumento salarial, Porcentaje",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "32",
+  "Texto": "Si además del salario en dinero el trabajador recibe del patrón, sin costo para aquél, habitación o alimentación, se estimará aumentado su salario en un veinticinco por ciento y si recibe ambas prestaciones se aumentará en un cincuenta por ciento.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando la alimentación no cubra los tres alimentos, sino uno o dos de éstos, por cada uno de ellos se adicionará el salario en un ocho punto treinta y tres por ciento."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece cómo se incrementa el salario base cuando el trabajador recibe alimentación o habitación sin costo.",
+    "Si recibe una de las dos prestaciones, el salario se incrementa en 25%; si recibe ambas, en 50%.",
+    "Cuando la alimentación cubre solo uno o dos alimentos, se adiciona 8.33% por cada uno.",
+    "La norma busca reflejar el valor económico de las prestaciones en especie en la base de cotización.",
+    "**Principio rector: Inclusión proporcional de prestaciones en especie en el salario base.**"
+      ]
+    },
+    {
+  "PalabraClave": "Prestaciones en dinero, Múltiples patrones, Salario combinado, Límite superior, Cotización proporcional",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "33",
+  "Texto": "Para el disfrute de las prestaciones en dinero, en caso que el asegurado preste servicios a varios patrones se tomará en cuenta la suma de los salarios percibidos en los distintos empleos, cuando ésta sea menor al límite superior establecido en el artículo 28 los patrones cubrirán separadamente los aportes a que estén obligados con base en el salario que cada uno de ellos pague al asegurado.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando la suma de los salarios que percibe un trabajador llegue o sobrepase el límite superior establecido en el artículo 28 de esta Ley, a petición de los patrones, éstos cubrirán los aportes del salario máximo de cotización, pagando entre ellos la parte proporcional que resulte entre el salario que cubre individualmente y la suma total de los salarios que percibe el trabajador."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula cómo se determina la base de cotización cuando el trabajador tiene múltiples empleadores.",
+    "Si la suma de salarios es menor al límite superior, cada patrón cotiza por separado según lo que paga.",
+    "Cuando se supera el límite, los patrones pueden optar por cotizar proporcionalmente hasta el salario máximo.",
+    "La cotización proporcional se distribuye según el salario que cada patrón paga respecto al total.",
+    "**Principio rector: Equidad contributiva entre patrones ante pluralidad de relaciones laborales.**"
+      ]
+    },
+    {
+  "PalabraClave": "Modificación salarial, Aviso al Instituto, Elementos fijos, Elementos variables, Plazos",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "34",
+  "Texto": "Cuando encontrándose el asegurado al servicio de un mismo patrón se modifique el salario estipulado, se estará a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "En los casos previstos en la fracción I del artículo 30, el patrón estará obligado a presentar al Instituto los avisos de modificación del salario diario base de cotización dentro de un plazo máximo de cinco días hábiles, contados a partir del día siguiente a la fecha en que cambie el salario."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "En los casos previstos en la fracción II del artículo 30, los patrones estarán obligados a comunicar al Instituto dentro de los primeros cinco días hábiles de los meses de enero, marzo, mayo, julio, septiembre y noviembre, las modificaciones del salario diario promedio obtenido en el bimestre anterior."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "En los casos previstos en la fracción III del artículo 30, si se modifican los elementos fijos del salario, el patrón deberá presentar el aviso de modificación dentro de los cinco días hábiles siguientes de la fecha en que cambie el salario. Si al concluir el bimestre respectivo hubo modificación de los elementos variables que se integran al salario, el patrón presentará al Instituto el aviso de modificación en los términos de la fracción II anterior."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula los plazos y condiciones para reportar modificaciones salariales ante el Instituto.",
+    "Las modificaciones del salario base diario deben notificarse en cinco días hábiles desde el cambio.",
+    "Las variaciones en salario promedio por bimestre se reportan en meses específicos del calendario.",
+    "Se distingue entre elementos fijos y variables del salario para efectos de notificación.",
+    "**Principio rector: Transparencia y puntualidad en la actualización de la base de cotización.**"
+      ]
+    },
+    {
+  "PalabraClave": "Modificación salarial, Salario mínimo, Efectos inmediatos, Cotización, Prestaciones",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "35",
+  "Texto": "Los cambios en el salario base de cotización derivados de las modificaciones señaladas en el artículo anterior, así como aquellos que por Ley deben efectuarse al salario mínimo, surtirán efectos a partir de la fecha en que ocurrió el cambio, tanto para la cotización como para las prestaciones en dinero.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece que los cambios en el salario base de cotización tienen efectos inmediatos.",
+    "Aplica tanto a modificaciones voluntarias como a ajustes obligatorios por Ley al salario mínimo.",
+    "Los efectos se reflejan en la cotización y en las prestaciones en dinero desde la fecha del cambio.",
+    "No se contempla periodo de gracia ni retroactividad para el ajuste.",
+    "**Principio rector: Aplicación inmediata de ajustes salariales en la seguridad social.**"
+      ]
+    },
+    {
+  "PalabraClave": "Salario mínimo, Cuota íntegra, Obligación patronal, Cotización, Seguridad social",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "36",
+  "Texto": "Corresponde al patrón pagar íntegramente la cuota señalada para los trabajadores, en los casos en que éstos perciban como cuota diaria el salario mínimo.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo impone al patrón la obligación de cubrir la totalidad de la cuota cuando el trabajador gana el salario mínimo.",
+    "El trabajador no debe aportar parte de la cuota en estos casos.",
+    "Se protege al trabajador de menor ingreso mediante esta disposición.",
+    "La cuota íntegra se refiere a la parte obrero-patronal que normalmente se divide.",
+    "**Principio rector: Protección económica al trabajador con salario mínimo.**"
+      ]
+    },
+    {
+  "PalabraClave": "Aviso de baja, Cotización indebida, Devolución, Alta duplicada, Obligación patronal",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "37",
+  "Texto": "En tanto el patrón no presente al Instituto el aviso de baja del trabajador, subsistirá su obligación de cubrir las cuotas obrero patronales respectivas; sin embargo, si se comprueba que dicho trabajador fue inscrito por otro patrón, el Instituto devolverá al patrón omiso, a su solicitud, el importe de las cuotas obrero patronales pagadas en exceso, a partir de la fecha de la nueva alta.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece que la obligación de cotizar persiste hasta que se presenta el aviso de baja.",
+    "Si el trabajador ya fue dado de alta por otro patrón, se puede solicitar devolución de cuotas duplicadas.",
+    "La devolución aplica desde la fecha de la nueva alta, no desde la omisión.",
+    "El Instituto requiere comprobación para autorizar la devolución.",
+    "**Principio rector: No duplicidad en cotizaciones ante alta múltiple comprobada.**"
+      ]
+    },
+    {
+  "PalabraClave": "Retención de cuotas, Pago oportuno, Cotizaciones acumuladas, Responsabilidad patronal, Instituto",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "38",
+  "Texto": "El patrón al efectuar el pago de salarios a sus trabajadores, deberá retener las cuotas que a éstos les corresponde cubrir.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando no lo haga en tiempo oportuno, sólo podrá descontar al trabajador cuatro cotizaciones semanales acumuladas, quedando las restantes a su cargo."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "El patrón tendrá el carácter de retenedor de las cuotas que descuente a sus trabajadores y deberá determinar y enterar al Instituto las cuotas obrero patronales, en los términos establecidos por esta Ley y sus reglamentos."
+    }
+    ],
+  "NotasOrientadoras": [
+    "Este artículo establece la obligación del patrón de retener las cuotas correspondientes al trabajador.",
+    "Si no lo hace oportunamente, solo puede recuperar hasta cuatro semanas; el resto queda a su cargo.",
+    "El patrón actúa como retenedor legal ante el Instituto.",
+    "Debe determinar y enterar las cuotas conforme a la Ley y reglamentos aplicables.",
+    "**Principio rector: Responsabilidad patronal en la retención y entero de cuotas.**"
+      ]
+    },
+  {
+    "Artículo": "39",
+    "Ley": "Ley del Seguro Social",
+    "Texto": "Las cuotas obrero patronales se causan por mensualidades vencidas y el patrón está obligado a determinar sus importes en los formatos impresos o usando el programa informático, autorizado por el Instituto. Asimismo, el patrón deberá presentar ante el Instituto las cédulas de determinación de cuotas del mes de que se trate, y realizar el pago respectivo, a más tardar el día diecisiete del mes inmediato siguiente.",
+    "PalabraClave": "cuotas obrero patronales determinación pago",
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "La obligación de determinar las cuotas deberá cumplirse aun en el supuesto de que no se realice el pago correspondiente dentro del plazo señalado en el párrafo anterior."
+      }
+    ],
+    "NotasOrientadoras": [
+      "Este artículo establece la obligación patronal de determinar y pagar cuotas.",
+      "El Instituto autoriza formatos impresos o digitales para cumplir con esta obligación.",
+      "El plazo límite para el pago es el día 17 del mes siguiente.",
+      "El párrafo 2 aclara que la determinación es obligatoria incluso si no se paga a tiempo.",
+      "Principio rector: Cumplimiento fiscal y responsabilidad patronal."
+    ]
+  },
+  {
+    "Artículo": "39 A",
+    "Ley": "Ley del Seguro Social",
+    "Texto": "Sin perjuicio de lo dispuesto en el primer párrafo del artículo 39, el Instituto, en apoyo a los patrones, podrá entregar una propuesta de cédula de determinación, elaborada con los datos con que cuente de los movimientos afiliatorios comunicados al Instituto por los propios patrones y, en su caso, por sus trabajadores en los términos de la presente Ley.",
+    "PalabraClave": "propuesta cédula determinación medios digitales",
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "La propuesta a que se refiere el párrafo anterior podrá ser entregada por el Instituto en documento impreso, o bien, previa solicitud por escrito del patrón o su representante legal, en medios magnéticos, digitales, electrónicos o de cualquier otra naturaleza."
+      },
+      {
+        "Párrafo": "3",
+        "Texto": "En el caso de los patrones que reciban la propuesta a través de medios magnéticos, digitales, electrónicos, ópticos, magneto óptico o de cualquier otra naturaleza, y opten por usarla para cumplir con su obligación fiscal, invariablemente, para efectos de pago, deberán utilizar el programa informático previamente autorizado por el Instituto, a que se refiere el artículo 39."
+      },
+      {
+        "Párrafo": "4",
+        "Texto": "Cuando los patrones opten por usar la propuesta en documento impreso para cumplir la obligación fiscal a su cargo, bastará con que la presenten y efectúen el pago de la misma en la oficina autorizada por el Instituto, dentro del plazo señalado en el artículo 39 de esta Ley."
+      }
+    ],
+    "NotasOrientadoras": [
+      "Este artículo permite al Instituto generar propuestas de cédulas para apoyar a los patrones.",
+      "La propuesta puede entregarse en formato impreso o digital, previa solicitud.",
+      "El uso de medios digitales exige el programa autorizado por el Instituto.",
+      "El párrafo 4 simplifica el proceso si se usa la propuesta impresa.",
+      "Principio rector: Facilitación administrativa y cumplimiento asistido."
+    ]
+    },
+    {
+    "Artículo": "39 B",
+    "Ley": "Ley del Seguro Social",
+    "Texto": "Las cédulas de determinación presentadas al Instituto por el patrón, tendrán para éste el carácter de acto vinculatorio.",
+    "PalabraClave": "cédula determinación acto vinculatorio",
+    "NotasOrientadoras": [
+      "Este artículo otorga carácter vinculante a las cédulas presentadas por el patrón.",
+      "Implica que el patrón reconoce formalmente los datos contenidos en la cédula.",
+      "Refuerza la responsabilidad del patrón en la autodeclaración de cuotas.",
+      "El Instituto puede tomar la cédula como base para fiscalización posterior.",
+      "Principio rector: Vinculación jurídica por declaración voluntaria."
+    ]
+  },
+  {
+    "Artículo": "39 C",
+    "Ley": "Ley del Seguro Social",
+    "Texto": "En el caso en que el patrón o sujeto obligado no cubra oportunamente el importe de las cuotas obrero patronales o lo haga en forma incorrecta, el Instituto podrá determinarlas presuntivamente y fijarlas en cantidad líquida, con base en los datos con que cuente o con apoyo en los hechos que conozca con motivo del ejercicio de las facultades de comprobación de que goza como autoridad fiscal o bien a través de los expedientes o documentos proporcionados por otras autoridades fiscales. Esta determinación deberá considerar tanto los saldos a favor del Instituto como los que pudiera haber a favor del patrón debido a errores en lo presentado por este último.",
+    "PalabraClave": "determinación presuntiva cuotas comprobación fiscal",
+    "NotasOrientadoras": [
+      "Este artículo faculta al Instituto para determinar cuotas presuntivamente.",
+      "La determinación se basa en datos propios o proporcionados por otras autoridades.",
+      "Se contempla tanto lo adeudado como posibles saldos a favor del patrón.",
+      "Aplica cuando hay omisión o errores en el pago de cuotas.",
+      "Principio rector: Equidad fiscal y facultad de comprobación."
+    ]
+  },
+  {
+    "Artículo": "39 D",
+    "Ley": "Ley del Seguro Social",
+    "Texto": "Respecto de las cédulas de liquidación emitidas por el Instituto en el supuesto señalado en el segundo párrafo del artículo anterior, el patrón podrá, dentro de los cinco días hábiles siguientes a la fecha en que surta sus efectos la notificación, formular aclaraciones ante la oficina que corresponda a su registro patronal, las que deberán estar debidamente sustentadas y sólo podrán versar sobre errores aritméticos, mecanográficos, avisos afiliatorios presentados previamente por el patrón al Instituto, certificados de incapacidad expedidos por éste o situaciones de hecho que no impliquen una controversia jurídica.",
+    "PalabraClave": "aclaración administrativa cédula liquidación errores",
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "La aclaración administrativa en ningún caso suspenderá o interrumpirá el plazo establecido para efectuar el pago hasta por la suma reconocida. El Instituto contará con veinte días hábiles para resolver la aclaración administrativa que presente el patrón. Si transcurrido este plazo no se resolviera la aclaración, se suspenderá la cuenta de días hábiles señalada en el párrafo anterior."
+      }
+    ],
+    "NotasOrientadoras": [
+      "Este artículo regula el procedimiento de aclaración administrativa ante el IMSS.",
+      "Las aclaraciones deben versar sobre errores técnicos o situaciones no jurídicas.",
+      "El plazo para presentar aclaraciones es de cinco días hábiles tras la notificación.",
+      "El párrafo 2 establece que el pago no se suspende y fija plazos para resolver.",
+      "Principio rector: Derecho de aclaración sin suspensión de obligaciones."
+    ]
+    },
+    {
+  "Artículo": "40",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "Las cédulas de liquidación emitidas por el Instituto por concepto de cuotas, capitales constitutivos, actualización, recargos o multas, serán notificadas a los patrones personalmente, en los términos establecidos en el Código. El Instituto podrá optar, a solicitud del patrón, por realizar las notificaciones a través de medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza en los términos del Código, en cuyo caso, en sustitución de la firma autógrafa se emplearán medios de identificación electrónica, y producirán los mismos efectos que la notificación firmada autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones legales aplicables otorgan a ésta.",
+  "PalabraClave": "notificación electrónica cédula liquidación firma digital",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Para el efecto de las notificaciones de las cédulas de liquidación por transmisión electrónica, los patrones y sujetos obligados deberán proporcionar por escrito a través de un representante legal, ante la oficina que corresponda a su registro patronal, su correo electrónico, así como cualquier modificación del mismo. Además, deberán remitir un acuse de recibo electrónico que acredite la fecha y hora de la notificación, a falta de éste, se entenderá que la notificación se realizó el día en que la envió el Instituto."
+    }
+    ],
+  "NotasOrientadoras": [
+    "Este artículo regula la forma en que el Instituto notifica las cédulas de liquidación.",
+    "Se permite la notificación electrónica con efectos jurídicos equivalentes a la firma autógrafa.",
+    "El patrón debe registrar su correo electrónico y mantenerlo actualizado.",
+    "El acuse de recibo electrónico acredita la fecha de notificación; si falta, se presume la fecha de envío.",
+    "Principio rector: Equivalencia probatoria y modernización administrativa."
+    ]
+    }
+
+]

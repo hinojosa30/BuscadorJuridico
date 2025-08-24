@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Buscador Jurídico Modular</title>
+
+  <!-- Tipografía profesional -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+<link rel="manifest" href="manifest.json" />
+<link rel="icon" href="icon-192.png" type="image/png" />
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+
+<style>
+  /* Reset y estructura base */
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    background-color: #d8caa5;
+    background-image: url('Copilot_20250824_150021.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed ;
+    color: #0c0c0c;
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 0.2px;
+    padding: 24px;
+  }
+
+  main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px;
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 12px;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+  }
+
+
+  h1, h2 {
+  color: #3a2f1f; /* Tono más cálido y serio */
+  font-weight: 600;
+  }
+  #resultados h3 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.fraccion {
+  margin-top: 0.75rem;
+  font-weight: 500;
+  color: #374151;
+}
+
+
+.label {
+  color: #5a3a2d;
+  font-weight: 600;
+}
+
+
+  input, select, button {
+    font-size: 16px;
+    padding: 10px 14px;
+    border-radius: 6px;
+    border: 1px solid #706d4c;
+    background-color: #a6a273;
+    color: #222;
+    transition: all 0.2s ease;
+  }
+
+  input:focus, select:focus, button:focus {
+    outline: none;
+    border-color: #888;
+    box-shadow: 0 0 4px rgba(0,0,0,0.1);
+  }
+
+  button {
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+    border-radius: 6px;
+  }
+
+  button:hover {
+    background-color: #dcdcdc;
+  }
+
+  #sugerencias-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+  }
+
+  .sugerencia {
+    background-color: rgba(115, 128, 80, 0.85);
+    backdrop-filter: blur(4px);
+    border: 1px solid #121212;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-size: 15px;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+    opacity: 0;
+    transform: scale(0.95);
+    animation: fadeIn 0.3s ease forwards;
+    animation-delay: calc(var(--index) * 0.2s);
+  }
+
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  #resultados.loading::before {
+    content: "Cargando...";
+    display: block;
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+    color: #666;
+    animation: pulse 1.5s infinite;
+  }
+
+  @keyframes pulse {
+    0% { opacity: 0.6; }
+    50% { opacity: 1; }
+    100% { opacity: 0.6; }
+  }
+
+  .sugerencia:hover {
+    background-color: #f0f0f0;
+    transform: scale(1.03);
+  }
+
+  .card {
+  background-color: #d8caa5; /* Menos opaco */
+  backdrop-filter: blur(8px);                 /* Más difuminado */
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 10px #d8caa5;     /* Sombra más suave */
+  }
+
+  .label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 500;
+    color: #444;
+  }
+
+  .section {
+    margin-bottom: 32px;
+  }
+
+  .resultado {
+    margin: 12px 20px;
+    padding: 12px 16px;
+    border-radius: 12px;
+    background-color: rgba(202, 206, 166, 0.95);
+    max-width: 80%;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    opacity: 0;
+    transform: translateY(20px);
+    animation: slideIn 0.5s ease forwards;
+    animation-delay: calc(var(--index) * 0.1s);
+  }
+
+#nota-orientadora {
+  background-color: transparent;
+  border-left: 4px solid #f59e0b;
+  color: #1f2937;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05); /* Línea divisoria suave */
+  font-style: italic;
+  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;;
+}
+#buscador {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  }
+
+  @keyframes slideIn {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
+
+</head>
+<body>
+
+  <div id="nota-orientadora">
+    ⚠️ Este buscador es orientador. Verifica siempre la ley correspondiente para confirmar la información.
+  </div>
+
+  <div class="buscador">
+    <div class="buscador-superior">
+      <select id="materia" onchange="cargarMateria()">
+        <option value="">⚖️ Selecciona materia</option>
+        <option value="BDDpenal.json">⚔️ Código Nacional de Procedimientos Penales</option>
+        <option value="BDDcodigoFiscal.json">💰 Código Fiscal de la Federación</option>
+        <option value="BDDLeyFederalDelTrab.json">💼 LFT</option>
+        <option value="BDDLeyISR.json">📊 LISR</option>
+        <option value="BDDCodigoNPCyF.json">🧑‍⚖️ CNPCyF</option>
+        <option value="BDDLIVA.json">💸 LIVA</option>
+        <option value="BDDLeyDelSeguroSocial">🛡️ LSS</option>
+        <option value="BDDLeyFederalDeDerechosCont.json">🧾 Derechos del Contribuyente</option> 
+      </select>
+      <input type="text" id="criterio" placeholder="Escribe tu palabra clave" />
+      <button onclick="buscar()">Buscar</button>
+      <button onclick="borrar()">Borrar</button>
+    </div>
+
+    <div id="sugerencias-container"></div>
+    <div id="resultados"></div>
+  </div>
+
+  <script>
+    let baseLegal = [];
+    let fuse;
+
+    const diccionario = [
+      { entrada: "detencion", sugerencia: "detención" },
+      { entrada: "acusatorio", sugerencia: "proceso penal" },
+      { entrada: "trabajo", sugerencia: "relación laboral" }
+    ];
+
+    function cargarMateria() {
+      const materia = document.getElementById("materia").value;
+      if (!materia) return;
+
+      fetch(`materias/${materia}`)
+        .then(response => response.json())
+        .then(data => {
+          baseLegal = data;
+          fuse = new Fuse(baseLegal, {
+            keys: [
+              "PalabraClave",
+              "Texto",
+              "Fracciones.Texto",
+              "Fracciones.Incisos.Texto",
+              "Párrafos.Texto",
+              "NotasOrientadoras"
+            ],
+            threshold: 0.3,
+            ignoreLocation: true,
+            includeScore: true
+          });
+
+          borrar();
+        })
+        .catch(error => {
+          console.error("Error al cargar JSON:", error);
+          alert("No se pudo cargar la materia seleccionada.");
+        });
+    }
+
+    function buscar() {
+      const criterio = document.getElementById("criterio").value.trim().toLowerCase();
+      const contenedor = document.getElementById("resultados");
+      contenedor.innerHTML = "";
+
+      if (!criterio || !fuse) return;
+
+      const resultados = fuse.search(criterio).map(r => r.item);
+
+      if (resultados.length > 0) {
+        resultados.forEach((item, index) => {
+          let html = `
+            <div class="resultado" style= "--index: ${index};">  
+              <strong>Resultado ${index + 1}:</strong><br>
+              <strong>Artículo:</strong> ${item.Artículo}<br>
+              <strong>Ley:</strong> ${item.Ley}<br>
+              <strong>Texto:</strong> ${item.Texto}<br><br>
+          `;
+
+          if (item.Fracciones) {
+            item.Fracciones.forEach(frac => {
+              html += `<div style="margin-left: 20px;"><strong>Fracción ${frac.Fracción}:</strong><br>${frac.Texto}<br><br>`;
+              if (frac.Incisos) {
+                frac.Incisos.forEach(inc => {
+                  html += `<div style="margin-left: 40px;"><strong>Inciso ${inc.Inciso}:</strong><br>${inc.Texto}<br><br></div>`;
+                });
+              }
+              html += `</div>`;
+            });
+          }
+
+          if (item.Párrafos) {
+            item.Párrafos.forEach(par => {
+              html += `<div style="margin-left: 20px;"><strong>Párrafo ${par.Párrafo}:</strong><br>${par.Texto}<br><br></div>`;
+            });
+          }
+
+          if (item.NotasOrientadoras && item.NotasOrientadoras.length > 0) {
+            html += `<div style="margin-top: 10px; margin-left: 20px;">`;
+            item.NotasOrientadoras.forEach((nota, i) => {
+              html += `
+                <div style="background-color: #fef6e4; border-left: 4px solid #f4a261; padding: 8px; margin-bottom: 6px; border-radius: 6px;">
+                <strong>Nota ${i + 1}:</strong> ${nota}
+                </div>
+              `;
+            });
+            html += `</div>`;
+          } else {
+            html += `
+              <div style="margin-top: 10px; margin-left: 20px;">
+              <div style="background-color: #fef6e4; border-left: 4px solid #ccc; padding: 8px; margin-bottom: 6px; border-radius: 6px;">
+              <strong>Nota:</strong> Este artículo no contiene orientación adicional.
+              </div>
+              </div>
+            `;
+          }
+
+          html += `</div>`;
+          contenedor
+                    html += `</div>`;
+          contenedor.innerHTML += html;
+        });
+      } else {
+        const sugerencia = diccionario.find(item => item.entrada === criterio);
+        if (sugerencia) {
+          alert(`¿Quizás quisiste decir: ${sugerencia.sugerencia}?`);
+        } else {
+          alert("No se encontraron resultados.");
+        }
+      }
+    }
+
+    function borrar() {
+      document.getElementById("criterio").value = "";
+      document.getElementById("resultados").innerHTML = "";
+      document.getElementById("sugerencias-container").innerHTML = "";
+    }
+
+    document.getElementById("criterio").addEventListener("input", function () {
+      const entrada = this.value.trim().toLowerCase();
+      const sugerenciasContainer = document.getElementById("sugerencias-container");
+      sugerenciasContainer.innerHTML = "";
+
+      if (entrada.length < 2 || !fuse) return;
+
+      const sugerencias = fuse.search(entrada, { limit: 5 }).map(r => r.item.PalabraClave);
+      const unicas = [...new Set(sugerencias)];
+
+      unicas.forEach((sugerencia, index) => {
+  const div = document.createElement("div");
+  div.textContent = sugerencia;
+  div.className = "sugerencia";
+  div.style.setProperty('--index', index);
+  div.onclick = () => {
+    document.getElementById("criterio").value = sugerencia;
+    sugerenciasContainer.innerHTML = "";
+    buscar();
+  };
+  sugerenciasContainer.appendChild(div);
+});
+    });
+    function toggleModo() {
+      const body = document.body;
+      const boton = document.getElementById("modo-toggle");
+
+      body.classList.toggle("modo-nocturno");
+
+      // Cambia el ícono dinámicamente
+      if (body.classList.contains("modo-nocturno")) {
+        boton.textContent = "☀️ Modo claro";
+      } else {
+        boton.textContent = "🌙 Modo nocturno";
+      }
+    }
+  </script>
+
+</body>
+</html>
+
+
+
+
+
+
+

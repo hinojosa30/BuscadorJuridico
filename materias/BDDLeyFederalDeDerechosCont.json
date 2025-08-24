@@ -1,0 +1,416 @@
+[
+    {
+  "Artículo": "2",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Son derechos generales de los contribuyentes los siguientes:",
+  "PalabraClave": "derechos contribuyente",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Derecho a ser informado y asistido por las autoridades fiscales en el cumplimiento de sus obligaciones tributarias, así como del contenido y alcance de las mismas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Derecho a obtener, en su beneficio, las devoluciones de impuestos que procedan en términos del Código Fiscal de la Federación y de las leyes fiscales aplicables."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Derecho a conocer el estado de tramitación de los procedimientos en los que sea parte."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Derecho a conocer la identidad de las autoridades fiscales bajo cuya responsabilidad se tramiten los procedimientos en los que tengan condición de interesados."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Derecho a obtener certificación y copia de las declaraciones presentadas por el contribuyente, previo el pago de los derechos que en su caso, establezca la Ley."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Derecho a no aportar los documentos que ya se encuentran en poder de la autoridad fiscal actuante."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Derecho al carácter reservado de los datos, informes o antecedentes que de los contribuyentes y terceros con ellos relacionados, conozcan los servidores públicos de la administración tributaria, los cuales sólo podrán ser utilizados de conformidad con lo dispuesto por el artículo 69 del Código Fiscal de la Federación."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Derecho a ser tratado con el debido respeto y consideración por los servidores públicos de la administración tributaria."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Derecho a que las actuaciones de las autoridades fiscales que requieran su intervención se lleven a cabo en la forma que les resulte menos onerosa."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "Derecho a formular alegatos, presentar y ofrecer como pruebas documentos conforme a las disposiciones fiscales aplicables, incluso el expediente administrativo del cual emane el acto impugnado, que serán tenidos en cuenta por los órganos competentes al redactar la correspondiente resolución administrativa."
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "Derecho a ser oído en el trámite administrativo con carácter previo a la emisión de la resolución determinante del crédito fiscal, en los términos de las leyes respectivas."
+    },
+    {
+      "Fracción": "XII",
+      "Texto": "Derecho a ser informado, al inicio de las facultades de comprobación de las autoridades fiscales, sobre sus derechos y obligaciones en el curso de tales actuaciones y a que éstas se desarrollen en los plazos previstos en las leyes fiscales."
+    },
+    {
+      "Fracción": "XIII",
+      "Texto": "Derecho a corregir su situación fiscal con motivo del ejercicio de las facultades de comprobación que lleven a cabo las autoridades fiscales."
+    },
+    {
+      "Fracción": "XIV",
+      "Texto": "Derecho a señalar en el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa, como domicilio para recibir notificaciones, el ubicado en cualquier parte del territorio nacional, salvo cuando tenga su domicilio dentro de la jurisdicción de la Sala competente de dicho Tribunal, en cuyo caso el señalado para recibir notificaciones deberá estar ubicado dentro de la circunscripción territorial de la Sala."
+    }
+    ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo enumera los derechos generales que protegen al contribuyente frente a la autoridad fiscal.",
+    "Incluye derechos de información, devolución, respeto, confidencialidad y defensa administrativa.",
+    "La fracción X permite presentar alegatos y documentos como prueba en procedimientos fiscales.",
+    "La fracción XIV garantiza flexibilidad territorial para recibir notificaciones en juicio.",
+    "Principio rector: Seguridad jurídica y trato digno en la relación fiscal."
+        ]
+    },
+    {
+  "Artículo": "3",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Los contribuyentes podrán acceder a los registros y documentos que formando parte de un expediente abierto a su nombre, obren en los archivos administrativos, siempre que tales expedientes correspondan a procedimientos terminados en la fecha de la solicitud, respetando en todo caso lo dispuesto por el artículo 69 del Código Fiscal de la Federación.",
+  "PalabraClave": "acceso a expediente de documentos personales",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo garantiza el acceso del contribuyente a documentos de procedimientos concluidos.",
+    "La solicitud debe referirse a expedientes terminados en la fecha en que se presenta.",
+    "Se respeta la reserva de información conforme al artículo 69 del Código Fiscal de la Federación.",
+    "Aplica únicamente a expedientes abiertos a nombre del contribuyente.",
+    "Principio rector: Transparencia y acceso a la información fiscal."
+    ]
+    },
+    {
+  "Artículo": "4",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Los servidores públicos de la administración tributaria facilitarán en todo momento al contribuyente el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
+  "PalabraClave": "facilitación con la autoridad",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Las actuaciones de las autoridades fiscales que requieran la intervención de los contribuyentes deberán de llevarse a cabo en la forma que resulte menos gravosa para éstos, siempre que ello no perjudique el cumplimiento de sus obligaciones tributarias."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece el deber de la autoridad de facilitar el cumplimiento tributario.",
+    "El segundo párrafo protege al contribuyente frente a cargas innecesarias en procedimientos fiscales.",
+    "Se busca un equilibrio entre eficiencia administrativa y respeto al contribuyente.",
+    "La forma menos gravosa no debe comprometer el cumplimiento de las obligaciones fiscales.",
+    "Principio rector: Proporcionalidad y trato justo en la actuación fiscal."
+      ] 
+    },
+    {
+  "Artículo": "5",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Las autoridades fiscales deberán prestar a los contribuyentes la necesaria asistencia e información acerca de sus derechos y obligaciones en materia fiscal. Asimismo y sin perjuicio de lo que dispone el Artículo 33 del Código Fiscal de la Federación, las autoridades fiscales deberán publicar los textos actualizados de las normas tributarias en sus páginas de Internet, así como contestar en forma oportuna las consultas tributarias.",
+  "PalabraClave": "asistencia, información, publicación, consultas",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo obliga a las autoridades fiscales a asistir e informar al contribuyente.",
+    "Se establece el deber de publicar normas tributarias actualizadas en línea.",
+    "Las consultas tributarias deben ser atendidas oportunamente.",
+    "Se vincula con el artículo 33 del Código Fiscal de la Federación.",
+    "Principio rector: Accesibilidad y transparencia normativa."
+    ]
+    },
+    {
+  "Artículo": "6",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Las autoridades fiscales realizarán campañas de difusión a través de medios masivos de comunicación, para fomentar y generar en la población mexicana la cultura contributiva y divulgar los derechos del contribuyente.",
+  "PalabraClave": "difusión, cultura contributiva, comunicación, divulgación",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo promueve la cultura contributiva mediante campañas públicas.",
+    "Se busca informar a la población sobre sus derechos fiscales.",
+    "Las campañas deben usar medios masivos de comunicación.",
+    "Contribuye a la educación fiscal nacional.",
+    "Principio rector: Promoción activa de la conciencia fiscal."
+     ]
+    },
+    {
+  "Artículo": "7",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Las autoridades fiscales tendrán la obligación de publicar periódicamente instructivos de tiraje masivo y comprensión accesible, donde se den a conocer a los contribuyentes, de manera clara y explicativa, las diversas formas de pago de las contribuciones. Las autoridades fiscales, el Tribunal Federal de Justicia Fiscal y Administrativa, así como los órganos jurisdiccionales del Poder Judicial de la Federación que tengan competencia en materia fiscal, deberán suministrar, a petición de los interesados, el texto de las resoluciones recaídas a consultas y las sentencias judiciales, de conformidad con lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.",
+  "PalabraClave": "instructivos, formas de pago",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Se exige publicación periódica de instructivos claros sobre formas de pago.",
+    "La información debe ser accesible y comprensible para todos los contribuyentes.",
+    "Se garantiza el acceso a resoluciones y sentencias fiscales bajo solicitud.",
+    "Se vincula con la Ley Federal de Transparencia y Acceso a la Información.",
+    "Principio rector: Claridad informativa y acceso legal garantizado."
+    ]
+    },
+    {
+  "Artículo": "8",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Las autoridades fiscales mantendrán oficinas en diversos lugares del territorio nacional para orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones fiscales, facilitando, además, la consulta a la información que dichas autoridades tengan en sus páginas de Internet.",
+  "PalabraClave": "oficinas, orientación, consulta, obligaciones, información digital",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece la presencia territorial de oficinas fiscales.",
+    "Las oficinas deben orientar y auxiliar al contribuyente.",
+    "Se facilita el acceso a información fiscal en línea.",
+    "Refuerza el vínculo entre atención presencial y digital.",
+    "Principio rector: Accesibilidad territorial y digital."
+      ]
+    },
+    {
+  "Artículo": "9",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Sin perjuicio de lo establecido en el Código Fiscal de la Federación, los contribuyentes podrán formular a las autoridades fiscales consultas sobre el tratamiento fiscal aplicable a situaciones reales y concretas. Las autoridades fiscales deberán contestar por escrito las consultas así formuladas en un plazo máximo de tres meses.",
+  "PalabraClave": "consultas, tratamiento fiscal, situaciones reales, respuesta escrita, plazo",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite consultas sobre casos fiscales específicos.",
+    "Las autoridades deben responder por escrito en un plazo máximo de tres meses.",
+    "Se garantiza certeza jurídica en situaciones concretas.",
+    "Complementa lo dispuesto en el Código Fiscal de la Federación.",
+    "Principio rector: Claridad y previsibilidad en la interpretación fiscal."
+      ]
+    },
+    {
+  "Artículo": "10",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Respetando la confidencialidad de los datos individuales, el Servicio de Administración Tributaria informará al Instituto Nacional de Estadística, Geografía e Informática los datos estadísticos agregados sobre el ingreso, impuestos, deducciones y otros datos relevantes de los contribuyentes.",
+  "PalabraClave": "confidencialidad, estadística, ingreso, impuestos, deducciones",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite compartir datos agregados con fines estadísticos.",
+    "Se garantiza la confidencialidad de los datos individuales.",
+    "El SAT colabora con el INEGI para fines informativos.",
+    "No se compromete la privacidad fiscal del contribuyente.",
+    "Principio rector: Protección de datos y utilidad pública."
+    ]
+    },
+    {
+  "Artículo": "11",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Para estimular la obligación legal de los contribuyentes de entregar comprobantes fiscales por las operaciones que realicen, las autoridades fiscales organizarán loterías fiscales en las que, con diversos premios, participarán las personas que hayan obtenido los comprobantes fiscales respectivos. Las loterías fiscales se podrán organizar tomando en cuenta los medios de pago, diversos al efectivo, que reciban los contribuyentes.",
+  "PalabraClave": "comprobantes, loterías fiscales, premios, medios de pago, estímulo",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo promueve el uso de comprobantes fiscales mediante incentivos.",
+    "Las loterías fiscales buscan estimular el cumplimiento voluntario.",
+    "Se consideran medios de pago distintos al efectivo.",
+    "La participación está ligada a la obtención de comprobantes válidos.",
+    "Principio rector: Fomento del cumplimiento mediante incentivos."
+    ]
+    },
+    {
+  "Artículo": "12",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Los contribuyentes tendrán derecho a ser informados, al inicio de cualquier actuación de la autoridad fiscal, para comprobar el cumplimiento de las obligaciones fiscales, de sus derechos y obligaciones en el curso de tales actuaciones.",
+  "PalabraClave": "información, inicio, actuaciones, derechos, obligaciones",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo garantiza el derecho a ser informado desde el inicio.",
+    "Aplica a cualquier actuación fiscal de comprobación.",
+    "Incluye tanto derechos como obligaciones del contribuyente.",
+    "Refuerza la transparencia en el proceso fiscal.",
+    "Principio rector: Notificación oportuna y claridad procedimental."
+      ]
+    },
+    {
+  "Artículo": "13",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Cuando las autoridades fiscales ejerzan sus facultades para comprobar el cumplimiento de las obligaciones fiscales previstas en las fracciones II y III del artículo 42 del Código Fiscal de la Federación, deberán informar al contribuyente con el primer acto que implique el inicio de esas facultades, el derecho que tiene para corregir su situación fiscal y los beneficios de ejercer el derecho mencionado.",
+  "PalabraClave": "corrección, facultades, primer acto, beneficios, artículo 42",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo activa el derecho a corregir desde el primer acto fiscal.",
+    "Se vincula con las fracciones II y III del artículo 42 del CFF.",
+    "La autoridad debe informar sobre los beneficios de corregir.",
+    "Refuerza la oportunidad de regularización voluntaria.",
+    "Principio rector: Prevención y corrección anticipada."
+    ]
+    },
+    {
+  "Artículo": "14",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Para los efectos de lo dispuesto en la fracción XIII del artículo 2o. de la presente Ley, los contribuyentes tendrán derecho a corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de la declaración normal o complementaria que, en su caso, corresponda, de conformidad con lo dispuesto en el Código Fiscal de la Federación.",
+  "PalabraClave": "corrección, declaración, normal, complementaria, revisión",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo detalla el mecanismo de corrección fiscal.",
+    "Se permite presentar declaración normal o complementaria.",
+    "Aplica a todas las contribuciones objeto de revisión.",
+    "Se vincula con la fracción XIII del artículo 2º.",
+    "Principio rector: Regularización voluntaria conforme a ley."
+      ]
+    },
+    {
+  "Artículo": "15",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Los contribuyentes deberán entregar a la autoridad revisora, una copia de la declaración de corrección que hayan presentado. Dicha situación deberá ser consignada en una acta parcial cuando se trate de visitas domiciliarias; en los demás casos, incluso cuando haya concluido una visita domiciliaria, la autoridad revisora en un plazo máximo de diez días contados a partir de la entrega, deberá comunicar al contribuyente mediante oficio haber recibido la declaración de corrección, sin que dicha comunicación implique la aceptación de la corrección presentada por el contribuyente.",
+  "PalabraClave": "declaración, corrección, entrega, acta parcial, oficio",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula la entrega formal de la declaración de corrección.",
+    "Se exige acuse de recibo mediante oficio en un plazo de diez días.",
+    "La comunicación no implica aceptación automática de la corrección.",
+    "En visitas domiciliarias, debe constar en acta parcial.",
+    "Principio rector: Formalidad y trazabilidad en la corrección fiscal."
+     ]
+    },
+    {
+  "Artículo": "16",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Cuando durante el ejercicio de las facultades de comprobación de las autoridades fiscales, los contribuyentes corrijan su situación fiscal y haya transcurrido al menos, un plazo de tres meses contados a partir del inicio del ejercicio de dichas facultades, se dará por concluida la visita domiciliaria o la revisión de que se trate, si a juicio de las autoridades fiscales y conforme a la investigación realizada, se desprende que el contribuyente ha corregido en su totalidad las obligaciones fiscales por las que se ejercieron las facultades de comprobación y por el período objeto de revisión. En el supuesto mencionado, se hará constar la corrección fiscal mediante oficio que se hará del conocimiento del contribuyente y la conclusión de la visita domiciliaria o revisión de que se trate.",
+  "PalabraClave": "corrección total, facultades, visita domiciliaria, oficio, conclusión",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite concluir la revisión si hay corrección total.",
+    "Debe transcurrir al menos tres meses desde el inicio de facultades.",
+    "La autoridad debe emitir oficio de conclusión y corrección.",
+    "Aplica a visitas domiciliarias y revisiones fiscales.",
+    "Principio rector: Finalización anticipada por cumplimiento voluntario."
+      ]
+    },
+    {
+  "Artículo": "17",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Los contribuyentes que corrijan su situación fiscal, pagarán una multa equivalente al 20% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones a que se refiere la fracción VI del artículo 48 del Código Fiscal de la Federación, según sea el caso.",
+  "PalabraClave": "multa, corrección, contribuciones omitidas, acta final, oficio de observaciones",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Si el infractor paga las contribuciones omitidas junto con sus accesorios, después de que se notifique el acta final de la visita domiciliaria o el oficio de observaciones, según sea el caso, pero antes de la notificación de la resolución que determine el monto de las contribuciones omitidas, pagará una multa equivalente al 30% de las contribuciones omitidas."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece multas por corrección fiscal según el momento del pago.",
+    "La multa es del 20% si se paga antes del acta final u oficio de observaciones.",
+    "La multa sube al 30% si se paga después del acta final pero antes de la resolución.",
+    "Se vincula con la fracción VI del artículo 48 del Código Fiscal de la Federación.",
+    "Principio rector: Gradualidad sancionatoria por oportunidad de corrección."
+      ] 
+    },
+    {
+  "Artículo": "18",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Las autoridades fiscales contarán con un plazo de seis meses para determinar las contribuciones omitidas que conozcan con motivo del ejercicio de sus facultades de comprobación, sin perjuicio de lo dispuesto en el tercer párrafo del artículo 16 de esta Ley. El cómputo del plazo se realizará a partir de los supuestos a que se refiere el artículo 50 del Código Fiscal de la Federación y le serán aplicables las reglas de suspensión que dicho numeral contempla. Si no lo hacen en dicho lapso, se entenderá de manera definitiva que no existe crédito fiscal alguno a cargo del contribuyente por los hechos, contribuciones y períodos revisados.",
+  "PalabraClave": "plazo, contribuciones omitidas, facultades, suspensión, crédito fiscal",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo fija un plazo de seis meses para determinar contribuciones omitidas.",
+    "Se aplican reglas de cómputo y suspensión del artículo 50 del CFF.",
+    "Si no se determina en ese plazo, se presume que no hay crédito fiscal.",
+    "Se vincula con el tercer párrafo del artículo 16 de esta Ley.",
+    "Principio rector: Certeza temporal en la determinación fiscal."
+      ]
+    },
+    {
+  "Artículo": "19",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Cuando las autoridades fiscales determinen contribuciones omitidas, no podrán llevar a cabo determinaciones adicionales con base en los mismos hechos conocidos en una revisión, pero podrán hacerlo cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros o en la revisión de conceptos específicos que no se hayan revisado con anterioridad; en este último supuesto, la orden por la que se ejerzan las facultades de comprobación deberá estar debidamente motivada con la expresión de los nuevos conceptos a revisar.",
+  "PalabraClave": "determinación, hechos diferentes, revisión, motivación, terceros",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo prohíbe duplicar determinaciones sobre los mismos hechos.",
+    "Permite nuevas determinaciones solo si hay hechos distintos.",
+    "Los hechos diferentes deben estar sustentados en fuentes externas o nuevos conceptos.",
+    "La orden debe estar debidamente motivada y específica.",
+    "Principio rector: No duplicidad y motivación clara en la revisión fiscal."
+     ]
+    },
+    {
+  "Artículo": "20",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Las autoridades fiscales podrán revisar nuevamente los mismos hechos, contribuciones y períodos, por los que se tuvo al contribuyente por corregido de su situación fiscal, o se le determinaron contribuciones omitidas, sin que de dicha revisión pueda derivar crédito fiscal alguno a cargo del contribuyente.",
+  "PalabraClave": "revisión, hechos, contribuciones, corrección, crédito fiscal",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite revisar nuevamente hechos ya corregidos o determinados.",
+    "No puede derivarse nuevo crédito fiscal de esa revisión.",
+    "Protege al contribuyente frente a duplicidad sancionatoria.",
+    "Refuerza la validez de la corrección fiscal previa.",
+    "Principio rector: No repetición sancionatoria por hechos ya corregidos."
+      ]
+    },
+    {
+  "Artículo": "21",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "En todo caso la actuación de los contribuyentes se presume realizada de buena fe, correspondiendo a la autoridad fiscal acreditar que concurren las circunstancias agravantes que señala el Código Fiscal de la Federación en la comisión de infracciones tributarias.",
+  "PalabraClave": "buena fe, presunción, agravantes, infracciones, autoridad fiscal",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece la presunción de buena fe en la actuación del contribuyente.",
+    "La carga de la prueba sobre agravantes recae en la autoridad fiscal.",
+    "Se vincula con el Código Fiscal de la Federación para definir agravantes.",
+    "Protege al contribuyente frente a imputaciones automáticas.",
+    "Principio rector: Presunción de inocencia y equidad procesal."
+      ]
+    },
+    {
+  "Artículo": "22",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Los contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan superado un monto equivalente a treinta veces el salario mínimo general, correspondiente al área geográfica del contribuyente elevado al año, cuando garanticen el interés fiscal mediante embargo en la vía administrativa, deberán ser designados como depositarios de los bienes y el embargo no podrá comprender las mercancías que integren el inventario circulante del negocio, excepto cuando se trate de mercancías de origen extranjero respecto de la cual no se acredite con la documentación correspondiente su legal estancia en el país.",
+  "PalabraClave": "embargo, inventario, depositario, ingresos bajos, mercancías extranjeras",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo protege el inventario circulante de contribuyentes con ingresos bajos.",
+    "El contribuyente debe ser designado como depositario de los bienes embargados.",
+    "Se exceptúan mercancías extranjeras sin documentación legal.",
+    "El monto límite se calcula con base en el salario mínimo anual.",
+    "Principio rector: Proporcionalidad y protección patrimonial mínima."
+      ]
+    },
+    {
+  "Artículo": "23",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "Los contribuyentes tendrán a su alcance los recursos y medios de defensa que procedan, en los términos de las disposiciones legales respectivas, contra los actos dictados por las autoridades fiscales, así como a que en la notificación de dichos actos se indique el recurso o medio de defensa procedente, el plazo para su interposición y el órgano ante el que debe formularse. Cuando en la resolución administrativa se omita el señalamiento de referencia, los contribuyentes contarán con el doble del plazo que establecen las disposiciones legales para interponer el recurso administrativo o el juicio contencioso administrativo.",
+  "PalabraClave": "defensa, recursos, notificación, plazo, resolución administrativa",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo garantiza el acceso a medios de defensa contra actos fiscales.",
+    "La notificación debe incluir recurso procedente, plazo y órgano competente.",
+    "Si se omite esa información, el plazo se duplica para el contribuyente.",
+    "Aplica tanto a recursos administrativos como a juicios contenciosos.",
+    "Principio rector: Derecho de defensa y garantía procesal efectiva."
+      ]
+    },
+    {
+  "Artículo": "24",
+  "Ley": "Ley Federal de los Derechos del Contribuyente",
+  "Texto": "En el recurso administrativo y en el juicio contencioso administrativo ante el Tribunal Federal de Justicia Fiscal y Administrativa, los contribuyentes podrán ofrecer como prueba el expediente administrativo del cual emane el acto impugnado. Éste será el que contenga toda la documentación relacionada con el procedimiento que dio lugar a la resolución impugnada; dicha documentación será la que corresponda al inicio del procedimiento, los actos jurídicos posteriores y a la resolución impugnada. No se incluirá en el expediente administrativo que se envíe, la información que la Ley señale como información reservada o gubernamental confidencial.",
+  "PalabraClave": "expediente, prueba, juicio contencioso, documentación, confidencialidad",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite ofrecer como prueba el expediente administrativo completo.",
+    "Debe incluir documentos desde el inicio del procedimiento hasta la resolución impugnada.",
+    "Se excluye la información reservada o confidencial conforme a la ley.",
+    "Aplica tanto en recursos administrativos como en juicios contenciosos fiscales.",
+    "Principio rector: Derecho a la prueba y acceso transparente al expediente."
+      ]
+    }
+
+
+]

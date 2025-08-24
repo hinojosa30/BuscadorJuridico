@@ -1,0 +1,230 @@
+[
+    {
+  "PalabraClave": "IVA, sujetos obligados, actos gravados, tasa",
+  "Ley": "Ley del Impuesto al Valor Agregado",
+  "Artículo": "1o.",
+  "Texto": "Están obligadas al pago del impuesto al valor agregado establecido en esta Ley, las personas físicas y las morales que, en territorio nacional, realicen los actos o actividades siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Enajenen bienes."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Presten servicios independientes."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Otorguen el uso o goce temporal de bienes."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Importen bienes o servicios."
+    }
+  ],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 16%. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores."
+    },
+    {
+        "Párrafo": "3",
+        "Texto": "El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a las personas que adquieran los bienes, los usen o gocen temporalmente, o reciban los servicios. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas de un montoequivalente al impuesto establecido en esta Ley, inclusive cuando se retenga en los términos de los artículos 1o.-A, 3o., tercer párrafo o 18-J, fracción II, inciso a) de la misma."
+    }   
+  ],
+  "NotasOrientadoras": [
+    "El IVA aplica a personas físicas y morales que realicen actos gravados en territorio nacional.",
+    "Los actos gravados son: enajenación, servicios independientes, uso o goce temporal de bienes e importación.",
+    "La tasa general del IVA es del 16%, aplicada sobre los valores establecidos en la ley.",
+    "El IVA no se incluye dentro del valor del bien o servicio, se calcula por separado."
+      ]
+    },
+    {
+  "PalabraClave": "Retención, sustitución fiscal, contribuyentes, pago, entero",
+  "Ley": "Ley del Impuesto al Valor Agregado",
+  "Artículo": "1o.-A",
+  "Texto": "Están obligados a efectuar la retención del impuesto que se les traslade, los contribuyentes que se ubiquen en alguno de los siguientes supuestos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Sean instituciones de crédito que adquieran bienes mediante dación en pago o adjudicación judicial o fiduciaria."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Sean personas morales que:",
+      "Incisos": [
+        {
+          "Inciso": "a)",
+          "Texto": "Reciban servicios personales independientes, o usen o gocen temporalmente bienes, prestados u otorgados por personas físicas, respectivamente."
+        },
+        {
+          "Inciso": "b)",
+          "Texto": "Adquieran desperdicios para ser utilizados como insumo de su actividad industrial o para su comercialización."
+        },
+        {
+          "Inciso": "c)",
+          "Texto": "Reciban servicios de autotransporte terrestre de bienes, prestados por personas físicas o morales."
+        },
+        {
+          "Inciso": "d)",
+          "Texto": "Reciban servicios prestados por comisionistas, cuando éstos sean personas físicas."
+        }
+      ]
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Sean personas físicas o morales que adquieran bienes tangibles, o los usen o gocen temporalmente, que enajenen u otorguen residentes en el extranjero sin establecimiento permanente en el país."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "(Se deroga)."
+    }
+  ],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "No efectuarán la retención a que se refiere este artículo las personas físicas o morales que estén obligadas al pago del impuesto exclusivamente por la importación de bienes."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Quienes efectúen la retención a que se refiere este artículo sustituirán al enajenante, prestador de servicio u otorgante del uso o goce temporal de bienes en la obligación de pago y entero del impuesto."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "El retenedor efectuará la retención del impuesto en el momento en el que pague el precio o la contraprestación y sobre el monto de lo efectivamente pagado y lo enterará mediante declaración en las oficinas autorizadas, conjuntamente con el pago del impuesto correspondiente al mes en el cual se efectúe la retención o, en su defecto, a más tardar el día 17 del mes siguiente a aquél en el que hubiese efectuado la retención, sin que contra el entero de la retención pueda realizarse acreditamiento, compensación o disminución alguna."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece quiénes deben retener el IVA que se les traslade.",
+    "La retención aplica en operaciones específicas: servicios de personas físicas, adquisición de desperdicios, autotransporte, comisionistas y operaciones con residentes en el extranjero.",
+    "No aplica retención si el contribuyente sólo paga IVA por importación.",
+    "El retenedor sustituye al proveedor en la obligación de pago y entero del impuesto.",
+    "La retención se realiza al momento del pago y debe enterarse a más tardar el día 17 del mes siguiente.",
+    "No se permite acreditar, compensar ni disminuir el monto retenido."
+    ]
+    },
+    {
+  "PalabraClave": "Cobro efectivo, contraprestación, cheque, títulos de crédito, IVA",
+  "Ley": "Ley del Impuesto al Valor Agregado",
+  "Artículo": "1o.-B",
+  "Texto": "Para los efectos de esta Ley se consideran efectivamente cobradas las contraprestaciones cuando se reciban en efectivo, en bienes o en servicios, aun cuando aquéllas correspondan a anticipos, depósitos o a cualquier otro concepto sin importar el nombre con el que se les designe, o bien, cuando el interés del acreedor queda satisfecho mediante cualquier forma de extinción de las obligaciones que den lugar a las contraprestaciones.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando el precio o contraprestación pactados por la enajenación de bienes, la prestación de servicios o el otorgamiento del uso o goce temporal de bienes se pague mediante cheque, se considera que el valor de la operación, así como el impuesto al valor agregado trasladado correspondiente, fueron efectivamente pagados en la fecha de cobro del mismo o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Se presume que los títulos de crédito distintos al cheque suscritos a favor de los contribuyentes, por quien adquiere el bien, recibe el servicio o usa o goza temporalmente el bien, constituye una garantía del pago del precio o la contraprestación pactados, así como del impuesto al valor agregado correspondiente a la operación de que se trate. En estos casos se entenderán recibidos ambos conceptos por los contribuyentes cuando efectivamente los cobren, o cuando los contribuyentes transmitan a un tercero los documentos pendientes de cobro, excepto cuando dicha transmisión sea en procuración."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El cobro efectivo incluye pagos en dinero, bienes, servicios o extinción de obligaciones.",
+    "Los cheques se consideran cobrados cuando se hacen efectivos o se transmiten, salvo procuración.",
+    "Títulos de crédito distintos al cheque se presumen como garantía de pago, y se consideran cobrados cuando se hacen efectivos o se transmiten, salvo procuración.",
+    "Este artículo define el momento fiscal en que se genera la obligación de pago del IVA."
+      ]
+    },
+    {
+  "PalabraClave": "IVA, factoraje financiero, transmisión de documentos, contraprestación",
+  "Ley": "Ley del Impuesto al Valor Agregado",
+  "Artículo": "1o.-C",
+  "Texto": "Los contribuyentes que transmitan documentos pendientes de cobro mediante una operación de factoraje financiero, considerarán que reciben la contraprestación pactada, así como el impuesto al valor agregado correspondiente a la actividad que dio lugar a la emisión de dichos documentos, en el momento en el que transmitan los documentos pendientes de cobro.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece el momento de causación del IVA en operaciones de factoraje financiero.",
+    "La transmisión de documentos equivale a la recepción de la contraprestación y del IVA correspondiente.",
+    "No se segmenta en fracciones ni párrafos adicionales, el texto es unitario."
+      ]
+    },
+    {
+  "PalabraClave": "IVA, tasa 0%, enajenación, servicios, exportación",
+  "Ley": "Ley del Impuesto al Valor Agregado",
+  "Artículo": "2o.-A",
+  "Texto": "El impuesto se calculará aplicando la tasa del 0% a los valores a que se refiere esta Ley, cuando se realicen los actos o actividades siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "La enajenación de determinados bienes no industrializados, medicinas, maquinaria agrícola, libros, productos para gestión menstrual, entre otros, con excepciones específicas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "La prestación de servicios independientes relacionados con actividades agropecuarias, procesamiento de alimentos, suministro de agua, reaseguro, entre otros."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "El uso o goce temporal de maquinaria agrícola e invernaderos hidropónicos."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "La exportación de bienes o servicios, conforme al artículo 29 de esta Ley."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Para una mayor comprensión, este artículo detalla los actos que causan IVA a tasa 0%.",
+    "Este artículo detalla los actos que causan IVA a tasa 0%.",
+    "Incluye enajenaciones específicas, servicios agropecuarios, uso temporal de maquinaria y exportaciones.",
+    "Contiene excepciones que deben observarse para aplicar correctamente la tasa 0%.",
+    "No se segmenta en párrafos adicionales, pero se respetan las fracciones e incisos ya definidos."
+      ]
+    },
+    {
+  "PalabraClave": "IVA, sujetos obligados, traslación, entes públicos",
+  "Ley": "Ley del Impuesto al Valor Agregado",
+  "Artículo": "3o.",
+  "Texto": "La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece que todos los entes públicos y privados deben aceptar la traslación del IVA.",
+    "La obligación aplica incluso si están exentos de otros impuestos federales.",
+    "La traslación del IVA debe realizarse conforme a los términos de esta Ley."
+      ]
+    },
+    {
+  "PalabraClave": "IVA, acreditamiento, impuesto acreditable, importación",
+  "Ley": "Ley del Impuesto al Valor Agregado",
+  "Artículo": "4o.",
+  "Texto": "El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley la tasa que corresponda según sea el caso.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Para los efectos del párrafo anterior, se entiende por impuesto acreditable el impuesto al valor agregado que haya sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes de que se trate."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "El impuesto que se traslade por los servicios a que se refiere el artículo 15-D, primer y segundo párrafos del Código Fiscal de la Federación, no será acreditable en los términos de la presente Ley."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "El derecho al acreditamiento es personal para los contribuyentes del impuesto al valor agregado y no podrá ser trasmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión, el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando desaparezca la sociedad escindente, se estará a lo dispuesto en el antepenúltimo párrafo del artículo 14-B del Código Fiscal de la Federación."
+    }
+  ],
+  "NotasOrientadoras": [
+    "El acreditamiento permite restar el IVA pagado o trasladado contra el impuesto causado.",
+    "Solo es acreditable el IVA efectivamente trasladado o pagado por importación.",
+    "El IVA por servicios del artículo 15-D del CFF no es acreditable.",
+    "El derecho al acreditamiento es personal y no puede transmitirse, salvo en casos de fusión o escisión.",
+    "Regla general para el acreditamiento del IVA: IVA Acreditable (IVA de compras) se resta del IVA causado (IVA de las ventas)." 
+    ]
+    },
+    {
+  "PalabraClave": "IVA, actos no objeto, territorio nacional, acreditamiento",
+  "Ley": "Ley del Impuesto al Valor Agregado",
+  "Artículo": "4o.-A",
+  "Texto": "Para los efectos de esta Ley, se entiende por actos o actividades no objeto del impuesto, aquéllos que el contribuyente no realiza en territorio nacional conforme a lo establecido en los artículos 10, 16 y 21 de este ordenamiento, así como aquéllos diferentes a los establecidos en el artículo 1o. de esta Ley realizados en territorio nacional, cuando en los casos mencionados el contribuyente obtenga ingresos o contraprestaciones, para cuya obtención realiza gastos e inversiones en los que le fue trasladado el impuesto al valor agregado o el que hubiera pagado con motivo de la importación.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo define qué se considera como actos o actividades no objeto del IVA.",
+    "Incluye operaciones fuera del territorio nacional y actos distintos a los del artículo 1o., aunque generen ingresos.",
+    "Aclara que pueden existir gastos e inversiones con IVA trasladado o pagado, sin que el acto esté gravado.",
+    "Es clave para delimitar el alcance del acreditamiento y la mecánica del impuesto."
+      ]
+    }
+
+]

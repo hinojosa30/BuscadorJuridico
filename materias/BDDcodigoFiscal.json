@@ -1,0 +1,1993 @@
+[
+  {
+    "PalabraClave": "aprovechamientos",
+    "Artículo": "3",
+    "Ley": "CFF",
+    "Texto": "Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.",
+    "Fracciones": [],
+    "Párrafos": [
+      {
+        "Párrafo": "1",
+        "Texto": "Los recargos, las sanciones, los gastos de ejecución y la indemnización que se apliquen en relación con aprovechamientos son accesorios de éstos y participan de su naturaleza."
+      },
+      {
+        "Párrafo": "2",
+        "Texto": "Los aprovechamientos por concepto de multas no fiscales podrán ser destinados a cubrir gastos de operación e inversión de las dependencias encargadas de aplicar o vigilar el cumplimiento de las disposiciones infringidas, cuando así lo establezcan las disposiciones jurídicas aplicables."
+      }
+    ],
+    "NotasOrientadoras": [
+      "Principio rector: Princpio de autodeterminación"
+      ]
+  },
+  
+  {
+    "PalabraClave": "contribuciones",
+    "Artículo": "2",
+    "Ley": "CFF",
+    "Texto": "Las contribuciones se clasifican en impuestos, aportaciones de seguridad social, contribuciones de mejoras y derechos.",
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Impuestos: contribuciones que deben pagar personas físicas y morales según la ley, distintas de aportaciones de seguridad social, contribuciones de mejoras y derechos."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Aportaciones de seguridad social: contribuciones a cargo de personas sustituidas por el Estado en obligaciones de seguridad social o beneficiadas por sus servicios."
+      },
+      {
+        "Fracción": "III",
+        "Texto": "Contribuciones de mejoras: aportaciones de quienes se beneficien directamente por obras públicas."
+      },
+      {
+        "Fracción": "IV",
+        "Texto": "Derechos: contribuciones por uso de bienes públicos o servicios estatales, excluyendo servicios de organismos descentralizados no previstos en la Ley Federal de Derechos."
+      }
+    ],
+    "Párrafos": []
+  },
+  
+  {
+    "PalabraClave": "créditos fiscales",
+    "Artículo": "4",
+    "Ley": "CFF",
+    "Texto": "Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados por contribuciones, accesorios, aprovechamientos o responsabilidades exigibles a funcionarios, empleados o particulares.",
+    "Fracciones": [],
+    "Párrafos": [
+      {
+        "Párrafo": "1",
+        "Texto": "La recaudación de todos los ingresos de la Federación, incluso los destinados a fines específicos, será realizada por la Secretaría de Hacienda y Crédito Público o por oficinas autorizadas por ella."
+      }
+    ]
+  },
+  {
+    "PalabraClave": "asistencia mutua internacional",
+    "Artículo": "4-A",
+    "Ley": "CFF",
+    "Texto": "Los impuestos exigibles por Estados extranjeros, solicitados conforme a tratados internacionales, se regirán por las disposiciones del Código en materia de notificación y ejecución de créditos fiscales.",
+    "Fracciones": [],
+    "Párrafos": []
+  },
+  {
+    "PalabraClave": "aplicación estricta",
+    "Artículo": "5",
+    "Ley": "CFF",
+    "Texto": "Las disposiciones fiscales que imponen cargas, excepciones, infracciones o sanciones se aplican estrictamente. Se consideran cargas las normas sobre sujeto, objeto, base, tasa o tarifa.",
+    "Fracciones": [],
+    "Párrafos": []
+  },
+  {
+    "PalabraClave": "razón de negocios",
+    "Artículo": "5-A",
+    "Ley": "CFF",
+    "Texto": "Los actos jurídicos sin razón de negocios que generen beneficios fiscales tendrán los efectos fiscales que corresponderían al beneficio económico razonable esperado.",
+    "Fracciones": [],
+    "Párrafos": []
+  },
+  {
+    "PalabraClave": "causación de contribuciones",
+    "Artículo": "6",
+    "Ley": "CFF",
+    "Texto": "Las contribuciones se causan conforme se realicen las situaciones jurídicas o de hecho previstas en las leyes fiscales vigentes.",
+    "Fracciones": [],
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "Los contribuyentes determinan sus contribuciones, salvo disposición contraria. Si la autoridad las determina, el contribuyente debe proporcionar la información en 15 días desde la causación."
+      }
+    ]
+  },
+  {
+    "PalabraClave": "entrada en vigor",
+    "Artículo": "7",
+    "Ley": "CFF",
+    "Texto": "Las leyes fiscales, reglamentos y disposiciones administrativas generales entran en vigor al día siguiente de su publicación en el Diario Oficial, salvo que indiquen otra fecha.",
+    "Fracciones": [],
+    "Párrafos": []
+  },
+  {
+    "PalabraClave": "territorio fiscal",
+    "Artículo": "8",
+    "Ley": "CFF",
+    "Texto": "Para efectos fiscales, México comprende el territorio nacional según la Constitución y la zona económica exclusiva fuera del mar territorial.",
+    "Fracciones": [],
+    "Párrafos": []
+  },
+  {
+    "PalabraClave": "residencia fiscal",
+    "Artículo": "9",
+    "Ley": "CFF",
+    "Texto": "Se consideran residentes en territorio nacional las personas físicas y morales que cumplan con ciertos criterios de establecimiento o actividad en México.",
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Personas físicas que hayan establecido su casa habitación en México. Si también tienen casa en otro país, se considerarán residentes si su centro de intereses vitales está en México. Se considera que el centro de intereses vitales está en México cuando más del 50% de los ingresos anuales tienen fuente de riqueza en México o cuando el centro principal de sus actividades profesionales esté en el país."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Personas morales que hayan establecido en México la administración principal del negocio o su sede de dirección efectiva."
+      }
+    ],
+    "Párrafos": []
+  },
+  {
+    "PalabraClave": "domicilio fiscal",
+    "Artículo": "10",
+    "Ley": "CFF",
+    "Texto": "Se considera domicilio fiscal según el tipo de contribuyente y las condiciones establecidas.",
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Tratándose de personas físicas: a) Cuando realizan actividades empresariales, el local en que se encuentre el principal asiento de sus negocios. b) Cuando no realicen las actividades señaladas en el inciso anterior, el local que utilicen para el desempeño de sus actividades. c) Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a) o b) de esta fracción."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "En el caso de personas morales: a) Cuando sean residentes en el país, el local en donde se encuentre la administración principal del negocio. b) Si se trata de establecimientos de personas morales residentes en el extranjero, dicho establecimiento; en el caso de varios establecimientos, el local en donde se encuentre la administración principal del negocio en el país, o en su defecto el que designen."
+      }
+    ],
+    "Párrafos": [
+      {
+        "Párrafo": "1",
+        "Texto": "Siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en los incisos anteriores o no hayan sido localizados en los mismos, se considerará como domicilio el que hayan manifestado a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten éstas."
+      }
+    ]
+  },
+  {
+    "PalabraClave": "ejercicio fiscal",
+    "Artículo": "11",
+    "Ley": "CFF",
+    "Texto": "Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios fiscales, éstos coincidirán con el año de calendario. Si una persona moral inicia actividades después del 1 de enero, ese año será ejercicio fiscal irregular, iniciando el día en que comiencen actividades y terminando el 31 de diciembre.",
+    "Fracciones": [],
+    "Párrafos": []
+  },
+  {
+    "PalabraClave": "plazos fiscales",
+    "Artículo": "12",
+    "Ley": "CFF",
+    "Texto": "En los plazos fijados en días no se contarán los sábados, domingos ni días festivos como el 1 de enero, el primer lunes de febrero, el tercer lunes de marzo, el 1 y 5 de mayo, el 16 de septiembre, el tercer lunes de noviembre, el 1 de diciembre cada seis años y el 25 de diciembre.",
+    "Fracciones": [],
+    "Párrafos": [
+      {
+        "Párrafo": "1",
+        "Texto": "No se contarán los días de vacaciones generales de las autoridades fiscales federales, excepto cuando se trate de plazos para presentar declaraciones y pagar contribuciones, en cuyo caso sí se consideran hábiles. Las vacaciones escalonadas no se consideran generales."
+      },
+      {
+        "Párrafo": "3",
+        "Texto": "Cuando los plazos se fijen por mes o año sin especificar que sean de calendario, se entenderá que concluyen el mismo día del mes o año siguiente. Si no existe ese día en el mes correspondiente, el término será el primer día hábil del siguiente mes."
+      }
+    ]
+    },
+    {
+  "PalabraClave": "diligencias fiscales",
+  "Artículo": "13",
+  "Ley": "CFF",
+  "Texto": "La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, comprendidas entre las 7:30 y las 18:00 horas. Una notificación iniciada en horas hábiles puede concluirse en hora inhábil sin afectar su validez. En la verificación de bienes y mercancías en transporte, se consideran hábiles todos los días del año y las 24 horas.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "1",
+      "Texto": "Las autoridades fiscales pueden habilitar días y horas inhábiles para visitas domiciliarias, procedimientos administrativos de ejecución, notificaciones y embargos precautorios, si la persona realiza actividades gravables en esos horarios. También pueden continuar diligencias iniciadas en horario hábil si se busca asegurar contabilidad o bienes."
+    },
+    {
+      "Párrafo": "2",
+      "Texto": "El buzón tributario se rige por el horario de la Zona Centro de México, conforme a la Ley del Sistema de Horario en los Estados Unidos Mexicanos y el Decreto del Horario Estacional aplicable."
+    }
+        ]
+    },
+    {
+  "PalabraClave": "enajenación de bienes",
+  "Artículo": "14",
+  "Ley": "CFF",
+  "Texto": "Se entiende por enajenación de bienes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Toda transmisión de propiedad, aun en la que el enajenante se reserve el dominio del bien enajenado."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Las adjudicaciones, aun cuando se realicen a favor del acreedor."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "La aportación a una sociedad o asociación."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "La que se realiza mediante el arrendamiento financiero."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La que se realiza a través del fideicomiso, en los siguientes casos: a) En el acto en el que el fideicomitente designe o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes. b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos: A) En el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones. B) En el acto en el que el fideicomitente ceda sus derechos si entre éstos se incluye el de que los bienes se transmitan a su favor."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito, o de la cesión de derechos que los representen."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "La transmisión de derechos de crédito relacionados a proveeduría de bienes, de servicios o de ambos a través de un contrato de factoraje financiero en el momento de la celebración de dicho contrato, excepto cuando se transmitan a través de factoraje con mandato de cobranza o con cobranza delegada así como en el caso de transmisión de derechos de crédito a cargo de personas físicas, en los que se considerará que existe enajenación hasta el momento en que se cobre los créditos correspondientes."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "La que se realice mediante fusión o escisión de sociedades, excepto en los supuestos a que se refiere el artículo 14-B de este Código."
+    }
+    ],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "préstamo de títulos",
+  "Artículo": "14-A",
+  "Ley": "CFF",
+  "Texto": "Se entiende que no hay enajenación en las operaciones de préstamos de títulos o de valores por la entrega de los bienes prestados al prestatario y por la restitución de los mismos al prestamista, siempre que efectivamente se restituyan los bienes a más tardar al vencimiento de la operación y las mismas se realicen de conformidad con las reglas generales que al efecto expida el Servicio de Administración Tributaria. En el caso de incumplimiento de cualesquiera de los requisitos establecidos en este artículo, la enajenación se entenderá realizada en el momento en el que se efectuaron las operaciones de préstamo de títulos o valores, según se trate.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "fusión y escisión",
+  "Artículo": "14-B",
+  "Ley": "CFF",
+  "Texto": "Para los efectos de lo dispuesto en el artículo 14, fracción IX, de este Código, se considerará que no hay enajenación en los siguientes casos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "En el caso de fusión, siempre que se cumpla con los siguientes requisitos: A) Se presente el aviso de fusión a que se refiere el Reglamento de este Código. B) Que con posterioridad a la fusión, la sociedad fusionante continúe realizando las actividades que realizaban ésta y las sociedades fusionadas antes de la fusión, durante un período mínimo de un año inmediato posterior a la fecha en la que surta efectos la fusión. C) Que la sociedad que subsista o la que surja con motivo de la fusión, presente las declaraciones de impuestos del ejercicio y las informativas que en los términos establecidos por las leyes fiscales les correspondan a la sociedad o sociedades fusionadas, correspondientes al ejercicio que terminó por fusión."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "En escisión, siempre que se cumplan los requisitos siguientes: A) Los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto de la sociedad escindente y de las escindidas, sean los mismos durante un período de tres años contados a partir del año inmediato anterior a la fecha en la que se realice la escisión. B) Que cuando desaparezca una sociedad con motivo de escisión, la sociedad escindente designe a la sociedad que asuma la obligación de presentar las declaraciones de impuestos del ejercicio e informativas que en los términos establecidos por las leyes fiscales le correspondan a la escindente. La designación se hará en la asamblea extraordinaria en la que se haya acordado la escisión."
+    }
+  ],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "arrendamiento financiero",
+  "Artículo": "15",
+  "Ley": "CFF",
+  "Texto": "Para efectos fiscales, arrendamiento financiero es el contrato por el cual una persona se obliga a otorgar a otra el uso o goce temporal de bienes tangibles a plazo forzoso, obligándose esta última a liquidar, en pagos parciales como contraprestación, una cantidad en dinero determinada o determinable que cubra el valor de adquisición de los bienes, las cargas financieras y los demás accesorios y a adoptar al vencimiento del contrato alguna de las opciones terminales que establece la Ley de la materia.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "escisión de sociedades",
+  "Artículo": "15-A",
+  "Ley": "CFF",
+  "Texto": "Se entiende por escisión de sociedades, la transmisión de la totalidad o parte de los activos, pasivos y capital social de una sociedad residente en el país, a la cual se le denominará escindente, a otra u otras sociedades residentes en el país que se crean expresamente para ello, denominadas escindidas. La escisión a que se refiere este artículo podrá realizarse en los siguientes términos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Cuando la escindente transmite una parte de su activo, pasivo y capital social a una o varias escindidas, sin que se extinga."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Cuando la sociedad escindente transmite la totalidad de su activo, pasivo y capital social a dos o más sociedades escindidas, extinguiéndose la primera. En este caso, la sociedad escindida que se designe en los términos del artículo 14-B de este Código, deberá conservar la documentación a que se refiere el artículo 28 del mismo."
+    }
+    ],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "regalías",
+  "Artículo": "15-B",
+  "Ley": "CFF",
+  "Texto": "Se consideran regalías, entre otros, los pagos de cualquier clase por el uso o goce temporal de patentes, certificados de invención o mejora, marcas de fábrica, nombres comerciales, derechos de autor sobre obras literarias, artísticas o científicas, incluidas las películas cinematográficas y grabaciones para radio o televisión, así como de dibujos o modelos, planos, fórmulas, o procedimientos y equipos industriales, comerciales o científicos, así como las cantidades pagadas por transferencia de tecnología o informaciones relativas a experiencias industriales, comerciales o científicas, u otro derecho o propiedad similar.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "entidad financiera",
+  "Artículo": "15-C",
+  "Ley": "CFF",
+  "Texto": "Para los efectos de este Código, se entenderá como entidad financiera a las instituciones de crédito, instituciones de seguros que ofrecen seguros de vida, administradoras de fondos para el retiro, uniones de crédito, casas de bolsa, sociedades financieras populares, sociedades de inversión en renta variable, sociedades de inversión en instrumentos de deuda, sociedades operadoras de sociedades de inversión y sociedades que presten servicios de distribución de acciones de sociedades de inversión.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "subcontratación de personal",
+  "Artículo": "15-D",
+  "Ley": "CFF",
+  "Texto": "No tendrán efectos fiscales de deducción o acreditamiento, los pagos o contraprestaciones realizados por concepto de subcontratación de personal para desempeñar actividades relacionadas tanto con el objeto social como con la actividad económica preponderante del contratante. Tampoco se darán efectos fiscales de deducción o acreditamiento a los servicios en los que se proporcione o ponga personal a disposición del contratante, cuando se actualice cualquiera de los siguientes supuestos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Cuando los trabajadores que el contratista proporcione o ponga a disposición del contratante, originalmente hayan sido trabajadores de este último y hubieren sido transferidos al contratista, mediante cualquier figura jurídica."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Cuando los trabajadores que provea o ponga a disposición el contratista abarquen las actividades preponderantes del contratante."
+    }
+    ],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "actividades empresariales",
+  "Artículo": "16",
+  "Ley": "CFF",
+  "Texto": "Se entenderá por actividades empresariales las siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Las comerciales que son las que de conformidad con las leyes federales tienen ese carácter y no están comprendidas en las fracciones siguientes."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Las industriales entendidas como la extracción, conservación o transformación de materias primas, acabado de productos y la elaboración de satisfactores."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las agrícolas que comprenden las actividades de siembra, cultivo, cosecha y la primera enajenación de los productos obtenidos, que no hayan sido objeto de transformación industrial."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las ganaderas que son las consistentes en la cría y engorda de ganado, aves de corral y animales, así como la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Las de pesca que incluyen la cría, cultivo, fomento y cuidado de la reproducción de toda clase de especies marinas y de agua dulce, incluida la acuacultura, así como la captura y extracción de las mismas y la primera enajenación de esos productos, que no hayan sido objeto de transformación industrial."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Las silvícolas que son las de cultivo de los bosques o montes, así como la cría, conservación, restauración, fomento y aprovechamiento de la vegetación de los mismos y la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial."
+    }
+             ],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "operaciones financieras derivadas",
+  "Artículo": "16-A",
+  "Ley": "CFF",
+  "Texto": "Para los efectos de las disposiciones fiscales, se entiende por operaciones financieras derivadas las siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Aquéllas en las que una de las partes adquiere el derecho o la obligación de adquirir o enajenar a futuro mercancías, acciones, títulos, valores, divisas u otros bienes fungibles que cotizan en mercados reconocidos, a un precio establecido al celebrarlas, o a recibir o a pagar la diferencia entre dicho precio y el que tengan esos bienes al momento del vencimiento de la operación derivada, o bien el derecho o la obligación a celebrar una de estas operaciones."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Aquéllas referidas a un indicador o a una canasta de indicadores, de índices, precios, tasas de interés, tipo de cambio de una moneda, u otro indicador que sea determinado en mercados reconocidos, en las que se liquiden diferencias entre su valor convenido al inicio de la operación y el valor que tengan en fechas determinadas."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Aquéllas en las que se enajenen los derechos u obligaciones asociados a las operaciones mencionadas en las fracciones anteriores, siempre que cumplan con los demás requisitos legales aplicables."
+    }
+                ],
+  "Párrafos": []
+    }, 
+    {
+  "PalabraClave": "ajuste de interés",
+  "Artículo": "16-B",
+  "Ley": "CFF",
+  "Texto": "Se considera como parte del interés el ajuste que a través de la denominación en unidades de inversión, mediante la aplicación de índices o factores, o de cualquier otra forma, se haga de los créditos, deudas, operaciones así como del importe de los pagos de los contratos de arrendamiento financiero.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "mercados reconocidos",
+  "Artículo": "16-C",
+  "Ley": "CFF",
+  "Texto": "Para los efectos de lo dispuesto en el artículo 16-A de este Código, se consideran como mercados reconocidos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Las sociedades anónimas que obtengan concesión de la Secretaría de Hacienda y Crédito Público para actuar como bolsa de valores en los términos de la Ley del Mercado de Valores, así como el Mercado Mexicano de Derivados."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Las bolsas de valores y los sistemas equivalentes de cotización de títulos, contratos o bienes, que cuenten al menos con cinco años de operación y de haber sido autorizados para funcionar con tal carácter de conformidad con las leyes del país en que se encuentren, donde los precios que se determinen sean del conocimiento público y no puedan ser manipulados por las partes contratantes de la operación financiera derivada."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "En el caso de índices de precios, éstos deberán ser publicados por el Instituto Nacional de Estadística y Geografía, por la autoridad monetaria equivalente o por la institución competente para calcularlos, para que se considere al subyacente como determinado en un mercado reconocido. Tratándose de operaciones financieras derivadas referidas a tasas de interés, al tipo de cambio de una moneda o a otro indicador, se entenderá que los instrumentos subyacentes se negocian o determinan en un mercado reconocido cuando la información respecto de dichos indicadores sea del conocimiento público y publicada en un medio impreso o electrónico, cuya fuente sea una institución reconocida en el mercado de que se trate."
+    }
+                ],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "valor de ingreso",
+  "Artículo": "17",
+  "Ley": "CFF",
+  "Texto": "Cuando se perciba el ingreso en bienes o servicios, se considerará el valor de éstos en moneda nacional en la fecha de la percepción según las cotizaciones o valores en el mercado, o en defecto de ambos el de avalúo. Lo dispuesto en este párrafo no es aplicable tratándose de moneda extranjera.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "actualización de contribuciones",
+  "Artículo": "17-A",
+  "Ley": "CFF",
+  "Texto": "El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo del fisco federal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, aplicando el factor de actualización. Este se obtiene dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el índice del mes anterior al más antiguo. No se actualizarán por fracciones de mes.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "asociación en participación",
+  "Artículo": "17-B",
+  "Ley": "CFF",
+  "Texto": "Para efectos fiscales, se entenderá por asociación en participación al conjunto de personas que realicen actividades empresariales mediante convenio, participando en utilidades o pérdidas. Tendrá personalidad jurídica cuando realice actividades empresariales en México, el convenio se celebre conforme a leyes mexicanas, o se actualicen los supuestos del artículo 9. En esos casos se considerará residente en México.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "medios electrónicos",
+  "Artículo": "17-C",
+  "Ley": "CFF",
+  "Texto": "Tratándose de contribuciones administradas por organismos fiscales autónomos, las disposiciones de este Código en materia de medios electrónicos sólo serán aplicables cuando así lo establezca la ley de la materia.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "documentos digitales",
+  "Artículo": "17-D",
+  "Ley": "CFF",
+  "Texto": "Cuando las disposiciones fiscales obliguen a presentar documentos, éstos deberán ser digitales y contener una firma electrónica avanzada del autor, salvo los casos que establezcan una regla diferente. Las autoridades fiscales podrán autorizar otras firmas electrónicas mediante reglas generales.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "acuse de recibo digital",
+  "Artículo": "17-E",
+  "Ley": "CFF",
+  "Texto": "Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán un acuse de recibo con sello digital. Este acredita la recepción del documento y se presume recibido en la fecha y hora consignadas, salvo prueba en contrario. El SAT establecerá medios para verificar la autenticidad de los acuses.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "servicios de certificación, certificados, firma electrónica",
+  "Artículo": "17-F",
+  "Ley": "CFF",
+  "Texto": "El Servicio de Administración Tributaria podrá proporcionar los siguientes servicios de certificación de firmas electrónicas avanzadas:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Verificar la identidad de los usuarios y su vinculación con los medios de identificación electrónica."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Comprobar la integridad de los documentos digitales expedidos por las autoridades fiscales."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Llevar los registros de los elementos de identificación y de vinculación con los medios de identificación electrónicos de los firmantes y, en su caso, de la representación legal de los firmantes y de aquella información con la que haya verificado el cumplimiento de fiabilidad de las firmas electrónicas avanzadas y emitir el certificado."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Poner a disposición de los firmantes los dispositivos de generación de los datos de creación y de verificación de firmas electrónicas avanzadas o sellos digitales."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Informar, antes de la emisión de un certificado a la persona que solicite sus servicios, de las condiciones precisas para la utilización del certificado y de sus limitaciones de uso."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Autorizar a las personas que cumplan con los requisitos que se establezcan en reglas de carácter general, para que proporcionen los siguientes servicios:",
+      "Incisos": [
+        {
+          "Inciso": "A",
+          "Texto": "Proporcionar información sobre los certificados emitidos por el Servicio de Administración Tributaria."
+        },
+        {
+          "Inciso": "B",
+          "Texto": "Proporcionar los servicios de acceso al registro de certificados. A dicho registro podrá accederse por medios electrónicos."
+        }
+      ]
+    }
+                ],
+  "Párrafos": []
+    },
+    { 
+  "PalabraClave": "contenido de certificados",
+  "Artículo": "17-G",
+  "Ley": "CFF",
+  "Texto": "Los certificados que emita el Servicio de Administración Tributaria para ser considerados válidos deberán contener los datos siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "La mención de que se expiden como tales. Tratándose de certificados de sellos digitales, se deberán especificar las limitantes que tengan para su uso."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El código de identificación único del certificado."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "La mención de que fue emitido por el Servicio de Administración Tributaria y una dirección electrónica."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Nombre del titular del certificado y su clave del registro federal de contribuyentes."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Período de vigencia del certificado, especificando el día de inicio de su vigencia y la fecha de su terminación."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "La mención de la tecnología empleada en la creación de la firma electrónica avanzada contenida en el certificado."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "La llave pública del titular del certificado."
+    }
+                ],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "cancelación de certificados, certificados, cancelacion",
+  "Artículo": "17-H",
+  "Ley": "CFF",
+  "Texto": "Los certificados que emita el Servicio de Administración Tributaria quedarán sin efectos cuando:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Lo solicite el firmante."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Lo ordene una resolución judicial o administrativa."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Fallezca la persona física titular del certificado. En este caso la revocación deberá solicitarse por un tercero legalmente autorizado, quien deberá acompañar el acta de defunción correspondiente."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Se disuelvan, liquiden o extingan las sociedades, asociaciones y demás personas morales. En este caso, serán los liquidadores quienes presenten la solicitud correspondiente."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La sociedad escindente o la sociedad fusionada desaparezca con motivo de la escisión o fusión, respectivamente. En el primer caso, la cancelación la podrá solicitar cualquiera de las sociedades escindidas; en el segundo, la sociedad que subsista."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Transcurra el plazo de vigencia del certificado."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Se pierda o inutilice por daños, el medio electrónico en el que se contengan los certificados."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Se compruebe que al momento de su expedición, el certificado no cumplió los requisitos legales, situación que no afectará los derechos de terceros de buena fe."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Cuando se ponga en riesgo la confidencialidad de los datos de creación de firma electrónica avanzada del Servicio de Administración Tributaria."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "Se agote el procedimiento previsto en el artículo 17-H Bis de este Código y no se hayan subsanado las irregularidades detectadas o desvirtuado las causas que motivaron la restricción temporal del certificado."
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "Detecten que el contribuyente emisor de comprobantes fiscales no desvirtuó la presunción de la inexistencia de las operaciones amparadas en tales comprobantes y, por tanto, se encuentra definitivamente en dicha situación, en términos del artículo 69-B, cuarto párrafo, de este Código."
+    },
+    {
+      "Fracción": "XII",
+      "Texto": "Detecten que se trata de contribuyentes que no desvirtuaron la presunción de transmitir indebidamente pérdidas fiscales y, por tanto, se encuentren en el listado a que se refiere el noveno párrafo del artículo 69-B Bis de este Código."
+    }
+                ],
+  "Párrafos": []
+    },
+    {
+  "PalabraClave": "restricción temporal de certificados, restriccion, plazo",
+  "Artículo": "17-H Bis",
+  "Ley": "CFF",
+  "Texto": "Tratándose de certificados de sello digital para la expedición de comprobantes fiscales digitales por Internet, previo a que se dejen sin efectos los referidos certificados, las autoridades fiscales podrán restringir temporalmente el uso de los mismos cuando:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Detecten que los contribuyentes, en un ejercicio fiscal y estando obligados a ello, omitan la presentación de la declaración anual transcurrido un mes posterior a la fecha en que se encontraban obligados a hacerlo en términos de las disposiciones fiscales, o de dos o más declaraciones provisionales o definitivas consecutivas o no consecutivas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Durante el procedimiento administrativo de ejecución no localicen al contribuyente o éste desaparezca."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "En el ejercicio de sus facultades, detecten que el contribuyente no puede ser localizado en su domicilio fiscal, desaparezca durante el procedimiento, desocupe su domicilio fiscal sin presentar el aviso de cambio correspondiente en el registro federal de contribuyentes, se ignore su domicilio, o bien, dentro de dicho ejercicio de facultades se tenga conocimiento de que los comprobantes fiscales emitidos se utilizaron para amparar operaciones inexistentes, simuladas o ilícitas."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Detecten que se trata de contribuyentes que se ubiquen en el supuesto a que se refiere el octavo párrafo del artículo 69-B de este Código, que no hayan ejercido el derecho previsto a su favor dentro del plazo establecido en dicho párrafo, o habiéndolo ejercido, no hayan acreditado la efectiva adquisición de los bienes o recepción de los servicios amparados en los comprobantes expedidos por el contribuyente incluido en el listado a que se refiere el párrafo cuarto de dicho artículo, ni corregido su situación fiscal."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Derivado de la verificación prevista en el artículo 27 de este Código, detecten que el domicilio fiscal señalado por el contribuyente no cumple con los supuestos del artículo 10 de este Código."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Detecten que el ingreso declarado, el valor de los actos o actividades gravados declarados, así como el impuesto retenido por el contribuyente, manifestados en las declaraciones de pagos provisionales o definitivos, de retenciones o del ejercicio, o bien, las informativas, no concuerden con los ingresos o valor de actos o actividades señalados en los comprobantes fiscales digitales por Internet, sus complementos de pago o estados de cuenta bancarios, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Detecten que, por causas imputables a los contribuyentes, los medios de contacto establecidos por el Servicio de Administración Tributaria mediante reglas de carácter general, registrados para el uso del buzón tributario, no son correctos o auténticos."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Detecten la comisión de una o más de las conductas infractoras previstas en los artículos 79, 81 y 83 de este ordenamiento, y la conducta sea realizada por el contribuyente titular del certificado de sello digital."
+    }
+        ],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Los contribuyentes a quienes se les haya restringido temporalmente el uso del certificado de sello digital para la expedición de comprobantes fiscales digitales por Internet podrán presentar, en un plazo no mayor a cuarenta días hábiles, la solicitud de aclaración a través del procedimiento que, mediante reglas de carácter general, determine el Servicio de Administración Tributaria para subsanar las irregularidades detectadas, o bien, para desvirtuar las causas que motivaron la aplicación de tal medida, en el cual podrán aportar las pruebas que a su derecho convenga, a fin de que, al día siguiente al de la solicitud se restablezca el uso de dicho certificado. La autoridad fiscal deberá emitir la resolución sobre dicho procedimiento en un plazo máximo de diez días, contado a partir del día siguiente a aquél en que se reciba la solicitud correspondiente; hasta en tanto se emita la resolución correspondiente, la autoridad fiscal permitirá el uso del certificado de sello digital para la expedición de comprobantes fiscales digitales por Internet. La resolución a que se refiere este párrafo se dará a conocer al contribuyente a través del buzón tributario."
+    }
+            ]
+    },
+  {
+    "Artículo": "17-I",
+    "Ley": "CFF",
+    "PalabraClave": "verificación de firma digital",
+    "Texto": "La integridad y autoría de un documento digital con firma electrónica avanzada o sello digital será verificable conforme a los medios o mecanismos que para tal efecto determine el Servicio de Administración Tributaria mediante reglas de carácter general.",
+    "Fracciones": [],
+    "Párrafos": []
+  },
+  {
+    "Artículo": "17-J",
+    "Ley": "CFF",
+    "PalabraClave": "obligaciones del titular de certificado, certificado",
+    "Texto": "El titular de un certificado emitido por el Servicio de Administración Tributaria, tendrá las siguientes obligaciones:",
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Actuar con diligencia y establecer los medios razonables para evitar la utilización no autorizada de los datos de creación de la firma."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Cuando se emplee el certificado en relación con una firma electrónica avanzada, actuar con diligencia razonable para cerciorarse de que todas las declaraciones que haya hecho en relación con el certificado, con su vigencia, o que hayan sido consignados en el mismo, son exactas."
+      },
+      {
+        "Fracción": "III",
+        "Texto": "Solicitar la revocación del certificado ante cualquier circunstancia que pueda poner en riesgo la privacidad de sus datos de creación de firma."
+      }
+    ],
+    "Párrafos": []
+  },
+  {
+    "Artículo": "17-K",
+    "Ley": "CFF",
+    "PalabraClave": "buzón tributario",
+    "Texto": "Las personas físicas y morales inscritas en el registro federal de contribuyentes tendrán asignado un buzón tributario, consistente en un sistema de comunicación electrónico ubicado en la página de Internet del Servicio de Administración Tributaria, a través del cual:",
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "La autoridad fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido y podrá enviar mensajes de interés."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal."
+      }
+    ],
+    "Párrafos": []
+  },
+  {
+    "Artículo": "18",
+    "Ley": "CFF",
+    "PalabraClave": "promociones fiscales",
+    "Texto": "Toda promoción dirigida a las autoridades fiscales, deberá presentarse mediante documento digital que contenga firma electrónica avanzada. Los contribuyentes que exclusivamente se dediquen a las actividades agrícolas, ganaderas, pesqueras o silvícolas que no queden comprendidos en el tercer párrafo del artículo 31 de este Código, podrán no utilizar firma electrónica avanzada. El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá determinar las promociones que se presentarán mediante documento impreso.",
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "El nombre, la denominación o razón social, y el domicilio fiscal manifestado al registro federal de contribuyentes, para el efecto de fijar la competencia de la autoridad, y la clave que le correspondió en dicho registro."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Señalar la autoridad a la que se dirige y el propósito de la promoción."
+      },
+      {
+        "Fracción": "III",
+        "Texto": "La dirección de correo electrónico para recibir notificaciones."
+      }
+    ],
+    "Párrafos": [
+      {
+        "Párrafo": 2,
+        "Texto": "Cuando no se cumplan los requisitos a que se refieren las fracciones I y II de este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, así como cuando se omita señalar la dirección de correo electrónico."
+      }
+    ]
+  },
+  {
+    "Artículo": "18-A",
+    "Ley": "CFF",
+    "PalabraClave": "promociones especiales",
+    "Texto": "Las promociones que se presenten ante las autoridades fiscales en las que se formulen consultas o solicitudes de autorización o régimen en los términos de los artículos 34, 34-A y 36 Bis de este Código, para las que no haya forma oficial, deberán cumplir, en adición a los requisitos establecidos en el artículo 18 de este Código, con lo siguiente:",
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Señalar los números telefónicos, en su caso, del contribuyente y el de los autorizados en los términos del artículo 19 de este Código."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Señalar los nombres, direcciones y el registro federal de contribuyentes o número de identificación fiscal tratándose de residentes en el extranjero, de todas las personas involucradas en la solicitud o consulta planteada."
+      },
+      {
+        "Fracción": "III",
+        "Texto": "Describir las actividades a las que se dedica el interesado."
+      },
+      {
+        "Fracción": "IV",
+        "Texto": "Indicar el monto de la operación u operaciones objeto de la promoción."
+      },
+      {
+        "Fracción": "V",
+        "Texto": "Señalar todos los hechos y circunstancias relacionados con la promoción, así como acompañar los documentos e información que soporten tales hechos o circunstancias."
+      },
+      {
+        "Fracción": "VI",
+        "Texto": "Describir las razones de negocio que motivan la operación planteada."
+      },
+      {
+        "Fracción": "VII",
+        "Texto": "Indicar si los hechos o circunstancias sobre los que versa la promoción han sido previamente planteados ante la misma autoridad u otra distinta, o han sido materia de medios de defensa ante autoridades administrativas o jurisdiccionales y, en su caso, el sentido de la resolución."
+      },
+      {
+        "Fracción": "VIII",
+        "Texto": "Indicar si el contribuyente se encuentra sujeto al ejercicio de las facultades de comprobación por parte de la Secretaría de Hacienda y Crédito Público o por las Entidades Federativas coordinadas en ingresos federales, señalando los periodos y las contribuciones, objeto de la revisión. Asimismo, deberá mencionar si se encuentra dentro del plazo para que las autoridades fiscales emitan la resolución a que se refiere el artículo 50 de este Código."
+      }
+    ],
+    "Párrafos": []
+  },
+  {
+    "Artículo": "18-B",
+    "Ley": "CFF",
+    "PalabraClave": "defensa del contribuyente",
+    "Texto": "La protección y defensa de los derechos e intereses de los contribuyentes en materia fiscal y administrativa, estará a cargo de la Procuraduría de la Defensa del Contribuyente, correspondiéndole la asesoría, representación y defensa de los contribuyentes que soliciten su intervención, en todo tipo de asuntos emitidos por autoridades administrativas y organismos federales descentralizados, así como, determinaciones de autoridades fiscales y de organismos fiscales autónomos de orden federal.",
+    "Fracciones": [],
+    "Párrafos": []
+  },
+  {
+    "Artículo": "19",
+    "Ley": "CFF",
+    "PalabraClave": "representación legal",
+    "Texto": "En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.",
+    "Fracciones": [],
+    "Párrafos": [
+      {
+        "Párrafo": 1,
+        "Texto": "El otorgante de la representación podrá solicitar a las autoridades fiscales la inscripción de dicha representación en el registro de representantes legales de las autoridades fiscales y éstas expedirán la constancia de inscripción correspondiente. Con dicha constancia, se podrá acreditar la representación en los trámites que se realicen ante dichas autoridades. Para estos efectos, el Servicio de Administración Tributaría podrá simplificar los requisitos para acreditar la representación de las personas físicas o morales en el registro de representantes legales, mediante reglas de carácter general."
+      },
+      {
+        "Párrafo": 2,
+        "Texto": "La solicitud de inscripción se hará mediante escrito libre debidamente firmado por quien otorga el poder y por el aceptante del mismo, acompañando el documento en el que conste la representación correspondiente, así como los demás documentos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria. Es responsabilidad del contribuyente que hubiese otorgado la representación y la hubiese inscrito, el solicitar la cancelación de la misma en el registro citado en los casos en que se revoque el poder correspondiente. Para estos efectos, se deberá dar aviso a las autoridades fiscales dentro de los 5 días siguientes a aquél en que se presente tal circunstancia; de no hacerlo, los actos que realice la persona a la que se le revocó la citada representación surtirán plenos efectos jurídicos."
+      },
+      {
+        "Párrafo": 4,
+        "Texto": "Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción."
+      }
+    ]
+  },
+  {
+  "Artículo": "21",
+  "Ley": "CFF",
+  "PalabraClave": "recargos e indemnización",
+  "Texto": "Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos por concepto de indemnización al fisco federal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el periodo a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el periodo de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que mediante Ley fije anualmente el Congreso de la Unión, para tal efecto, la tasa se considerará hasta la centésima y, en su caso, se ajustará a la centésima inmediata superior cuando el dígito de la milésima sea igual o mayor a 5 y cuando la milésima sea menor a 5 se mantendrá la tasa a la centésima que haya resultado.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": 1,
+      "Texto": "Los recargos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 67 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales."
+    },
+    {
+      "Párrafo": 4,
+      "Texto": "Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe."
+    }
+        ]
+    },
+    {
+  "Artículo": "22",
+  "Ley": "CFF",
+  "PalabraClave": "devolución de pagos indebidos",
+  "Texto": "Las autoridades fiscales devolverán las cantidades pagadas indebidamente y las que procedan conforme a las leyes fiscales. En el caso de contribuciones que se hubieran retenido, la devolución se efectuará a los contribuyentes a quienes se les hubiera retenido la contribución de que se trate. Tratándose de los impuestos indirectos, la devolución por pago de lo indebido se efectuará a las personas que hubieran pagado el impuesto trasladado a quien lo causó, siempre que no lo hayan acreditado; por lo tanto, quien trasladó el impuesto, ya sea en forma expresa y por separado o incluido en el precio, no tendrá derecho a solicitar su devolución. Tratándose de los impuestos indirectos pagados en la importación, procederá la devolución al contribuyente siempre y cuando la cantidad pagada no se hubiere acreditado.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "Artículo": "22-A",
+  "Ley": "CFF",
+  "PalabraClave": "devolución",
+  "Texto": "Cuando los contribuyentes presenten una solicitud de devolución de un saldo a favor o de un pago de lo indebido, y la devolución se efectúe fuera del plazo establecido en el artículo anterior, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo conforme a la tasa prevista en los términos del artículo 21 de este Código que se aplicará sobre la devolución actualizada.",
+
+  "Fracciones": [
+    {
+      "Texto": "Tratándose de saldos a favor o cuando el pago de lo indebido se hubiese determinado por el propio contribuyente, a partir de que se negó la autorización o de que venció el plazo de cuarenta o veinticinco días, según sea el caso, para efectuar la devolución, lo que ocurra primero.",
+      "Fracción": "I"
+    },
+    {
+      "Texto": "Cuando el pago de lo indebido se hubiese determinado por la autoridad, a partir de que se pagó dicho crédito.",
+      "Fracción": "II"
+    }
+    ]
+    },
+    {
+  "Artículo": "22-B",
+  "Ley": "CFF",
+  "PalabraClave": "devolución mediante depósito, devolucion",
+  "Texto": "La devolución se realizará mediante depósito en la cuenta del contribuyente, quien deberá proporcionar el número de cuenta en la solicitud o declaración. El estado de cuenta bancario será comprobante del pago. Si el depósito no puede efectuarse por causas imputables a la institución financiera o por errores en la cuenta proporcionada, el plazo para devolver se suspenderá hasta que sea posible realizar el depósito.",
+  "Fracciones": [],
+  "Párrafos": []
+    },
+    {
+  "Artículo": "22-C",
+  "Ley": "CFF",
+  "PalabraClave": "solicitud de devolución, firma electrónica",
+  "Texto": "Los contribuyentes con cantidades a favor iguales o superiores a $12,860.00 deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.",
+  "Fracciones": [],
+  "Párrafos": []
+  },
+   {
+  "Artículo": "23",
+  "Ley": "CFF",
+  "PalabraClave": "compensacion,saldos a favor",
+  "Texto": "Los contribuyentes pueden compensar saldos a favor contra adeudos propios o por retención, siempre que ambos provengan de impuestos federales no relacionados con importación, administrados por la misma autoridad y sin destino específico. La compensación se actualizará conforme al artículo 17-A y se notificará mediante aviso dentro de los cinco días siguientes, acompañado de la documentación oficial requerida.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Texto": "Los contribuyentes que hayan ejercido la opción de compensación y tengan remanente podrán solicitar su devolución."
+    },
+    {
+      "Texto": "Si la compensación no procediera, se causarán recargos conforme al artículo 21 sobre las cantidades compensadas indebidamente, actualizadas desde el mes en que se efectuó la compensación hasta el pago del monto indebido."
+    }
+    ]
+  },
+  {
+  "Artículo": "24",
+  "Ley": "CFF",
+  "PalabraClave": "compensación entre entidades públicas",
+  "Texto": "Se permite la compensación de créditos y deudas entre la Federación y los Estados, Ciudad de México, Municipios, organismos descentralizados o empresas de participación estatal mayoritaria, excepto las sociedades nacionales de crédito.",
+  "Fracciones": [],
+  "Párrafos": []
+  },
+  {
+  "Artículo": "25",
+  "Ley": "CFF",
+  "PalabraClave": "acreditamiento de estímulos fiscales",
+  "Texto": "Los contribuyentes que paguen mediante declaración periódica pueden acreditar estímulos fiscales contra sus pagos, siempre que presenten aviso ante la autoridad competente y cumplan con los requisitos establecidos, incluyendo certificados de promoción fiscal o devolución de impuestos. En otros casos, dichos certificados y requisitos serán obligatorios conforme a los decretos que otorguen los estímulos.",
+  "Fracciones": [],
+  "Párrafos": []
+  },
+  {
+  "Artículo": "25-A",
+  "Ley": "CFF",
+  "PalabraClave": "subsidios indebidos y acreditamientos improcedentes",
+  "Texto": "Las personas que reciban indebidamente subsidios deberán reintegrarlos actualizados conforme al artículo 17-A, y pagar recargos conforme al artículo 21, desde la fecha de recepción hasta su devolución al fisco federal.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando una persona entregue indebidamente un subsidio acreditado contra el pago de contribuciones federales, dicho acreditamiento será improcedente."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Cuando se acredite sin derecho un estímulo fiscal o subsidio, o en cantidad mayor a la permitida, las autoridades fiscales exigirán el pago de las contribuciones omitidas actualizadas y sus accesorios."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "Los estímulos fiscales o subsidios sólo podrán acreditarse hasta el monto de los impuestos efectivamente a pagar. Si el monto del estímulo o subsidio es mayor, sólo se acreditará hasta el importe del pago."
+    }
+  ]
+  },
+  {
+  "Artículo": "26",
+  "Ley": "CFF",
+  "PalabraClave": "responsables solidarios",
+  "Texto": "Son responsables solidarios con los contribuyentes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Las personas que estén obligadas a efectuar pagos provisionales por cuenta del contribuyente, hasta por el monto de estos pagos."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, hasta por el monto de dichas contribuciones."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Quienes ejerzan la patria potestad o la tutela, por las contribuciones a cargo de su representado."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Los legatarios y los donatarios a título particular respecto de las obligaciones fiscales que se hubieran causado en relación con los bienes legados o donados, hasta por el monto de éstos."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Quienes manifiesten su voluntad de asumir responsabilidad solidaria."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenía tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, exclusivamente en los casos en que dicha sociedad incurra."
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "Las sociedades que, debiendo inscribir en el registro o libro de acciones o partes sociales a sus socios o accionistas, inscriban a personas físicas o morales que no comprueben haber retenido y enterado, en el caso de que así proceda, el impuesto sobre la renta causado por el enajenante de tales acciones o partes sociales, o haber recibido copia del dictamen respectivo y, en su caso, copia de la declaración en la que conste el pago del impuesto correspondiente."
+    },
+    {
+      "Fracción": "XII",
+      "Texto": "Las sociedades escindidas, por las contribuciones causadas en relación con la transmisión de los activos, pasivos y de capital transmitidos por la escindente, así como por las contribuciones causadas por esta última con anterioridad a la escisión, sin que la responsabilidad exceda del valor del capital de cada una de ellas al momento de la escisión."
+    },
+    {
+      "Fracción": "XIII",
+      "Texto": "Las empresas residentes en México o los residentes en el extranjero que tengan un establecimiento permanente en el país, por el impuesto que se cause por el otorgamiento del uso o goce temporal de bienes y por mantener inventarios en territorio nacional para ser transformados o que ya hubieran sido transformados en los términos del Artículo 1o. de la Ley del Impuesto al Activo, hasta por el monto de dicha contribución."
+    },
+    {
+      "Fracción": "XIV",
+      "Texto": "Las personas a quienes residentes en el extranjero les presten servicios personales subordinados o independientes, cuando éstos sean pagados por residentes en el extranjero hasta el monto del impuesto causado."
+    },
+    {
+      "Fracción": "XV",
+      "Texto": "La sociedad que administre o los propietarios de los inmuebles afectos al servicio turístico de tiempo compartido prestado por residentes en el extranjero, cuando sean partes relacionadas en los términos de los artículos 90 y 179 de la Ley del Impuesto sobre la Renta, hasta por el monto de las contribuciones que se omitan."
+    },
+    {
+      "Fracción": "XVI",
+      "Texto": "(Se deroga)"
+    }
+  ],
+  "Párrafos": []
+  },
+  {
+  "Artículo": "26-A",
+  "Ley": "CFF",
+  "PalabraClave": "responsabilidad limitada por activos",
+  "Texto": "Los contribuyentes obligados al pago del impuesto sobre la renta en los términos del Título IV, Capítulo II, Secciones I y II de la Ley del Impuesto sobre la Renta, serán responsables por las contribuciones que se hubieran causado en relación con sus actividades empresariales hasta por un monto que no exceda del valor de los activos afectos a dicha actividad, y siempre que cumplan con todas las obligaciones a que se refieren los artículos 110 ó 112, según sea el caso, del ordenamiento antes citado.",
+  "Fracciones": [],
+  "Párrafos": []
+  },
+  {
+  "Artículo": "28",
+  "Ley": "CFF",
+  "PalabraClave": "obligaciones contables, contabilidad",
+  "Texto": "Las personas que de acuerdo con las disposiciones fiscales estén obligadas a llevar contabilidad, estarán a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "La contabilidad, para efectos fiscales, se integra por los libros, sistemas y registros contables, papeles de trabajo, estados de cuenta, cuentas especiales, libros y registros sociales, control de inventarios y método de valuación, discos y cintas o cualquier otro medio procesable de almacenamiento de datos, los equipos o sistemas electrónicos de registro fiscal y sus respectivos registros, además de la documentación comprobatoria de los asientos respectivos, así como toda la documentación e información relacionada con el cumplimiento de las disposiciones fiscales, la que acredite sus ingresos y deducciones, y la que obliguen otras leyes; en el Reglamento de este Código se establecerá la documentación e información con la que se deberá dar cumplimiento a esta fracción, y los elementos adicionales que integran la contabilidad."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Los registros o asientos contables a que se refiere la fracción anterior deberán cumplir con los requisitos que establezca el Reglamento de este Código y las disposiciones de carácter general que emita el Servicio de Administración Tributaria."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Los registros o asientos que integran la contabilidad se llevarán en medios electrónicos conforme lo establezcan el Reglamento de este Código y las disposiciones de carácter general que emita el Servicio de Administración Tributaria. La documentación comprobatoria de dichos registros o asientos deberá estar disponible en el domicilio fiscal del contribuyente."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Ingresarán de forma mensual su información contable a través de la página de Internet del Servicio de Administración Tributaria, de conformidad con reglas de carácter general que se emitan para tal efecto."
+    }
+  ],
+  "Párrafos": []
+  },
+  {
+  "Artículo": "29",
+  "Ley": "CFF",
+  "PalabraClave": "comprobantes fiscales digitales, CFDI",
+  "Texto": "Cuando las leyes fiscales establezcan la obligación de expedir comprobantes fiscales por los actos o actividades que realicen, por los ingresos que se perciban o por las retenciones de contribuciones que efectúen, los contribuyentes deberán emitirlos mediante documentos digitales a través de la página de Internet del Servicio de Administración Tributaria. Las personas que adquieran bienes, disfruten de su uso o goce temporal, reciban servicios o aquéllas a las que les hubieren retenido contribuciones deberán solicitar el comprobante fiscal digital por Internet respectivo. Los contribuyentes a que se refiere el párrafo anterior deberán cumplir con las obligaciones siguientes:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Contar con un certificado de firma electrónica avanzada vigente."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Tramitar ante el Servicio de Administración Tributaria el certificado para el uso de los sellos digitales."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Cumplir los requisitos establecidos en el artículo 29-A de este Código."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Remitir al Servicio de Administración Tributaria, antes de su expedición, el comprobante fiscal digital por Internet respectivo a través de los mecanismos digitales que para tal efecto determine dicho órgano desconcentrado mediante reglas de carácter general, con el objeto de que éste proceda a:",
+      "Incisos": [
+        {
+          "Inciso": "A",
+          "Texto": "Validar el cumplimiento de los requisitos establecidos en el artículo 29-A de este Código."
+        },
+        {
+          "Inciso": "B",
+          "Texto": "Asignar el folio del comprobante fiscal digital."
+        },
+        {
+          "Inciso": "C",
+          "Texto": "Incorporar el sello digital del Servicio de Administración Tributaria."
+        }
+      ]
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Una vez que al comprobante fiscal digital por Internet se le incorpore el sello digital del Servicio de Administración Tributaria o, en su caso, del proveedor de certificación de comprobantes fiscales digitales, deberán entregar o poner a disposición de sus clientes, a través de los medios electrónicos que disponga el citado órgano desconcentrado mediante reglas de carácter general, el archivo electrónico del comprobante fiscal digital por Internet y, cuando les sea solicitada por el cliente, su representación impresa, la cual únicamente presume la existencia de dicho comprobante fiscal."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Cumplir con las especificaciones que en materia de informática determine el Servicio de Administración Tributaria mediante reglas de carácter general."
+    }
+  ]
+  
+  },
+  {
+  "Artículo": "29-A",
+  "Ley": "CFF",
+  "PalabraClave": "requisitos del CFDI",
+  "Texto": "Los comprobantes fiscales digitales a que se refiere el artículo 29 de este Código, deberán contener los siguientes requisitos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "La clave del registro federal de contribuyentes de quien los expida y el régimen fiscal en que tributen conforme a la Ley del Impuesto sobre la Renta. Tratándose de contribuyentes que tengan más de un local o establecimiento, se deberá señalar el domicilio del local o establecimiento en el que se expidan los comprobantes fiscales."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El número de folio y el sello digital del Servicio de Administración Tributaria, referidos en la fracción IV, incisos b) y c) del artículo 29 de este Código, así como el sello digital del contribuyente que lo expide."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "El lugar y fecha de expedición."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "La clave del registro federal de contribuyentes de la persona a favor de quien se expida."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La cantidad, unidad de medida y clase de los bienes o mercancías o descripción del servicio o del uso o goce que amparen. Los CFDI´s que se expidan en los supuestos que a continuación se indican, deberán cumplir adicionalmente con lo que en cada caso se especifica:",
+      "Incisos": [
+        {
+          "Inciso": "A",
+          "Texto": "Los que se expidan a las personas físicas que cumplan sus obligaciones fiscales por conducto del coordinado, las cuales hayan optado por pagar el impuesto individualmente de conformidad con lo establecido por el artículo 73, quinto párrafo de la Ley del Impuesto sobre la Renta, deberán identificar el vehículo que les corresponda."
+        },
+        {
+          "Inciso": "B",
+          "Texto": "Los que amparen donativos deducibles en términos de la Ley del Impuesto sobre la Renta, deberán señalar expresamente tal situación y contener el número y fecha del oficio constancia de la autorización para recibir dichos donativos o, en su caso, del oficio de renovación correspondiente. Cuando amparen bienes que hayan sido deducidos previamente, para los efectos del impuesto sobre la renta, se indicará que el donativo no es deducible."
+        },
+        {
+          "Inciso": "C",
+          "Texto": "Los que se expidan por la obtención de ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, deberán contener el número de cuenta predial del inmueble de que se trate o, en su caso, los datos de identificación del certificado de participación inmobiliaria no amortizable."
+        },
+        {
+          "Inciso": "D",
+          "Texto": "Los que expidan los contribuyentes sujetos al impuesto especial sobre producción y servicios que enajenen tabacos labrados de conformidad con lo establecido por el artículo 19, fracción II, último párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, deberán especificar el peso total de tabaco contenido en los tabacos labrados enajenados o, en su caso, la cantidad de cigarros enajenados."
+        },
+        {
+          "Inciso": "E",
+          "Texto": "Los que expidan los fabricantes, ensambladores, comercializadores e importadores de automóviles en forma definitiva, cuyo destino sea permanecer en territorio nacional para su circulación o comercialización, deberán contener el número de identificación vehicular y la clave vehicular que corresponda al automóvil."
+        }
+      ]
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "El valor unitario consignado en número."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "El importe total consignado en número o letra, conforme a lo siguiente:",
+      "Incisos": [
+        {
+          "Inciso": "A",
+          "Texto": "Cuando la contraprestación se pague en una sola exhibición, en el momento en que se expida el comprobante fiscal digital por Internet correspondiente a la operación de que se trate, se señalará expresamente dicha situación, además se indicará el importe total de la operación y, cuando así proceda, el monto de los impuestos trasladados desglosados con cada una de las tasas del impuesto correspondiente y, en su caso, el monto de los impuestos retenidos."
+        },
+        {
+          "Inciso": "B",
+          "Texto": "Cuando la contraprestación no se pague en una sola exhibición se emitirá un comprobante fiscal digital por Internet por el valor total de la operación en el momento en que ésta se realice y se expedirá un comprobante fiscal digital por Internet por cada uno de los pagos que se reciban posteriormente, en los términos que establezca el Servicio de Administración Tributaria mediante reglas de carácter general, los cuales deberán señalar el folio del comprobante fiscal digital por Internet emitido por el total de la operación, señalando además, el valor total de la operación, y el monto de los impuestos retenidos, así como de los impuestos trasladados, desglosando cada una de las tasas del impuesto correspondiente, con las excepciones precisadas en el inciso anterior."
+        },
+        {
+          "Inciso": "C",
+          "Texto": "Señalar la forma en que se realizó el pago, ya sea en efectivo, transferencias electrónicas de fondos, cheques nominativos o tarjetas de débito, de crédito, de servicio o las denominadas monederos electrónicos que autorice el Servicio de Administración Tributaria."
+        }
+      ]
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Tratándose de mercancías de importación:",
+      "Incisos": [
+        {
+          "Inciso": "A",
+          "Texto": "El número y fecha del documento aduanero, tratándose de ventas de primera mano."
+        },
+        {
+          "Inciso": "B",
+          "Texto": "En importaciones efectuadas a favor de un tercero, el número y fecha del documento aduanero, los conceptos y montos pagados por el contribuyente directamente al proveedor extranjero y los importes de las contribuciones pagadas con motivo de la importación."
+        }
+      ]
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Los contenidos en las disposiciones fiscales, que sean requeridos y dé a conocer el Servicio de Administración Tributaria, mediante reglas de carácter general."
+    }
+  ]
+  },
+  {
+  "Artículo": 30,
+  "PalabraClave": "Conservación de contabilidad y documentación fiscal",
+  "Texto": "Las personas obligadas a llevar contabilidad deberán conservarla a disposición de las autoridades fiscales de conformidad con la fracción III del artículo 28 de este Código.",
+  "Ley" : "CFF",
+  "Párrafos": [
+    {
+      "Párrafo": "1",
+      "Texto": "Las personas obligadas a llevar contabilidad deberán conservarla a disposición de las autoridades fiscales de conformidad con la fracción III del artículo 28 de este Código."
+    },
+    {
+      "Párrafo": "2",
+      "Texto": "Las personas que no estén obligadas a llevar contabilidad deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de las disposiciones fiscales."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "La documentación a que se refiere el párrafo anterior de este artículo y la contabilidad, deberán conservarse durante un plazo de cinco años, contado a partir de la fecha en la que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas. Tratándose de la contabilidad y de la documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de referencia comenzará a computarse a partir del día en el que se presente la declaración fiscal del último ejercicio en que se hayan producido dichos efectos. Cuando se trate de la documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, el plazo para conservarla se computará a partir de la fecha en la que quede firme la resolución que les ponga fin. Tratándose de las actas constitutivas de las personas morales, de los contratos de asociación en participación, de las actas en las que se haga constar el aumento o la disminución del capital social, la fusión o la escisión de sociedades, de las constancias que emitan o reciban las personas morales en los términos de la Ley del Impuesto sobre la Renta al distribuir dividendos o utilidades, de la información necesaria para determinar los ajustes a que se refieren los artículos 22 y 23 de la ley citada, así como de las declaraciones de pagos provisionales y del ejercicio, de las contribuciones federales, dicha documentación deberá conservarse por todo el tiempo en el que subsista la sociedad o contrato de que se trate."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "Los documentos con firma electrónica avanzada o sello digital, deberán conservarse de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria."
+    },
+    {
+      "Párrafo": "5",
+      "Texto": "En el caso de que la autoridad fiscal esté ejerciendo facultades de comprobación respecto de ejercicios fiscales en los que se disminuyan pérdidas fiscales de ejercicios anteriores, o se reciban cantidades por concepto de préstamo, otorgado o recibido, independientemente del tipo de contrato utilizado, los contribuyentes deberán proporcionar la documentación que acredite el origen y procedencia de la pérdida fiscal o la documentación comprobatoria del préstamo, independientemente del ejercicio en el que se haya originado la pérdida o el préstamo. Lo anterior aplicará también en el caso de contratación de deudas con acreedores, o bien para la recuperación de créditos de deudores. El particular no estará obligado a proporcionar la documentación antes solicitada cuando con anterioridad al ejercicio de las facultades de comprobación, la autoridad fiscal haya ejercido dichas facultades en el ejercicio en el que se generaron las pérdidas fiscales de las que se solicita su comprobación, salvo que se trate de hechos no revisados."
+    },
+    {
+      "Párrafo": "6",
+      "Texto": "La información proporcionada por el contribuyente solo podrá ser utilizada por las autoridades fiscales en el supuesto de que la determinación de las perdidas fiscales no coincida con los hechos manifestados en las declaraciones presentadas para tales efectos."
+    },
+    {
+      "Párrafo": "7",
+      "Texto": "Cuando al inicio de una visita domiciliaria los contribuyentes hubieran omitido asentar registros en su contabilidad dentro de los plazos establecidos en las disposiciones fiscales, dichos registros sólo podrán efectuarse después de que la omisión correspondiente haya sido asentada en acta parcial; esta obligación subsiste inclusive cuando las autoridades hubieran designado un depositario distinto del contribuyente, siempre que la contabilidad permanezca en alguno de sus establecimientos. El contribuyente deberá seguir llevando su contabilidad independientemente de lo dispuesto en este párrafo."
+    },
+    {
+      "Párrafo": "8",
+      "Texto": "Los contribuyentes con establecimientos, sucursales, locales, puestos fijos o semifijos en la vía pública, deberán tener a disposición de las autoridades fiscales en dichos lugares y, en su caso, en el lugar en donde almacenen las mercancías, su cédula de identificación fiscal expedida por el Servicio de Administración Tributaria o la solicitud de inscripción en el registro federal de contribuyentes o copia certificada de cualesquiera de dichos documentos, así como los comprobantes que amparen la legal posesión o propiedad de las mercancías que tengan en esos lugares."
+    }
+  ]
+  },
+  {
+  "PalabraClave": "contabilidad electrónica, clientes, proveedores",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "30-A",
+  "Texto": "Los contribuyentes que lleven su contabilidad o parte de ella utilizando registros electrónicos, deberán proporcionar a las autoridades fiscales, cuando así se lo soliciten, en los medios procesables que utilicen, la información sobre sus clientes y proveedores, así como aquella relacionada con su contabilidad que tengan en dichos medios. Los contribuyentes que únicamente realicen operaciones con el público en general, sólo tendrán la obligación de proporcionar la información sobre sus proveedores y la relacionada con su contabilidad.",
+  "Párrafos": [
+    {
+      "Párrafo": "1",
+      "Texto": "Los contribuyentes que lleven su contabilidad o parte de ella utilizando registros electrónicos, deberán proporcionar a las autoridades fiscales, cuando así se lo soliciten, en los medios procesables que utilicen, la información sobre sus clientes y proveedores, así como aquella relacionada con su contabilidad que tengan en dichos medios."
+    },
+    {
+      "Párrafo": "2",
+      "Texto": "Los contribuyentes que únicamente realicen operaciones con el público en general, sólo tendrán la obligación de proporcionar la información sobre sus proveedores y la relacionada con su contabilidad."
+    }
+  ],
+  "Fracciones": []
+  },
+  {
+  "PalabraClave": "RFC, solicitudes, declaraciones, firma electrónica, SAT, medios digitales",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "31",
+  "Texto": "Las personas deberán presentar las solicitudes en materia de Registro Federal de Contribuyentes, declaraciones, avisos o informes, en documentos digitales con firma electrónica avanzada a través de los medios, formatos o herramientas electrónicas y con la información que señale el Servicio de Administración Tributaria mediante reglas de carácter general, enviándolos a las autoridades correspondientes o a las oficinas autorizadas, según sea el caso, debiendo cumplir los requisitos que se establezcan en dichas reglas para tal efecto y, en su caso, realizar el pago correspondiente mediante transferencia electrónica de fondos. Cuando las disposiciones fiscales establezcan que se acompañe un documento distinto a escrituras o poderes notariales y éste no sea digitalizado, la solicitud o el aviso se podrá presentar en medios impresos.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las solicitudes fiscales deben presentarse en formato digital con firma electrónica avanzada.",
+    "Se deben usar los medios y formatos que indique el SAT mediante reglas generales.",
+    "El envío puede hacerse a autoridades fiscales o a oficinas autorizadas, según corresponda.",
+    "Los pagos relacionados deben realizarse por transferencia electrónica de fondos.",
+    "Si se requiere acompañar documentos no digitalizados (excepto escrituras o poderes notariales), se permite el uso de medios impresos."
+  ]
+  },
+  {
+  "PalabraClave": "Contabilidad, operaciones financieras, partes relacionadas, reorganizaciones, enajenaciones",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "31-A",
+  "Texto": "Los contribuyentes deberán presentar, con base en su contabilidad, la información de las siguientes operaciones:",
+  "Fracciones": [
+    {
+      "Fracción": "i",
+      "Texto": "Las operaciones financieras a que se refieren los artículos 20 y 21 de la Ley del Impuesto sobre la Renta."
+    },
+    {
+      "Fracción": "ii",
+      "Texto": "Las operaciones con partes relacionadas."
+    },
+    {
+      "Fracción": "iii",
+      "Texto": "Las relativas a la participación en el capital de sociedades y a cambios en la residencia fiscal."
+    },
+    {
+      "Fracción": "iv",
+      "Texto": "Las relativas a reorganizaciones y reestructuras corporativas, así como las operaciones relevantes a que se refieren los artículos 14-B de este Código y 24 y 161 de la Ley del Impuesto sobre la Renta."
+    },
+    {
+      "Fracción": "v",
+      "Texto": "Las relativas a enajenaciones y aportaciones, de bienes y activos financieros; operaciones con países con sistema de tributación territorial; operaciones de financiamiento y sus intereses; pérdidas fiscales; reembolsos de capital y pago de dividendos."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo obliga a los contribuyentes a reportar ciertas operaciones relevantes con base en su contabilidad.",
+    "Incluye operaciones financieras específicas reguladas por la Ley del ISR.",
+    "Se enfoca en operaciones con partes relacionadas, que suelen tener implicaciones fiscales importantes.",
+    "También abarca reorganizaciones corporativas y cambios en la estructura fiscal de las empresas.",
+    "Las operaciones internacionales y de financiamiento deben ser reportadas, incluyendo dividendos y pérdidas fiscales."
+  ]
+  },
+  {
+  "PalabraClave": "Declaraciones, modificaciones, facultades de comprobación, contribuyentes",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "32",
+  "Texto": "Las declaraciones que presenten los contribuyentes serán definitivas y sólo se podrán modificar por el propio contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.",
+  "Párrafos": [
+    {
+      "Párrafo": 2,
+      "Texto": "No obstante lo dispuesto en el párrafo anterior, el contribuyente podrá modificar en más de tres ocasiones las declaraciones correspondientes, aún cuando se hayan iniciado las facultades de comprobación, en los siguientes casos: i) Cuando sólo incrementen sus ingresos o el valor de sus actos o actividades. ii) Cuando sólo disminuyan sus deducciones o pérdidas o reduzcan las cantidades acreditables o compensadas o los pagos provisionales o de contribuciones a cuenta. iii) (Se deroga). iv) Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de Ley."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las declaraciones fiscales presentadas por los contribuyentes son consideradas definitivas.",
+    "Se permite modificarlas hasta tres veces, siempre que no haya iniciado una revisión por parte de la autoridad fiscal.",
+    "Existen excepciones que permiten más de tres modificaciones, incluso si ya se iniciaron facultades de comprobación."
+  ]
+  },
+  {
+  "PalabraClave": "Dictamen fiscal, ingresos, activos, bolsa",
+  "Ley": "CFF",
+  "Artículo": "32-A",
+  "Texto": "Las personas físicas con actividades empresariales y las personas morales, que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $157,785,270.00, que el valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, sea superior a $124,650,380.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior, podrán optar por dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado. No podrán ejercer la opción a que se refiere este artículo las entidades paraestatales de la Administración Pública Federal.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público inscrito, las personas morales que tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $1,940,178,120.00, así como aquéllas que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece criterios para que ciertos contribuyentes puedan optar por dictaminar sus estados financieros.",
+    "La opción está condicionada a umbrales de ingresos, activos o número de trabajadores en el ejercicio anterior.",
+    "Las entidades paraestatales están excluidas de esta opción, lo que refleja un régimen fiscal diferenciado.",
+    "El segundo párrafo impone la obligación de dictaminar a personas morales con ingresos muy altos o que cotizan en bolsa, reforzando la supervisión fiscal."
+  ]
+  },
+  {
+  "PalabraClave": "Entidades financieras, cheques, contribuciones, información fiscal",
+  "Ley": "CFF",
+  "Artículo": "32-B",
+  "Texto": "Las entidades financieras y sociedades cooperativas de ahorro y préstamo tendrán las obligaciones siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Anotar en los esqueletos para expedición de cheques el nombre, denominación o razón social y clave del registro federal de contribuyentes del primer titular de la cuenta, cuando éste sea persona moral o en el caso de personas físicas, cuando la cuenta se utilice para el desarrollo de su actividad empresarial."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Abonar el importe de los cheques que contengan la expresión para abono en cuenta a la cuenta que se lleve o abra en favor del beneficiario."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Recibir y procesar pagos de contribuciones por cuenta de las autoridades fiscales, en los términos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público. Dicha dependencia y las instituciones de crédito celebrarán convenios en los que se pacten las características que deban reunir los servicios que presten dichas instituciones, así como las remuneraciones que por los mismos les correspondan."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Proporcionar directamente o por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas, según corresponda, la información de las cuentas, los depósitos, servicios, fideicomisos, créditos o préstamos otorgados a personas físicas y morales, o cualquier tipo de operaciones, en los términos que soliciten las autoridades fiscales a través del mismo conducto."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Obtener el nombre, denominación o razón social; nacionalidad; residencia; fecha y lugar de nacimiento; domicilio; correo electrónico, número telefónico, así como los medios de contacto que determine la autoridad fiscal mediante reglas de carácter general; clave en el registro federal de contribuyentes, la que la sustituya o su número de identificación fiscal, tratándose de residentes en el extranjero y, en su caso, clave única de registro de población de sus cuentahabientes. Cuando las formas aprobadas requieran dicha información, las entidades financieras y sociedades cooperativas de ahorro y préstamo deberán proporcionarla."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Informar a la Secretaría de Hacienda y Crédito Público los pagos recibidos en los términos que se establezcan en las reglas de carácter general y en los convenios a que se refiere la fracción III de este artículo. Cuando no se proporcionen los servicios a que se refiere la fracción citada o la información no se presente de conformidad con lo establecido en las reglas y convenios mencionados, no se pagarán los gastos de recaudación previstos en dicha fracción."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Expedir los estados de cuenta cumpliendo con lo previsto en términos de las aplicables."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Cuando participen como fiduciarias en fideicomisos en los que se generen ingresos, deberán presentar ante el Servicio de Administración Tributaria, por cada uno de dichos fideicomisos, lo siguiente: (revisar requisitos en la misma ley)."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Verificar con el Servicio de Administración Tributaria que sus cuentahabientes se encuentren inscritos en el registro federal de contribuyentes, a través del procedimiento que para tal efecto establezca dicho órgano desconcentrado mediante reglas de carácter general."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece las obligaciones fiscales específicas para entidades financieras y cooperativas de ahorro y préstamo.",
+    "Las fracciones abarcan desde la identificación de cuentahabientes hasta la colaboración en la recaudación de contribuciones.",
+    "Se refuerza el papel de estas entidades como intermediarios clave entre los contribuyentes y las autoridades fiscales.",
+    "La verificación del RFC y la entrega de información financiera son mecanismos de control fiscal que fortalecen la transparencia."
+  ]
+  },
+  {
+  "PalabraClave": "Intercambio automático, cuentas financieras, instituciones financieras, reportes fiscales",
+  "Ley": "CFF",
+  "Artículo": "32-B Bis",
+  "Texto": "Las personas morales y las figuras jurídicas, que sean instituciones financieras y sean residentes en México o residentes en el extranjero con sucursal en México, conforme al Estándar para el Intercambio Automático de Información sobre Cuentas Financieras en Materia Fiscal, a que se refiere la recomendación adoptada por el Consejo de la Organización para la Cooperación y el Desarrollo Económicos el 15 de julio de 2014, tal como se publicó después de la adopción de dicha recomendación o de la actualización más reciente, estarán obligadas a implementar efectivamente y a cumplir con dicho Estándar. Para estos efectos, estarán a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Se considerarán cuentas preexistentes las cuentas financieras que se mantengan abiertas al 31 de diciembre de 2015 y cuentas nuevas, aquéllas abiertas el 1 de enero de 2016 o con posterioridad. Por tanto, los procedimientos aplicables para identificar cuentas extranjeras cuentas reportables entre las cuentas nuevas entrarán en vigor a partir del 1 de enero de 2016."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Se llevará un registro especial de la aplicación de los procedimientos para identificar cuentas extranjeras y reportables entre las cuentas financieras."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Los procedimientos aplicables para identificar cuentas extranjeras y reportables entre las cuentas de alto valor deberán concluirse a más tardar el 31 de diciembre de 2016 y aquéllos aplicables para identificarlas entre las cuentas de bajo valor y cuentas preexistentes de entidades, a más tardar el 31 de diciembre de 2017."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "La información de las cuentas de alto valor y cuentas nuevas que sean reportables se presentará mediante declaración ante las autoridades fiscales anualmente a más tardar el 31 de agosto y, por primera ocasión, a más tardar el 30 de junio de 2017."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La información de las cuentas de bajo valor y cuentas preexistentes de entidades que sean cuentas reportables se presentará mediante declaración ante las autoridades fiscales anualmente a más tardar el 31 de agosto y, por primera ocasión, a más tardar el 30 de junio de 2018. Sin embargo, en el caso de que se identifiquen cuentas reportables entre las cuentas de bajo valor y cuentas preexistentes de entidades a más tardar el 31 de diciembre de 2016, la información correspondiente se presentará ante las autoridades fiscales, por primera ocasión, a más tardar el 30 de junio de 2017."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "El Estándar citado se interpretará y aplicará conforme a los Comentarios a dicho Estándar, salvo los casos en que el Servicio de Administración Tributaria establezca lo contrario, mediante reglas de carácter general."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Las instituciones financieras a que se refiere este artículo podrán celebrar las operaciones que estén autorizadas a llevar a cabo con sus clientes, siempre que cumplan con los procedimientos para identificar cuentas extranjeras o cuentas reportables entre las cuentas financieras y para presentar ante las autoridades fiscales la información requerida por el Estándar mencionado en el primer párrafo de este artículo o por las disposiciones fiscales, conforme a los acuerdos señalados en el cuarto párrafo de este artículo."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "El Servicio de Administración Tributaria podrá celebrar convenios de colaboración que le permitan coordinarse e intercambiar información con otras dependencias o entidades de la Administración Pública Federal que sean competentes sobre personas morales y figuras jurídicas que sean instituciones financieras, con la finalidad de ejercer las acciones que en el ámbito de la competencia de cada una de ellas puedan corresponder para fines de coadyuvar en la supervisión, verificación y comprobación de la efectiva implementación del Estándar a que se refiere el primer párrafo de este artículo, así como para adoptar las acciones tendientes al cumplimiento de los acuerdos amplios de intercambio de información que México tiene en vigor y que autorizan el intercambio automático de información financiera en materia fiscal, así como de los acuerdos interinstitucionales firmados con fundamento en ellos."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Se deroga."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula la implementación del Estándar para el Intercambio Automático de Información sobre Cuentas Financieras en Materia Fiscal.",
+    "Establece plazos y procedimientos para identificar cuentas extranjeras y reportables, diferenciando entre cuentas nuevas, preexistentes, de alto y bajo valor.",
+    "Obliga a las instituciones financieras a presentar declaraciones anuales ante el SAT con la información de cuentas reportables.",
+    "Faculta al SAT para coordinarse con otras entidades públicas en la supervisión del cumplimiento del Estándar internacional."
+  ]
+  },
+  {
+    "PalabraClave": "Beneficiario controlador, fideicomisos, contabilidad, intercambio internacional",
+    "Ley": "CFF",
+    "Artículo": "32-B Ter",
+    "Texto": "Las personas morales, las fiduciarias, los fideicomitentes o fideicomisarios, en el caso de fideicomisos, así como las partes contratantes o integrantes, en el caso de cualquier otra figura jurídica, están obligadas a obtener y conservar, como parte de su contabilidad, y a proporcionar al Servicio de Administración Tributaria, cuando dicha autoridad así lo requiera, la información fidedigna, completa y actualizada de sus beneficiarios controladores, en la forma y términos que dicho órgano desconcentrado determine mediante reglas de carácter general. Esta información podrá suministrarse a las autoridades fiscales extranjeras, previa solicitud y al amparo de un tratado internacional en vigor del que México sea parte, que contenga disposiciones de intercambio recíproco de información, en términos del artículo 69, sexto párrafo del presente Código.",
+    "Fracciones": [],
+    "Párrafos": [],
+    "NotasOrientadoras": [
+      "Este artículo establece la obligación de identificar y conservar información sobre los beneficiarios controladores de figuras jurídicas.",
+      "La información debe ser fidedigna, completa y actualizada, y formar parte de la contabilidad del contribuyente.",
+      "El SAT puede requerir esta información y compartirla con autoridades fiscales extranjeras bajo tratados internacionales vigentes.",
+      "La medida busca fortalecer la transparencia fiscal y combatir estructuras opacas en fideicomisos y otras figuras jurídicas."
+    ]
+  },
+  {
+    "PalabraClave": "Control fiscal, beneficiario controlador, participación, poder decisorio",
+    "Ley": "CFF",
+    "Artículo": "32-B Quáter",
+    "Texto": "Para efectos de este Código se entenderá por beneficiario controlador a la persona física o grupo de personas físicas que:",
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Directamente o por medio de otra u otras o de cualquier acto jurídico, obtiene u obtienen el beneficio derivado de su participación en una persona moral, un fideicomiso o cualquier otra figura jurídica, así como de cualquier otro acto jurídico, o es quien o quienes en última instancia ejerce o ejercen los derechos de uso, goce, disfrute, aprovechamiento o disposición de un bien o servicio o en cuyo nombre se realiza una transacción, aun y cuando lo haga o hagan de forma contingente."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Directa, indirectamente o de forma contingente, ejerzan el control de la persona moral, fideicomiso o cualquier otra figura jurídica. Se entiende que una persona física o grupo de personas físicas ejerce el control cuando, a través de la titularidad de valores, por contrato o por cualquier otro acto jurídico, puede o pueden:",
+        "Incisos": [
+      {
+        "Inciso": "a",
+        "Texto": "Imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes."
+      },
+      {
+        "Inciso": "b",
+        "Texto": "Mantener la titularidad de los derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del 15% del capital social o bien."
+      },
+      {
+        "Inciso": "c",
+        "Texto": "Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la persona moral, fideicomiso o cualquier otra figura jurídica."
+      }
+    ]
+    }
+    ],
+    "NotasOrientadoras": [
+      "Este artículo define con precisión quién se considera beneficiario controlador para efectos fiscales.",
+      "Incluye tanto a quienes obtienen beneficios como a quienes ejercen control directo, indirecto o contingente.",
+      "Detalla tres criterios de control: decisiones corporativas, voto sobre capital social y dirección estratégica.",
+      "La definición busca cerrar espacios de evasión fiscal mediante estructuras jurídicas complejas o indirectas."
+    ]
+  },
+  {
+    "PalabraClave": "Beneficiario controlador, actualización, fideicomisos, figuras jurídicas",
+    "Ley": "CFF",
+    "Artículo": "32-B Quinquies",
+    "Texto": "Las personas morales, las fiduciarias, los fideicomitentes o fideicomisarios, en el caso de fideicomisos; así como las partes contratantes o integrantes, en el caso de cualquier otra figura jurídica, deberán mantener actualizada la información referente a los beneficiarios controladores a que se refiere el artículo 32-B Ter de este Código. Cuando haya modificaciones en la identidad o participación de los beneficiarios controladores, las personas morales; las fiduciarias, los fideicomitentes o fideicomisarios, en el caso de fideicomisos; así como las partes contratantes o integrantes, en el caso de cualquier otra figura jurídica, deberán actualizar dicha información dentro de los quince días naturales siguientes a la fecha en que se haya suscitado la modificación de que se trate.",
+    "Fracciones": [],
+    "Párrafos": [],
+    "NotasOrientadoras": [
+      "Este artículo complementa el 32-B Ter al establecer la obligación de mantener actualizada la información de beneficiarios controladores.",
+      "La actualización debe realizarse dentro de los quince días naturales posteriores a cualquier modificación.",
+      "Aplica a personas morales, fideicomisos y otras figuras jurídicas que estén obligadas a identificar beneficiarios.",
+      "Busca asegurar que la información fiscal relevante esté vigente y disponible para el SAT en todo momento."
+    ]
+  },
+  {
+    "PalabraClave": "Factoraje, notificación, derechos de crédito, sociedades financieras",
+    "Ley": "CFF",
+    "Artículo": "32-C",
+    "Texto": "Las empresas de factoraje, y las sociedades financieras de objeto múltiple, estarán obligadas, en todos los casos, a notificar al deudor la transmisión de derechos de crédito operado en virtud de un contrato de factoraje financiero, excepto en el caso de factoraje con mandato de cobranza o factoraje con cobranza delegada.",
+    "Fracciones": [],
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "Estarán obligados a recibir la notificación a que se refiere el párrafo anterior, los deudores de los derechos transmitidos a empresas de factoraje financiero, y a sociedades financieras de objeto múltiple."
+      },
+      {
+        "Párrafo": "3",
+        "Texto": "La notificación deberá realizarse dentro de un plazo que no excederá de diez días a partir de la fecha en que operó la transmisión correspondiente. La notificación se realizará por cualquiera de los medios previstos en el caso de empresas de factoraje financiero, por el artículo 45-K de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y en el caso de sociedades financieras de objeto múltiple, por el artículo 427 de la Ley General de Títulos y Operaciones de Crédito."
+      }
+    ],
+    "NotasOrientadoras": [
+      "Este artículo establece la obligación de notificar al deudor cuando se transmiten derechos de crédito mediante contratos de factoraje financiero.",
+      "La obligación aplica a empresas de factoraje y sociedades financieras de objeto múltiple, salvo en casos específicos de cobranza delegada.",
+      "Los deudores están obligados a recibir dicha notificación, lo que formaliza la transmisión de derechos.",
+      "La notificación debe realizarse en un plazo máximo de diez días, conforme a leyes específicas según el tipo de entidad financiera."
+    ]
+  },
+  {
+  "PalabraClave": "Recursos públicos, contrataciones, impedimentos, contribuyentes",
+  "Ley": "CFF",
+  "Artículo": "32-D",
+  "Texto": "Cualquier autoridad, ente público, entidad, órgano u organismo de los poderes Legislativo, Ejecutivo y Judicial, de la Federación, de las entidades federativas y de los municipios, órganos autónomos, partidos políticos, fideicomisos y fondos, así como cualquier persona física, moral o sindicato, que reciban y ejerzan recursos públicos federales, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con las personas físicas, morales o entes jurídicos que:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Tengan a su cargo créditos fiscales firmes."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "No se encuentren inscritos en el Registro Federal de Contribuyentes."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Habiendo vencido el plazo para presentar alguna declaración, provisional o no, así como aquellas declaraciones correspondientes a retenciones y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción también aplicará a la falta de cumplimiento de cualquier otra declaración informativa, que establezca el Servicio de Administración Tributaria mediante reglas de carácter general."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Estando inscritos en el registro federal de contribuyentes, se encuentren como no localizados."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Tengan sentencia condenatoria firme por algún delito fiscal. El impedimento para contratar será por un periodo igual al de la pena impuesta, a partir de que cause firmeza la sentencia."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "No hayan desvirtuado la presunción de emitir comprobantes fiscales que amparan operaciones inexistentes o transmitir indebidamente pérdidas fiscales y, por tanto, se encuentren en los listados a que se refieren los artículos 69-B, cuarto párrafo o 69-B Bis, noveno párrafo de este Código."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Hayan manifestado en las declaraciones de pagos provisionales, retenciones, definitivos o anuales, ingresos y retenciones que no concuerden con los comprobantes fiscales digitales por Internet, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Incumplan con las obligaciones establecidas en los artículos 32-B Ter y 32-B Quinquies de este Código."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece restricciones para contratar con entidades que manejan recursos públicos federales.",
+    "Busca evitar que se celebren contratos con contribuyentes que incumplen obligaciones fiscales o presentan irregularidades.",
+    "Las fracciones detallan distintos supuestos que impiden la contratación, como adeudos fiscales, falta de inscripción en el RFC, o estar en listas negras del SAT.",
+    "Promueve la transparencia y el cumplimiento fiscal como requisito para acceder a recursos públicos."
+  ]
+  },
+  {
+    "PalabraClave": "Tarjetas, estados de cuenta, comprobación, SAT",
+    "Ley": "CFF",
+    "Artículo": "32-E",
+    "Texto": "Las personas morales que emitan tarjetas de crédito, de débito, de servicio o las denominadas monederos electrónicos autorizadas por el Servicio de Administración Tributaria deberán expedir los estados de cuenta en términos de las disposiciones aplicables.",
+    "Fracciones": [],
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "En aquellos casos en los que las autoridades fiscales hayan iniciado el ejercicio de sus facultades de comprobación respecto de un contribuyente, éstas podrán optar por solicitar directamente a las entidades financieras, las sociedades cooperativas de ahorro y préstamo y las personas morales que emitan tarjetas de crédito, de débito o de servicio o monederos electrónicos, la información contenida en el estado de cuenta, siempre que dichas autoridades cuenten con la denominación de la institución o persona moral y especifique el número de cuenta y el nombre del cuentahabiente o usuario, para el efecto de verificar la información contenida en los mismos, de conformidad con las disposiciones aplicables."
+      }
+    ],
+    "NotasOrientadoras": [
+      "Este artículo regula la emisión de estados de cuenta por parte de entidades que manejan tarjetas y monederos electrónicos.",
+      "Faculta al SAT para solicitar directamente información de cuentas cuando se ejerzan facultades de comprobación.",
+      "La solicitud debe incluir datos específicos como nombre del cuentahabiente y número de cuenta.",
+      "Busca facilitar la verificación de información fiscal mediante acceso directo a datos financieros."
+    ]
+  },
+  {
+    "PalabraClave": "Donación, destrucción, mercancías, subsistencia",
+    "Ley": "CFF",
+    "Artículo": "32-F",
+    "Texto": "Los contribuyentes que de conformidad con las disposiciones fiscales puedan destruir mercancías que hayan perdido su valor por deterioro u otras causas, para poder ejercer ese derecho, tratándose de bienes básicos para la subsistencia humana en materia de alimentación o salud, cuyo costo de adquisición o producción lo hubieran deducido para los efectos del impuesto sobre la renta, están obligados en forma previa a la destrucción, a ofrecerlas en donación a las instituciones autorizadas para recibir donativos deducibles conforme a la Ley del Impuesto sobre la Renta y que estén dedicadas a la atención de requerimientos básicos de subsistencia en materia de alimentación o salud de personas, sectores, comunidades o regiones, de escasos recursos.",
+    "Fracciones": [],
+    "Párrafos": [],
+    "NotasOrientadoras": [
+      "Este artículo impone una obligación previa a la destrucción de mercancías deducidas fiscalmente.",
+      "Si se trata de bienes básicos para alimentación o salud, deben ofrecerse en donación antes de destruirse.",
+      "La donación debe hacerse a instituciones autorizadas que atiendan necesidades de subsistencia.",
+      "Promueve la responsabilidad social y evita el desperdicio de productos útiles para comunidades vulnerables."
+    ]
+  },
+  {
+  "PalabraClave": "Gobierno, retenciones, proveedores, información fiscal",
+  "Ley": "CFF",
+  "Artículo": "32-G",
+  "Texto": "La Federación, las Entidades Federativas, el Distrito Federal, y sus Organismos Descentralizados, así como los Municipios, tendrán la obligación de presentar ante las autoridades fiscales, a través de los medios y formatos electrónicos que señale el Servicio de Administración, la información relativa a:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Las personas a las que en el mes inmediato anterior les hubieren efectuado retenciones de impuesto sobre la renta, así como de los residentes en el extranjero a los que les hayan efectuado pagos de acuerdo con lo previsto en el Título V de la Ley del Impuesto sobre la Renta."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Los proveedores a los que les hubiere efectuado pagos, desglosando el valor de los actos o actividades por tasa a la cual trasladaron o les fue trasladado el impuesto al valor agregado y el impuesto especial sobre producción y servicios, incluyendo actividades por las que el contribuyente no está obligado al pago."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece obligaciones de información para entidades gubernamentales que manejan recursos públicos.",
+    "Deben reportar mensualmente las retenciones de ISR realizadas a personas físicas y pagos a residentes en el extranjero.",
+    "También deben informar sobre pagos a proveedores, detallando impuestos trasladados como IVA y IEPS.",
+    "Busca fortalecer la fiscalización y control del uso de recursos públicos mediante transparencia tributaria."
+  ]
+  },
+  {
+  "PalabraClave": "Situación fiscal, declaración, contribuyentes, SAT",
+  "Ley": "CFF",
+  "Artículo": "32-H",
+  "Texto": "Los contribuyentes que a continuación se señalan deberán presentar ante las autoridades fiscales, como parte de la declaración del ejercicio, la información sobre su situación fiscal, utilizando los medios y formatos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $1,062,919,860.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Las sociedades mercantiles que pertenezcan al régimen fiscal opcional para grupos de sociedades en los términos del Capítulo VI, Título II de la Ley del Impuesto sobre la Renta."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las entidades paraestatales de la administración pública federal."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las personas morales residentes en el extranjero que tengan establecimiento permanente en el país, únicamente por las actividades que desarrollen en dichos establecimientos."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Cualquier persona moral residente en México, respecto de las operaciones llevadas a cabo con residentes en el extranjero."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Los contribuyentes que sean partes relacionadas de los sujetos establecidos en el artículo 32-A, segundo párrafo de este Código."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece qué contribuyentes deben presentar información sobre su situación fiscal como parte de la declaración anual.",
+    "Incluye grandes contribuyentes, entidades paraestatales, grupos de sociedades, y personas morales con operaciones internacionales.",
+    "El SAT determinará los medios y formatos mediante reglas de carácter general.",
+    "Busca fortalecer la transparencia fiscal y el control sobre operaciones relevantes y transfronterizas."
+  ]
+  },
+  {
+  "PalabraClave": "Certificación, terceros autorizados, SAT, verificación",
+  "Ley": "CFF",
+  "Artículo": "32-I",
+  "Texto": "El Servicio de Administración Tributaria podrá autorizar a personas morales para que funjan como órganos certificadores que se encargarán de garantizar y verificar que los terceros autorizados cumplan con los requisitos y obligaciones para obtener y conservar las autorizaciones que para tales efectos emita el citado órgano administrativo desconcentrado.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Dichos órganos certificadores deberán cumplir con los requisitos y obligaciones que establezca el Servicio de Administración Tributaria mediante reglas de carácter general."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite al SAT autorizar personas morales como órganos certificadores para verificar el cumplimiento de terceros autorizados.",
+    "Los órganos certificadores deben cumplir con requisitos específicos establecidos por el SAT.",
+    "Fortalece el control y supervisión sobre entidades que operan bajo autorización fiscal.",
+    "Promueve la profesionalización y estandarización de procesos de verificación fiscal."
+  ]
+  },
+  {
+  "PalabraClave": [
+    "Asistencia fiscal, Herramientas electrónicas, Síndicos fiscales, Prevención de problemas"
+  ],
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "33",
+  "Texto": "Las autoridades fiscales para el mejor cumplimiento de sus facultades, estarán a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Proporcionarán asistencia gratuita a los contribuyentes y ciudadanía, procurando:",
+      "Incisos": [
+        {
+          "Inciso": "a)",
+          "Texto": "Explicar las disposiciones fiscales, así como informar sobre las posibles consecuencias en caso de no cumplir con las mismas, utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, proporcionar material impreso o digital de apoyo. Así como, ejercer las acciones en materia de civismo fiscal y cultura contributiva para fomentar valores y principios para la promoción de la formalidad y del cumplimiento de las obligaciones fiscales."
+        },
+        {
+          "Inciso": "b)",
+          "Texto": "Mantener oficinas en diversos lugares del territorio nacional que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones fiscales; invitarlos a acudir a dichas oficinas con el objeto de poder orientarles en cuanto a la corrección de su situación fiscal para el correcto cumplimiento de sus obligaciones fiscales; orientarles y auxiliarles a través de medios electrónicos, poniendo a su disposición el equipo para ello."
+        },
+        {
+          "Inciso": "c)",
+          "Texto": "Elaborar las herramientas electrónicas, formas o formatos de declaración de manera que puedan ser llenadas y presentadas fácilmente, para lo cual, serán difundidas y puestas a disposición de los contribuyentes con oportunidad, así como informar de las fechas y medios de presentación de todas las declaraciones."
+        },
+        {
+          "Inciso": "d)",
+          "Texto": "Señalar en forma precisa en los requerimientos mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos a que estén obligados, cuál es el documento cuya presentación se exige."
+        },
+        {
+          "Inciso": "e)",
+          "Texto": "Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales."
+        },
+        {
+          "Inciso": "f)",
+          "Texto": "Efectuar en distintas partes del país reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales y durante los principales periodos de presentación de declaraciones."
+        },
+        {
+          "Inciso": "g)",
+          "Texto": "Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a periodos inferiores a un año. Las resoluciones que se emitan conforme a este inciso y que se refieran a sujeto, objeto, base, tasa o tarifa, no generarán obligaciones o cargas adicionales a las establecidas en las propias leyes fiscales."
+        },
+        {
+          "Inciso": "h)",
+          "Texto": "Dar a conocer en forma periódica, mediante publicación en el Diario Oficial de la Federación, los criterios no vinculativos de las disposiciones fiscales y aduaneras."
+        },
+        {
+          "Inciso": "i)",
+          "Texto": "Dar a conocer en forma periódica y en general para los contribuyentes de la Ley del Impuesto sobre la Renta, parámetros de referencia con respecto a la utilidad, conceptos deducibles o tasas efectivas de impuesto que presentan otras entidades o figuras jurídicas que obtienen ingresos, contraprestaciones o márgenes de utilidad por la realización de sus actividades con base en el sector económico o industria a la que pertenecen."
+        }
+      ]
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Establecerán Programas de Prevención y Resolución de Problemas del Contribuyente, a fin de que los contribuyentes designen síndicos que los representen ante las autoridades fiscales, los cuales podrán solicitar opiniones o recomendaciones a las autoridades fiscales, respecto de los asuntos que les sean planteados por los contribuyentes. Los síndicos deberán reunir los siguientes requisitos:",
+      "Incisos": [
+        {
+          "Inciso": "a)",
+          "Texto": "Ser licenciado en derecho, contador público o carrera afín."
+        },
+        {
+          "Inciso": "b)",
+          "Texto": "Contar con reconocida experiencia y solvencia moral, así como con el tiempo necesario para participar con las autoridades fiscales en las acciones que contribuyan a prevenir y resolver los problemas de sus representados."
+        },
+        {
+          "Inciso": "c)",
+          "Texto": "Prestar sus servicios en forma gratuita."
+        }
+      ]
+    },
+    {
+      "Fracción" : "III", "Texto": "Para los efectos de lo dispuesto en este artículo, la autoridad fiscal, para el mejor ejercicio de sus facultades y las de asistencia al contribuyente, podrá generar la clave de Registro Federal de Contribuyentes con base en la información de la Clave Única de Registro de Población a fin de facilitar la inscripción a dicho Registro; podrá realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y aduaneras y promover su incorporación voluntaria o actualización de sus datos en el registro federal de contribuyentes. "
+      },
+      {
+      "Fracción" : "IV", "Texto": "Promover el cumplimiento en materia de presentación de declaraciones, así como las correcciones a su situación fiscal mediante el envío de: ",
+      "Incisos":[
+        {
+          "Inciso": "a)",
+          "Texto": "Propuestas de pago o declaraciones prellenadas."
+        },
+        {
+          "Inciso" : "b)",
+          "Texto": "Comunicados para promover el cumplimiento de sus obligaciones fiscales. "
+        },
+        {"Inciso" : "c)",
+        "Texto" : "Comunicados para informar sobre inconsistencias detectadas o comportamientos atípicos."
+
+          }
+        ]
+      }
+    ],
+  "NotasOrientadoras": [
+    "Este artículo establece las acciones de orientación y asistencia que deben brindar las autoridades fiscales.",
+    "Los incisos detallan mecanismos concretos para facilitar el cumplimiento voluntario de las obligaciones fiscales.",
+    "Se promueve una relación más transparente y accesible entre contribuyentes y autoridades.",
+    "La figura del síndico permite canalizar inquietudes y resolver problemas de forma anticipada.",
+    "**Principio rector: Promoción del cumplimiento voluntario mediante asistencia, representación ética y transparencia fiscal.**"
+    ]
+  },
+  {
+  "PalabraClave": [
+    "Aclaraciones fiscales, Plazo de seis días, Resoluciones notificadas, Expediente fiscal, Reglas generales"
+  ],
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "33-A",
+  "Texto": "Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo de seis días siguientes a aquél en que haya surtido efectos la notificación de las resoluciones a que se refieren los artículos 41, fracciones I y III, 78, 79 y 81, fracciones I, II y VI de este Código, así como en los casos en que la autoridad fiscal determine mediante reglas de carácter general, a efecto de hacer las aclaraciones que consideren pertinentes, debiendo la autoridad, resolver en un plazo de seis días contados a partir de que quede debidamente integrado el expediente mediante el procedimiento previsto en las citadas reglas.",
+  "NotasOrientadoras": [
+    "Este artículo establece un mecanismo ágil para que los particulares aclaren resoluciones fiscales notificadas.",
+    "El plazo de seis días aplica tanto para los contribuyentes como para la autoridad fiscal, promoviendo eficiencia procesal.",
+    "Las aclaraciones se rigen por reglas de carácter general emitidas por la autoridad fiscal.",
+    "La integración del expediente es condición para que inicie el cómputo del plazo de resolución.",
+    "**Principio rector: Garantía de pronta respuesta y derecho de aclaración ante actos fiscales.**"
+  ]
+ },
+ {
+  "PalabraClave": "Lotería fiscal, Sorteos tributarios, Premios fiscales",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "33-B",
+  "Texto": "Se faculta al Servicio de Administración Tributaria para que lleve a cabo la celebración de sorteos de lotería fiscal, en los que participen las personas que determine dicho órgano, tomando en cuenta los siguientes lineamientos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Cuando la participación en el sorteo se base en los comprobantes fiscales digitales por Internet emitidos por los contribuyentes que realicen la enajenación de bienes, la prestación de servicios o la concesión del uso o goce temporal de bienes inmuebles, no podrán participar las personas que realicen actividades empresariales."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Cuando en algún sorteo el premio ofrecido se pague por terceros por cuenta del Gobierno Federal, el monto entregado por los pagadores podrá ser acreditable contra los impuestos federales que el Servicio de Administración Tributaria determine en las bases del sorteo, sin que dé lugar a la devolución."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Cuando los premios consistan en bienes, el Servicio de Administración Tributaria deberá observar las normas presupuestales aplicables a la adquisición y enajenación de dichos bienes."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "El Servicio de Administración Tributaria, mediante reglas de carácter general, establecerá las bases para los sorteos, los premios, las fechas, las personas que podrán participar y demás requisitos a que se sujetará su realización."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Cuando el monto de los premios a repartir no consista en bienes, la Secretaría de Hacienda y Crédito Público fijará el monto total máximo a repartir por sorteo, previa solicitud que el Servicio de Administración Tributaria formule a la dependencia mencionada."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Los sorteos a que se refiere el presente artículo deberán cumplir con lo dispuesto en la Ley Federal de Juegos y Sorteos."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo autoriza al SAT a organizar sorteos como incentivo fiscal.",
+    "Se establecen restricciones de participación para personas con actividad empresarial.",
+    "Los premios pueden ser financiados por terceros y acreditados contra impuestos, sin devolución.",
+    "La SHCP interviene en la fijación de montos máximos cuando los premios no son bienes.",
+    "**Principio rector: Incentivación del cumplimiento fiscal mediante mecanismos lúdicos regulados.**"
+  ]
+  },
+  {
+  "PalabraClave": "Consultas fiscales",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "34",
+  "Texto": "Las autoridades fiscales sólo estarán obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo limita la obligación de respuesta a consultas individuales y específicas.",
+    "Evita que las autoridades fiscales respondan sobre hipótesis o escenarios generales.",
+    "Protege la operatividad de la administración tributaria frente a solicitudes masivas.",
+    "Garantiza que las respuestas se basen en hechos concretos y verificables.",
+    "**Principio rector: Vinculación administrativa limitada a casos reales y personalizados.**"
+  ]
+  },
+  {
+  "PalabraClave": "Precios, Tratados fiscales, Resolución anticipada, Vigencia plurianual",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "34-A",
+  "Texto": "Las autoridades fiscales podrán resolver las consultas que formulen los interesados relativas a la metodología utilizada en la determinación de los precios o montos de las contraprestaciones, en operaciones con partes relacionadas, en los términos del artículo 179 de la Ley del Impuesto sobre la Renta, siempre que el contribuyente presente la información, datos y documentación, necesarios para la emisión de la resolución correspondiente. Estas resoluciones podrán derivar de un acuerdo con las autoridades competentes de un país con el que se tenga un tratado para evitar la doble tributación.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Las resoluciones que en su caso se emitan en los términos de este artículo, podrán surtir sus efectos en el ejercicio en que se soliciten, en el ejercicio inmediato anterior y hasta por los tres ejercicios fiscales siguientes a aquél en que se soliciten. La vigencia podrá ser mayor cuando deriven de un procedimiento amistoso, en los términos de un tratado internacional de que México sea parte."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Requiere documentación técnica para emitir una respuesta válida.",
+    "Las resoluciones pueden tener efectos retroactivos y plurianuales.",
+    "Se vincula con tratados internacionales para evitar la doble tributación.",
+    "**Principio rector: Seguridad jurídica en operaciones internacionales mediante acuerdos previos.**"
+  ]
+  },
+  {
+  "PalabraClave": "Criterios fiscales, Publicación oficial, Derechos del contribuyente, No vinculación",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "35",
+  "Texto": "Los funcionarios fiscales facultados debidamente podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Diario Oficial de la Federación.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Aclara que dichos criterios no generan obligaciones para los contribuyentes.",
+    "Solo adquieren efectos jurídicos si se publican en el Diario Oficial de la Federación.",
+    "Protege a los particulares frente a interpretaciones no oficiales.",
+    "**Principio rector: Publicidad como condición para la vinculación jurídica de criterios fiscales.**"
+  ]
+  },
+  {
+  "PalabraClave": "Resoluciones administrativas, Tribunal Fiscal, Modificación limitada, Efectos previos, Revisión discrecional",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "36",
+  "Texto": "Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal Federal de Justicia Fiscal y Administrativa mediante juicio iniciado por las autoridades fiscales.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando la Secretaría de Hacienda y Crédito Público modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Las resoluciones favorables sólo pueden ser modificadas por el Tribunal Fiscal, no por la propia autoridad.",
+    "Las resoluciones generales modificadas no afectan retroactivamente a actos ya consumados.",
+    "Se permite una revisión discrecional de resoluciones desfavorables, bajo condiciones estrictas.",
+    "La modificación en beneficio del contribuyente exige que no haya defensa interpuesta ni prescripción.",
+    "**Principio rector: Protección de la seguridad jurídica del contribuyente frente a actos administrativos.**"
+  ]
+  },
+  {
+  "PalabraClave": "Resoluciones fiscales, Régimen fiscal, Autorización administrativa, Efectos retroactivos, Solicitud oportuna",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "36 Bis",
+  "Texto": "Las resoluciones administrativas de carácter individual o dirigidas a agrupaciones, dictadas en materia de impuestos que otorguen una autorización o que, siendo favorables a particulares, determinen un régimen fiscal, surtirán sus efectos en el ejercicio fiscal del contribuyente en el que se otorguen o en el ejercicio inmediato anterior, cuando se hubiera solicitado la resolución, y ésta se otorgue en los tres meses siguientes al cierre del mismo.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Al concluir el ejercicio para el que se hubiere emitido una resolución de las que señala el párrafo anterior, los interesados podrán someter las circunstancias del caso a la autoridad fiscal competente para que dicte la resolución que proceda."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Permite que resoluciones favorables surtan efectos retroactivos si se solicitan oportunamente.",
+    "Aplica tanto a personas físicas como a agrupaciones que reciban autorizaciones o regímenes fiscales.",
+    "Establece un plazo de tres meses para que la resolución tenga efectos en el ejercicio anterior.",
+    "Faculta a los contribuyentes a solicitar nueva resolución al concluir el ejercicio fiscal.",
+    "**Principio rector: Continuidad y certeza jurídica en la aplicación de resoluciones fiscales favorables.**"
+  ]
+  },
+  {
+  "PalabraClave": "Peticiones fiscales, Plazo de resolución, Silencio administrativo, Defensa jurídica, Resolución pendiente",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "37",
+  "Texto": "Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de tres meses; transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien, esperar a que ésta se dicte.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Establece un plazo máximo de tres meses para que la autoridad fiscal resuelva peticiones.",
+    "Reconoce el silencio administrativo como resolución negativa tácita.",
+    "Faculta al contribuyente a interponer medios de defensa sin límite de tiempo posterior.",
+    "Permite al interesado optar por esperar la resolución formal si lo prefiere.",
+    "**Principio rector: Protección del derecho de petición y acceso a medios de defensa ante omisión administrativa.**"
+  ]
+  },
+  {
+  "PalabraClave": "Acto administrativo, Notificación fiscal",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "38",
+  "Texto": "Los actos administrativos que se deban notificar deberán tener, por lo menos, los siguientes requisitos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Constar por escrito en documento impreso o digital."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Señalar la autoridad que lo emite."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Señalar lugar y fecha de emisión."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Estar fundado, motivado y expresar la resolución, objeto o propósito de que se trate."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Ostentar la firma del funcionario competente. En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Señalar el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Establece los requisitos mínimos para que un acto administrativo sea válido y notificable.",
+    "Reconoce la equivalencia jurídica entre firma autógrafa y firma electrónica avanzada.",
+    "Exige claridad en la identificación del destinatario, incluso si se desconoce su nombre.",
+    "Refuerza la necesidad de fundamentación y motivación como garantía de legalidad.",
+    "**Principio rector: Formalidad y transparencia en la emisión y notificación de actos administrativos.**"
+  ]
+  },
+  {
+  "PalabraClave": "Condonación fiscal, Estímulos fiscales",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "39",
+  "Texto": "El Ejecutivo Federal mediante resoluciones de carácter general podrá:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del país, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Dictar las medidas relacionadas con la administración, control, forma de pago y señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Conceder subsidios o estímulos fiscales."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Otorga al Ejecutivo Federal facultades extraordinarias para emitir resoluciones fiscales generales.",
+    "Permite condonaciones y facilidades de pago en contextos de afectación económica o desastres.",
+    "Facilita el cumplimiento tributario sin alterar elementos esenciales del gravamen.",
+    "Autoriza la concesión de subsidios o estímulos fiscales como política económica.",
+    "**Principio rector: Intervención fiscal excepcional para proteger sectores vulnerables y fomentar el cumplimiento.**"
+  ]
+  },
+  {
+  "PalabraClave": "Medidas de apremio, Obstrucción fiscal, Fuerza pública, Multa, Aseguramiento precautorio",
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "40",
+  "Texto": "Las autoridades fiscales podrán emplear las medidas de apremio que se indican a continuación, cuando los contribuyentes, los responsables solidarios o terceros relacionados con ellos, impidan de cualquier forma o por cualquier medio el inicio o desarrollo de sus facultades, observando estrictamente el siguiente orden:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Solicitar el auxilio de la fuerza pública."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Imponer la multa que corresponda en los términos de este Código."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Practicar el aseguramiento precautorio de los bienes o de la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo 40-A de este Código, conforme a las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Solicitar a la autoridad competente se proceda por desobediencia o resistencia, por parte del contribuyente, responsable solidario o tercero relacionado con ellos, a un mandato legítimo de autoridad competente."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Establece un orden estricto para aplicar medidas de apremio ante obstrucción fiscal.",
+    "Permite el uso de fuerza pública como primera medida ante resistencia activa.",
+    "Incluye el aseguramiento precautorio como herramienta para proteger la fiscalización.",
+    "Faculta a la autoridad para denunciar desobediencia ante instancias competentes.",
+    "**Principio rector: Ejecución progresiva y proporcional de medidas ante obstrucción tributaria.**"
+  ]
+  }
+
+
+]
+
