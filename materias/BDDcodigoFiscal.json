@@ -5174,6 +5174,659 @@
     "Las penas se gradúan según el monto defraudado, con rangos específicos.",
     "La norma busca disuadir el fraude fiscal y proteger los ingresos públicos."
   ]
-}
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "109",
+  "PalabraClave": "conductas equiparables a defraudación fiscal",
+  "Texto": "Será sancionado con las mismas penas del delito de defraudación fiscal, quien:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Consigne en las declaraciones que presente para los efectos fiscales, deducciones falsas o ingresos acumulables menores a los realmente obtenidos o valor de actos o actividades menores a los realmente obtenidos o realizados o determinados conforme a las leyes. En la misma forma será sancionada aquella persona física que perciba ingresos acumulables, cuando realice en un ejercicio fiscal erogaciones superiores a los ingresos declarados en el propio ejercicio y no compruebe a la autoridad fiscal el origen de la discrepancia en los plazos y conforme al procedimiento establecido en la Ley del Impuesto sobre la Renta."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido o recaudado."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Se beneficie sin derecho de un subsidio o estímulo fiscal."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Simule uno o más actos o contratos obteniendo un beneficio indebido con perjuicio del fisco federal."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Sea responsable por omitir presentar por más de doce meses las declaraciones que tengan carácter de definitivas, así como las de un ejercicio fiscal que exijan las leyes fiscales, dejando de pagar la contribución correspondiente."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Darle efectos fiscales a los comprobantes digitales cuando no reúnan los requisitos de los artículos 29 y 29-A de este Código."
+    }
+  ],
+  "Procedimiento": "Las conductas descritas en este artículo, como declarar ingresos falsos, omitir contribuciones retenidas, simular actos o usar comprobantes inválidos, se sancionan con las mismas penas que el delito de defraudación fiscal.",
+  "NotasOrientadoras": [
+    "Este artículo amplía el alcance de la defraudación fiscal a conductas equiparables.",
+    "La simulación, omisión o falsedad en declaraciones fiscales son sancionables.",
+    "El uso indebido de comprobantes digitales también constituye delito.",
+    "Se protege al fisco federal frente a prácticas evasivas y simuladas."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "110",
+  "PalabraClave": "delitos relacionados con el registro fiscal",
+  "Texto": "Se impondrá sanción de tres meses a tres años de prisión, a quien:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Omita solicitar su inscripción o la de un tercero en el registro federal de contribuyentes por más de un año contado a partir de la fecha en que debió hacerlo, a menos que se trate de personas cuya solicitud de inscripción deba ser presentada por otro aún en el caso en que éste no lo haga."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Rinda con falsedad al citado registro, los datos, informes o avisos a que se encuentra obligado."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Use intencionalmente más de una clave del Registro Federal de Contribuyentes."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Modifique, destruya o provoque la pérdida de la información que contenga el buzón tributario con el objeto de obtener indebidamente un beneficio propio o para terceras personas en perjuicio del fisco federal, o bien ingrese de manera no autorizada a dicho buzón, a fin de obtener información de terceros."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Desocupe o desaparezca del lugar donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al registro federal de contribuyentes, después de la notificación de la de visita domiciliaria o del requerimiento de la contabilidad, documentación o información, de conformidad con la fracción II del artículo 42 de este Código, o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, o que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente tenga la obligación de presentar dicho aviso, o cuando las autoridades fiscales tengan conocimiento de que fue desocupado el domicilio derivado del ejercicio de sus facultades de comprobación."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "A quien mediante cualquier medio físico, documental, electrónico, óptico, magnético o de cualquier otra clase de tecnología, suplante la identidad, representación o personalidad de un contribuyente."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "A quien otorgue su consentimiento para llevar a cabo la suplantación de su identidad."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Incite a una persona física a inscribirse en el registro federal de contribuyentes para utilizar sus datos de forma indebida."
+    }
+  ],
+  "Procedimiento": "Este artículo sanciona conductas relacionadas con el registro fiscal, como omitir la inscripción, falsificar datos, usar múltiples claves, manipular el buzón tributario, suplantar identidades o incitar a inscripciones indebidas. Las penas van de tres meses a tres años de prisión.",
+  "NotasOrientadoras": [
+    "Este artículo tipifica delitos vinculados al Registro Federal de Contribuyentes.",
+    "La suplantación de identidad y el uso indebido del buzón tributario son sancionables.",
+    "Se penaliza la omisión de inscripción y el abandono del domicilio fiscal sin aviso.",
+    "La norma protege la integridad del sistema fiscal digital y documental."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "111",
+  "PalabraClave": "delitos contables y fiscales",
+  "Texto": "Se impondrá sanción de tres meses a tres años de prisión, a quien:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Registre sus operaciones contables, fiscales o sociales en dos o más libros o en dos o más sistemas de contabilidad con diferentes contenidos."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Oculte, altere o destruya total o parcialmente los libros sistemas o registros contables, así como la documentación relativa a los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar o, estando obligado a tenerlos no cuente con ellos."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Determine pérdidas con falsedad."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Sea responsable de omitir la presentación por más de tres meses, de la declaración informativa a que se refiere el primer párrafo del artículo 178 de la Ley del Impuesto sobre la Renta, o presentarla en forma incompleta."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Por sí, o por interpósita persona, divulgue, haga uso personal o indebido, a través de cualquier medio o forma, de la información confidencial que afecte la posición competitiva proporcionada por terceros a que se refieren los artículos 46, fracción IV y 48, fracción VII de este Código."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Derogada."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Asiente con información falsa o de manera inadecuada las operaciones o transacciones contables, fiscales o sociales, o que cuente con documentación falsa relacionada con dichos asientos."
+    }
+  ],
+  "Procedimiento": "Este artículo sanciona diversas conductas que alteran la veracidad o integridad de la contabilidad fiscal, como registros duplicados, destrucción de documentos, falsedad en pérdidas, omisión de declaraciones y uso indebido de información confidencial.",
+  "NotasOrientadoras": [
+    "Se penaliza la manipulación o destrucción de registros contables obligatorios.",
+    "La omisión de declaraciones informativas también constituye delito.",
+    "El uso indebido de información confidencial afecta la competencia fiscal.",
+    "La falsedad documental o contable compromete la transparencia tributaria."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "111 Bis",
+  "PalabraClave": "delitos en controles volumétricos y comercialización ilícita",
+  "Texto": "Se impondrá sanción de 3 a 8 años de prisión a quien:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "No cuente con los controles volumétricos de hidrocarburos o petrolíferos a que hace referencia el artículo 28, fracción I, apartado B de este Código, o contando con éstos, los altere, inutilice o destruya."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "No cuente con los equipos y programas informáticos para llevar los controles volumétricos referidos en el artículo 28, fracción I, apartado B de este ordenamiento, o contando con éstos, no los mantenga en operación en todo momento, los altere, inutilice o destruya."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "No cuente con los certificados que acrediten la correcta operación y funcionamiento de los equipos y programas informáticos para llevar los controles volumétricos mencionados en el artículo 28, fracción I, apartado B de este Código, o contando con éstos, los altere o falsifique."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Proporcione a la autoridad fiscal registros falsos, incompletos o inexactos en los controles volumétricos a que hace referencia el artículo 28, fracción I, apartado B de este Código."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Cuente, instale, fabrique o comercialice cualquier sistema o programa cuya finalidad sea alterar los registros de volumen o de la información contenida en los equipos o programas informáticos para llevar controles volumétricos referidos en el artículo 28, fracción I, apartado B de este ordenamiento."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Haya dado cualquier efecto fiscal a los comprobantes fiscales expedidos por un contribuyente incluido en el listado a que se refiere el artículo 69-B, cuarto párrafo de este Código, que amparen la adquisición de cualquier tipo de hidrocarburo o petrolífero, sin que haya demostrado la materialización de dichas operaciones o corregido su situación fiscal dentro del plazo legal establecido en el octavo párrafo del citado artículo."
+    }
+  ],
+     "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Se impondrá pena de prisión de 6 a 12 años a quien enajene hidrocarburos o petrolíferos de procedencia ilícita. Se considerará que los hidrocarburos o petrolíferos enajenados son de procedencia ilícita cuando:"
+    }
+  
+  "Incisos": [
+    {
+      "Inciso": "a)",
+      "Texto": "Exista una diferencia de más del 1.5% tratándose de hidrocarburos y petrolíferos líquidos o de 3% tratándose de hidrocarburos y petrolíferos gaseosos, en el volumen final de un mes de calendario, obtenido de sumar al volumen inicial en dicho periodo, las recepciones de producto y restar las entregas de producto de acuerdo con los controles volumétricos, en el mes revisado, con respecto al registro de volumen final del tanque medido por cada producto de cada instalación de acuerdo al reporte de información a que se refiere el artículo 28, fracción I, apartado B de este Código."
+    },
+    {
+      "Inciso": "b)",
+      "Texto": "Los litros de los hidrocarburos o petrolíferos, de acuerdo con los registros de entrega de los controles volumétricos, excedan, en más del 1.5% tratándose de hidrocarburos y petrolíferos líquidos o de 3% tratándose de hidrocarburos y petrolíferos gaseosos, de los que haya vendido de acuerdo con los litros amparados en el comprobante fiscal de la venta, y que reúnan requisitos fiscales, en el mes revisado."
+    },
+    {
+      "Inciso": "c)",
+      "Texto": "Los litros de los hidrocarburos o petrolíferos, de acuerdo con los registros de entrega de los controles volumétricos, excedan, en más del 1.5% tratándose de hidrocarburos y petrolíferos líquidos o de 3% tratándose de hidrocarburos y petrolíferos gaseosos, de los que haya recibido de acuerdo con los litros amparados en el comprobante fiscal de la compra, que reúna requisitos fiscales, o en los pedimentos de importación, considerando la capacidad total de los tanques o las existencias de acuerdo con los controles volumétricos, en el mes revisado."
+    }
+    ],
+    ],   
+  "Procedimiento": "Este artículo sanciona conductas relacionadas con el incumplimiento, manipulación o falsificación de controles volumétricos de hidrocarburos y petrolíferos. También penaliza la comercialización de producto de procedencia ilícita, determinada por discrepancias en registros de volumen y documentación fiscal.",
+  "NotasOrientadoras": [
+    "Se penaliza la alteración o falsificación de controles volumétricos y sus sistemas.",
+    "La sanción se agrava si se comercializan hidrocarburos de procedencia ilícita.",
+    "Las discrepancias volumétricas superiores al 1.5% o 3% son indicios de ilegalidad.",
+    "El artículo protege la trazabilidad fiscal y energética del país."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "112",
+  "PalabraClave": "uso indebido de bienes fiscales por depositario o interventor",
+  "Texto": "Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $200,030.00; cuando exceda, la sanción será de tres a nueve años de prisión.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El depositario o interventor que disponga indebidamente de bienes fiscales será sancionado penalmente. Si el valor no excede $200,030.00, la pena será de 3 meses a 6 años; si excede, será de 3 a 9 años.",
+  "NotasOrientadoras": [
+    "Este artículo sanciona el uso indebido de bienes fiscales por parte de funcionarios designados.",
+    "La pena se gradúa según el valor del bien dispuesto.",
+    "Se protege la integridad del patrimonio fiscal frente a abusos de confianza.",
+    "La norma aplica tanto si el beneficio es para sí como para terceros."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "113",
+  "PalabraClave": "alteración de dispositivos fiscales",
+  "Texto": "Se impondrá sanción de tres meses a seis años de prisión, al que:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes o precintos sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Se deroga."
+    }
+  ],
+  "Procedimiento": "Se sanciona penalmente a quien altere o destruya dispositivos fiscales como sellos, marcas, máquinas registradoras o posea marbetes sin autorización legal.",
+  "NotasOrientadoras": [
+    "Este artículo protege los mecanismos de control fiscal frente a sabotajes o uso indebido.",
+    "La posesión o enajenación ilegal de marbetes también constituye delito.",
+    "La pena busca disuadir la manipulación de instrumentos oficiales.",
+    "La fracción III ha sido derogada y ya no aplica."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "113 Bis",
+  "PalabraClave": "comprobantes fiscales falsos o simulados",
+  "Texto": "Se impondrá sanción de dos a nueve años de prisión, al que por sí o por interpósita persona, expida, enajene, compre o adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Será sancionado con las mismas penas, al que a sabiendas permita o publique, a través de cualquier medio, anuncios para la adquisición o enajenación de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones, será destituido del empleo e inhabilitado de uno a diez años para desempeñar cargo o comisión públicos, en adición a la agravante señalada en el artículo 97 de este Código."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "Se sanciona la compraventa o uso de comprobantes fiscales falsos o simulados. También se penaliza la promoción de estos comprobantes y, si el delito lo comete un servidor público, se le destituye e inhabilita además de aplicar agravantes.",
+  "NotasOrientadoras": [
+    "Este artículo combate el uso de comprobantes fiscales falsos o simulados.",
+    "La promoción pública de estos comprobantes también es delito.",
+    "Los servidores públicos enfrentan sanciones adicionales por este tipo de fraude.",
+    "La norma protege la veracidad documental y la recaudación fiscal."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "114",
+  "PalabraClave": "visitas y embargos sin mandamiento",
+  "Texto": "Se impondrá sanción de uno a seis años de prisión, a los servidores públicos que ordenen o practiquen visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente. Las mismas penas se impondrán a los servidores públicos que realicen la verificación física de mercancías en transporte en lugar distinto a los recintos fiscales.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Los servidores públicos que realicen visitas, embargos o verificaciones sin mandamiento escrito o fuera de recintos fiscales serán sancionados con prisión de 1 a 6 años.",
+  "NotasOrientadoras": [
+    "Este artículo protege el debido proceso en actos de fiscalización.",
+    "Las visitas y embargos deben estar respaldados por mandamiento escrito.",
+    "La verificación de mercancías debe realizarse en recintos autorizados.",
+    "Se sanciona el abuso de autoridad en procedimientos fiscales."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "114-A",
+  "PalabraClave": "amenazas fiscales por servidor público",
+  "Texto": "Se sancionará con prisión de uno a cinco años al servidor público que amenazare de cualquier modo a un contribuyente o a sus representantes o dependientes, con formular por sí o por medio de la dependencia de su adscripción, una denuncia, querella o declaratoria al ministerio público para que se ejercite acción penal por la posible comisión de delitos fiscales.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El servidor público que amenace a un contribuyente con iniciar acción penal será sancionado con prisión de 1 a 5 años.",
+  "NotasOrientadoras": [
+    "Este artículo sanciona el uso de amenazas como herramienta de presión fiscal.",
+    "Protege al contribuyente frente a intimidaciones institucionales.",
+    "La acción penal debe seguirse por medios legales, no coercitivos.",
+    "Se refuerza la ética en el ejercicio de funciones públicas."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "114-B",
+  "PalabraClave": "revelación indebida de información financiera",
+  "Texto": "Se impondrá sanción de uno a seis años de prisión, al servidor público que revele a terceros, en contravención a lo dispuesto por el artículo 69 de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El servidor público que revele información financiera proporcionada por instituciones al fisco será sancionado con prisión de 1 a 6 años.",
+  "NotasOrientadoras": [
+    "Este artículo protege la confidencialidad de la información financiera.",
+    "La revelación indebida por parte de servidores públicos es penalizada.",
+    "Se refuerza la confianza en el sistema fiscal y financiero.",
+    "La norma garantiza el uso responsable de datos sensibles."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "115",
+  "PalabraClave": "apoderamiento o destrucción de mercancías en recinto fiscal",
+  "Texto": "Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de $85,720.00; cuando exceda, la sanción será de tres a nueve años de prisión.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Este artículo protege los bienes bajo resguardo fiscal frente al robo o daño intencional.",
+    "La sanción se gradúa según el valor de las mercancías involucradas.",
+    "La destrucción dolosa se equipara penalmente al apoderamiento ilícito.",
+    "Se refuerza la seguridad jurídica sobre mercancías en recintos controlados por la autoridad fiscal."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "116",
+  "PalabraClave": "recurso de revocación contra actos fiscales",
+  "Texto": "Contra los actos administrativos dictados en materia fiscal federal, se podrá interponer el recurso de revocación.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Este artículo establece el derecho del contribuyente a impugnar actos fiscales mediante recurso de revocación.",
+    "El recurso permite revisar la legalidad de resoluciones administrativas sin acudir directamente al tribunal.",
+    "Es un mecanismo interno de defensa fiscal previo a la vía jurisdiccional.",
+    "La norma garantiza acceso a revisión administrativa de actos que afecten al contribuyente."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "117",
+  "PalabraClave": "procedencia del recurso de revocación",
+  "Texto": "El recurso de revocación procederá contra:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Las resoluciones definitivas dictadas por autoridades fiscales federales que:",
+      "Incisos": [
+        {
+          "Inciso": "a)",
+          "Texto": "Determinen contribuciones, accesorios o aprovechamientos."
+        },
+        {
+          "Inciso": "b)",
+          "Texto": "Nieguen la devolución de cantidades que procedan conforme a la Ley."
+        },
+        {
+          "Inciso": "c)",
+          "Texto": "Dicten las autoridades aduaneras."
+        },
+        {
+          "Inciso": "d)",
+          "Texto": "Cualquier resolución de carácter definitivo que cause agravio al particular en materia fiscal, salvo aquéllas a que se refieren los artículos 33-A, 36 y 74 de este Código."
+        }
+      ]
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Los actos de autoridades fiscales federales que:",
+      "Incisos": [
+        {
+          "Inciso": "a)",
+          "Texto": "Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 21 de este Código."
+        },
+        {
+          "Inciso": "b)",
+          "Texto": "Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley, o determinen el valor de los bienes embargados."
+        },
+        {
+          "Inciso": "c)",
+          "Texto": "Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 128 de este Código."
+        },
+        {
+          "Inciso": "d)",
+          "Texto": "Se deroga."
+        }
+      ]
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo delimita los casos en que procede el recurso de revocación.",
+    "Incluye resoluciones definitivas y actos de ejecución que afecten al contribuyente.",
+    "Protege el interés jurídico de terceros en ciertos procedimientos fiscales.",
+    "La norma excluye resoluciones específicas referidas en otros artículos del Código."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "120",
+  "PalabraClave": "carácter optativo del recurso de revocación",
+  "Texto": "La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Federal de Justicia Fiscal y Administrativa.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El contribuyente puede optar por interponer el recurso de revocación antes de acudir al tribunal fiscal. Si el recurso se presenta ante una autoridad incompetente, ésta debe remitirlo a la autoridad competente.",
+  "NotasOrientadoras": [
+    "Este artículo establece que el recurso de revocación es opcional antes de acudir a la vía jurisdiccional.",
+    "Facilita la corrección administrativa sin necesidad de juicio.",
+    "La remisión entre autoridades garantiza que el recurso sea atendido por quien corresponde.",
+    "Se promueve la eficiencia y el respeto al derecho de defensa del contribuyente."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "121",
+  "PalabraClave": "plazo y suspensión del recurso de revocación",
+  "Texto": "El recurso deberá presentarse a través del buzón tributario, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación, excepto lo dispuesto en el artículo 127 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en el mismo se señala.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El escrito de interposición del recurso también podrá enviarse a la autoridad competente en razón del domicilio o a la que emitió o ejecutó el acto, a través de los medios que autorice el Servicio de Administración Tributaria mediante reglas de carácter general."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta por un año el plazo para interponer el recurso, si antes no se hubiere aceptado el cargo de representante de la sucesión. También se suspenderá el plazo para la interposición del recurso si el particular solicita a las autoridades fiscales iniciar el procedimiento de resolución de controversias contenido en un tratado para evitar la doble tributación. En este caso, la suspensión del plazo iniciará desde la fecha en la que la autoridad competente del país extranjero que recibió la solicitud de inicio del procedimiento de resolución de controversias notifique a su contraparte en México la recepción de dicha solicitud; tratándose de procedimientos cuyo inicio se solicite en México, la suspensión iniciará desde la fecha en que la solicitud haya sido recibida por la autoridad competente de México. La suspensión del plazo cesará cuando surta efectos la notificación del acto por el que la autoridad competente de México haga del conocimiento del solicitante la conclusión del procedimiento, inclusive, en el caso de que se dé por terminado a petición del interesado, o bien, cuando haya sido declarado improcedente."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, cuando el particular se encuentre afectado por un acto o resolución administrativa, se suspenderá el plazo para interponer el recurso de revocación hasta por un año. La suspensión cesará cuando se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El recurso de revocación debe presentarse dentro de 30 días a partir de la notificación del acto, preferentemente vía buzón tributario. Puede enviarse también por otros medios autorizados. El plazo se suspende en casos de fallecimiento, incapacidad, ausencia o cuando se inicia un procedimiento de resolución de controversias bajo tratados internacionales.",
+  "NotasOrientadoras": [
+    "Este artículo regula el plazo y medios para interponer el recurso de revocación.",
+    "Se permite la presentación por buzón tributario o por medios autorizados por el SAT.",
+    "El plazo puede suspenderse por causas personales o por procedimientos internacionales.",
+    "La norma garantiza flexibilidad y protección del derecho de defensa ante situaciones excepcionales."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "122",
+  "PalabraClave": "contenido del escrito de revocación",
+  "Texto": "El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 18 de este Código y señalar además:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "La resolución o el acto que se impugna."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Los agravios que le cause la resolución o el acto impugnado."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las pruebas y los hechos controvertidos de que se trate."
+    }
+  ],
+  "Procedimiento": "El escrito de interposición del recurso de revocación debe cumplir con los requisitos generales del artículo 18 y, además, especificar el acto impugnado, los agravios que causa y las pruebas relacionadas con los hechos controvertidos.",
+  "NotasOrientadoras": [
+    "Cuando no se expresen los agravios, no se señale la resolución o el acto que se impugna, los hechos controvertidos o no se ofrezcan las pruebas a que se refieren las fracciones I, II y III, la autoridad fiscal requerirá al promovente para que dentro del plazo de cinco días cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le cause la resolución o acto impugnado, la autoridad fiscal desechará el recurso; si no se señala el acto que se impugna se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.",
+    "La norma busca asegurar que el recurso esté debidamente fundamentado y documentado."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "123",
+  "PalabraClave": "documentación que debe acompañar el recurso",
+  "Texto": "El promovente deberá acompañar al escrito en que se interponga el recurso:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Los documentos que acrediten su personalidad cuando actúe a nombre de otro o de personas morales, o en los que conste que ésta ya hubiera sido reconocida por la autoridad fiscal que emitió el acto o resolución impugnada o que se cumple con los requisitos a que se refiere el primer párrafo del artículo 19 de este Código."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El documento en que conste el acto impugnado."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el órgano en que ésta se hizo."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las pruebas documentales que ofrezca y el dictamen pericial, en su caso."
+    }
+  ],
+  "Procedimiento": "El promovente debe acompañar al recurso documentos que acrediten su personalidad, el acto impugnado, la constancia de notificación (salvo excepciones), y las pruebas documentales o periciales que ofrezca.",
+  "NotasOrientadoras": [
+    "Este artículo detalla la documentación que debe acompañar el recurso de revocación.",
+    "La acreditación de personalidad es esencial cuando se actúa en representación de otro.",
+    "Se contemplan excepciones en la presentación de la constancia de notificación.",
+    "La norma garantiza que el recurso esté respaldado por evidencia suficiente para su análisis."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "124",
+  "PalabraClave": "causas de improcedencia del recurso de revocación",
+  "Texto": "Es improcedente el recurso cuando se haga valer contra actos administrativos:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Que no afecten el interés jurídico del recurrente."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de sentencias."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Que hayan sido impugnados ante el Tribunal Federal de Justicia Fiscal y Administrativa."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Si son revocados los actos por la autoridad."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con posterioridad a la resolución que resuelve un recurso de revocación o después de la conclusión de un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Que sean resoluciones dictadas por autoridades extranjeras que determinen impuestos y sus accesorios cuyo cobro y recaudación hayan sido solicitados a las autoridades fiscales mexicanas, de conformidad con lo dispuesto en los tratados internacionales sobre asistencia mutua en el cobro de los que México sea parte."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo delimita los casos en que no procede el recurso de revocación.",
+    "La improcedencia puede derivar de consentimiento tácito, duplicidad de medios o falta de afectación jurídica.",
+    "Se excluyen actos ya impugnados, revocados o dictados en cumplimiento de sentencias.",
+    "También se excluyen resoluciones extranjeras y controversias bajo tratados internacionales si son posteriores."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "124-A",
+  "PalabraClave": "causas de sobreseimiento del recurso",
+  "Texto": "Procede el sobreseimiento en los casos siguientes:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Cuando el promovente se desista expresamente de su recurso."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Cuando durante el procedimiento en que se substancie el recurso administrativo sobrevenga alguna de las causas de improcedencia a que se refiere el artículo 124 de este Código."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución impugnada."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Cuando hayan cesado los efectos del acto o resolución impugnada."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula los casos en que se concluye anticipadamente el recurso de revocación.",
+    "El desistimiento voluntario del promovente es causa directa de sobreseimiento.",
+    "También procede si el acto impugnado ya no existe o ha perdido efectos.",
+    "Se vincula con las causas de improcedencia del artículo 124 para evitar duplicidad procesal."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "125",
+  "PalabraClave": "elección de vía para impugnación fiscal",
+  "Texto": "El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover, directamente contra dicho acto, juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro; en el caso de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos, el contribuyente podrá impugnar dicho acto, por una sola vez, a través de la misma vía.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Este artículo otorga al contribuyente la libertad de elegir el medio de defensa fiscal.",
+    "La elección de vía debe mantenerse si los actos están vinculados como antecedentes o consecuencias.",
+    "Se limita la impugnación de actos derivados de recursos administrativos a una sola vez.",
+    "La norma busca evitar duplicidad procesal y garantizar coherencia en la defensa."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "126",
+  "PalabraClave": "exclusión del recurso en ejecución de fianzas",
+  "Texto": "El recurso de revocación no procederá contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Este artículo excluye del recurso de revocación los actos relacionados con la ejecución de fianzas.",
+    "La protección jurídica no se extiende a terceros que otorgaron garantías.",
+    "La norma delimita el alcance del recurso para evitar impugnaciones improcedentes.",
+    "Se refuerza la eficacia de las garantías fiscales frente a terceros."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "127",
+  "PalabraClave": "plazo para impugnar actos en ejecución fiscal",
+  "Texto": "Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre dinero en efectivo, depósitos en cuenta abierta en instituciones de crédito, organizaciones auxiliares de crédito o sociedades cooperativas de ahorro y préstamo, así como de bienes legalmente inembargables o actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Este artículo regula los plazos específicos para impugnar actos dentro del procedimiento de ejecución fiscal.",
+    "Las violaciones deben reclamarse antes del remate y dentro de un plazo breve.",
+    "Se contemplan excepciones para actos de ejecución que afectan bienes sensibles o irrecuperables.",
+    "La norma protege el derecho de defensa en situaciones de urgencia o vulnerabilidad patrimonial."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "128",
+  "PalabraClave": "recurso de revocación por terceros en ejecución fiscal",
+  "Texto": "El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco federal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales federales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Los terceros que aleguen propiedad o titularidad sobre bienes embargados pueden interponer el recurso de revocación en cualquier momento antes de que se finque el remate, se enajenen los bienes o se adjudiquen al fisco. Si el tercero reclama preferencia en el pago de créditos, debe hacerlo antes de que el importe del remate se aplique al crédito fiscal.",
+  "NotasOrientadoras": [
+    "Este artículo reconoce el derecho de terceros a defender su propiedad o créditos frente a actos de ejecución fiscal.",
+    "El recurso puede interponerse en cualquier momento antes de que se consolide la disposición de los bienes.",
+    "Se protege la prelación de créditos frente a los fiscales, si se acredita legalmente.",
+    "La norma garantiza que terceros no queden indefensos ante procedimientos que afecten sus derechos patrimoniales."
+  ]
+  }
 
 ] 
