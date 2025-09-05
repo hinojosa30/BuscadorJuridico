@@ -5049,5 +5049,131 @@
       "La fracción V responsabiliza a funcionarios públicos que faciliten actividades ilícitas de comercio exterior.",
       "Cubre casos de falsificación de documentos y violación de normativas aduaneras en múltiples fracciones."
     ]
-  } 
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "106",
+  "PalabraClave": "comprobación de estancia legal y uso personal de mercancías",
+  "Texto": "Para los efectos del Artículo 105:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Son mercancías de uso personal:",
+      "Incisos": [
+        {
+          "Inciso": "a)",
+          "Texto": "Alimentos y bebidas para su consumo, ropa y otros objetos personales, excepto joyas."
+        },
+        {
+          "Inciso": "b)",
+          "Texto": "Cosméticos, productos sanitarios y de aseo, lociones, perfumes, medicamentos y aparatos médicos o de prótesis que utilice."
+        },
+        {
+          "Inciso": "c)",
+          "Texto": "Artículos domésticos para su casa habitación, siempre que no sean dos o más de la misma especie."
+        }
+      ]
+    },
+    {
+      "Fracción": "II",
+      "Texto": "La estancia legal en el país de las mercancías extranjeras se comprueba, con:",
+      "Incisos": [
+        {
+          "Inciso": "a)",
+          "Texto": "La documentación aduanal exigida por la Ley."
+        },
+        {
+          "Inciso": "b)",
+          "Texto": "Nota de venta expedida por la autoridad fiscal federal."
+        },
+        {
+          "Inciso": "c)",
+          "Texto": "Comprobante fiscal digital por Internet que deberá reunir los requisitos que señale este Código, así como las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria."
+        },
+        {
+          "Inciso": "d)",
+          "Texto": "La carta de porte en que consten los datos del remitente, del destinatario y de los efectos que ampare, si se trata de porteadores legalmente autorizados para efectuar el servicio público de transporte, fuera de la zona de inspección y vigilancia permanente."
+        }
+      ]
+    }
+  ],
+  "Procedimiento": "Para efectos del artículo 105, se consideran mercancías de uso personal aquellas destinadas al consumo, higiene o uso doméstico del individuo, excluyendo joyas y duplicados. La estancia legal de mercancías extranjeras se acredita mediante documentación fiscal, comprobantes digitales o carta de porte emitida por transportistas autorizados.",
+  "NotasOrientadoras": [
+    "Este artículo delimita qué bienes se consideran de uso personal para efectos fiscales.",
+    "La acreditación de estancia legal de mercancías extranjeras requiere documentación específica.",
+    "Se reconoce el comprobante fiscal digital como medio válido de comprobación.",
+    "La carta de porte es válida fuera de zonas de inspección permanente si es emitida por transportistas autorizados."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "107",
+  "PalabraClave": "contrabando calificado",
+  "Texto": "El delito de contrabando será calificado cuando se cometa:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Con violencia física o moral en las personas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "De noche o por lugar no autorizado para la entrada o salida del país de mercancías."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Ostentándose el autor como funcionario o empleado público."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Usando documentos falsos."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Por tres o más personas."
+    }
+  ],
+  "Procedimiento": "El delito de contrabando se considera calificado cuando se comete con violencia, en horarios o lugares no autorizados, mediante usurpación de funciones, uso de documentos falsos o participación de tres o más personas.",
+  "NotasOrientadoras": [
+    "Este artículo tipifica las circunstancias que agravan el delito de contrabando.",
+    "La violencia, el engaño y la participación múltiple elevan la gravedad del acto.",
+    "El uso de documentos falsos o la simulación de autoridad son elementos calificativos.",
+    "La norma busca proteger la integridad del sistema aduanal y fiscal."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "108",
+  "PalabraClave": "defraudación fiscal y sanciones",
+  "Texto": "Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco federal.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "La omisión total o parcial de alguna contribución a que se refiere el párrafo anterior comprende, indistintamente, los pagos provisionales o definitivos o el impuesto del ejercicio en los términos de las disposiciones fiscales."
+    }
+  ],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $2,236,480.00."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de $2,236,480.00 pero no de $3,354,710.00."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de $3,354,710.00."
+    }
+  ],
+  "Procedimiento": "El delito de defraudación fiscal se configura cuando se omite el pago de contribuciones o se obtiene un beneficio indebido mediante engaños o errores. La sanción varía según el monto defraudado, con penas de prisión que van de tres meses a nueve años.",
+  "NotasOrientadoras": [
+    "Este artículo define el delito de defraudación fiscal y sus consecuencias penales.",
+    "La omisión puede ser total o parcial, incluyendo pagos provisionales o definitivos.",
+    "Las penas se gradúan según el monto defraudado, con rangos específicos.",
+    "La norma busca disuadir el fraude fiscal y proteger los ingresos públicos."
+  ]
+}
+
 ] 
