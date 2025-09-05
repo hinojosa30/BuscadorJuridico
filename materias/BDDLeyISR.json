@@ -1,0 +1,2001 @@
+[
+  {
+    "PalabraClave": "obligación de pago, residentes, fuente de riqueza",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "1.",
+    "Texto": "Las personas físicas y las morales están obligadas al pago del impuesto sobre la renta en los siguientes casos:",
+    "Párrafos": [],
+    "Fracciones": [
+      {
+        "Fracción": "I.",
+        "Texto": "Las residentes en México, respecto de todos sus ingresos, cualquiera que sea la ubicación de la fuente de riqueza de donde procedan."
+      },
+      {
+        "Fracción": "II.",
+        "Texto": "Los residentes en el extranjero que tengan un establecimiento permanente en el país, respecto de los ingresos atribuibles a dicho establecimiento permanente."
+      },
+      {
+        "Fracción": "III.",
+        "Texto": "Los residentes en el extranjero, respecto de los ingresos procedentes de fuentes de riqueza situadas en territorio nacional, cuando no tengan un establecimiento permanente en el país, o cuando teniéndolo, dichos ingresos no sean atribuibles a éste."
+      }
+    ]
+  },
+  {
+    "PalabraClave": "establecimiento permanente, definición, lugares de negocio",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "2.",
+    "Texto": "Define qué se considera establecimiento permanente para efectos fiscales, incluyendo cualquier lugar de negocios donde se desarrollen actividades empresariales o se presten servicios personales independientes, así como sucursales, agencias, oficinas, fábricas, talleres, minas y otros sitios de explotación de recursos naturales.",
+    "Párrafos": [],
+    "Fracciones": []
+  },
+  
+  {
+    "PalabraClave": "establecimiento permanente, actividades auxiliares, residentes en el extranjero",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "3.",
+    "Texto": "Establece que no se considera establecimiento permanente cuando el lugar de negocios se utiliza exclusivamente para actividades preparatorias o auxiliares relacionadas con la actividad empresarial del residente en el extranjero, siempre que tengan el carácter de preparatorio o auxiliar:",
+    "Párrafos": [],
+    "Fracciones": [
+      {
+        "Fracción": "I.",
+        "Texto": "La utilización o el mantenimiento de instalaciones con el único fin de almacenar o exhibir bienes o mercancías pertenecientes al residente en el extranjero."
+      },
+      {
+        "Fracción": "II.",
+        "Texto": "La conservación de existencias de bienes o de mercancías pertenecientes al residente en el extranjero con el único fin de almacenar o exhibir dichos bienes o mercancías o de que sean transformados por otra persona."
+      },
+      {
+        "Fracción": "III.",
+        "Texto": "La utilización de un lugar de negocios con el único fin de comprar bienes o mercancías para el residente en el extranjero."
+      },
+      {
+        "Fracción": "IV.",
+        "Texto": "La utilización de un lugar de negocios con el único fin de desarrollar actividades de propaganda, de suministro de información, de investigación científica, de preparación para la colocación de préstamos, o de otras actividades similares."
+      },
+      {
+        "Fracción": "V.",
+        "Texto": "El depósito fiscal de bienes o de mercancías de un residente en el extranjero en un almacén general de depósito ni la entrega de los mismos para su importación al país."
+      }
+    ]
+  
+  },
+  
+  {
+    "PalabraClave": "doble tributación, tratados fiscales, residencia, declaración informativa",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "4.",
+    "Texto": "Los beneficios de los tratados para evitar la doble tributación sólo aplican a contribuyentes que acrediten su residencia en el país correspondiente y cumplan con las disposiciones del tratado, así como con los requisitos de procedimiento establecidos en esta Ley y el Código Fiscal de la Federación.",
+    "Párrafos": [
+      {
+        "Párrafo": "2.",
+        "Texto": "Además de lo previsto en el párrafo anterior, tratándose de operaciones entre partes relacionadas, las autoridades fiscales podrán solicitar al contribuyente residente en el extranjero que acredite la existencia de una doble tributación jurídica, mediante una manifestación bajo protesta de decir verdad firmada por su representante legal, indicando que los ingresos gravados en México también lo están en su país de residencia, señalando las disposiciones jurídicas aplicables y la documentación que considere necesaria."
+      }
+    ],
+    "Fracciones": []
+  },
+  {
+    "PalabraClave": "entidades extranjeras transparentes, figuras jurídicas, residencia fiscal",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "4-A.",
+    "Texto": "Las entidades extranjeras transparentes fiscales y las figuras jurídicas extranjeras, sin importar que sus miembros acumulen ingresos en su país de residencia, tributarán como personas morales conforme al Título II, III, V o VI de esta Ley. Si actualizan lo dispuesto por la fracción II del artículo 9 del Código Fiscal de la Federación, se considerarán residentes en México.",
+    "Párrafos": [
+      {
+        "Párrafo": "2.",
+        "Texto": "Se consideran entidades extranjeras las sociedades y demás entes constituidos conforme al derecho extranjero con personalidad jurídica propia, así como personas morales mexicanas residentes en el extranjero. Se consideran figuras jurídicas extranjeras los fideicomisos, asociaciones, fondos de inversión y figuras similares del derecho extranjero sin personalidad jurídica propia."
+      }
+    ],
+    "Fracciones": []
+  },
+  {
+    "PalabraClave": "transparentes fiscales, utilidad fiscal, establecimiento permanente",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "4-B.",
+    "Texto": "Los residentes en México y los residentes en el extranjero con establecimiento permanente en el país están obligados a pagar el impuesto por ingresos obtenidos a través de entidades extranjeras transparentes fiscales, en proporción a su participación. Si la entidad es parcialmente transparente, sólo se acumulará el ingreso atribuido. Para determinar el monto, se considerará la utilidad fiscal del año calendario calculada conforme al Título II.",
+    "Párrafos": [],
+    "Fracciones": []
+  },
+  {
+    "PalabraClave": "acreditamiento, impuesto pagado en el extranjero, fuente extranjera",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "5.",
+    "Texto": "Los residentes en México podrán acreditar contra el impuesto que les corresponda pagar, el ISR pagado en el extranjero por ingresos de fuente extranjera, siempre que estén obligados al pago conforme a esta Ley. El acreditamiento sólo procederá si el ingreso acumulado incluye el impuesto pagado en el extranjero.",
+    "Párrafos": [],
+    "Fracciones": []
+  },
+  {
+    "PalabraClave": "ajuste, actualización, INPC, valores de bienes",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "6.",
+    "Texto": "Cuando esta Ley prevea el ajuste o actualización de valores de bienes u operaciones por cambios de precios en el país, se aplicará lo siguiente:",
+    "Párrafos": [],
+    "Fracciones": [
+      {
+        "Fracción": "I.",
+        "Texto": "Para calcular la modificación en el valor en un periodo, se utilizará el factor de ajuste conforme a:",
+        "Incisos": [
+          {
+            "Inciso": "A)",
+            "Texto": "Si el periodo es de un mes, se usará el factor mensual obtenido restando la unidad del cociente entre el INPC del mes en cuestión y el del mes anterior."
+          },
+          {
+            "Inciso": "B)",
+            "Texto": "Si el periodo es mayor a un mes, se usará el factor obtenido restando la unidad del cociente entre el INPC del mes más reciente y el del mes más antiguo."
+          }
+        ]
+      },
+      {
+        "Fracción": "II.",
+        "Texto": "Para determinar el valor al término de un periodo, se utilizará el factor de actualización obtenido dividiendo el INPC del mes más reciente entre el del mes más antiguo.",
+        "Incisos": []
+      }
+    ]
+  },
+  {
+    "PalabraClave": "persona moral, sistema financiero, previsión social, acciones, certificados",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "7.",
+    "Texto": "Cuando en esta Ley se haga mención a persona moral, se entienden comprendidas, entre otras, las sociedades mercantiles, los organismos descentralizados que realicen preponderantemente actividades empresariales, las instituciones de crédito, las sociedades y asociaciones civiles y la asociación en participación cuando a través de ella se realicen actividades empresariales en México.",
+    "Párrafos": [
+      {
+        "Párrafo": "2.",
+        "Texto": "En los casos en los que se haga referencia a acciones, se entenderán incluidos los certificados de aportación patrimonial emitidos por las sociedades nacionales de crédito, las partes sociales, las participaciones en asociaciones civiles y los certificados de participación ordinarios emitidos con base en fideicomisos sobre acciones que sean autorizados conforme a la legislación aplicable en materia de inversión extranjera. Cuando se haga referencia a accionistas, quedarán comprendidos los titulares de los certificados a que se refiere este párrafo, de las partes sociales y de las participaciones señaladas."
+      },
+      {
+        "Párrafo": "3.",
+        "Texto": "El sistema financiero, para los efectos de esta Ley, se compone por el Banco de México, las instituciones de crédito, de seguros y de fianzas, sociedades controladoras de grupos financieros, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, uniones de crédito, sociedades financieras populares, fondos de inversión de renta variable, fondos de inversión en instrumentos de deuda, empresas de factoraje financiero, casas de bolsa, y casas de cambio, que sean residentes en México o en el extranjero. Se considerarán integrantes del sistema financiero a las sociedades financieras de objeto múltiple a las que se refiere la Ley General de Organizaciones y Actividades Auxiliares del Crédito que tengan cuentas y documentos por cobrar derivados de las actividades que deben constituir su objeto social principal, conforme a lo dispuesto en dicha Ley, que representen al menos el 70% de sus activos totales, o bien, que tengan ingresos derivados de dichas actividades y de la enajenación o administración de los créditos otorgados por ellas, que representen al menos el 70% de sus ingresos totales. Para los efectos de la determinación del porcentaje del 70%, no se considerarán los activos o ingresos que deriven de la enajenación a crédito de bienes o servicios de las propias sociedades, de las enajenaciones que se efectúen con cargo a tarjetas de crédito o financiamientos otorgados por terceros."
+      },
+      {
+        "Párrafo": "5.",
+        "Texto": "Para los efectos de esta ley, se considera previsión social las erogaciones efectuadas que tengan por objeto satisfacer contingencias o necesidades presentes o futuras, así como el otorgar beneficios a favor de los trabajadores o de los socios o miembros de las sociedades cooperativas, tendientes a su superación física, social, económica o cultural, que les permitan el mejoramiento en su calidad de vida y en la de su familia. En ningún caso se considerará previsión social a las erogaciones efectuadas a favor de personas que no tengan el carácter de trabajadores o de socios o miembros de sociedades cooperativas."
+      }
+    ],
+    "Fracciones": []
+  },
+  {
+    "PalabraClave": "intereses, rendimientos, créditos, factoraje financiero, cesión de derechos",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "8.",
+    "Texto": "Para los efectos de esta Ley, se consideran intereses, cualquiera que sea el nombre con que se les designe, a los rendimientos de créditos de cualquier clase. Se entiende que, entre otros, son intereses: los rendimientos de la deuda pública, de los bonos u obligaciones, incluyendo descuentos, primas y premios; los premios de reportos o de préstamos de valores; el monto de las comisiones que correspondan con motivo de apertura o garantía de créditos; el monto de las contraprestaciones correspondientes a la aceptación de un aval, del otorgamiento de una garantía o de la responsabilidad de cualquier clase, excepto cuando dichas contraprestaciones deban hacerse a instituciones de seguros o fianzas; la ganancia en la enajenación de bonos, valores y otros títulos de crédito, siempre que sean de los que se colocan entre el gran público inversionista, conforme a las reglas generales que al efecto expida el Servicio de Administración Tributaria.",
+    "Párrafos": [
+      {
+        "Párrafo": "2.",
+        "Texto": "En las operaciones de factoraje financiero, se considerará interés la ganancia derivada de los derechos de crédito adquiridos por empresas de factoraje financiero y sociedades financieras de objeto múltiple."
+      },
+      {
+        "Párrafo": "4.",
+        "Texto": "La cesión de derechos sobre los ingresos por otorgar el uso o goce temporal de inmuebles, se considerará como una operación de financiamiento; la cantidad que se obtenga por la cesión se tratará como préstamo, debiendo acumularse las rentas devengadas conforme al contrato, aun cuando éstas se cobren por el adquirente de los derechos. La contraprestación pagada por la cesión se tratará como crédito o deuda, según sea el caso, y la diferencia con las rentas tendrá el tratamiento de interés. El importe del crédito o deuda generará el ajuste anual por inflación en los términos del Capítulo III del Título II de esta Ley, el que será acumulable o deducible, según sea el caso, considerando para su cuantificación, la tasa de descuento que se haya tomado para la cesión del derecho, el total de las rentas que abarca la cesión, el valor que se pague por dichas rentas y el plazo que se hubiera determinado en el contrato, en los términos que establezca el Reglamento de esta Ley."
+      }
+    ],
+    "Fracciones": []
+  },
+  {
+    "PalabraClave": "resultado fiscal, utilidad fiscal, pérdidas fiscales, tasa 30%, renta gravable, PTU, calculo anual",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "9.",
+    "Texto": "Las personas morales deberán calcular el impuesto sobre la renta aplicando al resultado fiscal obtenido en el ejercicio la tasa del 30%. El resultado fiscal del ejercicio se determinará como sigue:",
+    "Fracciones": [
+      {
+        "Fracción": "I.",
+        "Texto": "Se obtendrá la utilidad fiscal disminuyendo de la totalidad de los ingresos acumulables obtenidos en el ejercicio, las deducciones autorizadas por este Título y la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.",
+        "Incisos": []
+      },
+      {
+        "Fracción": "II.",
+        "Texto": "A la utilidad fiscal del ejercicio se le disminuirán, en su caso, las pérdidas fiscales pendientes de aplicar de ejercicios anteriores.",
+        "Incisos": []
+      }
+    ],
+    "Párrafos": [
+      {
+        "Párrafo": "3.",
+        "Texto": "El impuesto del ejercicio se pagará mediante declaración que presentarán ante las oficinas autorizadas, dentro de los tres meses siguientes a la fecha en la que termine el ejercicio fiscal."
+      },
+      {
+        "Párrafo": "4.",
+        "Texto": "Para determinar la renta gravable a que se refiere el inciso e) de la fracción IX del artículo 123, apartado A de la Constitución Política de los Estados Unidos Mexicanos, no se disminuirá la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio ni las pérdidas fiscales pendientes de aplicar de ejercicios anteriores."
+      },
+      {
+        "Párrafo": "5.",
+        "Texto": "Para la determinación de la renta gravable en materia de participación de los trabajadores en las utilidades de las empresas, los contribuyentes deberán disminuir de los ingresos acumulables las cantidades que no hubiesen sido deducibles en los términos de la fracción XXX del artículo 28 de esta Ley."
+      }
+    ]
+  },
+  {
+    "PalabraClave": "dividendos, utilidades, impuesto adicional, acreditamiento, pago definitivo",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "10.",
+    "Texto": "Las personas morales que distribuyan dividendos o utilidades deberán calcular y enterar el impuesto que corresponda a los mismos, aplicando la tasa establecida en el artículo 9 de la presente Ley. Para estos efectos, los dividendos o utilidades distribuidos se adicionarán con el impuesto sobre la renta que se deba pagar en los términos de este artículo. Para determinar el impuesto que se debe adicionar a los dividendos o utilidades, éstos se deberán multiplicar por el factor de 1.4286 y al resultado se le aplicará la tasa establecida en el citado artículo 9 de esta Ley. El impuesto correspondiente a las utilidades distribuidas a que se refiere el artículo 78 de la presente Ley, se calculará en los términos de dicho precepto.",
+    "Fracciones": [],
+    "Párrafos": [
+      {
+        "Párrafo": "2.",
+        "Texto": "Tratándose de la distribución de dividendos o utilidades mediante el aumento de partes sociales o la entrega de acciones de la misma persona moral o cuando se reinviertan en el aumento de capital dentro de los 30 días naturales siguientes a su distribución, el dividendo o la utilidad se entenderá percibido en el año en que se pague el reembolso por reducción de capital o liquidación, en los términos del artículo 78 de esta Ley."
+      },
+      {
+        "Párrafo": "3.",
+        "Texto": "El impuesto a que se refiere este artículo se pagará además del impuesto del ejercicio a que se refiere el artículo 9 de esta Ley, tendrá el carácter de pago definitivo y se enterará ante las oficinas autorizadas, a más tardar el día 17 del mes inmediato siguiente a aquél en el que se pagaron los dividendos o utilidades."
+      },
+      {
+        "Párrafo": "4.",
+        "Texto": "Cuando los contribuyentes a que se refiere este artículo distribuyan dividendos o utilidades y como consecuencia de ello paguen el impuesto que establece este artículo, podrán acreditar dicho impuesto de acuerdo a lo siguiente: I) El acreditamiento únicamente podrá efectuarse contra el impuesto sobre la renta del ejercicio que resulte a cargo de la persona moral en el ejercicio en el que se pague el impuesto a que se refiere este artículo. El monto del impuesto que no se pueda acreditar conforme al párrafo anterior, se podrá acreditar hasta en los dos ejercicios inmediatos siguientes contra el impuesto del ejercicio y contra los pagos provisionales de los mismos. Cuando el impuesto del ejercicio sea menor que el monto que se hubiese acreditado en los pagos provisionales, únicamente se considerará acreditable contra el impuesto del ejercicio un monto igual a este último. Cuando el contribuyente no acredite en un ejercicio el impuesto a que se refiere el cuarto párrafo de este artículo, pudiendo haberlo hecho conforme al mismo, perderá el derecho a hacerlo en los ejercicios posteriores hasta por la cantidad en la que pudo haberlo efectuado. II) Para los efectos del artículo 77 de esta Ley, en el ejercicio en el que acrediten el impuesto conforme a la fracción anterior, los contribuyentes deberán disminuir de la utilidad fiscal neta calculada en los términos de dicho precepto, la cantidad que resulte de dividir el impuesto acreditado entre el factor 0.4286."
+      },
+      {
+        "Párrafo": "5.",
+        "Texto": "Para los efectos de este artículo, no se considerarán dividendos o utilidades distribuidos, la participación de los trabajadores en las utilidades de las empresas."
+      },
+      {
+        "Párrafo": "6.",
+        "Texto": "Las personas morales que distribuyan los dividendos o utilidades a que se refiere el artículo 140 fracciones I y II de esta Ley, calcularán el impuesto sobre dichos dividendos o utilidades aplicando sobre los mismos la tasa establecida en el artículo 9 de la presente Ley. Este impuesto tendrá el carácter de definitivo."
+      }
+    ]
+  },
+  {
+    "PalabraClave": "intereses, créditos, partes relacionadas, dividendos, tratamiento fiscal",
+    "Ley": "Ley del Impuesto sobre la Renta",
+    "Artículo": "11.",
+    "Texto": "Tratándose de intereses que se deriven de créditos otorgados a personas morales o a establecimientos permanentes en el país de residentes en el extranjero, por personas residentes en México o en el extranjero, que sean partes relacionadas de la persona que paga el crédito, los contribuyentes considerarán, para efectos de esta Ley, que los intereses derivados de dichos créditos tendrán el tratamiento fiscal de dividendos cuando se actualice alguno de los siguientes supuestos:",
+    "Fracciones": [
+      {
+        "Fracción": "I.",
+        "Texto": "El deudor formule por escrito promesa incondicional de pago parcial o total del crédito recibido, a una fecha determinable en cualquier momento por el acreedor.",
+        "Incisos": []
+      },
+      {
+        "Fracción": "II.",
+        "Texto": "Los intereses no sean deducibles conforme a lo establecido en la fracción XIII del artículo 27 de esta Ley.",
+        "Incisos": []
+      },
+      {
+        "Fracción": "III.",
+        "Texto": "En caso de incumplimiento por el deudor, el acreedor tenga derecho a intervenir en la dirección o administración de la sociedad deudora.",
+        "Incisos": []
+      },
+      {
+        "Fracción": "IV.",
+        "Texto": "Los intereses que deba pagar el deudor estén condicionados a la obtención de utilidades o que su monto se fije con base en dichas utilidades.",
+        "Incisos": []
+      },
+      {
+        "Fracción": "V.",
+        "Texto": "Los intereses provengan de créditos respaldados, inclusive cuando se otorguen a través de una institución financiera residente en el país o en el extranjero.",
+        "Incisos": []
+      }
+    ],
+    "Párrafos": []
+  },
+  {
+  "PalabraClave": "Liquidación fiscal",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": 12,
+  "Texto": "Dentro del mes siguiente a la fecha en la que termine la liquidación de una sociedad, el liquidador deberá presentar la declaración final del ejercicio de liquidación. El liquidador deberá presentar pagos provisionales mensuales a cuenta del impuesto del ejercicio de liquidación, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, en los términos del artículo 14 de esta Ley, en tanto se lleve a cabo la liquidación total del activo. En dichos pagos provisionales no se considerarán los activos de establecimientos ubicados en el extranjero. Al término de cada año de calendario, el liquidador deberá presentar una declaración, a más tardar el día 17 del mes de enero del año siguiente, en donde determinará y enterará el impuesto correspondiente al periodo comprendido desde el inicio de la liquidación y hasta el último mes del año de que se trate y acreditará los pagos provisionales y anuales efectuados con anterioridad correspondientes al periodo antes señalado. La última declaración será la del ejercicio de liquidación, incluirá los activos de los establecimientos ubicados en el extranjero y se deberá presentar a más tardar el mes siguiente a aquél en el que termine la liquidación, aun cuando no hayan transcurrido doce meses desde la última declaración.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2.",
+      "Texto": "Para los efectos de esta Ley, se entenderá que una persona moral residente en México se liquida, cuando deje de ser residente en México en los términos del Código Fiscal de la Federación o conforme a lo previsto en un tratado para evitar la doble tributación en vigor celebrado por México. Para estos efectos, se considerarán enajenados todos los activos que la persona moral tenga en México y en el extranjero y como valor de los mismos, el de mercado a la fecha del cambio de residencia; cuando no se conozca dicho valor, se estará al avalúo que para tales efectos lleve a cabo la persona autorizada por las autoridades fiscales. El impuesto que se determine se deberá enterar dentro de los 15 días siguientes a aquél en el que suceda el cambio de residencia fiscal."
+    },
+    {
+      "Párrafo": "3.",
+      "Texto": "Para los efectos del párrafo anterior, se deberá nombrar un representante legal que reúna los requisitos establecidos en el artículo 174 de esta Ley. Dicho representante deberá conservar a disposición de las autoridades fiscales la documentación comprobatoria relacionada con el pago del impuesto por cuenta del contribuyente, durante el plazo establecido en el Código Fiscal de la Federación, contado a partir del día siguiente a aquél en que se hubiere presentado la declaración."
+    }
+  ]
+  },
+  {
+  "PalabraClave": "Fideicomisos empresariales",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": 13,
+  "Texto": "Cuando se realicen actividades empresariales a través de un fideicomiso, la fiduciaria determinará en los términos del Título II de esta Ley, el resultado o la pérdida fiscal de dichas actividades en cada ejercicio y cumplirá por cuenta del conjunto de los fideicomisarios las obligaciones señaladas en esta Ley, incluso la de efectuar pagos provisionales.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2.",
+      "Texto": "La fiduciaria deberá expedir a los fideicomisarios o fideicomitentes, en su caso, comprobante fiscal en que consten los ingresos y retenciones derivados de las actividades empresariales realizadas a través del fideicomiso de que se trate."
+    },
+    {
+      "Párrafo": "3.",
+      "Texto": "Los fideicomisarios acumularán a sus demás ingresos del ejercicio, la parte del resultado fiscal de dicho ejercicio derivada de las actividades empresariales realizadas a través del fideicomiso que les corresponda, de acuerdo con lo estipulado en el contrato de fideicomiso y acreditarán en esa proporción el monto de los pagos provisionales efectuados por el fiduciario. La pérdida fiscal derivada de las actividades empresariales realizadas a través del fideicomiso sólo podrá ser disminuida de las utilidades fiscales de ejercicios posteriores derivadas de las actividades realizadas a través de ese mismo fideicomiso en los términos del Capítulo V del Título II de esta Ley."
+    },
+    {
+      "Párrafo": "4.",
+      "Texto": "Cuando haya pérdidas fiscales pendientes de disminuir al extinguirse el fideicomiso, el saldo actualizado de dichas pérdidas se distribuirá entre los fideicomisarios en la proporción que les corresponda conforme a lo pactado en el contrato de fideicomiso y podrán deducirlo en el ejercicio en que se extinga el fideicomiso hasta por el monto actualizado de sus aportaciones al fideicomiso que no recupere cada uno de los fideicomisarios en lo individual."
+    },
+    {
+      "Párrafo": "7.",
+      "Texto": "Para los efectos de determinar la utilidad o pérdida fiscal del ejercicio derivada de las actividades empresariales realizadas a través del fideicomiso, dentro de las deducciones se incluirá la que corresponda a los bienes aportados al fideicomiso por el fideicomitente cuando sea a su vez fideicomisario y no reciba contraprestación alguna en efectivo u otros bienes por ellos, considerando como costo de adquisición de los mismos el monto original de la inversión actualizado aún no deducido o el costo promedio por acción, según el bien de que se trate, que tenga el fideicomitente al momento de su aportación al fideicomiso y ese mismo costo de adquisición deberá registrarse en la contabilidad del fideicomiso y en la cuenta de capital de aportación de quien corresponda. El fideicomitente que aporte los bienes a que se refiere este párrafo no podrá efectuar la deducción de dichos bienes en la determinación de sus utilidades o pérdidas fiscales derivadas de sus demás actividades."
+    }
+  ]
+  },
+  {
+  "PalabraClave": "Pagos provisionales",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "14",
+  "Texto": "Los contribuyentes efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, conforme a las bases que a continuación se señalan:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Se calculará el coeficiente de utilidad correspondiente al último ejercicio de doce meses por el que se hubiera o debió haberse presentado declaración. Para este efecto, la utilidad fiscal del ejercicio por el que se calcule el coeficiente, se dividirá entre los ingresos nominales del mismo ejercicio."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "La utilidad fiscal para el pago provisional se determinará multiplicando el coeficiente de utilidad que corresponda conforme a la fracción anterior, por los ingresos nominales correspondientes al periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que se refiere el pago y, en su caso, se disminuirán los siguientes conceptos:",
+      "Incisos": [
+        {
+          "Inciso": "a)",
+          "Texto": "El monto de la participación de los trabajadores en las utilidades de las empresas pagada en el mismo ejercicio, en los términos del artículo 123 de la Constitución. Se deberá disminuir por partes iguales en los pagos provisionales de mayo a diciembre. Esta disminución no será deducible de los ingresos acumulables, conforme al artículo 28, fracción XXVI."
+        },
+        {
+          "Inciso": "b)",
+          "Texto": "Las personas morales que distribuyan anticipos o rendimientos conforme al artículo 94, fracción II, disminuirán la utilidad fiscal con el importe distribuido en el periodo correspondiente. Se deberá expedir comprobante fiscal con el monto distribuido y el impuesto retenido."
+        },
+        {
+          "Inciso": "c)",
+          "Texto": "La pérdida fiscal de ejercicios anteriores pendiente de aplicar podrá disminuirse contra las utilidades fiscales, sin perjuicio de aplicarla también contra la utilidad fiscal del ejercicio."
+        }
+      ]
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Los pagos provisionales serán las cantidades que resulten de aplicar la tasa del artículo 9 sobre la utilidad fiscal determinada. Se podrá acreditar contra el impuesto a pagar los pagos provisionales anteriores del mismo ejercicio, así como las retenciones efectuadas al contribuyente en el periodo conforme al artículo 54."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula el cálculo y presentación de pagos provisionales mensuales del ISR.",
+    "El coeficiente de utilidad se basa en el último ejercicio fiscal declarado.",
+    "Las disminuciones permitidas no deben confundirse con deducciones acumulables.",
+    "La fecha límite para el pago es el día 17 del mes siguiente al que corresponde.",
+    "Aplica principalmente a personas morales del régimen general."
+  ]
+  },
+  {
+  "PalabraClave": "Ingresos acumulables",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "16",
+  "Texto": "Las personas morales residentes en el país, incluida la asociación en participación, acumularán la totalidad de los ingresos en efectivo, en bienes, en servicio, en crédito o de cualquier otro tipo, que obtengan en el ejercicio, inclusive los provenientes de sus establecimientos en el extranjero. El ajuste anual por inflación acumulable es el ingreso que obtienen los contribuyentes por la disminución real de sus deudas.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Para los efectos de este Título, no se consideran ingresos los que obtenga el contribuyente por aumento de capital, por pago de la pérdida por sus accionistas, por primas obtenidas por la colocación de acciones que emita la propia sociedad o por utilizar para valuar sus acciones el método de participación ni los que obtengan con motivo de la revaluación de sus activos y de su capital."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Tampoco se consideran ingresos acumulables para efectos de este Título, los ingresos por apoyos económicos o monetarios que reciban los contribuyentes a través de los programas previstos en los presupuestos de egresos, de la Federación o de las Entidades Federativas, siempre que los programas cuenten con un padrón de beneficiarios; los recursos se distribuyan a través de transferencia electrónica de fondos a nombre de los beneficiarios; los beneficiarios cumplan con las obligaciones que se hayan establecido en las reglas de operación de los citados programas, y cuenten con opinión favorable por parte de la autoridad competente respecto del cumplimiento de obligaciones fiscales, cuando estén obligados a solicitarla en los términos de las disposiciones fiscales. Los gastos o erogaciones que se realicen con los apoyos económicos a que se refiere este párrafo, que no se consideren ingresos acumulables, no serán deducibles para efectos de este impuesto. Las dependencias o entidades, federales o estatales, encargadas de otorgar o administrar los apoyos económicos o monetarios, deberán poner a disposición del público en general y mantener actualizado en sus respectivos medios electrónicos, el padrón de beneficiarios a que se refiere este párrafo, mismo que deberá contener los siguientes datos: denominación social de las personas morales beneficiarias, el monto, recurso, beneficio o apoyo otorgado para cada una de ellas y la unidad territorial."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "Otros ingresos que no se considerarán acumulables para efectos de este Título, son las contraprestaciones en especie a favor del contratista a que se refieren los artículos 6, apartado B y 12, fracción II de la Ley de Ingresos sobre Hidrocarburos, siempre que para la determinación del impuesto sobre la renta a su cargo no se considere como costo de lo vendido deducible en los términos del artículo 25, fracción II de esta Ley, el valor de las mencionadas contraprestaciones cuando éstas se enajenen o transfieran a un tercero. Los ingresos que se obtengan por la enajenación de los bienes recibidos como contraprestaciones serán acumulables en los términos establecidos en la presente Ley."
+    },
+    {
+      "Párrafo": "5",
+      "Texto": "Las personas morales residentes en el extranjero, así como cualquier entidad que se considere como persona moral para efectos impositivos en su país, que tengan uno o varios establecimientos permanentes en el país, acumularán la totalidad de los ingresos atribuibles a los mismos. No se considerará ingreso atribuible a un establecimiento permanente la simple remesa que obtenga de la oficina central de la persona moral o de otro establecimiento de ésta."
+    },
+    {
+      "Párrafo": "6",
+      "Texto": "No serán acumulables para los contribuyentes de este Título, los ingresos por dividendos o utilidades que perciban de otras personas morales residentes en México."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo define qué ingresos deben acumular las personas morales residentes en México.",
+    "Incluye ingresos en efectivo, especie, crédito, servicios y los provenientes del extranjero.",
+    "Establece excepciones como aumentos de capital, apoyos públicos y dividendos entre residentes.",
+    "Los apoyos económicos no acumulables tampoco generan deducciones fiscales.",
+    "Las contraprestaciones en especie sólo se acumulan si se enajenan o transfieren."
+  ]
+  },
+  {
+  "PalabraClave": "Momento de acumulación",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "17",
+  "Texto": "Para los efectos del artículo 16 de esta Ley, se considera que los ingresos se obtienen, en aquellos casos no previstos en otros artículos de la misma, en las fechas que se señalan conforme a lo siguiente tratándose de:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Enajenación de bienes o prestación de servicios, cuando se dé cualquiera de los siguientes supuestos, el que ocurra primero:",
+      "Incisos": [
+        {
+          "Inciso": "a)",
+          "Texto": "Se expida el comprobante fiscal que ampare el precio o la contraprestación pactada."
+        },
+        {
+          "Inciso": "b)",
+          "Texto": "Se envíe o entregue materialmente el bien o cuando se preste el servicio."
+        },
+        {
+          "Inciso": "c)",
+          "Texto": "Se cobre o sea exigible total o parcialmente el precio o la contraprestación pactada, aun cuando provenga de anticipos."
+        }
+      ]
+    },
+    {
+      "Fracción": "I",
+      "Texto": "Tratándose de los ingresos por la prestación de servicios personales independientes que obtengan las sociedades o asociaciones civiles y de ingresos por el servicio de suministro de agua potable para uso doméstico o de recolección de basura doméstica que obtengan los organismos descentralizados, los concesionarios, permisionarios o empresas autorizadas para proporcionar dichos servicios, se considera que los mismos se obtienen en el momento en que se cobre el precio o la contraprestación pactada."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Otorgamiento del uso o goce temporal de bienes, cuando se cobren total o parcialmente las contraprestaciones, o cuando éstas sean exigibles a favor de quien efectúe dicho otorgamiento, o se expida el comprobante fiscal que ampare el precio o la contraprestación pactada, lo que suceda primero."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Obtención de ingresos provenientes de contratos de arrendamiento financiero, los contribuyentes podrán optar por considerar como ingreso obtenido en el ejercicio el total del precio pactado o la parte del precio exigible durante el mismo."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Ingresos derivados de deudas no cubiertas por el contribuyente, en el mes en el que se consume el plazo de prescripción o en el mes en el que se cumpla el plazo a que se refiere el párrafo segundo de la fracción XV del artículo 27 de esta Ley."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece cuándo se consideran obtenidos los ingresos acumulables.",
+    "En la mayoría de los casos, se acumulan cuando se expide el CFDI, se entrega el bien o se cobra.",
+    "Incluye reglas específicas para servicios públicos y asociaciones civiles.",
+    "Permite opción de acumulación total o parcial en contratos de arrendamiento financiero.",
+    "También contempla ingresos por deudas no cubiertas cuando se cumple el plazo legal."
+  ]
+  },
+{
+  "PalabraClave": "Ingresos acumulables",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "18",
+  "Texto": "Para los efectos de este Título, se consideran ingresos acumulables, además de los señalados en otros artículos de esta Ley, los siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Los ingresos determinados, inclusive presuntivamente por las autoridades fiscales, en los casos en que proceda conforme a las leyes fiscales."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "La ganancia derivada de la transmisión de propiedad de bienes por pago en especie. Se considera ingreso el valor conforme al avalúo practicado por persona autorizada por las autoridades fiscales en la fecha de la transferencia. Se permite disminuir deducciones aplicables a enajenación, siempre que se cumplan los requisitos fiscales. En caso de mercancías o productos, se acumula el ingreso total y el costo se determina conforme a la Sección III, Capítulo II, Título II."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Ingresos por construcciones, instalaciones o mejoras permanentes en inmuebles que queden a beneficio del propietario según contrato. Se consideran obtenidos al término del contrato y conforme al avalúo autorizado."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Ganancia por enajenación de activos fijos, terrenos, títulos valor, acciones, partes sociales o certificados de aportación patrimonial. Incluye ganancias por fusión, escisión, reducción de capital o liquidación de sociedades extranjeras."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Pagos percibidos por recuperación de un crédito deducido por incobrable."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Cantidad recuperada por seguros, fianzas o responsabilidades de terceros por pérdidas de bienes."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Indemnizaciones por disminución de productividad causada por muerte, accidente o enfermedad de técnicos o dirigentes."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Cantidades percibidas para efectuar gastos por cuenta de terceros, salvo que estén respaldadas con CFDI a nombre del tercero."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Intereses devengados en el ejercicio, sin ajuste. Intereses moratorios se acumulan solo si se cobran a partir del cuarto mes. Se considera que los pagos cubren primero los intereses moratorios devengados en los tres primeros meses."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "El ajuste anual por inflación acumulable conforme al artículo 44."
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "Cantidades recibidas en efectivo por préstamos, aportaciones para futuros aumentos de capital o aumentos mayores a $600,000.00, cuando no se cumpla con el artículo 76, fracción XVI."
+    },
+    {
+      "Fracción": "XII",
+      "Texto": "La consolidación de la nuda propiedad y el usufructo de un bien."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo amplía el concepto de ingresos acumulables más allá de ventas o servicios.",
+    "Incluye ingresos presuntivos, pagos en especie, indemnizaciones y ajustes por inflación.",
+    "Los pagos por préstamos o aumentos de capital pueden ser acumulables si no se documentan correctamente.",
+    "La fracción IX establece reglas específicas para intereses moratorios, con acumulación parcial.",
+    "La fracción XII contempla un caso patrimonial poco común: la consolidación de derechos reales."
+  ]
+  },
+  {
+  "PalabraClave": "Ganancia en enajenación",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "19",
+  "Texto": "Para determinar la ganancia por la enajenación de terrenos, de títulos valor que representen la propiedad de bienes, excepto tratándose de mercancías, así como de materias primas, productos semiterminados o terminados, así como de otros títulos valor cuyos rendimientos no se consideran intereses en los términos del artículo 8 de la presente Ley, de piezas de oro o de plata que hubieran tenido el carácter de moneda nacional o extranjera y de las piezas denominadas onzas troy, los contribuyentes restarán del ingreso obtenido por su enajenación el monto original de la inversión, el cual se podrá ajustar multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes en el que se realizó la adquisición y hasta el mes inmediato anterior a aquél en el que se realice la enajenación.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El ajuste a que se refiere el párrafo anterior no es aplicable para determinar la ganancia por la enajenación de acciones y certificados de depósito de bienes o de mercancías."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "En el caso de bienes adquiridos con motivo de fusión o escisión de sociedades, se considerará como monto original de la inversión el valor de su adquisición por la sociedad fusionada o escindente y como fecha de adquisición la que les hubiese correspondido a estas últimas."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula cómo calcular la ganancia fiscal en la venta de ciertos activos no comerciales.",
+    "Se permite ajustar el monto original de la inversión por inflación usando el factor de actualización.",
+    "No aplica ajuste para acciones ni certificados de depósito de bienes o mercancías.",
+    "En fusiones o escisiones, se hereda el valor y la fecha de adquisición de la sociedad original.",
+    "El artículo 8 es clave para distinguir si los rendimientos de títulos valor se consideran intereses."
+  ]
+  },
+  {
+  "PalabraClave": "Operaciones financieras derivadas",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "20",
+  "Texto": "En el caso de operaciones financieras derivadas, se determinará la ganancia acumulable o la pérdida deducible, conforme a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Cuando una operación se liquide en efectivo, se considerará como ganancia o como pérdida, según sea el caso, la diferencia entre la cantidad final que se perciba o se entregue como consecuencia de la liquidación o, en su caso, del ejercicio de los derechos u obligaciones contenidas en la operación, y las cantidades previas que, en su caso, se hayan pagado o se hayan percibido conforme a lo pactado por celebrar dicha operación o por haber adquirido posteriormente los derechos o las obligaciones contenidas en la misma, según sea el caso."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Cuando una operación se liquide en especie con la entrega de mercancías, títulos, valores o divisas, se considerará que los bienes objeto de la operación se enajenaron o se adquirieron, según sea el caso, al precio percibido o pagado en la liquidación, adicionado con la cantidad inicial que se haya pagado o que se haya percibido por la celebración de dicha operación o por haber adquirido posteriormente los derechos o las obligaciones consignadas en los títulos o contratos en los que conste la misma, según corresponda."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Cuando los derechos u obligaciones consignadas en los títulos o contratos en los que conste una operación financiera derivada sean enajenados antes del vencimiento de la operación, se considerará como ganancia o como pérdida, según corresponda, la diferencia entre la cantidad que se perciba por la enajenación y la cantidad inicial que, en su caso, se haya pagado por su adquisición."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Cuando los derechos u obligaciones consignadas en los títulos o contratos en los que conste una operación financiera derivada no se ejerciten a su vencimiento o durante el plazo de su vigencia, se considerará como ganancia o como pérdida, según se trate, la cantidad inicial que, en su caso, se haya percibido o pagado por la celebración de dicha operación o por haber adquirido posteriormente los derechos y obligaciones contenidas en la misma, según sea el caso."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Cuando lo que se adquiera sea el derecho o la obligación a realizar una operación financiera derivada, la ganancia o la pérdida se determinará en los términos de este artículo, en la fecha en que se liquide la operación sobre la cual se adquirió el derecho u obligación, adicionando, en su caso, a la cantidad inicial a que se refieren las fracciones anteriores, la cantidad que se hubiere pagado o percibido por adquirir el derecho u obligación a que se refiere esta fracción. Cuando no se ejercite el derecho u obligación a realizar la operación financiera derivada de que se trate en el plazo pactado, se estará a lo dispuesto en la fracción anterior."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Cuando el titular del derecho concedido en la operación ejerza el derecho y el obligado entregue acciones emitidas por él y que no hayan sido suscritas, acciones de tesorería, dicho obligado no acumulará el precio o la prima que hubiese percibido por celebrarla ni el ingreso que perciba por el ejercicio del derecho concedido, debiendo considerar ambos montos como aportaciones a su capital social."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "En las operaciones financieras derivadas en las que se liquiden diferencias durante su vigencia, se considerará en cada liquidación como la ganancia o como pérdida, según corresponda, el monto de la diferencia liquidada. La cantidad que se hubiere percibido o la que se hubiera pagado por celebrar estas operaciones, por haber adquirido los derechos o las obligaciones consignadas en ellas o por haber adquirido el derecho o la obligación a celebrarlas, se sumará o se restará del monto de la última liquidación para determinar la ganancia o la pérdida correspondiente a la misma, actualizada por el periodo comprendido desde el mes en el que se pagó o se percibió y hasta el mes en el que se efectúe la última liquidación."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "La ganancia acumulable o la pérdida deducible de las operaciones financieras derivadas referidas al tipo de cambio de una divisa, se determinará al cierre de cada ejercicio, aun en el caso de que la operación no haya sido ejercida en virtud de que su fecha de vencimiento corresponde a un ejercicio posterior. Para estos efectos, la pérdida o la utilidad se determinará considerando el tipo de cambio del último día del ejercicio que se declara, que se publique en el Diario Oficial de la Federación."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Tratándose de operaciones financieras derivadas por medio de las cuales una parte entregue recursos líquidos a otra y esta última, a su vez, garantice la responsabilidad de readquirir las mercancías, los títulos o las acciones, referidos en la operación, por un monto igual al entregado por la primera parte más un cargo proporcional, se considerará dicho cargo proporcional como interés a favor o a cargo, acumulable o deducible, según corresponda."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula cómo calcular la ganancia o pérdida en derivados financieros según su forma de liquidación.",
+    "Incluye reglas para liquidaciones en efectivo, especie, derechos no ejercidos, tipo de cambio y operaciones con garantía.",
+    "La fracción VI establece tratamiento especial para acciones de tesorería como aportación de capital.",
+    "La fracción VIII obliga a reconocer resultados al cierre del ejercicio, incluso si no se ha ejercido la operación."
+  ]
+  },
+  {
+  "PalabraClave": "operaciones financieras, Subyacente no cotizado",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "21",
+  "Texto": "Los ingresos percibidos por operaciones financieras referidas a un subyacente que no cotice en un mercado reconocido de acuerdo a lo establecido en el artículo 16-C del Código Fiscal de la Federación, incluyendo las cantidades iniciales que se perciban, se acumularán en el momento en que sean exigibles o cuando se ejerza la opción, lo que suceda primero. Las cantidades erogadas relacionadas directamente con dicha operación, sólo podrán ser deducidas al conocerse el resultado neto de la operación al momento de su liquidación o vencimiento, independientemente de que no se ejerzan los derechos u obligaciones consignados en los contratos realizados para los efectos de este tipo de operaciones.",
+  "Párrafos": [
+    {
+      "Párrafo": 2,
+      "Texto": "En el momento de la liquidación o del vencimiento de cada operación, se deberán deducir las erogaciones autorizadas en esta Ley a que se refiere el párrafo anterior y determinar la ganancia acumulable o la pérdida deducible, según se trate, independientemente del momento de acumulación del ingreso a que se refiere el citado párrafo. Cuando las cantidades erogadas sean superiores a los ingresos percibidos, en términos del párrafo anterior, el resultado será la pérdida deducible. El resultado de restar a los ingresos percibidos las erogaciones en términos del párrafo anterior, será la ganancia acumulable."
+    },
+    {
+      "Párrafo": 3,
+      "Texto": "Las personas morales que obtengan pérdida en términos del párrafo anterior y sean partes relacionadas de la persona que obtuvo la ganancia en la misma operación, sólo podrán deducir dicha pérdida hasta por un monto que no exceda de las ganancias que, en su caso, obtenga el mismo contribuyente que obtuvo la pérdida, en otras operaciones financieras derivadas cuyo subyacente no cotice en un mercado reconocido, obtenidas en el mismo ejercicio o en los cinco ejercicios siguientes. La parte de la pérdida que no se deduzca en un ejercicio, se actualizará por el periodo comprendido desde el último mes del ejercicio en el que ocurrió y hasta el último mes del ejercicio inmediato anterior al ejercicio en el que se deducirá. La parte de la pérdida actualizada que no se hubiera deducido en el ejercicio de que se trate, se actualizará por el periodo comprendido desde el mes en el que se actualizó por última vez y hasta el último mes del ejercicio inmediato anterior a aquél en el que se deducirá. Cuando el contribuyente no deduzca en un ejercicio la pérdida a que se refiere este artículo, pudiendo haberlo hecho conforme a lo dispuesto en este artículo, perderá el derecho a hacerlo en ejercicios posteriores, hasta por la cantidad en la que pudo haberlo efectuado."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo aplica a operaciones financieras con subyacentes que no cotizan en mercados reconocidos.",
+    "Los ingresos se acumulan cuando son exigibles o se ejerce la opción, lo que ocurra primero.",
+    "Las deducciones solo se permiten al conocerse el resultado neto en la liquidación o vencimiento.",
+    "Las pérdidas entre partes relacionadas tienen límites y reglas de actualización específicas.",
+    "Si no se deduce una pérdida en el ejercicio permitido, se pierde el derecho a hacerlo después."
+  ]
+  },
+  {
+  "PalabraClave": "Enajenación de acciones",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "22",
+  "Texto": "Para determinar la ganancia por enajenación de acciones, los contribuyentes disminuirán del ingreso obtenido por acción, el costo promedio por acción de las acciones que enajenen, conforme a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El costo promedio por acción, incluirá todas las acciones que el contribuyente tenga de la misma persona moral en la fecha de la enajenación, aun cuando no enajene todas ellas. Dicho costo se obtendrá dividiendo el monto original ajustado de las acciones entre el número total de acciones que tenga el contribuyente a la fecha de la enajenación."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Se obtendrá el monto original ajustado de las acciones conforme a lo siguiente:",
+      "Incisos": [
+        {
+          "Inciso": "a)",
+          "Texto": "Se sumará al costo comprobado de adquisición actualizado de las acciones que tenga el contribuyente de la misma persona moral, la diferencia que resulte de restar al saldo de la cuenta de utilidad fiscal neta que en los términos del artículo 77 de esta Ley tenga la persona moral emisora a la fecha de la enajenación de las acciones, el saldo que tenía dicha cuenta a la fecha de adquisición, cuando el primero de los saldos sea mayor, en la parte que corresponda a las acciones que tenga el contribuyente adquiridas en la misma fecha. Para determinar la diferencia a que se refiere el párrafo anterior, los saldos de la cuenta de utilidad fiscal neta que la persona moral emisora de las acciones que se enajenan hubiera tenido a las fechas de adquisición y de enajenación de las acciones, se deberán actualizar por el periodo comprendido desde el mes en el que se efectuó la última actualización previa a la fecha de la adquisición o de la enajenación, según se trate, y hasta el mes en el que se enajenen las acciones."
+        },
+        {
+          "Inciso": "b)",
+          "Texto": "Al resultado que se obtenga conforme al inciso que antecede, se le restarán, las pérdidas fiscales pendientes de disminuir, los reembolsos pagados, así como la diferencia a que se refiere el quinto párrafo del artículo 77 de esta Ley, de la persona moral emisora de las acciones que se enajenan, actualizados. Las pérdidas fiscales pendientes de disminuir a que se refiere el párrafo anterior, serán las que la persona moral de que se trate tenga a la fecha de enajenación, que correspondan al número de acciones que tenga el contribuyente a la fecha citada. Dichas pérdidas se actualizarán por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el mes en el que se efectúe la enajenación de que se trate. A las pérdidas fiscales pendientes de disminuir a que se refiere el párrafo anterior, no se les disminuirá el monto que de dichas pérdidas aplicó la persona moral para efectos de los pagos provisionales correspondientes a los meses del ejercicio de que se trate. Los reembolsos pagados por la persona moral de que se trate, serán los que correspondan al número de acciones que tenga el contribuyente al mes en el que se efectúe la enajenación."
+        }
+      ]
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Al resultado obtenido conforme a la fracción anterior, se le adicionará el monto de las pérdidas fiscales que la persona moral emisora de las acciones haya obtenido en ejercicios anteriores a la fecha en la que el contribuyente adquirió las acciones de que se trate y que dicha persona moral haya disminuido de su utilidad fiscal durante el periodo comprendido desde el mes en el que el contribuyente adquirió dichas acciones y hasta el mes en el que las enajene."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "La actualización del costo comprobado de adquisición de las acciones, se efectuará por el periodo comprendido desde el mes de su adquisición y hasta el mes en el que se enajenen las mismas. Las pérdidas y la diferencia pendiente de disminuir a que se refiere el quinto párrafo del artículo 77 de esta Ley, se actualizarán desde el mes en el que se actualizaron por última vez y hasta el mes en el que se enajenen las acciones. Los reembolsos pagados se actualizarán por el periodo comprendido desde el mes en el que se pagaron y hasta el mes en el que se enajenen las acciones."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece el método para calcular la ganancia fiscal por venta de acciones.",
+    "El cálculo se basa en el costo promedio por acción, ajustado por CUFIN, pérdidas fiscales y reembolsos.",
+    "La actualización de saldos es clave para reflejar el valor fiscal real al momento de la enajenación.",
+    "Se requiere información contable precisa de la persona moral emisora, especialmente del artículo 77."
+  ]
+  },
+{
+  "PalabraClave": "Costo promedio subsecuente",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "23",
+  "Texto": "Las acciones propiedad del contribuyente por las que ya se hubiera calculado el costo promedio tendrán como costo comprobado de adquisición en enajenaciones subsecuentes, el costo promedio por acción determinado conforme al cálculo efectuado en la enajenación inmediata anterior de acciones de la misma persona moral. En este caso, se considerará como fecha de adquisición de las acciones, para efectos de considerar los conceptos que se suman y se restan en los términos de las fracciones II y III del artículo 22 de esta Ley, así como para la actualización de dichos conceptos, el mes en el que se hubiera efectuado la enajenación inmediata anterior de acciones de la misma persona moral. Para determinar la diferencia entre los saldos de la cuenta de utilidad fiscal neta a que se refiere el inciso a) de la fracción II del artículo citado, se considerará como saldo de la referida cuenta a la fecha de adquisición, el saldo de la cuenta de utilidad fiscal neta que hubiera correspondido a la fecha de la enajenación inmediata anterior de las acciones de la misma persona moral."
+  ,
+  "NotasOrientadoras": [
+    "Este artículo establece que el costo promedio calculado en una enajenación anterior se conserva como base para futuras ventas de acciones de la misma persona moral.",
+    "La fecha de adquisición se redefine como la fecha de la enajenación anterior, para efectos de actualización de CUFIN, pérdidas y reembolsos.",
+    "Se mantiene la lógica del artículo 22, pero con continuidad fiscal entre operaciones sucesivas.",
+    "Evita recalcular desde cero el costo fiscal, facilitando la trazabilidad contable."
+  ]
+  },
+  {
+  "PalabraClave": "Reestructuración de sociedades",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "24",
+  "Texto": "Las autoridades fiscales autorizarán la enajenación de acciones a costo fiscal en los casos de reestructuración de sociedades residentes en México pertenecientes a un mismo grupo, siempre que se cumpla con los siguientes requisitos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El costo promedio de las acciones respecto de las cuales se formule la solicitud se determine, a la fecha de la enajenación, conforme a lo dispuesto en los artículos 22 y 23 de esta Ley, distinguiéndolas por enajenante, emisora y adquirente, de las mismas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Las acciones que reciba el solicitante por las acciones que enajena permanezcan en propiedad directa del adquirente y dentro del mismo grupo, por un periodo no menor de dos años, contados a partir de la fecha de la autorización a que se refiere este artículo."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las acciones que reciba el solicitante por las acciones que enajene, representen en el capital suscrito y pagado de la sociedad emisora de las acciones que recibe, el mismo por ciento que las acciones que enajena representarían antes de la enajenación, sobre el total del capital contable consolidado de las sociedades emisoras de las acciones que enajena y de las que recibe, tomando como base los estados financieros consolidados de las sociedades que intervienen en la operación, que para estos efectos deberán elaborarse en los términos que establezca el Reglamento de esta Ley, precisando en cada caso las bases conforme a las cuales se determinó el valor de las acciones, en relación con el valor total de las mismas."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "La sociedad emisora de las acciones que el solicitante reciba por la enajenación, levante acta de asamblea con motivo de la suscripción y pago de capital con motivo de las acciones que reciba, protocolizada ante fedatario público, haciéndose constar en dicha acta la información relativa a la operación que al efecto se establezca en el Reglamento de esta Ley. La sociedad emisora deberá remitir copia de dicha acta a las autoridades fiscales en un plazo no mayor de 30 días contados a partir de la protocolización."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La contraprestación que se derive de la enajenación consista en el canje de acciones emitidas por la sociedad adquirente de las acciones que transmite."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "El aumento en el capital social que registre la sociedad adquirente de las acciones que se enajenan, sea por el monto que represente el costo fiscal de las acciones que se transmiten."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Se presente un dictamen, por contador público inscrito ante las autoridades fiscales, en el que se señale: el costo comprobado de adquisición ajustado de las acciones de conformidad con los artículos 22 y 23 de esta Ley, a la fecha de adquisición; el valor contable de las acciones objeto de autorización; el organigrama del grupo donde se advierta el porcentaje de la participación en el capital social de los socios o accionistas, así como la tenencia accionaria directa e indirecta de las sociedades que integren dicho grupo antes y después de la reestructuración; los segmentos de negocio y giro de la sociedad emisora y la sociedad adquirente y, se certifique que dichas sociedades consolidan sus estados financieros, de conformidad con las disposiciones que las regulen en materia contable y financiera, o bien, que estén obligadas a aplicar."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "El monto original ajustado del total de las acciones enajenadas, determinado conforme a la fracción VII de este artículo al momento de dicha enajenación, se distribuya proporcionalmente a las acciones que se reciban en los términos de la fracción III del mismo artículo."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Las sociedades que participen en la reestructuración se dictaminen en los términos del artículo 32-A del Código Fiscal de la Federación o presenten la declaración informativa sobre su situación fiscal en los términos del artículo 32-H del citado Código, cuando estén obligadas a ello, en el ejercicio en que se realice dicha reestructuración."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "Se demuestre que la participación en el capital social de las sociedades emisoras de las acciones que se enajenan, se mantiene en el mismo por ciento por la sociedad que controle al grupo o por la empresa que, en su caso, se constituya para tal efecto."
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "Señale todas las operaciones relevantes relacionadas con la reestructuración objeto de autorización, dentro de los cinco años inmediatos anteriores a la presentación de la solicitud de autorización a que se refiere este artículo."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite enajenar acciones a costo fiscal en reestructuraciones internas de grupos empresariales.",
+    "Requiere permanencia accionaria, proporcionalidad en el capital y dictamen contable detallado.",
+    "La contraprestación debe consistir en canje de acciones, no en efectivo.",
+    "Las sociedades deben consolidar estados financieros y cumplir con obligaciones informativas del CFF.",
+    "Se exige trazabilidad de operaciones relevantes en los cinco años previos a la solicitud."
+  ]
+  },
+  {
+  "PalabraClave": "Deducciones autorizadas",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "25",
+  "Texto": "Los contribuyentes podrán efectuar las deducciones siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Las devoluciones que se reciban o los descuentos o bonificaciones que se hagan en el ejercicio."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El costo de lo vendido."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Los gastos netos de descuentos, bonificaciones o devoluciones."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las inversiones."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Los créditos incobrables y las pérdidas por caso fortuito, fuerza mayor o por enajenación de bienes distintos a los que se refiere la fracción II de este artículo."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Las cuotas a cargo de los patrones pagadas al Instituto Mexicano del Seguro Social, incluidas las previstas en la Ley del Seguro de Desempleo."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Los intereses devengados a cargo en el ejercicio, sin ajuste alguno. En el caso de los intereses moratorios, a partir del cuarto mes se deducirán únicamente los efectivamente pagados. Para estos efectos, se considera que los pagos por intereses moratorios que se realicen con posterioridad al tercer mes siguiente a aquél en el que se incurrió en mora cubren, en primer término, los intereses moratorios devengados en los tres meses siguientes a aquél en el que se incurrió en mora, hasta que el monto pagado exceda al monto de los intereses moratorios devengados deducidos correspondientes al último periodo citado."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "El ajuste anual por inflación que resulte deducible en los términos del artículo 44 de esta Ley."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Los anticipos y los rendimientos que paguen las sociedades cooperativas de producción, así como los anticipos que entreguen las sociedades y asociaciones civiles a sus miembros, cuando los distribuyan en los términos de la fracción II del artículo 94 de esta Ley."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "Las aportaciones efectuadas para la creación o incremento de reservas para fondos de pensiones o jubilaciones del personal, complementarias a las que establece la Ley del Seguro Social, y de primas de antigüedad constituidas en los términos de esta Ley. El monto de la deducción a que se refiere esta fracción no excederá en ningún caso a la cantidad que resulte de aplicar el factor de 0.47 al monto de la aportación realizada en el ejercicio de que se trate. El factor a que se refiere este párrafo será del 0.53 cuando las prestaciones otorgadas por los contribuyentes a favor de sus trabajadores que a su vez sean ingresos exentos para dichos trabajadores, en el ejercicio de que se trate, no disminuyan respecto de las otorgadas en el ejercicio fiscal inmediato anterior."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo define las deducciones que los contribuyentes pueden aplicar para determinar su resultado fiscal.",
+    "Incluye devoluciones, descuentos, costo de lo vendido, inversiones y pérdidas por caso fortuito.",
+    "Los intereses moratorios solo son deducibles si se pagan efectivamente después del tercer mes de mora.",
+    "Se permite deducir aportaciones a fondos de pensiones y primas de antigüedad, con límites según el tipo de prestaciones otorgadas.",
+    "Las deducciones deben estar debidamente documentadas y cumplir con requisitos específicos según cada fracción."
+  ]
+  },
+  {
+  "PalabraClave": "ISR, deducciones, establecimiento permanente, residentes en el extranjero",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "26",
+  "Texto": "Tratándose de personas morales residentes en el extranjero, así como de cualquier entidad que se considere como persona moral para efectos impositivos en su país, que tengan uno o varios establecimientos permanentes en el país, podrán efectuar las deducciones que correspondan a las actividades del establecimiento permanente, ya sea las erogadas en México o en cualquier otra parte, siempre que se cumplan los requisitos establecidos en esta Ley y en su Reglamento.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando las personas a que se refiere el párrafo anterior, residan en un país con el que México tenga en vigor un tratado para evitar la doble tributación, se podrán deducir los gastos que se prorrateen con la oficina central o sus establecimientos, siempre que tanto la oficina central como el establecimiento, en el que se realice la erogación, residan también en un país con el que México tenga en vigor un tratado para evitar la doble tributación y tenga un acuerdo amplio de intercambio de información y además se cumpla con los requisitos que al efecto establezca el Reglamento de esta Ley."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "No serán deducibles las remesas que efectúe el establecimiento permanente ubicado en México a la oficina central de la sociedad o a otro establecimiento de ésta en el extranjero, aun cuando dichas remesas se hagan a título de regalías, honorarios, o pagos similares, a cambio del derecho de utilizar patentes u otros derechos, o a título de comisiones por servicios concretos o por gestiones hechas o por intereses por dinero enviado al establecimiento permanente."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "Los establecimientos permanentes de empresas residentes en el extranjero que se dediquen al transporte internacional aéreo o terrestre, en lugar de las deducciones establecidas en el artículo 25 de esta Ley, efectuarán la deducción de la parte proporcional del gasto promedio que por sus operaciones haya tenido en el mismo ejercicio dicha empresa, considerando la oficina central y todos sus establecimientos. Cuando el ejercicio fiscal de dichas empresas residentes en el extranjero no coincida con el año de calendario, efectuarán la deducción antes citada considerando el último ejercicio terminado de la empresa."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula las deducciones aplicables a establecimientos permanentes en México de entidades extranjeras.",
+    "Permite deducir gastos erogados en México o en el extranjero, siempre que se cumplan los requisitos legales.",
+    "En caso de tratados para evitar la doble tributación, se permite el prorrateo de gastos con oficina central.",
+    "Se excluyen como deducibles las remesas por regalías, comisiones, intereses u otros pagos similares.",
+    "Para empresas extranjeras de transporte internacional, se aplica una deducción proporcional basada en el gasto promedio global."
+    ]
+  },
+  {
+    "PalabraClave": "Deducciones, Comprobante, Contribuyente Pagos SAT",
+    "Ley": "LISR",
+    "Artículo": "27",
+    "Texto": "Las deducciones autorizadas en este Título deberán reunir los siguientes requisitos:",
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Ser estrictamente indispensables para los fines de la actividad del contribuyente, salvo que se trate de donativos no onerosos ni remunerativos, que satisfagan los requisitos previstos en esta Ley y en las reglas generales que para el efecto establezca el Servicio de Administración Tributaria."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Que cuando esta Ley permita la deducción de inversiones se proceda en los términos de la Sección II de este Capítulo"
+      },
+      {
+        "Fracción": "III",
+        "Texto": "Estar amparadas con un comprobante fiscal y que los pagos cuyo monto exceda de $2,000.00 se efectúen mediante transferencia electrónica de fondos desde cuentas abiertas a nombre del contribuyente en instituciones que componen el sistema financiero y las entidades que para tal efecto autorice el Banco de México; cheque nominativo de la cuenta del contribuyente, tarjeta de crédito, de débito, de servicios, o los denominados monederos electrónicos autorizados por el Servicio de Administración Tributaria.\na) Tratándose de la adquisición de combustibles para vehículos marítimos, aéreos y terrestres, el pago deberá efectuarse en la forma señalada en el párrafo anterior, aun cuando la contraprestación de dichas adquisiciones no excedan de $2,000.00."
+      },
+      {
+        "Fracción": "IV",
+        "Texto": "Estar debidamente registradas en contabilidad y que sean restadas una sola vez."
+      },
+      {
+        "Fracción": "V",
+        "Texto": "Cumplir con las obligaciones establecidas en esta Ley y las demás disposiciones fiscales en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos. Tratándose de pagos al extranjero, éstos sólo se podrán deducir siempre que el contribuyente proporcione la información a que esté obligado en los términos del artículo 76 de esta Ley."
+      },
+      {
+        "Fracción": "VI",
+        "Texto": "Que cuando los pagos cuya deducción se pretenda realizar se hagan a contribuyentes que causen el impuesto al valor agregado, dicho impuesto se traslade en forma expresa y por separado en el comprobante fiscal correspondiente. Asimismo, deberán cumplir con la obligación de retención y entero del impuesto al valor agregado que, en su caso, se establezca en la Ley de la materia."
+      },
+      {
+        "Fracción": "VII",
+        "Texto": "Que en el caso de intereses por capitales tomados en préstamo, éstos se hayan invertido en los fines del negocio. Cuando el contribuyente otorgue préstamos a terceros, a sus trabajadores o a sus funcionarios, o a sus socios o accionistas, sólo serán deducibles los intereses que se devenguen de capitales tomados en préstamos hasta por el monto de la tasa más baja de los intereses estipulados en los préstamos a terceros, a sus trabajadores o a sus socios o accionistas, en la porción del préstamo que se hubiera hecho a éstos y expida y entregue comprobante fiscal a quienes haya otorgado el préstamo; los cuales podrán utilizarse como constancia de recibo si en alguna de estas operaciones no se estipularan intereses, no procederá la deducción respecto al monto proporcional de los préstamos hechos a las personas citadas. Estas últimas limitaciones no rigen para instituciones de crédito, sociedades financieras de objeto múltiple reguladas u organizaciones auxiliares del crédito, en la realización de las operaciones propias de su objeto."
+      },
+      {
+        "Fracción": "VIII",
+        "Texto": "Que tratándose de pagos que a su vez sean ingresos de contribuyentes personas físicas, de los contribuyentes a que se refieren los artículos 72, 73, 74 y 196 de esta Ley, así como de aquéllos realizados a los contribuyentes a que hace referencia el último párrafo de la fracción I del artículo 17 de esta Ley y de los donativos, éstos sólo se deduzcan cuando hayan sido efectivamente erogados en el ejercicio de que se trate, se entenderán como efectivamente erogados cuando hayan sido pagados en efectivo, mediante transferencias electrónicas de fondos desde cuentas abiertas a nombre del contribuyente en instituciones que componen el sistema financiero y las entidades que para tal efecto autorice el Banco de México; o en otros bienes que no sean títulos de crédito. Tratándose de pagos con cheque, se considerará efectivamente erogado en la fecha en la que el mismo haya sido cobrado o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración. También se entiende que es efectivamente erogado cuando el interés del acreedor queda satisfecho mediante cualquier forma de extinción de las obligaciones."
+      },
+      {
+        "Fracción": "IX",
+        "Texto": "Que tratándose de honorarios o gratificaciones a administradores, comisarios, directores, gerentes generales o miembros del consejo directivo, de vigilancia, consultivos o de cualquiera otra índole, éstos se determinen, en cuanto a monto total y percepción mensual o por asistencia, afectando en la misma forma los resultados del contribuyente."
+      },
+      {
+        "Fracción": "X",
+        "Texto": "Que en los casos de asistencia técnica, de transferencia de tecnología o de regalías, se compruebe ante las autoridades fiscales que quien proporciona los conocimientos, cuenta con elementos técnicos propios para ello; que se preste en forma directa y no a través de terceros, excepto en los casos en que los pagos se hagan a residentes en México, y en el contrato respectivo se haya pactado que la prestación se efectuará por un tercero autorizado; y que no consista en la simple posibilidad de obtenerla, sino en servicios que efectivamente se lleven a cabo."
+      },
+      {
+        "Fracción": "XI",
+        "Texto": "Que cuando se trate de gastos de previsión social, las prestaciones correspondientes se otorguen en forma general en beneficio de todos los trabajadores. Tratándose de vales de despensa otorgados a los trabajadores, serán deducibles siempre que su entrega se realice a través de los monederos electrónicos que al efecto autorice el Servicio de Administración Tributaria."
+      }
+    ],
+    "Párrafos": [],
+    "NotasOrientadoras": [
+      "Requisitos para deducibilidad",
+      "Comprobación fiscal y medios de pago",
+      "Tratamiento de pagos al extranjero",
+      "IVA trasladado y retenido",
+      "Previsión social y vales de despensa"
+    ]
+  },
+  {
+  "PalabraClave": "No deducibles, gastos no deducibles",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "28",
+  "Texto": "Para los efectos de este Título, no serán deducibles:",
+  "Fracciones": [
+    { "Fracción": "I", "Texto": "Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de terceros..." },
+    { "Fracción": "II", "Texto": "Los gastos e inversiones, en la proporción que representen los ingresos exentos..." },
+    { "Fracción": "III", "Texto": "Los obsequios, atenciones y otros gastos de naturaleza análoga..." },
+    { "Fracción": "IV", "Texto": "Los gastos de representación." },
+    { "Fracción": "V", "Texto": "Los viáticos o gastos de viaje, en el país o en el extranjero..." },
+    { "Fracción": "VI", "Texto": "Las sanciones, las indemnizaciones por daños y perjuicios o las penas convencionales..." },
+    { "Fracción": "VII", "Texto": "Los intereses devengados por préstamos o por adquisición, de valores a cargo del Gobierno Federal..." },
+    { "Fracción": "VIII", "Texto": "Las provisiones para la creación o el incremento de reservas complementarias..." },
+    { "Fracción": "IX", "Texto": "Las reservas que se creen para indemnizaciones al personal..." },
+    { "Fracción": "X", "Texto": "Las primas o sobreprecio sobre el valor nominal que el contribuyente pague..." },
+    { "Fracción": "XI", "Texto": "Las pérdidas por caso fortuito, fuerza mayor o por enajenación de bienes..." },
+    { "Fracción": "XII", "Texto": "El crédito comercial, aun cuando sea adquirido de terceros." },
+    { "Fracción": "XIII", "Texto": "Los pagos por el uso o goce temporal de aviones y embarcaciones..." },
+    { "Fracción": "XIV", "Texto": "Las pérdidas derivadas de la enajenación, así como por caso fortuito o fuerza mayor..." },
+    { "Fracción": "XV", "Texto": "Los pagos por concepto de impuesto al valor agregado o del impuesto especial..." },
+    { "Fracción": "XVI", "Texto": "Las pérdidas que deriven de fusión, de reducción de capital o de liquidación de sociedades..." },
+    { "Fracción": "XVII", "Texto": "Las pérdidas que provengan de la enajenación de acciones y de otros títulos valor..." },
+    { "Fracción": "XVIII", "Texto": "Los gastos que se hagan en el extranjero a prorrata con quienes no sean contribuyentes..." },
+    { "Fracción": "XIX", "Texto": "Las pérdidas que se obtengan en las operaciones financieras derivadas..." },
+    { "Fracción": "XX", "Texto": "El 91.5% de los consumos en restaurantes..." },
+    { "Fracción": "XXI", "Texto": "Los gastos en comedores que por su naturaleza no estén a disposición de todos los trabajadores..." },
+    { "Fracción": "XXII", "Texto": "Los pagos por servicios aduaneros, distintos de los honorarios de agentes aduanales..." },
+    { "Fracción": "XXIII", "Texto": "Los pagos realizados a partes relacionadas o a través de un acuerdo estructurado..." },
+    { "Fracción": "XXIV", "Texto": "Los pagos de cantidades iniciales por el derecho de adquirir o vender..." },
+    { "Fracción": "XXV", "Texto": "La restitución efectuada por el prestatario por un monto equivalente..." },
+    { "Fracción": "XXVI", "Texto": "Las cantidades que tengan el carácter de participación en la utilidad del contribuyente..." },
+    { "Fracción": "XXVII", "Texto": "Los intereses que deriven del monto de las deudas del contribuyente..." },
+    { "Fracción": "XXVIII", "Texto": "Los anticipos por las adquisiciones de las mercancías, materias primas..." },
+    { "Fracción": "XXIX", "Texto": "Los pagos que efectúe el contribuyente que también sean deducibles para un miembro del mismo grupo..." },
+    { "Fracción": "XXX", "Texto": "Los pagos que a su vez sean ingresos exentos para el trabajador..." },
+    { "Fracción": "XXXI", "Texto": "(Se deroga)." },
+    { "Fracción": "XXXII", "Texto": "Los intereses netos del ejercicio que excedan del monto que resulte..." },
+    { "Fracción": "XXXIII", "Texto": "Los pagos que se realicen en los supuestos señalados en el artículo 15-D..." }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece una lista exhaustiva de conceptos que no pueden deducirse para efectos del ISR.",
+    "Incluye restricciones por tipo de gasto, naturaleza del pago, relación entre partes y condiciones fiscales.",
+    "Busca evitar simulaciones, doble deducción, deducción de gastos personales o no vinculados a la actividad productiva.",
+    "Contiene referencias cruzadas con artículos del CFF y otros capítulos de la LISR para delimitar deducciones técnicas.",
+    "**Principio rector: Integridad y legalidad en la determinación de la base gravable del ISR.**"
+  ]
+  },
+  {
+  "PalabraClave": "Reservas, Pensiones, Jubilaciones, Fideicomiso irrevocable",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "29",
+  "Texto": "Las reservas para fondos de pensiones o jubilaciones de personal, complementarias a las que establece la Ley del Seguro Social y de primas de antigüedad, se ajustarán a las siguientes reglas:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Deberán crearse y calcularse en los términos y con los requisitos que fije el Reglamento de esta Ley y repartirse uniformemente en diez ejercicios..."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "La reserva deberá invertirse cuando menos en un 30% en valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores..."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Los bienes que formen el fondo deberán afectarse en fideicomiso irrevocable, en institución de crédito autorizada para operar en la República..."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las inversiones que constituyan el fondo, deberán valuarse cada año a precio de mercado, en el mes en que se constituyó la reserva..."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "No podrán deducirse las aportaciones cuando el valor del fondo sea suficiente para cumplir con las obligaciones establecidas conforme al plan..."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "El contribuyente únicamente podrá disponer de los bienes y valores a que se refiere la fracción II de este artículo, para el pago de pensiones..."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula la deducibilidad y manejo fiscal de las reservas para pensiones, jubilaciones y primas de antigüedad.",
+    "Establece requisitos de cálculo, inversión, valuación y destino exclusivo de los fondos, incluyendo fideicomisos irrevocables.",
+    "Impone límites a la deducción cuando el fondo ya cubre las obligaciones del plan, evitando sobreestimaciones fiscales.",
+    "Vincula la inversión de las reservas con instrumentos seguros y regulados, protegiendo el interés de los trabajadores.",
+    "**Principio rector: Seguridad financiera y transparencia fiscal en el manejo de fondos laborales complementarios.**"
+  ]
+  },
+  {
+  "PalabraClave": "Erogaciones estimadas, Deducción proporcional, Obras inmobiliarias, Tiempo compartido, Factor de deducción",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "30",
+  "Texto": "Los contribuyentes que realicen obras consistentes en desarrollos inmobiliarios o fraccionamientos de lotes...",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "Único",
+      "Texto": "Podrán deducir las erogaciones estimadas relativas a los costos directos e indirectos de esas obras o de la prestación del servicio..."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite deducir costos estimados en lugar de aplicar las reglas generales de deducción de los artículos 19 y 25.",
+    "Aplica a desarrolladores inmobiliarios, fabricantes de bienes de activo fijo de largo proceso y prestadores de servicios turísticos en tiempo compartido.",
+    "La deducción se calcula mediante un factor proporcional entre costos estimados e ingresos estimados, aplicado a los ingresos acumulables del ejercicio.",
+    "Requiere control por obra o inmueble, lo que implica una contabilidad segmentada y precisa.",
+    "**Principio rector: Correspondencia contable entre ingresos y costos estimados en actividades de largo plazo.**"
+  ]
+  },
+  {
+  "PalabraClave": "Deducción de inversiones, Porcentaje anual, Monto original, Ejercicio irregular, Blindaje automotriz",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "31",
+  "Texto": "Las inversiones únicamente se podrán deducir mediante la aplicación, en cada ejercicio, de los por cientos máximos autorizados...",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "1",
+      "Texto": "Tratándose de ejercicios irregulares, la deducción correspondiente se efectuará en el por ciento que represente el número de meses completos..."
+    },
+    {
+      "Párrafo": "2",
+      "Texto": "El monto original de la inversión comprende, además del precio del bien, los impuestos efectivamente pagados con motivo de la adquisición..."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula la deducción de inversiones mediante porcentajes máximos anuales establecidos por la Ley.",
+    "Incluye reglas específicas para ejercicios irregulares y para bienes que se comienzan a usar después del inicio del ejercicio.",
+    "Define el monto original de la inversión incluyendo costos accesorios, excluyendo el IVA, y considerando blindaje en automóviles.",
+    "La deducción está condicionada a la utilización efectiva del bien dentro del ejercicio fiscal.",
+    "**Principio rector: Proporcionalidad y precisión en la deducción de inversiones conforme al uso real del activo.**"
+  ]
+  },
+  {
+  "PalabraClave": "Inversiones, Activo fijo, Gastos diferidos, Cargos diferidos, Periodos preoperativos",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "32",
+  "Texto": "Para los efectos de esta Ley, se consideran inversiones los activos fijos, los gastos y cargos diferidos y las erogaciones realizadas en periodos preoperativos, de conformidad con los siguientes conceptos:",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Activo fijo es el conjunto de bienes tangibles que utilicen los contribuyentes para la realización de sus actividades..."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Para efectos de esta Ley, la adquisición del derecho de usufructo sobre un bien inmueble se considerará activo fijo."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "Gastos diferidos son los activos intangibles representados por bienes o derechos que permitan reducir costos de operación..."
+    },
+    {
+      "Párrafo": "5",
+      "Texto": "Cargos diferidos son aquéllos que reúnan los requisitos señalados en el párrafo anterior, excepto los relativos a la explotación de bienes del dominio público..."
+    },
+    {
+      "Párrafo": "6",
+      "Texto": "Erogaciones realizadas en periodos preoperativos, son aquéllas que tienen por objeto la investigación y el desarrollo..."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo clasifica los tipos de inversiones que pueden ser deducibles fiscalmente, según su naturaleza y temporalidad.",
+    "Distingue entre activos tangibles (activo fijo) e intangibles (gastos y cargos diferidos), así como erogaciones previas a la operación.",
+    "Reconoce el usufructo como inversión equiparable al activo fijo, ampliando el concepto más allá de la propiedad directa.",
+    "Establece criterios de duración para diferenciar entre gastos y cargos diferidos, según el horizonte de beneficio económico.",
+    "**Principio rector: Claridad conceptual en la clasificación fiscal de inversiones para su deducción ordenada.**"
+  ]
+  },
+  {
+  "PalabraClave": "Porcentajes deducibles, Gastos diferidos, Cargos diferidos, Regalías, Concesiones públicas",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "33",
+  "Texto": "Los por cientos máximos autorizados tratándose de gastos y cargos diferidos, así como para las erogaciones realizadas en periodos preoperativos, son los siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "5% para cargos diferidos."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "10% para erogaciones realizadas en periodos preoperativos."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "15% para regalías, para asistencia técnica, así como para otros gastos diferidos, a excepción de los señalados en la fracción IV del presente artículo."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "En el caso de activos intangibles que permitan la explotación de bienes del dominio público o la prestación de un servicio público concesionado, el por ciento máximo se calculará dividiendo la unidad entre el número de años por los cuales se otorgó la concesión..."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece los porcentajes máximos de deducción anual para distintos tipos de inversiones intangibles.",
+    "Diferencia entre cargos diferidos, erogaciones preoperativas y gastos como regalías o asistencia técnica.",
+    "Introduce una fórmula específica para calcular el porcentaje deducible en concesiones públicas, basada en la duración del contrato.",
+    "Permite una deducción gradual y ordenada, alineada con el beneficio económico que generan estos activos.",
+    "**Principio rector: Proporcionalidad fiscal en la deducción de activos intangibles según su naturaleza y temporalidad.**"
+  ]
+  },
+  {
+  "PalabraClave": "Activos fijos, Porcentajes deducibles, Construcciones, Tecnología, Energía renovable",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "34",
+  "Texto": "Los por cientos máximos autorizados, tratándose de activos fijos por tipo de bien son los siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Tratándose de construcciones:",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "10% para inmuebles declarados como monumentos arqueológicos, artísticos, históricos o patrimoniales..." },
+        { "Inciso": "b", "Texto": "5% en los demás casos, incluyendo instalaciones, adiciones, reparaciones, mejoras, adaptaciones..." }
+      ]
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Tratándose de ferrocarriles:",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "3% para bombas de suministro de combustible a trenes." },
+        { "Inciso": "b", "Texto": "5% para vías férreas." },
+        { "Inciso": "c", "Texto": "6% para carros de ferrocarril, locomotoras, armones y autoarmones." },
+        { "Inciso": "d", "Texto": "7% para maquinaria niveladora de vías, desclavadoras, esmeriles para vías..." },
+        { "Inciso": "e", "Texto": "10% para el equipo de comunicación, señalización y telemando." }
+      ]
+    },
+    { "Fracción": "III", "Texto": "10% para mobiliario y equipo de oficina." },
+    { "Fracción": "IV", "Texto": "6% para embarcaciones." },
+    {
+      "Fracción": "V",
+      "Texto": "Tratándose de aviones:",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "25% para los dedicados a la aerofumigación agrícola." },
+        { "Inciso": "b", "Texto": "10% para los demás." }
+      ]
+    },
+    { "Fracción": "VI", "Texto": "25% para automóviles, autobuses, camiones de carga, tractocamiones, montacargas y remolques." },
+    { "Fracción": "VII", "Texto": "30% para computadoras personales, servidores, impresoras, lectores ópticos, digitalizadores, etc." },
+    { "Fracción": "VIII", "Texto": "35% para dados, troqueles, moldes, matrices y herramental." },
+    { "Fracción": "IX", "Texto": "100% para semovientes y vegetales." },
+    {
+      "Fracción": "X",
+      "Texto": "Tratándose de comunicaciones telefónicas:",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "5% para torres de transmisión y cables, excepto los de fibra óptica." },
+        { "Inciso": "b", "Texto": "8% para sistemas de radio, incluyendo equipo de transmisión y manejo..." },
+        { "Inciso": "c", "Texto": "10% para equipo utilizado en la transmisión, como multiplexores y ruteadores." },
+        { "Inciso": "d", "Texto": "25% para equipo de la central telefónica destinado a la conmutación..." },
+        { "Inciso": "e", "Texto": "10% para los demás." }
+      ]
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "Tratándose de comunicaciones satelitales:",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "8% para el segmento satelital en el espacio." },
+        { "Inciso": "b", "Texto": "10% para el equipo satelital en tierra." }
+      ]
+    },
+    { "Fracción": "XII", "Texto": "100% para adaptaciones que faciliten el acceso a personas con discapacidad según el artículo 186." },
+    { "Fracción": "XIII", "Texto": "100% para maquinaria y equipo para generación de energía renovable o cogeneración eficiente." },
+    { "Fracción": "XIV", "Texto": "25% para bicicletas convencionales, eléctricas y motocicletas con baterías recargables." },
+    { "Fracción": "XV", "Texto": "5% para el derecho de usufructo constituido sobre un bien inmueble." }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece los porcentajes máximos de deducción anual para activos fijos, diferenciados por tipo y uso.",
+    "Incluye bienes tangibles como construcciones, vehículos, maquinaria, equipo tecnológico y activos relacionados con telecomunicaciones.",
+    "Reconoce deducciones aceleradas para bienes con impacto social o ambiental, como adaptaciones para discapacidad y energías renovables.",
+    "Introduce subcategorías específicas para sectores como ferrocarriles, aviación, telecomunicaciones y satélites.",
+    "**Principio rector: Equidad y eficiencia fiscal en la depreciación de activos fijos según su naturaleza y función.**"
+  ]
+  },
+  {
+  "PalabraClave": "Maquinaria, Porcentajes deducibles, Actividad económica, Tecnología, Investigación",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "35",
+  "Texto": "Para la maquinaria y equipo distintos de los señalados en el artículo anterior, se aplicarán, de acuerdo a la actividad en que sean utilizados, los por cientos siguientes:",
+  "Fracciones": [
+    { "Fracción": "I", "Texto": "5% en generación eléctrica, molienda de granos, producción de azúcar, aceites comestibles y transporte marítimo." },
+    { "Fracción": "II", "Texto": "6% en producción de metal en primer proceso, tabaco y carbón natural." },
+    { "Fracción": "III", "Texto": "7% en fabricación de pulpa, papel y productos similares." },
+    { "Fracción": "IV", "Texto": "8% en fabricación de vehículos, construcción de ferrocarriles y navíos, productos metálicos, maquinaria e instrumentos científicos." },
+    { "Fracción": "V", "Texto": "9% en curtido de piel, productos químicos, petroquímicos, farmacobiológicos, caucho, plástico e impresión gráfica." },
+    { "Fracción": "VI", "Texto": "10% en transporte eléctrico, infraestructura de hidrocarburos, plataformas y embarcaciones de perforación y almacenamiento." },
+    { "Fracción": "VII", "Texto": "11% en fabricación y acabado de textiles y prendas de vestir." },
+    { "Fracción": "VIII", "Texto": "12% en minería, construcción de aeronaves y transporte terrestre de carga y pasajeros (excepto maquinaria de fracción II)." },
+    { "Fracción": "IX", "Texto": "16% en transporte aéreo y transmisión de servicios de comunicación por telégrafos, radio y televisión." },
+    { "Fracción": "X", "Texto": "20% en restaurantes." },
+    { "Fracción": "XI", "Texto": "25% en construcción, agricultura, ganadería, silvicultura y pesca." },
+    { "Fracción": "XII", "Texto": "35% para investigación de nuevos productos o desarrollo tecnológico en el país." },
+    { "Fracción": "XIII", "Texto": "50% en manufactura y transformación de componentes magnéticos y tarjetas electrónicas para computación." },
+    { "Fracción": "XIV", "Texto": "10% en otras actividades no especificadas en este artículo." }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo asigna porcentajes máximos de deducción para maquinaria y equipo según el sector económico en que se utilicen.",
+    "Reconoce actividades prioritarias como investigación tecnológica y manufactura especializada con deducciones aceleradas.",
+    "Distingue entre sectores industriales, agrícolas, energéticos, de transporte y servicios, con porcentajes diferenciados.",
+    "Incluye una cláusula residual para actividades no especificadas, con deducción estándar del 10%.",
+    "**Principio rector: Vinculación entre uso productivo del activo y beneficio fiscal proporcional por sector.**"
+  ]
+  },
+  {
+  "PalabraClave": "Deducción de inversiones, Automóviles eléctricos, Fusión de sociedades, Regalías, Activos de terceros",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "36",
+  "Texto": "La deducción de las inversiones se sujetará a las reglas siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Las reparaciones, así como las adaptaciones a las instalaciones se considerarán inversiones siempre que impliquen adiciones o mejoras al activo fijo."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Las inversiones en automóviles sólo serán deducibles hasta por un monto de $175,000.00. Tratándose de inversiones realizadas en automóviles cuya propulsión sea a través de baterías eléctricas recargables, así como los automóviles eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, sólo serán deducibles hasta por un monto de $250,000.00."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las inversiones en casas habitación y en comedores, que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, así como en aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, sólo serán deducibles en los casos que reúnan los requisitos que señale el Reglamento de esta Ley. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a $8’600,000.00."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "En los casos de bienes adquiridos por fusión o escisión de sociedades, los valores sujetos a deducción no deberán ser superiores a los valores pendientes de deducir en la sociedad fusionada o escindente, según corresponda."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Las comisiones y los gastos relacionados con la emisión de obligaciones o de cualquier otro título de crédito, colocados entre el gran público inversionista, o cualquier otro título de crédito de los señalados en el artículo 8 de esta Ley, se deducirán anualmente en proporción a los pagos efectuados para redimir dichas obligaciones o títulos, en cada ejercicio. Cuando las obligaciones y los títulos a que se refiere esta fracción se rediman mediante un solo pago, las comisiones y los gastos se deducirán por partes iguales durante los ejercicios que transcurran hasta que se efectúe el pago."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Las construcciones, instalaciones o mejoras permanentes en activos fijos tangibles, propiedad de terceros, que de conformidad con los contratos de arrendamiento o de concesión respectivos queden a beneficio del propietario y se hayan efectuado a partir de la fecha de celebración de los contratos mencionados, se deducirán en los términos de esta Sección. Cuando la terminación del contrato ocurra sin que las inversiones deducibles hayan sido fiscalmente redimidas, el valor por redimir podrá deducirse en la declaración del ejercicio respectivo."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Tratándose de regalías, se podrá efectuar la deducción en los términos de la fracción III del artículo 33 de esta Ley, únicamente cuando las mismas hayan sido efectivamente pagadas."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece reglas específicas para deducir inversiones según el tipo de activo, su uso y condiciones contractuales.",
+    "Limita la deducción de automóviles, con montos diferenciados para vehículos eléctricos y de hidrógeno.",
+    "Regula la deducción de activos adquiridos por fusión o escisión, evitando duplicidad o sobrevaloración fiscal.",
+    "Permite deducción de regalías solo si han sido efectivamente pagadas, reforzando el principio de devengo real.",
+    "**Principio rector: Razonabilidad fiscal en la deducción de inversiones según su naturaleza, origen y destino.**"
+  ]
+  },
+  {
+  "PalabraClave": "Pérdidas por Fuerza mayor o caso fortuito",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "37",
+  "Texto": "Las pérdidas de bienes del contribuyente por caso fortuito o fuerza mayor, que no se reflejen en el inventario, serán deducibles en el ejercicio en que ocurran. La pérdida será igual a la cantidad pendiente de deducir a la fecha en que se sufra. La cantidad que se recupere se acumulará en los términos del artículo 18 de esta Ley.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando los activos fijos no identificables individualmente se pierdan por caso fortuito o fuerza mayor o dejen de ser útiles, el monto pendiente por deducir de dichos activos se aplicará considerando que los primeros activos que se adquirieron son los primeros que se pierden."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Cuando el contribuyente reinvierta la cantidad recuperada en la adquisición de bienes de naturaleza análoga a los que perdió, o bien, para redimir pasivos por la adquisición de dichos bienes, únicamente acumulará la parte de la cantidad recuperada no reinvertida o no utilizada para redimir pasivos. La cantidad reinvertida que provenga de la recuperación sólo podrá deducirse mediante la aplicación del por ciento autorizado por esta Ley sobre el monto original de la inversión del bien que se perdió y hasta por la cantidad que de este monto estaba pendiente de deducirse a la fecha de sufrir la pérdida."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "Si el contribuyente invierte cantidades adicionales a las recuperadas, considerará a éstas como una inversión diferente."
+    },
+    {
+      "Párrafo": "5",
+      "Texto": "La reinversión a que se refiere este precepto, deberá efectuarse dentro de los doce meses siguientes contados a partir de que se obtenga la recuperación. En el caso de que las cantidades recuperadas no se reinviertan o no se utilicen para redimir pasivos, en dicho plazo, se acumularán a los demás ingresos obtenidos en el ejercicio en el que concluya el plazo."
+    },
+    {
+      "Párrafo": "6",
+      "Texto": "Los contribuyentes podrán solicitar autorización a las autoridades fiscales, para que el plazo señalado en el párrafo anterior se pueda prorrogar por otro periodo igual."
+    },
+    {
+      "Párrafo": "7",
+      "Texto": "La cantidad recuperada no reinvertida en el plazo señalado en el quinto párrafo de este artículo, se ajustará multiplicándola por el factor de actualización correspondiente al periodo comprendido desde el mes en que se obtuvo la recuperación y hasta el mes en que se acumule."
+    },
+    {
+      "Párrafo": "8",
+      "Texto": "Cuando sea impar el número de meses comprendidos en el periodo en el que el bien haya sido utilizado en el ejercicio, se considerará como último mes de la primera mitad de dicho periodo el mes inmediato anterior al que corresponda la mitad del periodo."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite deducir pérdidas por caso fortuito o fuerza mayor, siempre que no estén reflejadas en el inventario.",
+    "Establece reglas específicas para activos no identificables, aplicando el método PEPS (primeras entradas, primeras salidas).",
+    "Regula la reinversión de cantidades recuperadas, condicionando su deducción a límites y plazos precisos.",
+    "Permite prórroga del plazo de reinversión y exige actualización de montos no reinvertidos.",
+    "**Principio rector: Equidad fiscal ante pérdidas involuntarias, con incentivos a la reinversión responsable.**"
+  ]
+  },
+  {
+  "PalabraClave": "Arrendamiento financiero, Bien arrendado",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "38",
+  "Texto": "Tratándose de contratos de arrendamiento financiero, el arrendatario considerará como monto original de la inversión, la cantidad que se hubiere pactado como valor del bien en el contrato respectivo.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece cómo determinar el monto original de la inversión en contratos de arrendamiento financiero.",
+    "El valor pactado en el contrato se considera como base para la deducción fiscal del arrendatario.",
+    "Evita ambigüedades al definir un criterio único para el tratamiento de inversiones bajo arrendamiento financiero.",
+    "Permite integrar este valor en el cálculo de depreciación o deducción conforme a las reglas generales de inversión.",
+    "**Principio rector: Claridad y uniformidad en la valuación fiscal de bienes arrendados financieramente.**"
+  ]
+  },
+  {
+  "PalabraClave": "Costo de mercancías, Costeo absorbente, costo historico, costo predeterminado",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "39",
+  "Texto": "El costo de las mercancías que se enajenen, así como el de las que integren el inventario final del ejercicio, se determinará conforme al sistema de costeo absorbente sobre la base de costos históricos o predeterminados. En todo caso, el costo se deducirá en el ejercicio en el que se acumulen los ingresos que se deriven de la enajenación de los bienes de que se trate.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "Incisos": [
+    {
+      "Inciso": "a)",
+      "Texto": "El importe de las adquisiciones de mercancías, disminuidas con el monto de las devoluciones, descuentos y bonificaciones, sobre las mismas, efectuados en el ejercicio."
+    },
+    {
+      "Inciso": "b)",
+      "Texto": "Los gastos incurridos para adquirir y dejar las mercancías en condiciones de ser enajenadas."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece el sistema de costeo absorbente como base para determinar el costo fiscal de las mercancías.",
+    "El costo se deduce en el mismo ejercicio en que se acumulan los ingresos por enajenación, alineando temporalmente ingreso y gasto.",
+    "Define qué elementos pueden integrarse al costo: adquisiciones netas y gastos de acondicionamiento.",
+    "Aplica exclusivamente a contribuyentes que se dediquen a la compra-venta de mercancías, excluyendo otros regímenes o actividades.",
+    "**Principio rector: Correspondencia fiscal entre ingresos acumulables y costos deducibles en operaciones comerciales.**"
+  ]
+  },
+  {
+  "PalabraClave": "Arrendamiento financiero, Ingreso exigible, Deducción proporcional, Costo de lo vendido, Plazo inicial forzoso",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "40",
+  "Texto": "Los contribuyentes que celebren contratos de arrendamiento financiero y opten por acumular como ingreso del ejercicio, la parte del precio exigible durante el mismo, deberán deducir el costo de lo vendido en la proporción que represente el ingreso percibido en dicho ejercicio, respecto del total de los pagos pactados en el plazo inicial forzoso, en lugar de deducir el monto total del costo de lo vendido al momento en el que se enajenen las mercancías.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula la deducción del costo de lo vendido en contratos de arrendamiento financiero con ingreso exigible parcial.",
+    "Establece una deducción proporcional al ingreso percibido, evitando deducciones anticipadas o desfasadas.",
+    "Aplica exclusivamente cuando el contribuyente opta por acumular ingresos conforme se hacen exigibles.",
+    "Requiere identificar el plazo inicial forzoso para calcular la proporción deducible correctamente.",
+    "**Principio rector: Correspondencia proporcional entre ingreso exigible y deducción fiscal en operaciones de arrendamiento financiero.**"
+  ]
+  },
+  {
+  "PalabraClave": "Valuación de inventarios, PEPS, Costo identificado, Costo promedio, Método detallista",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "41",
+  "Texto": "Los contribuyentes, podrán optar por cualquiera de los métodos de valuación de inventarios que se señalan a continuación:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Primeras entradas primeras salidas (PEPS)."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Costo identificado."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Costo promedio."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Detallista."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite a los contribuyentes elegir entre cuatro métodos de valuación de inventarios.",
+    "Cada método tiene implicaciones distintas en el cálculo del costo de lo vendido y en la utilidad fiscal.",
+    "El método PEPS asume que las primeras mercancías adquiridas son las primeras en venderse.",
+    "El método detallista es útil para negocios con márgenes definidos y precios de venta estandarizados.",
+    "**Principio rector: Flexibilidad fiscal en la valuación de inventarios, respetando criterios técnicos y contables.**"
+  ]
+  },
+  {
+  "PalabraClave": "Costo de mercancías, Valor de reposición, Valor de realización, Neto de realización, Ajuste fiscal",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "42",
+  "Texto": "Cuando el costo de las mercancías, sea superior al precio de mercado o de reposición, podrá considerarse el que corresponda de acuerdo a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El de reposición, sea éste por adquisición o producción, sin que exceda del valor de realización ni sea inferior al neto de realización."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El de realización, que es el precio normal de enajenación menos los gastos directos de enajenación, siempre que sea inferior al valor de reposición."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "El neto de realización, que es el equivalente al precio normal de enajenación menos los gastos directos de enajenación y menos el por ciento de utilidad que habitualmente se obtenga en su realización, si es superior al valor de reposición."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite ajustar el costo fiscal de las mercancías cuando su valor contable excede el valor de mercado.",
+    "Establece tres alternativas de valuación: reposición, realización y neto de realización, según el caso.",
+    "Evita que se deduzcan costos inflados, alineando el valor fiscal con el valor económico real.",
+    "Requiere análisis comparativo entre valores para seleccionar el más adecuado conforme a la ley.",
+    "**Principio rector: Razonabilidad fiscal en la valuación de inventarios, evitando sobrestimaciones deducibles.**"
+  ]
+  },
+  {
+  "PalabraClave": "Prestación de servicios, Bienes entregados, Deducción fiscal, Acumulación de ingreso, Métodos de valuación",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "43",
+  "Texto": "Cuando los contribuyentes, con motivo de la prestación de servicios proporcionen bienes en los términos establecidos en el artículo 17, segundo párrafo, del Código Fiscal de la Federación, sólo se podrán deducir en el ejercicio en el que se acumule el ingreso por la prestación del servicio, valuados conforme a cualquiera de los métodos establecidos en el artículo 41 de esta Ley.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula la deducción de bienes entregados como parte de la prestación de servicios.",
+    "La deducción sólo procede en el ejercicio en que se acumula el ingreso por el servicio prestado.",
+    "Los bienes deben valuarse conforme a los métodos permitidos en el artículo 41: PEPS, costo identificado, promedio o detallista.",
+    "Evita deducciones anticipadas que no correspondan al momento fiscal del ingreso.",
+    "**Principio rector: Sincronización fiscal entre ingreso acumulable y deducción de bienes entregados en servicios.**"
+  ]
+  },
+  {
+  "PalabraClave": "Ajuste por inflación, Saldo promedio, Créditos y deudas, Factor de ajuste, Índice de precios",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "44",
+  "Texto": "Las personas morales determinarán, al cierre de cada ejercicio, el ajuste anual por inflación, como sigue:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Determinarán el saldo promedio anual de sus deudas y el saldo promedio anual de sus créditos. El saldo promedio anual de los créditos o deudas será la suma de los saldos al último día de cada uno de los meses del ejercicio, dividida entre el número de meses del ejercicio. No se incluirán en el saldo del último día de cada mes los intereses que se devenguen en el mes."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Cuando el saldo promedio anual de las deudas sea mayor que el saldo promedio anual de los créditos, la diferencia se multiplicará por el factor de ajuste anual y el resultado será el ajuste anual por inflación acumulable. Cuando el saldo promedio anual de los créditos sea mayor que el saldo promedio anual de las deudas, la diferencia se multiplicará por el factor de ajuste anual y el resultado será el ajuste anual por inflación deducible."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "El factor de ajuste anual será el que se obtenga de restar la unidad al cociente que se obtenga de dividir el Índice Nacional de Precios al Consumidor del último mes del ejercicio de que se trate entre el citado índice del último mes del ejercicio inmediato anterior. Cuando el ejercicio sea menor de 12 meses, el factor de ajuste anual será el que se obtenga de restar la unidad al cociente que se obtenga de dividir el Índice Nacional de Precios al Consumidor del último mes del ejercicio de que se trate entre el citado índice del mes inmediato anterior al del primer mes del ejercicio de que se trate. Los créditos y las deudas, en moneda extranjera, se valuarán a la paridad existente al primer día del mes."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece el procedimiento para calcular el ajuste anual por inflación en personas morales.",
+    "Compara saldos promedio de créditos y deudas para determinar si el ajuste es acumulable o deducible.",
+    "El factor de ajuste se basa en el Índice Nacional de Precios al Consumidor, con reglas específicas para ejercicios menores a 12 meses.",
+    "Incluye criterios de valuación para créditos y deudas en moneda extranjera, usando la paridad del primer día del mes.",
+    "**Principio rector: Reconocimiento fiscal de los efectos inflacionarios sobre la posición financiera de la persona moral.**"
+  ]
+  },
+  {
+  "PalabraClave": "Créditos fiscales, Ajuste por inflación, Factoraje financiero, Inversiones en deuda, Exclusiones de crédito",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "45",
+  "Texto": "Para los efectos del artículo 44, se considerará crédito, el derecho que tiene una persona acreedora a recibir de otra deudora una cantidad en numerario, entre otros: los derechos de crédito que adquieran las empresas de factoraje financiero, las inversiones en acciones de fondos de inversión en instrumentos de deuda y las operaciones financieras derivadas señaladas en la fracción IX del artículo 20 de esta Ley.",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Los que sean a cargo de personas físicas y no provengan de sus actividades empresariales, cuando sean a la vista, a plazo menor de un mes o a plazo mayor si se cobran antes del mes. Se considerará que son a plazo mayor de un mes, si el cobro se efectúa después de 30 días naturales contados a partir de aquél en que se concertó el crédito."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Los que sean a cargo de socios o accionistas, asociantes o asociados en la asociación en participación, que sean personas físicas o sociedades residentes en el extranjero, salvo que en este último caso, estén denominadas en moneda extranjera y provengan de la exportación de bienes o servicios."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Los que sean a cargo de funcionarios y empleados, así como los préstamos efectuados a terceros a que se refiere la fracción VII del artículo 27 de esta Ley."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Los pagos provisionales de impuestos, así como los estímulos fiscales."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Cualquier ingreso cuya acumulación esté condicionada a su percepción efectiva. Lo dispuesto en esta fracción no es aplicable a los ingresos derivados de los contratos de arrendamiento financiero por los que se ejerza la opción prevista en el artículo 17, fracción III de esta Ley."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Las acciones, los certificados de participación no amortizables y los certificados de depósito de bienes y en general los títulos de crédito que representen la propiedad de bienes, las aportaciones a una asociación en participación, así como otros títulos valor cuyos rendimientos no se consideren interés en los términos del artículo 8 de esta Ley."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "El efectivo en caja."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo define qué se considera crédito para efectos del ajuste anual por inflación en personas morales.",
+    "Incluye como créditos ciertos derechos adquiridos por empresas de factoraje, inversiones en deuda y derivados financieros.",
+    "Establece una lista de conceptos que no se consideran créditos, evitando distorsiones en el cálculo del ajuste.",
+    "Distingue entre créditos válidos y aquellos excluidos por su naturaleza, origen o condiciones de acumulación.",
+    "**Principio rector: Precisión técnica en la identificación de créditos que afectan el ajuste inflacionario fiscal.**"
+  ]
+  },
+  {
+  "PalabraClave": "Deudas fiscales, Ajuste por inflación, Reservas deducibles, Arrendamiento financiero, Partidas no deducibles",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "46",
+  "Texto": "Para los efectos del artículo 44 de esta Ley, se considerará deuda, cualquier obligación en numerario pendiente de cumplimiento, entre otras: las derivadas de contratos de arrendamiento financiero, de operaciones financieras derivadas a que se refiere la fracción IX del artículo 20 de la misma, las aportaciones para futuros aumentos de capital y las contribuciones causadas desde el último día del periodo al que correspondan y hasta el día en el que deban pagarse.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "También son deudas, los pasivos y las reservas del activo, pasivo o capital, que sean o hayan sido deducibles. Para estos efectos, se considera que las reservas se crean o incrementan mensualmente y en la proporción que representan los ingresos del mes del total de ingresos en el ejercicio."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "En ningún caso se considerarán deudas las originadas por partidas no deducibles, en los términos de las fracciones I, VIII y IX del artículo 28 de esta Ley, así como el monto de las deudas que excedan el límite a que se refiere el primer párrafo de la fracción XXVII y el monto de las deudas de las cuales deriven intereses no deducibles de conformidad con la fracción XXXII del mismo artículo, según sean aplicables durante el ejercicio. Sin embargo, en el caso de la fracción XXXII del artículo 28 de esta Ley, cuando el monto de los intereses no deducibles, sea deducido en un ejercicio posterior de conformidad con dicha fracción, el monto de la deuda de la cual deriven dichos intereses sí se considerará para el cálculo señalado en el artículo 44 de esta Ley en dicho ejercicio."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo define qué se considera deuda para efectos del ajuste anual por inflación en personas morales.",
+    "Incluye obligaciones en numerario derivadas de contratos, contribuciones causadas y aportaciones para futuros aumentos de capital.",
+    "Reconoce como deuda los pasivos y reservas que hayan sido deducibles, con una lógica proporcional mensual.",
+    "Excluye deudas originadas por partidas no deducibles, salvo cuando los intereses no deducibles se recuperen en ejercicios posteriores.",
+    "**Principio rector: Rigor técnico en la identificación de pasivos relevantes para el cálculo inflacionario fiscal.**"
+  ]
+  },
+  {
+  "PalabraClave": "Almacenes generales, Reserva de contingencia, Comisión Bancaria, Deducción fiscal, Revisión regulatoria",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "47",
+  "Texto": "Los almacenes generales de depósito harán las deducciones a que se refiere este Título, dentro de las que considerarán la creación o incremento, efectuados previa revisión de la Comisión Nacional Bancaria y de Valores, de la reserva de contingencia.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite a los almacenes generales deducir la creación o incremento de la reserva de contingencia.",
+    "La deducción está condicionada a la revisión previa de la Comisión Nacional Bancaria y de Valores.",
+    "Refuerza el vínculo entre supervisión financiera y reconocimiento fiscal de provisiones.",
+    "Aplica exclusivamente a entidades reguladas como almacenes generales de depósito.",
+    "**Principio rector: Coordinación entre regulación financiera y deducción fiscal de reservas contingentes.**"
+  ]
+  },
+  {
+  "PalabraClave": "Instituciones extranjeras, Intereses, Retención fiscal, Tasa 4.9%, No deducible",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "48",
+  "Texto": "Los establecimientos en el extranjero de instituciones de crédito del país deberán pagar el impuesto a la tasa del 4.9% por los ingresos por intereses que perciban del capital que coloquen o inviertan en el país, o que sean pagados por residentes en territorio nacional o residentes en el extranjero con establecimiento permanente en el país, sin deducción alguna.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El impuesto a que se refiere el párrafo anterior se enterará mediante retención que efectuarán las personas que hagan los pagos de intereses a que se refiere este artículo. Las instituciones de crédito podrán acreditar la retención efectuada contra el impuesto sobre la renta a su cargo, en la declaración del ejercicio, siempre que cuenten con la constancia de retención. En ningún caso procederá solicitar la devolución de los montos no acreditados en el ejercicio."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Cuando los intereses no se hubieren pagado a la fecha de su exigibilidad, el retenedor estará obligado a enterar una cantidad equivalente a la que debió haber retenido en la fecha de la exigibilidad."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "Las instituciones de crédito deberán acumular a sus demás ingresos los intereses a que se refiere este artículo. Dichas instituciones, para los efectos del tercer párrafo del artículo 77 de esta Ley, no restarán del resultado fiscal el impuesto pagado conforme a este artículo."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo impone una tasa fija del 4.9% sobre intereses percibidos por instituciones de crédito extranjeras.",
+    "El impuesto se paga vía retención, sin posibilidad de deducción ni devolución de montos no acreditados.",
+    "Establece obligaciones para el retenedor en caso de incumplimiento en la fecha de exigibilidad.",
+    "Los intereses deben acumularse como ingreso, sin restar el impuesto pagado en el resultado fiscal.",
+    "**Principio rector: Imposición directa y no deducible sobre intereses percibidos por entidades extranjeras.**"
+  ]
+  },
+  {
+  "PalabraClave": "Instituciones de crédito, Convenios SHCP, Ingreso efectivo, Ajuste por inflación, Créditos adicionales",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "49",
+  "Texto": "Las instituciones de crédito podrán acumular los ingresos que se deriven de los convenios con la Secretaría de Hacienda y Crédito Público, en los términos de la fracción III del artículo 32-B del Código Fiscal de la Federación, en el momento en que los perciban en efectivo o en bienes y en el monto efectivamente percibido una vez efectuadas las disminuciones previstas en dichos convenios.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Las instituciones de crédito, para determinar el ajuste anual por inflación acumulable o deducible, en los términos del artículo 44 de esta Ley, considerarán como créditos, además de los señalados en el artículo 45 de la misma, los créditos mencionados en la fracción I de dicho artículo."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite acumular ingresos derivados de convenios con la SHCP al momento de su percepción efectiva.",
+    "La acumulación se limita al monto efectivamente recibido, descontando las disminuciones pactadas.",
+    "Amplía el concepto de crédito para el ajuste inflacionario, incluyendo los señalados en la fracción I del artículo 45.",
+    "Aplica exclusivamente a instituciones de crédito que celebren convenios conforme al Código Fiscal.",
+    "**Principio rector: Reconocimiento fiscal basado en percepción efectiva y ajuste técnico de créditos inflacionarios.**"
+  ]
+  },
+  {
+  "PalabraClave": "Instituciones de seguros, deducibles, Riesgos catastróficos, Pensiones, Comisión de Seguros",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "50",
+  "Texto": "Las instituciones de seguros harán las deducciones a que se refiere este Título, dentro de las que considerarán la creación o incremento, únicamente de las reservas de riesgos en curso, por obligaciones pendientes de cumplir por siniestros y por vencimientos, así como de las reservas de riesgos catastróficos, cuando éstas se constituyan con apego a las disposiciones de carácter general emitidas por la Comisión Nacional de Seguros y Fianzas.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Las instituciones de seguros autorizadas para la venta de seguros de pensiones, derivados de las leyes de seguridad social, además de efectuar las deducciones previstas en el párrafo anterior, podrán deducir la creación o el incremento de la reserva matemática especial vinculada con los seguros antes mencionados, así como las otras reservas previstas en la Ley de Instituciones de Seguros y de Fianzas cuando cumplan con la condición de que toda liberación sea destinada al fondo especial de los seguros de pensiones, de conformidad con esta última Ley, en el cual el Gobierno Federal participe como fideicomisario."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula las deducciones fiscales permitidas a instituciones de seguros, limitándolas a reservas específicas.",
+    "Las reservas deducibles incluyen riesgos en curso, siniestros, vencimientos y riesgos catastróficos, siempre que cumplan con regulación oficial.",
+    "Las instituciones que operan seguros de pensiones pueden deducir reservas matemáticas especiales, bajo condiciones estrictas.",
+    "Toda liberación de reservas debe destinarse al fondo especial de pensiones, con participación fiduciaria del Gobierno Federal.",
+    "**Principio rector: Reconocimiento fiscal condicionado a la constitución regulada y destino social de las reservas aseguradoras.**"
+  ]
+  },
+  {
+  "PalabraClave": "pérdida fiscal, actualización de la perdida fiscal",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "57",
+  "Texto": "La pérdida fiscal se obtiene de la diferencia entre los ingresos acumulables y las deducciones autorizadas, cuando estas últimas sean mayores. El resultado se incrementará, en su caso, con la participación de los trabajadores en las utilidades pagada en el ejercicio.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "La pérdida fiscal ocurrida en un ejercicio podrá disminuirse de la utilidad fiscal de los diez ejercicios siguientes hasta agotarla."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Si el contribuyente no disminuye la pérdida fiscal en un ejercicio pudiendo hacerlo, perderá el derecho a hacerlo en ejercicios posteriores por la cantidad que pudo aplicar."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "La pérdida fiscal se actualizará desde el primer mes de la segunda mitad del ejercicio en que ocurrió hasta el último mes del mismo. Las pérdidas anteriores pendientes de aplicar se actualizarán desde su última actualización hasta el último mes de la primera mitad del ejercicio en que se aplicarán."
+    },
+    {
+      "Párrafo": "5",
+      "Texto": "Cuando el número de meses del ejercicio sea impar, se considerará como primer mes de la segunda mitad el mes inmediato posterior al que corresponda la mitad del ejercicio."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo define el cálculo, actualización y amortización de la pérdida fiscal.",
+    "Permite aplicar la pérdida contra utilidades futuras por hasta diez ejercicios, con condiciones de oportunidad.",
+    "Establece reglas precisas para su actualización, considerando la estructura temporal del ejercicio fiscal.",
+    "**Principio rector: Reconocimiento y amortización ordenada de pérdidas fiscales para preservar equidad tributaria.**"
+  ]
+  },
+  {
+  "PalabraClave": "pérdida fiscal en fusion",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "58",
+  "Texto": "En los casos de fusión, la sociedad fusionante sólo podrá disminuir su pérdida fiscal pendiente de disminuir al momento de la fusión, con cargo a la utilidad fiscal correspondiente a la explotación de los mismos giros en los que se produjo la pérdida.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo limita la aplicación de pérdidas fiscales en procesos de fusión empresarial.",
+    "La pérdida fiscal sólo puede aplicarse contra utilidades generadas en los mismos giros económicos.",
+    "Evita el aprovechamiento indebido de pérdidas fiscales en actividades ajenas a las que las originaron.",
+    "**Principio rector: Vinculación operativa entre pérdida fiscal y utilidad post-fusión para preservar equidad tributaria.**"
+  ]
+  },
+  {
+  "PalabraClave": "régimen agropecuario, personas morales, actividades exclusivas",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "74",
+  "Texto": "Deberán cumplir con sus obligaciones fiscales conforme al régimen de este capítulo los siguientes contribuyentes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Personas morales de derecho agrario dedicadas exclusivamente a actividades agrícolas, ganaderas o silvícolas; sociedades cooperativas de producción y demás personas morales con actividades exclusivas en dichos sectores."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Personas morales dedicadas exclusivamente a actividades pesqueras, incluyendo sociedades cooperativas de producción en dicho sector."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Se deroga."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo define los contribuyentes que deben tributar bajo el régimen agropecuario y pesquero.",
+    "Exige dedicación exclusiva a las actividades señaladas para acceder al régimen especial.",
+    "Incluye sociedades cooperativas de producción como sujetos fiscales específicos.",
+    "**Principio rector: Tributación sectorial diferenciada para actividades primarias exclusivas.**"
+  ]
+  },
+  {
+  "PalabraClave": "ejidos, comuneros, ingresos limitados, reducción fiscal, régimen especial",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "74-B",
+  "Texto": "Las personas morales de derecho agrario que cumplan con condiciones específicas de ingresos, composición social y actividad productiva, tributarán conforme a la Sección I del Capítulo II del Título IV, aplicando la tasa del artículo 9 con una reducción del 30%.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Las personas morales que inicien actividades podrán optar por este régimen si estiman ingresos totales menores a cinco millones de pesos, con al menos 80% derivados de actividades agrícolas, ganaderas, silvícolas o pesqueras. Si el ejercicio es menor a doce meses, se ajustará el cálculo anualizado dividiendo los ingresos entre los días del periodo y multiplicando por 365."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece un régimen fiscal preferente para personas morales agrarias con ingresos limitados y composición ejidal o comunal.",
+    "Permite aplicar una reducción del 30% al impuesto determinado conforme a la tasa general.",
+    "Incluye reglas para estimación proporcional en ejercicios incompletos.",
+    "**Principio rector: Estímulo fiscal condicionado a la actividad productiva y estructura social agraria.**"
+  ]
+  },
+  {
+  "PalabraClave": "regimen agropecuario, obligaciones fiscales",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "75",
+  "Texto": "La persona moral que cumpla las obligaciones fiscales por cuenta de sus integrantes conforme al capitulo VIII, además de las obligaciones del artículo 74, deberá cumplir con las siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Efectuar por cuenta de sus integrantes las retenciones y el entero de las mismas, y expedir las constancias correspondientes cuando esta Ley u otras disposiciones fiscales lo requieran."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Llevar un registro por separado de los ingresos, gastos e inversiones de las operaciones realizadas por cuenta de cada integrante, conforme a esta Ley y al Código Fiscal de la Federación."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Emitir y recabar la documentación comprobatoria de los ingresos y erogaciones de las operaciones realizadas por cuenta de cada integrante, conforme a esta Ley y demás disposiciones fiscales."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece obligaciones específicas para personas morales que actúan como representantes fiscales de sus integrantes.",
+    "Incluye deberes de retención, registro contable individualizado y documentación comprobatoria.",
+    "Garantiza trazabilidad fiscal y cumplimiento normativo en esquemas colectivos.",
+    "**Principio rector: Responsabilidad fiscal compartida con trazabilidad individual en representación colectiva.**"
+  ]
+  },
+  {
+  "PalabraClave": "obligaciones de las personas morales",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "76",
+  "Texto": "Los contribuyentes que obtengan ingresos de los señalados en este Título, además de las obligaciones establecidas en otros artículos de esta Ley, tendrán las siguientes:",
+  "Fracciones": [
+    { "Fracción": "I", "Texto": "Llevar contabilidad conforme al CFF, su Reglamento y el de esta Ley, y efectuar los registros correspondientes." },
+    { "Fracción": "II", "Texto": "Expedir comprobantes fiscales por las actividades realizadas." },
+    { "Fracción": "III", "Texto": "Expedir comprobantes fiscales por pagos que constituyan ingresos de fuente de riqueza en México o pagos a establecimientos en el extranjero, incluyendo el ISR retenido." },
+    { "Fracción": "IV", "Texto": "Formular estado de posición financiera y levantar inventario de existencias al cierre del ejercicio." },
+    { "Fracción": "V", "Texto": "Presentar declaración anual dentro de los tres meses siguientes al cierre del ejercicio, incluyendo utilidad fiscal y PTU." },
+    {
+      "Fracción": "VI",
+      "Texto": "Presentar a más tardar el 15 de febrero información sobre financiamientos otorgados o garantizados por residentes en el extranjero.",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "Saldo insoluto al 31 de diciembre del año anterior." },
+        { "Inciso": "b", "Texto": "Tipo de financiamiento, beneficiario, moneda, tasa de interés y fechas de exigibilidad." }
+      ]
+    },
+    { "Fracción": "VII", "Texto": "Presentar declaraciones electrónicas en la dirección que señale el SAT." },
+    { "Fracción": "VIII", "Texto": "Llevar registro de operaciones con títulos valor emitidos en serie." },
+    {
+      "Fracción": "IX",
+      "Texto": "Conservar documentación comprobatoria de operaciones con partes relacionadas, demostrando precios y márgenes comparables.",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "Identificación y relación entre partes relacionadas." },
+        { "Inciso": "b", "Texto": "Funciones, activos y riesgos asumidos por cada parte." },
+        { "Inciso": "c", "Texto": "Montos y elementos de comparabilidad conforme al artículo 179." },
+        { "Inciso": "d", "Texto": "Método aplicado conforme al artículo 180 y ajustes realizados." }
+      ]
+    },
+    { "Fracción": "X", "Texto": "Presentar a más tardar el 15 de mayo información de operaciones con partes relacionadas del año anterior." },
+    {
+      "Fracción": "XI",
+      "Texto": "Tratándose de pagos por dividendos o utilidades:",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "Efectuar pagos mediante cheque nominativo no negociable o transferencia regulada." },
+        { "Inciso": "b", "Texto": "Proporcionar comprobante fiscal con monto, ISR retenido y origen de dividendos." }
+      ]
+    },
+    { "Fracción": "XII", "Texto": "Determinar ingresos y deducciones en operaciones con partes relacionadas conforme a precios comparables y métodos del artículo 180." },
+    { "Fracción": "XIII", "Texto": "Presentar a más tardar el 15 de febrero información sobre operaciones realizadas a través de fideicomisos empresariales." },
+    { "Fracción": "XIV", "Texto": "Llevar control de inventarios conforme al sistema perpetuo, con variaciones permitidas por reglas generales." },
+    { "Fracción": "XV", "Texto": "Informar al SAT sobre contraprestaciones en efectivo superiores a $100,000, a más tardar el día 17 del mes siguiente." },
+    { "Fracción": "XVI", "Texto": "Informar al SAT sobre préstamos o aumentos de capital en efectivo mayores a $600,000 dentro de los 15 días posteriores a su recepción." }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece el conjunto más amplio y detallado de obligaciones fiscales para contribuyentes del régimen general.",
+    "Incluye deberes contables, declarativos, informativos, de documentación y control de operaciones con partes relacionadas.",
+    "Integra obligaciones específicas sobre dividendos, fideicomisos, inventarios y operaciones en efectivo.",
+    "**Principio rector: Exhaustividad y trazabilidad fiscal en el cumplimiento de obligaciones por contribuyentes del régimen general.**"
+  ]
+  },
+  {
+  "PalabraClave": "declaracion informativa de operacion con partes relacionadas",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "76-A",
+  "Texto": "Los contribuyentes señalados en los artículos 32-A y 32-H del Código Fiscal de la Federación que celebren operaciones con partes relacionadas deberán presentar las siguientes declaraciones informativas anuales:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Declaración informativa maestra del grupo empresarial multinacional.",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "Estructura organizacional." },
+        { "Inciso": "b", "Texto": "Descripción de la actividad, intangibles y actividades financieras con partes relacionadas." },
+        { "Inciso": "c", "Texto": "Posición financiera y fiscal del grupo." }
+      ]
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Declaración informativa local de partes relacionadas.",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "Estructura organizacional, actividades estratégicas y operaciones con partes relacionadas." },
+        { "Inciso": "b", "Texto": "Información financiera del contribuyente y de empresas comparables." }
+      ]
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Declaración informativa país por país del grupo empresarial multinacional.",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "Distribución mundial de ingresos e impuestos pagados por jurisdicción fiscal." },
+        { "Inciso": "b", "Texto": "Indicadores de localización de actividades económicas, incluyendo ingresos, utilidades, impuestos, capital, empleados y activos." },
+        { "Inciso": "c", "Texto": "Listado de entidades del grupo y sus actividades, jurisdicción de constitución y residencia fiscal." }
+      ]
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece obligaciones específicas de documentación y transparencia para contribuyentes que operan con partes relacionadas en grupos multinacionales.",
+    "Incluye tres tipos de declaraciones: maestra, local y país por país, cada una con contenido técnico y estructural diferenciado.",
+    "Fortalece el control fiscal sobre precios de transferencia y operaciones transfronterizas.",
+    "**Principio rector: Transparencia fiscal multinacional mediante documentación estructurada y comparabilidad internacional.**"
+  ]
+  },
+  {
+  "PalabraClave": "cuenta de utilidad fiscal neta (CUFIN)",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "77",
+  "Texto": "Las personas morales llevarán una cuenta de utilidad fiscal neta (CUFIN), que se adicionará con la utilidad fiscal neta de cada ejercicio, los dividendos o utilidades percibidos de otras personas morales residentes en México, y los ingresos sujetos a regímenes fiscales preferentes conforme al artículo 177. Se disminuirá con los dividendos o utilidades pagados, y con las utilidades distribuidas conforme al artículo 78, siempre que provengan del saldo de dicha cuenta.",
+  "Párrafos": [
+    {
+      "Párrafo": "1",
+      "Texto": "No se incluyen en la disminución los dividendos o utilidades en acciones ni los reinvertidos en la suscripción y aumento de capital de la misma persona moral que los distribuye, si se reinvierten dentro de los 30 días naturales siguientes."
+    },
+    {
+      "Párrafo": "2",
+      "Texto": "Para determinar la utilidad fiscal neta, se deberá disminuir, en su caso, el monto que resulte conforme a la fracción II del artículo 10 de esta Ley."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula la cuenta de utilidad fiscal neta (CUFIN), clave para determinar la procedencia de dividendos exentos de ISR adicional.",
+    "Establece qué ingresos se suman y qué distribuciones la disminuyen, excluyendo reinversiones inmediatas.",
+    "Vincula el cálculo con el artículo 10, fracción II, para ajustes específicos.",
+    "**Principio rector: Transparencia en la acumulación y distribución de utilidades fiscales para evitar doble tributación.**"
+  ]
+  },
+  {
+  "PalabraClave": "personas físicas, ingresos gravables, ingresos exentos",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "90",
+  "Texto": "Están obligadas al pago del impuesto las personas físicas residentes en México que obtengan ingresos en efectivo, en bienes, devengado, en crédito, en servicios o de cualquier otro tipo. También están obligadas las personas físicas residentes en el extranjero que realicen actividades empresariales o presten servicios personales independientes en México a través de establecimiento permanente, por los ingresos atribuibles a éste.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Las personas físicas residentes en México deben informar en su declaración anual sobre préstamos, donativos y premios obtenidos en el ejercicio, cuando en lo individual o en conjunto excedan de $600,000.00."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "No se consideran ingresos los rendimientos de bienes entregados en fideicomiso si se destinan exclusivamente a fines científicos, políticos, religiosos, educativos o de beneficencia, conforme al artículo 151, fracción III, o para financiar estudios de nivel licenciatura de descendientes en línea recta con validez oficial."
+    },
+    {
+      "Párrafo": "5",
+      "Texto": "Tampoco se consideran ingresos los apoyos económicos o monetarios recibidos a través de programas previstos en los presupuestos de egresos de la Federación o de las Entidades Federativas."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo define el alcance de la obligación fiscal para personas físicas, tanto residentes como extranjeras con establecimiento permanente.",
+    "Incluye reglas de declaración para ingresos extraordinarios como préstamos, donativos y premios.",
+    "Establece excepciones para ciertos rendimientos en fideicomiso y apoyos públicos, siempre que cumplan fines específicos.",
+    "**Principio rector: Inclusión amplia de ingresos gravables con excepciones justificadas por finalidad social o pública.**"
+  ]
+  },
+  {
+  "PalabraClave": "discrepancia fiscal, procedimiento para discrepancia fiscal",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "91",
+  "Texto": "Las personas físicas podrán ser objeto del procedimiento de discrepancia fiscal cuando se compruebe que el monto de sus erogaciones en un año calendario sea superior a los ingresos declarados o a los que les hubiere correspondido declarar.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Se consideran erogaciones los gastos, adquisiciones de bienes, depósitos en cuentas bancarias, inversiones financieras y pagos con tarjetas de crédito."
+    },
+    {
+      "Párrafo": "7",
+      "Texto": "Para los efectos de este artículo, las autoridades fiscales procederán como sigue: Notificarán al contribuyente el monto de las erogaciones detectadas, la información utilizada, el medio por el cual se obtuvo y la discrepancia resultante. Una vez notificado, el contribuyente contará con un plazo de veinte días para informar por escrito el origen o fuente de los recursos con que efectuó las erogaciones detectadas, y podrá ofrecer pruebas que acrediten que dichos recursos no constituyen ingresos gravados. Las autoridades fiscales podrán, por una sola vez, requerir información o documentación adicional, la cual deberá proporcionarse en el término previsto en el artículo 53, inciso c), del Código Fiscal de la Federación. Si se acredita la discrepancia, ésta se presumirá ingreso gravado y se formulará la resolución correspondiente, considerándose como ingresos omitidos el monto de las erogaciones no aclaradas, aplicándose la tarifa prevista en el artículo 152 de esta Ley."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece el procedimiento de discrepancia fiscal para personas físicas cuando sus erogaciones superan sus ingresos declarados.",
+    "Incluye gastos, depósitos, inversiones y consumos como indicadores de capacidad económica.",
+    "Otorga al contribuyente oportunidad de aclarar el origen de los recursos antes de presumir ingresos omitidos.",
+    "**Principio rector: Equidad fiscal mediante verificación de congruencia entre ingresos declarados y nivel de vida aparente.**"
+  ]
+  },
+  {
+  "PalabraClave": "copropiedad, representante común en copropiedad",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "92",
+  "Texto": "Cuando los ingresos de las personas físicas deriven de bienes en copropiedad, deberá designarse a uno de los copropietarios como representante común, quien deberá llevar los libros, expedir comprobantes fiscales, recabar la documentación que determinen las disposiciones fiscales y cumplir con las obligaciones en materia de retención de impuestos.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando dos o más contribuyentes sean copropietarios de una negociación, se estará a lo dispuesto en el artículo 108 de esta Ley."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Los copropietarios responderán solidariamente por el incumplimiento del representante común."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula la representación fiscal en casos de copropiedad entre personas físicas.",
+    "Establece la figura del representante común como responsable operativo y fiscal.",
+    "Vincula la copropiedad de negociaciones con el artículo 108 y establece responsabilidad solidaria entre copropietarios.",
+    "**Principio rector: Coordinación fiscal y responsabilidad compartida en estructuras de copropiedad.**"
+  ]
+  },
+  {
+  "PalabraClave": "ingresos exentos para personas físicas",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "93",
+  "Texto": "No se pagará el impuesto sobre la renta por la obtención de los siguientes ingresos:",
+  "Fracciones": [
+    { "Fracción": "I", "Texto": "Prestaciones distintas del salario y remuneraciones por tiempo extraordinario o servicios en días de descanso, dentro de los límites establecidos por la legislación laboral." },
+    { "Fracción": "II", "Texto": "El excedente de las prestaciones anteriores será gravado conforme a este Título." },
+    { "Fracción": "III", "Texto": "Indemnizaciones por riesgos de trabajo o enfermedades conforme a leyes o contratos colectivos." },
+    { "Fracción": "IV", "Texto": "Jubilaciones, pensiones y haberes de retiro hasta 15 veces el salario mínimo diario; el excedente será gravado." },
+    { "Fracción": "V", "Texto": "Se considera la totalidad de pensiones y haberes de retiro, sin importar quién los pague; el excedente será retenido conforme al reglamento." },
+    { "Fracción": "VI", "Texto": "Reembolsos de gastos médicos, dentales, hospitalarios y funerarios concedidos de forma general." },
+    { "Fracción": "VII", "Texto": "Prestaciones de seguridad social otorgadas por instituciones públicas." },
+    { "Fracción": "VIII", "Texto": "Subsidios por incapacidad, becas, guarderías, actividades culturales y deportivas, y otras prestaciones de previsión social concedidas de forma general." },
+    { "Fracción": "IX", "Texto": "La previsión social anterior se refiere al artículo 7, quinto párrafo." },
+    { "Fracción": "X", "Texto": "Aportaciones y rendimientos de subcuentas de vivienda y casas habitación proporcionadas conforme a requisitos de deducibilidad." },
+    { "Fracción": "XI", "Texto": "Ingresos de cajas y fondos de ahorro que cumplan requisitos de deducibilidad." },
+    { "Fracción": "XII", "Texto": "Cuotas de seguridad social pagadas por los patrones." },
+    { "Fracción": "XIII", "Texto": "Primas de antigüedad, retiro e indemnizaciones hasta 90 veces el salario mínimo por año de servicio; el excedente será gravado." },
+    { "Fracción": "XIV", "Texto": "Gratificaciones anuales hasta 30 días de salario mínimo, primas vacacionales y PTU hasta 15 días de salario mínimo." },
+    { "Fracción": "XV", "Texto": "Primas dominicales hasta un salario mínimo por domingo laborado." },
+    { "Fracción": "XVI", "Texto": "El excedente de los ingresos anteriores será gravado conforme a este Título." },
+    {
+      "Fracción": "XVII",
+      "Texto": "Remuneraciones por servicios personales subordinados que perciban extranjeros en casos de reciprocidad o tratados internacionales, incluyendo viáticos comprobados."
+    },
+    { "Fracción": "XVIII", "Texto": "Ingresos provenientes de contratos de arrendamiento prorrogados por disposición legal." },
+    {
+      "Fracción": "XIX",
+      "Texto": "Enajenación de bienes:",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "Casa habitación hasta 700,000 UDIS formalizada ante fedatario público; el excedente será gravado." },
+        { "Inciso": "b", "Texto": "Bienes muebles no financieros, hasta 3 veces el salario mínimo anual; el excedente será gravado." }
+      ]
+    },
+    {
+      "Fracción": "XX",
+      "Texto": "Intereses:",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "Pagados por instituciones de crédito, provenientes de cuentas con saldo promedio diario no mayor a 5 salarios mínimos anuales." },
+        { "Inciso": "b", "Texto": "Pagados por cooperativas de ahorro y sociedades financieras populares, bajo el mismo límite." }
+      ]
+    },
+    {
+      "Fracción": "XXI",
+      "Texto": "Indemnizaciones de seguros por riesgos cubiertos, incluyendo supervivencia si el asegurado cumple 60 años y han pasado al menos 5 años desde la contratación, siempre que la prima haya sido pagada por el asegurado."
+    },
+    { "Fracción": "XXII", "Texto": "Ingresos recibidos por herencia o legado." }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece un catálogo detallado de ingresos exentos para personas físicas, con límites y condiciones específicas.",
+    "Incluye prestaciones laborales, pensiones, previsión social, seguros, herencias y enajenaciones bajo ciertos umbrales.",
+    "Muchos conceptos tienen topes de exención, y el excedente se grava conforme al Título correspondiente.",
+    "**Principio rector: Protección fiscal de ingresos con finalidad social, laboral o patrimonial, bajo criterios de equidad y proporcionalidad.**"
+  ]
+  },
+  {
+  "PalabraClave": "ingresos por salarios y asimilados a salarios",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "94",
+  "Texto": "Se consideran ingresos por la prestación de un servicio personal subordinado los salarios y demás prestaciones derivadas de una relación laboral, incluyendo la participación en utilidades y las prestaciones por terminación de la relación laboral. Para efectos de este impuesto, se asimilan a estos ingresos los siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Remuneraciones y prestaciones obtenidas por funcionarios y trabajadores de la Federación, entidades federativas y municipios, incluyendo gastos no comprobables y percepciones de miembros de las fuerzas armadas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Rendimientos y anticipos obtenidos por miembros de sociedades cooperativas de producción, y anticipos recibidos por miembros de sociedades civiles."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Honorarios a miembros de consejos directivos, de vigilancia, consultivos, administradores, comisarios y gerentes generales."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que se realicen en instalaciones de este último."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Honorarios percibidos por personas físicas que presten servicios personales independientes a personas morales o físicas con actividad empresarial, cuando opten por tributar conforme a este Capítulo mediante comunicación escrita."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Ingresos por actividades empresariales realizadas por personas físicas para personas morales o físicas con actividad empresarial, cuando opten por tributar conforme a este Capítulo mediante comunicación escrita."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Ingresos obtenidos por ejercer la opción de adquirir acciones o títulos valor sin costo o a precio preferente, otorgada por el empleador o parte relacionada, independientemente de quién emita los títulos."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo define los ingresos por servicios personales subordinados y amplía el concepto a ingresos asimilados a salarios.",
+    "Incluye honorarios, anticipos, rendimientos y opciones sobre acciones como ingresos sujetos al régimen de sueldos y salarios.",
+    "Permite a ciertos contribuyentes optar por tributar bajo este régimen mediante comunicación formal.",
+    "**Principio rector: Inclusión fiscal de ingresos laborales y asimilados para garantizar equidad en la tributación personal.**"
+  ]
+  },
+  {
+  "PalabraClave": "calculo anual por ingresos por concepto de separacion laboral",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "95",
+  "Texto": "Cuando se obtengan ingresos por concepto de primas de antigüedad, retiro, indemnizaciones u otros pagos por separación, se calculará el impuesto anual conforme a las siguientes reglas:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Del total de percepciones se separará una cantidad igual al último sueldo mensual ordinario. Esta cantidad se sumará a los demás ingresos gravables del año y se calculará el impuesto correspondiente. Si las percepciones son menores al último sueldo mensual ordinario, se sumarán en su totalidad a los demás ingresos y no se aplicará la fracción II."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Al total de percepciones se restará el último sueldo mensual ordinario. Al resultado se le aplicará la tasa efectiva calculada conforme a la fracción I. El impuesto resultante se sumará al impuesto calculado en dicha fracción."
+    }
+  ],
+  "Párrafos": [
+    {
+      "Párrafo": "Final",
+      "Texto": "La tasa efectiva se calcula dividiendo el impuesto determinado en la fracción I entre la base gravable a la que se aplicó la tarifa del artículo 152. El cociente se multiplica por cien y se expresa en porcentaje."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece el procedimiento para calcular el impuesto sobre ingresos por separación laboral.",
+    "Distingue entre el tratamiento de percepciones mayores o menores al último sueldo mensual ordinario.",
+    "Introduce el concepto de tasa efectiva para aplicar proporcionalmente el impuesto sobre el excedente.",
+    "**Principio rector: Proporcionalidad fiscal en el tratamiento de ingresos extraordinarios por separación laboral.**"
+  ]
+  },
+  {
+  "PalabraClave": "retencion a salario minimo, retencion para pagos provisionales de asalariados",
+  "Ley": "Ley del Impuesto sobre la Renta",
+  "Artículo": "96",
+  "Texto": "Quienes hagan pagos por los conceptos a que se refiere este Capítulo están obligados a efectuar retenciones y enteros mensuales que tendrán el carácter de pagos provisionales a cuenta del impuesto anual. No se efectuará retención a las personas que en el mes únicamente perciban un salario mínimo general correspondiente al área geográfica del contribuyente.",
+  "Párrafos": [
+    {
+      "Párrafo": "3",
+      "Texto": "Quienes hagan pagos por concepto de gratificación anual, participación de utilidades, primas dominicales y primas vacacionales, podrán efectuar la retención del impuesto conforme a los requisitos que establezca el Reglamento de esta Ley. Dicho Reglamento podrá prever que la retención se realice sobre los demás ingresos obtenidos durante el año calendario."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "Quienes efectúen las retenciones deberán deducir de los ingresos del mes el impuesto local sobre salarios y servicios personales subordinados que, en su caso, hayan retenido, siempre que la tasa de dicho impuesto no exceda del 5%."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula la obligación de retener y enterar el ISR por parte de quienes realizan pagos por servicios personales subordinados.",
+    "Establece que dichas retenciones tienen carácter de pagos provisionales mensuales.",
+    "Exime de retención a quienes perciban únicamente el salario mínimo mensual.",
+    "Permite aplicar reglas especiales de retención para gratificaciones, utilidades y primas conforme al Reglamento.",
+    "Reconoce la deducción del impuesto local sobre salarios cuando no exceda del 5%.",
+    "**Principio rector: Provisionalidad, proporcionalidad y coordinación fiscal en la retención de ISR sobre sueldos.**"
+  ]
+  }
+  
+] 
+
+

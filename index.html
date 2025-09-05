@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Buscador Jurídico Conversacional</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: radial-gradient(ellipse at bottom, #0d1b2a 0%, #000000 100%);
+      color: #ffffff;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      overflow-y: hidden;
+      position: relative;
+    }
+
+    .background-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: -1;
+      overflow: hidden;
+    }
+
+    #rain-ray-canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 0.4;
+    }
+
+    .aviso-legal {
+      margin-bottom: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      padding: 8px 16px;
+      background: rgba(17, 24, 39, 0.8);
+      z-index: 10;
+    }
+
+    .aviso-box {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background-color: rgba(17, 24, 39, 0.8);
+      padding: 8px 12px;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(255, 255, 255, 0.1);
+      color: #d1d5db;
+      font-size: 14px;
+      line-height: 1.4;
+      animation: fadeIn 0.6s ease-out;
+    }
+
+    .icono-alerta {
+      font-size: 18px;
+      flex-shrink: 0;
+      animation: pulse 2s infinite;
+    }
+
+    .texto-aviso strong {
+      color: #facc15;
+    }
+
+    .label-materia {
+      font-weight: 600;
+      color: #ffffff;
+      font-size: 15px;
+      animation: fadeInUp 0.5s ease-out;
+    }
+
+    .selector-wrapper {
+      position: relative;
+    }
+
+    .selector-materia {
+      background-color: rgba(31, 41, 55, 0.9);
+      color: #ffffff;
+      border: 1px solid #4b5563;
+      border-radius: 8px;
+      padding: 8px 12px;
+      font-size: 15px;
+      width: 100%;
+      max-width: 100%;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg width='12' height='8' viewBox='0 0 12 8' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23ffffff' stroke-width='2' fill='none'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+      background-size: 12px 8px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+    }
+
+    .selector-materia:hover {
+      box-shadow: 0 0 6px rgba(255, 255, 255, 0.2);
+      transform: scale(1.02);
+    }
+
+    .selector-materia:focus {
+      outline: none;
+      box-shadow: 0 0 8px rgba(59, 130, 246, 0.5);
+      border-color: #60a5fa;
+    }
+
+    .chat-container {
+      width: 100%;
+      height: calc(100vh - 140px);
+      margin: 0;
+      padding: 10px;
+      background: linear-gradient(180deg, rgba(17, 24, 39, 0.9), rgba(31, 41, 55, 0.9));
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+      overflow-y: auto;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .chat-container.loading::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 10;
+      animation: fadeIn 0.3s ease-out;
+    }
+
+    .chat-container.loading::after {
+      content: "Cargando...";
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #ffffff;
+      font-size: 16px;
+      z-index: 11;
+    }
+
+    .chat-messages {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      padding: 10px;
+      padding-bottom: 120px;
+    }
+
+    .message {
+      padding: 10px 14px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+      animation: slideIn 0.5s ease-out forwards;
+      max-width: 95%;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    .message.user {
+      background: #1e90ff;
+      align-self: flex-end;
+      color: #ffffff;
+    }
+
+    .message.system {
+      background: #374151;
+      align-self: flex-start;
+      color: #e5e7eb;
+    }
+
+    .message.system h3 {
+      color: #60a5fa;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .message.system strong {
+      color: #facc15;
+    }
+
+    .message.error {
+      background: #ef4444;
+      align-self: flex-start;
+      color: #ffffff;
+    }
+
+    .message.typing {
+      background: #374151;
+      align-self: flex-start;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .message.typing::after {
+      content: "";
+      display: inline-block;
+      width: 24px;
+      height: 6px;
+      background: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 6"%3E%3Ccircle cx="3" cy="3" r="3" fill="%23ffffff"/%3E%3Ccircle cx="12" cy="3" r="3" fill="%23ffffff"/%3E%3Ccircle cx="21" cy="3" r="3" fill="%23ffffff"/%3E%3C/svg%3E') no-repeat;
+      animation: dots 1.5s infinite;
+    }
+
+    @keyframes dots {
+      0%, 20% { transform: translateY(0); }
+      40% { transform: translateY(-4px); }
+      60% { transform: translateY(0); }
+    }
+
+    .sugerencia {
+      background: #374151;
+      padding: 8px 12px;
+      margin: 4px 0;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .sugerencia:hover,
+    .sugerencia:focus {
+      background: #60a5fa;
+      transform: translateX(5px);
+      outline: none;
+    }
+
+    .chat-input {
+      position: sticky;
+      bottom: 0;
+      background: rgba(17, 24, 39, 0.9);
+      padding: 10px;
+      border-top: 1px solid #4b5563;
+      z-index: 10;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .chat-input input {
+      background: #374151;
+      color: #ffffff;
+      border: 1px solid #4b5563;
+      border-radius: 8px;
+      padding: 12px 16px;
+      font-size: 16px;
+      width: 100%;
+      flex: 1;
+      min-height: 44px;
+    }
+
+    .button-group {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .button-group button {
+      background: linear-gradient(45deg, #3b82f6, #60a5fa);
+      color: #ffffff;
+      border: none;
+      border-radius: 8px;
+      padding: 8px 14px;
+      cursor: pointer;
+      transition: transform 0.2s ease, background 0.3s ease;
+    }
+
+    .button-group button:hover {
+      background: linear-gradient(45deg, #2563eb, #3b82f6);
+      transform: translateY(-2px);
+    }
+
+    .button-group button:focus {
+      outline: 2px solid #60a5fa;
+      outline-offset: 2px;
+    }
+
+    .scroll-to-bottom {
+      position: fixed;
+      bottom: 80px;
+      right: 10px;
+      background: linear-gradient(45deg, #3b82f6, #60a5fa);
+      color: #ffffff;
+      border: none;
+      border-radius: 50%;
+      width: 36px;
+      height: 36px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      opacity: 0;
+      transition: opacity 0.3s ease, transform 0.2s ease;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+      z-index: 20;
+    }
+
+    .scroll-to-bottom.show {
+      opacity: 1;
+    }
+
+    .scroll-to-bottom:hover {
+      transform: scale(1.1);
+    }
+
+    .procedimiento {
+      margin-top: 8px;
+      margin-left: 20px;
+      color: #d1d5db;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .sancion {
+      margin-top: 8px;
+      margin-left: 20px;
+      color: #ef4444;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .collapsible {
+      margin-top: 10px;
+    }
+
+    .collapsible-content {
+      transition: max-height 0.3s ease-out;
+      max-height: 0;
+      overflow: hidden;
+    }
+
+    .collapsible-content.show {
+      max-height: none;
+      overflow: visible;
+    }
+
+    .toggle-button {
+      background: none;
+      border: none;
+      color: #60a5fa;
+      cursor: pointer;
+      font-size: 14px;
+      margin: 8px 0;
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.2); opacity: 0.8; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes slideIn {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 600px) {
+      .chat-container {
+        padding: 5px;
+        height: calc(100vh - 160px);
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .chat-messages {
+        padding: 5px;
+        padding-bottom: 100px;
+      }
+
+      .aviso-legal {
+        padding: 6px;
+      }
+
+      .aviso-box {
+        font-size: 13px;
+        padding: 6px 10px;
+      }
+
+      .selector-materia {
+        font-size: 13px;
+        padding: 6px 10px;
+      }
+
+      .chat-input {
+        flex-direction: column;
+        padding: 6px 8px;
+      }
+
+      .chat-input input {
+        font-size: 14px;
+        min-height: 40px;
+        padding: 8px 12px;
+      }
+
+      .button-group button {
+        padding: 10px 12px;
+        min-height: 44px;
+        font-size: 14px;
+      }
+
+      .message {
+        max-width: 98%;
+        font-size: 14px;
+        line-height: 1.5;
+        padding: 8px 10px;
+      }
+
+      .sugerencia {
+        font-size: 13px;
+        padding: 6px 10px;
+      }
+
+      .scroll-to-bottom {
+        width: 32px;
+        height: 32px;
+        font-size: 14px;
+        bottom: 70px;
+        right: 8px;
+      }
+
+      .procedimiento, .sancion {
+        font-size: 12px;
+        margin-left: 10px;
+      }
+
+      .collapsible-content {
+        margin-left: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="background-overlay">
+    <canvas id="rain-ray-canvas"></canvas>
+  </div>
+
+  <main role="main">
+    <section class="aviso-legal">
+      <div class="aviso-box">
+        <span class="icono-alerta" aria-hidden="true">⚠️</span>
+        <span class="texto-aviso">
+          <strong>Advertencia:</strong> Este buscador es solo una guía. Siempre revisa la ley oficial para confirmar la info.
+        </span>
+      </div>
+
+      <label for="materia" class="label-materia">Elige la materia:</label>
+      <div class="selector-wrapper">
+        <select id="materia" class="selector-materia" onchange="cargarMateria(); animarFondo();" aria-label="Seleccionar materia jurídica">
+          <option value="">⚖️ Selecciona una materia</option>
+          <option value="BDDcodigoFiscal.json">💰 Código Fiscal de la Federación</option>
+          <option value="BDDpenal.json">⚔️ Código Nacional de Procedimientos Penales</option>
+          <option value="BDDLeyFederalDelTrab.json">💼 Ley Federal del Trabajo</option>
+          <option value="BDDLeyISR.json">📊 Ley del ISR</option>
+          <option value="BDDCodigoNPCyF.json">🧑‍⚖️ Código Nacional de Procedimientos Civiles y Familiares</option>
+          <option value="BDDLeyIVA.json">💸 Ley del IVA</option>
+          <option value="BDDLeyDelSeguroSocial">🛡️ Ley del Seguro Social</option>
+          <option value="BDDLeyFederalDeDerechosCont.json">🧾 Derechos del Contribuyente</option>
+        </select>
+      </div>
+    </section>
+
+    <div id="chat-container" class="chat-container">
+      <div id="chat-messages" class="chat-messages" role="log" aria-live="polite"></div>
+
+      <div class="section chat-input" id="buscador">
+        <label for="criterio" class="label">Hazme una pregunta:</label>
+        <input type="text" id="criterio" placeholder="Ejemplo: ¿Qué dice la ley sobre despido injustificado?" aria-label="Pregunta para búsqueda jurídica" />
+        <div class="button-group">
+          <button onclick="buscar()" aria-label="Enviar pregunta">Enviar</button>
+          <button onclick="borrar()" aria-label="Borrar conversación">Borrar</button>
+          <button onclick="iniciarVoz()" aria-label="Buscar con voz">🎤 Voz</button>
+          <button onclick="exportarHistorial()" aria-label="Exportar historial">📥 Exportar</button>
+        </div>
+      </div>
+
+      <div id="sugerencias-container" role="listbox" aria-live="polite"></div>
+    </div>
+  </main>
+
+  <button class="scroll-to-bottom" aria-label="Desplazarse al final de la página">↓</button>
+
+  <script>
+    let baseLegal = [];
+    let fuse = null;
+    let cachedMaterias = {};
+
+    const diccionario = [
+      { entrada: "detencion", sugerencia: "detención" },
+      { entrada: "acusatorio", sugerencia: "proceso penal" },
+      { entrada: "trabajo", sugerencia: "relación laboral" },
+      { entrada: "despido", sugerencia: "despido injustificado" },
+      { entrada: "impuesto", sugerencia: "obligaciones fiscales" }
+    ];
+
+    const palabrasVacias = [
+      "qué", "cual", "cuál", "es", "son", "de", "la", "el", "los", "las", "un", "una", "unos", "unas",
+      "sobre", "en", "a", "con", "por", "para", "como", "cómo", "donde", "dónde", "cuando", "cuándo",
+      "quien", "quién", "que", "y", "o", "pero", "si", "sí", "no", "al", "del"
+    ];
+
+    function procesarPregunta(pregunta) {
+      const palabras = pregunta.toLowerCase().split(/\W+/).filter(word =>
+        word.length > 2 && !palabrasVacias.includes(word)
+      );
+      return palabras.join(" ");
+    }
+
+    function animarFondo() {
+      if (window.innerWidth <= 600) return; // Desactivar animación en móviles
+
+      const canvas = document.getElementById('rain-ray-canvas');
+      const ctx = canvas.getContext('2d');
+      let raysArray = [];
+      const numberOfRays = 30;
+
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+
+      class RainRay {
+        constructor() {
+          this.x = Math.random() * canvas.width;
+          this.y = -Math.random() * canvas.height;
+          this.length = Math.random() * 30 + 20;
+          this.speedY = Math.random() * 2 + 1;
+          this.opacity = Math.random() * 0.5 + 0.3;
+        }
+
+        update() {
+          this.y += this.speedY;
+          if (this.y > canvas.height + this.length) {
+            this.y = -this.length;
+            this.x = Math.random() * canvas.width;
+          }
+        }
+
+        draw() {
+          ctx.beginPath();
+          ctx.moveTo(this.x, this.y);
+          ctx.lineTo(this.x, this.y + this.length);
+          ctx.strokeStyle = `rgba(255, 255, 255, ${this.opacity})`;
+          ctx.lineWidth = 1;
+          ctx.stroke();
+        }
+      }
+
+      function initRays() {
+        raysArray = [];
+        for (let i = 0; i < numberOfRays; i++) {
+          raysArray.push(new RainRay());
+        }
+      }
+
+      function animateRays() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        for (let i = 0; i < raysArray.length; i++) {
+          raysArray[i].update();
+          raysArray[i].draw();
+        }
+        setTimeout(() => requestAnimationFrame(animateRays), 1000 / 30);
+      }
+
+      initRays();
+      animateRays();
+
+      window.addEventListener('resize', () => {
+        if (window.innerWidth <= 600) return;
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        initRays();
+      });
+    }
+
+    function guardarMensaje(type, content) {
+      const historial = JSON.parse(localStorage.getItem("chatHistorial") || "[]");
+      historial.push({ type, content });
+      localStorage.setItem("chatHistorial", JSON.stringify(historial));
+    }
+
+    async function cargarMateria() {
+      const materia = document.getElementById("materia").value;
+      const chatMessages = document.getElementById("chat-messages");
+      chatMessages.classList.add("loading");
+
+      if (!materia) {
+        chatMessages.classList.remove("loading");
+        return;
+      }
+
+      try {
+        if (cachedMaterias[materia]) {
+          baseLegal = cachedMaterias[materia];
+        } else {
+          const response = await fetch(`materias/${materia}`);
+          if (!response.ok) {
+            if (response.status === 404) {
+              throw new Error("Archivo de materia no encontrado");
+            } else {
+              throw new Error(`Error HTTP: ${response.status}`);
+            }
+          }
+          const data = await response.json();
+          if (!Array.isArray(data)) throw new Error("El archivo JSON tiene un formato inválido");
+          baseLegal = data;
+          cachedMaterias[materia] = data;
+        }
+
+        fuse = new Fuse(baseLegal, {
+          keys: [
+            "PalabraClave",
+            "Texto",
+            "Párrafos.Texto",
+            "Párrafos.Fracciones.Texto",
+            "Párrafos.Fracciones.Procedimiento",
+            "Fracciones.Texto",
+            "Fracciones.Procedimiento",
+            "Fracciones.Incisos.Texto",
+            "NotasOrientadoras",
+            "Procedimiento"
+          ],
+          threshold: 0.3,
+          ignoreLocation: true,
+          includeScore: true,
+          minMatchCharLength: 3
+        });
+
+        borrar();
+      } catch (error) {
+        mostrarError(`No pude cargar la materia: ${error.message}. Verifica tu conexión o intenta otra materia. 😕`);
+      } finally {
+        chatMessages.classList.remove("loading");
+      }
+    }
+
+    let debounceTimeout;
+    document.getElementById("criterio").addEventListener("input", function () {
+      clearTimeout(debounceTimeout);
+      debounceTimeout = setTimeout(() => {
+        const entrada = procesarPregunta(this.value.trim());
+        const sugerenciasContainer = document.getElementById("sugerencias-container");
+        sugerenciasContainer.innerHTML = "";
+
+        if (entrada.length < 2 || !fuse) return;
+
+        const sugerencias = fuse.search(entrada, { limit: 5 }).map(r => r.item.PalabraClave);
+        const unicas = [...new Set(sugerencias)];
+
+        const fragment = document.createDocumentFragment();
+        unicas.forEach((sugerencia, index) => {
+          const div = document.createElement("div");
+          div.textContent = DOMPurify.sanitize(sugerencia);
+          div.className = "sugerencia";
+          div.style.setProperty("--index", index);
+          div.setAttribute("role", "button");
+          div.setAttribute("aria-label", `Seleccionar sugerencia: ${DOMPurify.sanitize(sugerencia)}`);
+          div.tabIndex = 0;
+          div.onclick = () => {
+            document.getElementById("criterio").value = DOMPurify.sanitize(sugerencia);
+            sugerenciasContainer.innerHTML = "";
+            buscar();
+          };
+          div.onkeydown = (e) => {
+            if (e.key === "Enter" || e.key === " ") {
+              div.click();
+            }
+          };
+          fragment.appendChild(div);
+        });
+
+        sugerenciasContainer.appendChild(fragment);
+      }, 300);
+    });
+
+    function toggleSection(button) {
+      const content = button.nextElementSibling;
+      content.classList.toggle("show");
+      button.textContent = content.classList.contains("show") ? "Mostrar menos ▲" : "Mostrar más ▼";
+    }
+
+    function buscar() {
+      const pregunta = document.getElementById("criterio").value.trim();
+      const criterio = procesarPregunta(pregunta);
+      const chatMessages = document.getElementById("chat-messages");
+      const timestamp = new Date().toLocaleTimeString("es-MX", {
+        hour: "2-digit",
+        minute: "2-digit"
+      });
+
+      if (pregunta) {
+        const userMessage = document.createElement("div");
+        userMessage.className = "message user";
+        userMessage.innerHTML = `${DOMPurify.sanitize(pregunta)} <span class="timestamp">${timestamp}</span>`;
+        userMessage.setAttribute("aria-live", "assertive");
+        chatMessages.appendChild(userMessage);
+        guardarMensaje("user", userMessage.innerHTML);
+      }
+
+      if (!pregunta || !fuse) {
+        mostrarError("Oye, elige una materia y hazme una pregunta para ayudarte. 😊");
+        return;
+      }
+
+      const typingIndicator = document.createElement("div");
+      typingIndicator.className = "message typing";
+      typingIndicator.innerHTML = `<span>Escribiendo</span>`;
+      chatMessages.appendChild(typingIndicator);
+
+      setTimeout(() => {
+        typingIndicator.remove();
+        const resultados = fuse.search(criterio).map(r => r.item);
+
+        if (resultados.length > 0) {
+          const fragment = document.createDocumentFragment();
+          const introMessage = document.createElement("div");
+          introMessage.className = "message system";
+          introMessage.innerHTML = `Sobre tu solicitud "${DOMPurify.sanitize(pregunta)}", aquí tienes lo que encontré: <span class="timestamp">${timestamp}</span>`;
+          introMessage.setAttribute("aria-live", "assertive");
+          fragment.appendChild(introMessage);
+          guardarMensaje("system", introMessage.innerHTML);
+
+          resultados.slice(0, 3).forEach((item, index) => {
+            const systemMessage = document.createElement("div");
+            systemMessage.className = "message system";
+            systemMessage.style.setProperty("--index", index);
+            systemMessage.setAttribute("aria-live", "assertive");
+
+            let html = `
+              <h3>📜 Resultado ${index + 1} (de ${DOMPurify.sanitize(item.Ley)})</h3>
+              <strong>⚖️ Artículo:</strong> ${DOMPurify.sanitize(item.Artículo)}<br>
+              <strong>📖 Texto:</strong> ${DOMPurify.sanitize(item.Texto)}<br><br>
+            `;
+
+            if (item.Procedimiento) {
+              html += `<div class="procedimiento"><strong>📋 Procedimiento:</strong> ${DOMPurify.sanitize(item.Procedimiento)}</div><br>`;
+            }
+
+            if (item.Párrafos || item.Fracciones) {
+              html += `<div class="collapsible">
+                <button class="toggle-button" onclick="toggleSection(this)">Mostrar más ▼</button>
+                <div class="collapsible-content">`;
+            }
+
+            if (item.Párrafos) {
+              item.Párrafos.forEach(par => {
+                html += `<div style="margin-left:20px;"><strong>Párrafo ${DOMPurify.sanitize(par.Párrafo)}:</strong><br>${DOMPurify.sanitize(par.Texto)}<br>`;
+                if (par.Fracciones) {
+                  par.Fracciones.forEach(frac => {
+                    html += `<div style="margin-left:40px;"><strong>Fracción ${DOMPurify.sanitize(frac.Fracción)}:</strong><br>${DOMPurify.sanitize(frac.Texto)}<br>`;
+                    if (frac.Procedimiento) {
+                      html += `<div class="procedimiento" style="margin-left:20px;"><strong>Procedimiento:</strong> ${DOMPurify.sanitize(frac.Procedimiento)}</div>`;
+                    }
+                    if (frac.Sancion) {
+                      html += `<div class="sancion" style="margin-left:20px;"><strong>Sanción:</strong> ${DOMPurify.sanitize(frac.Sancion)}</div>`;
+                    }
+                    if (frac.Incisos) {
+                      frac.Incisos.forEach(inc => {
+                        html += `<div style="margin-left:60px;"><strong>Inciso ${DOMPurify.sanitize(inc.Inciso)}:</strong><br>${DOMPurify.sanitize(inc.Texto)}<br>`;
+                        if (inc.Sancion) {
+                          html += `<div class="sancion" style="margin-left:20px;"><strong>Sanción:</strong> ${DOMPurify.sanitize(inc.Sancion)}</div>`;
+                        }
+                        html += `</div>`;
+                      });
+                    }
+                    html += `</div>`;
+                  });
+                }
+                html += `</div><br>`;
+              });
+            }
+
+            if (item.Fracciones) {
+              item.Fracciones.forEach(frac => {
+                html += `<div style="margin-left:20px;"><strong>Fracción ${DOMPurify.sanitize(frac.Fracción)}:</strong><br>${DOMPurify.sanitize(frac.Texto)}<br>`;
+                if (frac.Procedimiento) {
+                  html += `<div class="procedimiento"><strong>Procedimiento:</strong> ${DOMPurify.sanitize(frac.Procedimiento)}</div>`;
+                }
+                if (frac.Sancion) {
+                  html += `<div class="sancion"><strong>Sanción:</strong> ${DOMPurify.sanitize(frac.Sancion)}</div>`;
+                }
+                if (frac.Incisos) {
+                  frac.Incisos.forEach(inc => {
+                    html += `<div style="margin-left:20px;"><strong>Inciso ${DOMPurify.sanitize(inc.Inciso)}:</strong><br>${DOMPurify.sanitize(inc.Texto)}<br>`;
+                    if (inc.Sancion) {
+                      html += `<div class="sancion"><strong>Sanción:</strong> ${DOMPurify.sanitize(inc.Sancion)}</div>`;
+                    }
+                    html += `</div>`;
+                  });
+                }
+                html += `</div>`;
+              });
+            }
+
+            if (item.Párrafos || item.Fracciones) {
+              html += `</div></div>`;
+            }
+
+            html += `<hr style="margin-top: 20px;">`;
+
+            if (item.NotasOrientadoras && item.NotasOrientadoras.length > 0) {
+              html += `<div class="notas-orientadoras" style="margin-top: 20px;"><h4>📝 Notas orientadoras:</h4>`;
+              item.NotasOrientadoras.forEach((nota, i) => {
+                html += `<div class="nota-orientadora"><strong>Nota ${i + 1}:</strong> ${DOMPurify.sanitize(nota)}</div>`;
+              });
+              html += `</div>`;
+            } else {
+              html += `<div style="margin-top: 10px; margin-left: 20px;"><div class="nota-orientadora"><strong>Nota:</strong> Este artículo no tiene info adicional.</div></div>`;
+            }
+
+            html += `<span class="timestamp">${timestamp}</span>`;
+            systemMessage.innerHTML = html;
+            fragment.appendChild(systemMessage);
+            guardarMensaje("system", html);
+          });
+
+          chatMessages.appendChild(fragment);
+          // No se llama a scrollToBottom() para mantener la posición actual
+        } else {
+          const sugerencia = diccionario.find(item => criterio.includes(item.entrada));
+          if (sugerencia) {
+            mostrarError(`No encontré nada exacto para "${DOMPurify.sanitize(pregunta)}". ¿Quizás quieres preguntar sobre "${DOMPurify.sanitize(sugerencia.sugerencia)}"?`);
+          } else {
+            mostrarError(`Vaya, no tengo info para "${DOMPurify.sanitize(pregunta)}". Intenta reformular tu pregunta. 😉`);
+          }
+        }
+      }, 1500);
+    }
+
+    function scrollToBottom() {
+      const chatContainer = document.getElementById("chat-container");
+      chatContainer.scrollTo({ top: chatContainer.scrollHeight, behavior: "smooth" });
+    }
+
+    function borrar() {
+      document.getElementById("criterio").value = "";
+      document.getElementById("chat-messages").innerHTML = "";
+      document.getElementById("sugerencias-container").innerHTML = "";
+      localStorage.removeItem("chatHistorial");
+      const chatMessages = document.getElementById("chat-messages");
+      const welcomeMessage = document.createElement("div");
+      welcomeMessage.className = "message system";
+      welcomeMessage.innerHTML = `¡Hola! Estoy listo para responder tus preguntas jurídicas. Elige una materia y pregúntame algo como "¿Qué dice la ley sobre despido injustificado?". 😊 <span class="timestamp">${new Date().toLocaleTimeString("es-MX", { hour: "2-digit", minute: "2-digit" })}</span>`;
+      welcomeMessage.setAttribute("aria-live", "assertive");
+      chatMessages.appendChild(welcomeMessage);
+      guardarMensaje("system", welcomeMessage.innerHTML);
+    }
+
+    function mostrarError(mensaje) {
+      const chatMessages = document.getElementById("chat-messages");
+      const timestamp = new Date().toLocaleTimeString("es-MX", {
+        hour: "2-digit",
+        minute: "2-digit"
+      });
+      const errorDiv = document.createElement("div");
+      errorDiv.className = "message error";
+      errorDiv.setAttribute("role", "alert");
+      errorDiv.setAttribute("aria-live", "assertive");
+      errorDiv.innerHTML = `${DOMPurify.sanitize(mensaje)} <span class="timestamp">${timestamp}</span>`;
+      chatMessages.appendChild(errorDiv);
+      guardarMensaje("error", errorDiv.innerHTML);
+    }
+
+    function iniciarVoz() {
+      if (!("SpeechRecognition" in window || "webkitSpeechRecognition" in window)) {
+        mostrarError("Lo siento, tu navegador no soporta reconocimiento de voz. Intenta escribir. 😕");
+        return;
+      }
+
+      const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+      recognition.lang = "es-MX";
+      recognition.onresult = (event) => {
+        document.getElementById("criterio").value = event.results[0][0].transcript;
+        buscar();
+      };
+      recognition.onerror = () => mostrarError("Lo siento, no pude procesar tu voz. Intenta escribir. 😕");
+      recognition.start();
+    }
+
+    function exportarHistorial() {
+      const historial = JSON.parse(localStorage.getItem("chatHistorial") || "[]");
+      const texto = historial.map(msg => `[${msg.type === "user" ? "Tú" : "Sistema"}]: ${msg.content.replace(/<[^>]+>/g, "")}`).join("\n");
+      const blob = new Blob([texto], { type: "text/plain" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "historial_chat.txt";
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
+    function toggleScrollButton() {
+      const button = document.querySelector(".scroll-to-bottom");
+      const chatContainer = document.getElementById("chat-container");
+      const scrollPosition = chatContainer.scrollTop;
+      const scrollHeight = chatContainer.scrollHeight;
+      const clientHeight = chatContainer.clientHeight;
+      const distanceToBottom = scrollHeight - (scrollPosition + clientHeight);
+
+      if (distanceToBottom > 200) {
+        button.classList.add("show");
+      } else {
+        button.classList.remove("show");
+      }
+    }
+
+    document.querySelector(".scroll-to-bottom").addEventListener("click", () => {
+      const chatContainer = document.getElementById("chat-container");
+      chatContainer.scrollTo({ top: chatContainer.scrollHeight, behavior: "smooth" });
+    });
+
+    document.getElementById("chat-container").addEventListener("scroll", toggleScrollButton);
+
+    window.addEventListener("load", () => {
+      toggleScrollButton();
+      localStorage.removeItem("chatHistorial");
+      document.getElementById("chat-messages").innerHTML = "";
+      const chatMessages = document.getElementById("chat-messages");
+      const welcomeMessage = document.createElement("div");
+      welcomeMessage.className = "message system";
+      welcomeMessage.innerHTML = `¡Hola! Estoy listo para responder tus preguntas jurídicas. Elige una materia y pregúntame algo como "¿Qué dice la ley sobre despido injustificado?". 😊 <span class="timestamp">${new Date().toLocaleTimeString("es-MX", { hour: "2-digit", minute: "2-digit" })}</span>`;
+      welcomeMessage.setAttribute("aria-live", "assertive");
+      chatMessages.appendChild(welcomeMessage);
+      guardarMensaje("system", welcomeMessage.innerHTML);
+
+      animarFondo();
+
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("/sw.js")
+          .then(() => console.log("Service Worker registrado con éxito"))
+          .catch(error => console.error("Error al registrar el Service Worker:", error));
+      } else {
+        console.warn("Service Worker no soportado en este navegador");
+      }
+    });
+  </script>
+</body>
+</html>
+

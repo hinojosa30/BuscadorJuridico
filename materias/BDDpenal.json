@@ -1,0 +1,2707 @@
+[
+  {
+  "PalabraClave": "Derecho a la intimidad",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "15",
+  "Texto": "Derecho a la intimidad y a la privacidad\nEn todo procedimiento penal se respetará el derecho a la intimidad de cualquier persona que intervenga en él, asimismo se protegerá la información que se refiere a la vida privada y los datos personales, en los términos y con las excepciones que fijan la Constitución, este Código y la legislación aplicable.",
+  "NotasOrientadoras": [
+    "Protege la vida privada y datos personales de toda persona involucrada en el procedimiento penal.",
+    "Las excepciones están reguladas por la Constitución, el Código Nacional y leyes aplicables.",
+    "Aplica tanto a víctimas como a imputados, testigos y terceros."
+  ]
+  },
+  {
+  "PalabraClave": "Justicia pronta",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "16",
+  "Texto": "Justicia pronta, Toda persona tendrá derecho a ser juzgada dentro de los plazos legalmente establecidos. Los servidores públicos de las instituciones de procuración e impartición de justicia deberán atender las solicitudes de las partes con prontitud, sin causar dilaciones injustificadas.",
+  "NotasOrientadoras": [
+    "Reconoce el derecho a una resolución judicial sin demoras indebidas.",
+    "Obliga a las autoridades a actuar con diligencia y respeto a los plazos legales.",
+    "La prontitud es clave para garantizar el debido proceso penal."
+  ]
+  },
+ {
+  "PalabraClave": "Derecho a la defensa",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "17",
+  "Texto": "Derecho a una defensa y asesoría jurídica adecuada e inmediata.\nLa defensa es un derecho fundamental e irrenunciable que asiste a todo imputado, no obstante, deberá ejercerlo siempre con la asistencia de su Defensor o a través de éste. El Defensor deberá ser licenciado en derecho o abogado titulado, con cédula profesional.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Se entenderá por una defensa técnica, la que debe realizar el Defensor particular que el imputado elija libremente o el Defensor público que le corresponda, para que le asista desde su detención y a lo largo de todo el procedimiento, sin perjuicio de los actos de defensa material que el propio imputado pueda llevar a cabo."
+    }
+  ],
+  "NotasOrientadoras": [
+    "La defensa debe ejercerse con asistencia profesional desde la detención hasta el fin del procedimiento.",
+    "El Defensor debe contar con título y cédula profesional en derecho.",
+    "La defensa técnica puede ser ejercida por defensor público o particular, según elección del imputado.",
+    "El imputado también puede realizar actos de defensa material por sí mismo."
+  ]
+  },
+  {
+  "PalabraClave": "Competencia territorial",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "20",
+  "Texto": "Para determinar la competencia territorial de los Órganos jurisdiccionales federales o locales, según corresponda, se observarán las siguientes reglas:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Los Órganos jurisdiccionales del fuero común tendrán competencia sobre los hechos punibles cometidos dentro de la circunscripción judicial en la que ejerzan sus funciones, conforme a la distribución y las disposiciones establecidas por su Ley Orgánica, o en su defecto, conforme a los acuerdos expedidos por el Consejo."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Cuando el hecho punible sea del orden federal, conocerán los Órganos jurisdiccionales federales."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Cuando el hecho punible sea del orden federal pero exista competencia concurrente, deberán conocer los Órganos jurisdiccionales del fuero común, en los términos que dispongan las leyes."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "En caso de concurso de delitos, el Ministerio Público de la Federación podrá conocer de los delitos del fuero común que tengan conexidad con delitos federales cuando lo considere conveniente, asimismo los Órganos jurisdiccionales federales, en su caso, tendrán competencia para juzgarlos. Para la aplicación de sanciones y medidas de seguridad en delitos del fuero común, se atenderá a la legislación de su fuero de origen. En tanto la Federación no ejerza dicha facultad, las autoridades estatales estarán obligadas a asumir su competencia en términos de la fracción primera de este artículo."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Cuando el lugar de comisión del hecho punible sea desconocido, será competente el Órgano jurisdiccional del fuero común o federal, según sea el caso, de la circunscripción judicial dentro de cuyo territorio haya sido detenido el imputado, a menos que haya prevenido el Órgano jurisdiccional de la circunscripción judicial donde resida. Si, posteriormente, se descubre el lugar de comisión del hecho punible, continuará la causa el Órgano jurisdiccional de este último lugar."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Cuando el hecho punible haya iniciado su ejecución en un lugar y consumado en otro, el conocimiento corresponderá al Órgano jurisdiccional de cualquiera de los dos lugares."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Cuando el hecho punible haya comenzado su ejecución o sea cometido en territorio extranjero y se siga cometiendo o produzca sus efectos en territorio nacional, en términos de la legislación aplicable, será competencia del Órgano jurisdiccional federal."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece las reglas para definir qué órgano jurisdiccional tiene competencia territorial.",
+    "La competencia puede ser federal, local o concurrente, según el tipo de delito y su ubicación.",
+    "En caso de concurso de delitos, la Federación puede asumir competencia sobre delitos del fuero común.",
+    "Si el lugar del hecho es desconocido, se toma como referencia el lugar de detención del imputado.",
+    "La ejecución parcial o internacional del delito también influye en la competencia."
+  ]
+  },
+  {
+  "PalabraClave": "Libertad de expresión",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "21",
+  "Texto": "En los casos de delitos del fuero común cometidos contra algún periodista, persona o instalación, que dolosamente afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta, el Ministerio Público de la Federación podrá ejercer la facultad de atracción para conocerlos y perseguirlos, y los Órganos jurisdiccionales federales tendrán, asimismo, competencia para juzgarlos. Esta facultad se ejercerá cuando se presente alguna de las siguientes circunstancias:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Existan indicios de que en el hecho constitutivo de delito haya participado algún servidor público de los órdenes estatal o municipal."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "En la denuncia o querella u otro requisito equivalente, la víctima u ofendido hubiere señalado como probable autor o partícipe a algún servidor público de los órdenes estatal o municipal."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Se trate de delitos graves así calificados por este Código y legislación aplicable para prisión preventiva oficiosa."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "La vida o integridad física de la víctima u ofendido se encuentre en riesgo real."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Lo solicite la autoridad competente de la Entidad federativa de que se trate."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Los hechos constitutivos de delito impacten de manera trascendente al ejercicio del derecho a la información o a las libertades de expresión o imprenta."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "En la Entidad federativa en la que se hubiere realizado el hecho constitutivo de delito o se hubieren manifestado sus resultados, existan circunstancias objetivas y generalizadas de riesgo para el ejercicio del derecho a la información o las libertades de expresión o imprenta."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "El hecho constitutivo de delito trascienda el ámbito de una o más Entidades federativas."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Por sentencia o resolución de un órgano previsto en cualquier Tratado, se hubiere determinado la responsabilidad internacional del Estado mexicano por defecto u omisión en la investigación, persecución o enjuiciamiento de delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite que la Federación atraiga delitos del fuero común que afecten la libertad de expresión.",
+    "La atracción procede cuando hay participación de servidores públicos, riesgo para la víctima o trascendencia nacional.",
+    "También aplica si hay responsabilidad internacional del Estado mexicano por omisión en la investigación.",
+    "La protección del derecho a la información y de periodistas es el eje central de esta facultad."
+  ]
+  },
+  {
+    "PalabraClave": "Competencia por seguridad",
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "22",
+    "Texto": "Será competente para conocer de un asunto un Órgano jurisdiccional distinto al del lugar de la comisión del delito, o al que resultare competente con motivo de las reglas antes señaladas, cuando atendiendo a las características del hecho investigado, por razones de seguridad en las prisiones o por otras que impidan garantizar el desarrollo adecuado del proceso.",
+    "Fracciones": [],
+    "NotasOrientadoras": [
+      "Este artículo permite cambiar la jurisdicción por razones de seguridad o riesgo procesal.",
+      "Aplica cuando el desarrollo adecuado del proceso no puede garantizarse en la sede original.",
+      "Protege la integridad del proceso penal ante amenazas o condiciones adversas."
+    ]
+  },
+  {
+    "PalabraClave": "Competencia auxiliar",
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "23",
+    "Texto": "Cuando el Ministerio Público o el Órgano jurisdiccional actúe en auxilio de otra jurisdicción en la práctica de diligencias urgentes, debe resolver conforme a lo dispuesto en este Código.",
+    "Fracciones": [],
+    "NotasOrientadoras": [
+      "Regula la actuación auxiliar entre jurisdicciones en casos urgentes.",
+      "El auxilio debe respetar las disposiciones del CNPP, incluso fuera de la jurisdicción principal.",
+      "Facilita la colaboración interinstitucional sin romper el marco legal."
+    ]
+  },
+  {
+    "PalabraClave": "Autorización judicial urgente",
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "24",
+    "Texto": "El Juez de control que resulte competente para conocer de los actos o cualquier otra medida que requiera de control judicial previo, se pronunciará al respecto durante el procedimiento correspondiente; sin embargo, cuando estas actuaciones debieran efectuarse fuera de su jurisdicción y se tratare de diligencias que requieran atención urgente, el Ministerio Público podrá pedir la autorización directamente al Juez de control competente en aquel lugar; en este caso, una vez realizada la diligencia, el Ministerio Público lo informará al Juez de control competente en el procedimiento correspondiente.",
+    "Fracciones": [],
+    "NotasOrientadoras": [
+      "Permite al Ministerio Público solicitar autorización urgente fuera de la jurisdicción original.",
+      "El Juez local puede autorizar diligencias urgentes, pero debe informarse al Juez competente del caso.",
+      "Equilibra la urgencia procesal con el respeto a la jurisdicción formal."
+    ]
+  },
+  {
+  "PalabraClave": "Incompetencia jurisdiccional",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "25",
+  "Texto": "La incompetencia puede decretarse por declinatoria o por inhibitoria.",
+  "Apartados": [
+    {
+      "Identificador": "Párrafo 2",
+      "Texto": "La parte que opte por uno de estos medios no lo podrá abandonar y recurrir al otro, ni tampoco los podrá emplear simultánea ni sucesivamente, debiendo sujetarse al resultado del que se hubiere elegido."
+    },
+    {
+      "Identificador": "Párrafo 3",
+      "Texto": "La incompetencia procederá a petición del Ministerio Público, el imputado o su Defensor, la víctima u ofendido o su Asesor jurídico y será resuelta en audiencia con las formalidades previstas en este Código."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La incompetencia puede plantearse por dos vías: declinatoria (ceder competencia) o inhibitoria (impedir que otro órgano actúe).",
+    "Una vez elegida la vía, no puede abandonarse ni combinarse con la otra.",
+    "Puede solicitarla cualquier parte procesal relevante y se resuelve en audiencia formal.",
+    "Este artículo busca evitar duplicidad de procedimientos y garantizar la competencia adecuada."
+  ]
+  },
+  {
+    "PalabraClave": "Reglas de incompetencia",
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "26",
+    "Texto": "Para la decisión de la incompetencia se observarán las siguientes reglas:",
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Las que se susciten entre Órganos jurisdiccionales de la Federación se decidirán a favor del que haya prevenido, conforme a las reglas previstas en este Código y en la Ley Orgánica del Poder Judicial de la Federación y si hay dos o más competentes, a favor del que haya prevenido."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Las que se susciten entre los Órganos jurisdiccionales de una misma Entidad federativa se decidirán conforme a las reglas previstas en este Código y en la Ley Orgánica aplicable, y si hay dos o más competentes a favor del que haya prevenido."
+      },
+      {
+        "Fracción": "III",
+        "Texto": "Las que se susciten entre la Federación y una o más Entidades federativas o entre dos o más Entidades federativas entre sí, se decidirán por el Poder Judicial Federal en los términos de su Ley Orgánica."
+      }
+    ],
+    "NotasOrientadoras": [
+      "Este artículo establece cómo resolver conflictos de competencia entre órganos jurisdiccionales.",
+      "La regla general favorece al órgano que haya prevenido, es decir, el que primero conoció del asunto.",
+      "Cuando el conflicto involucra a la Federación y Entidades federativas, lo resuelve el Poder Judicial Federal."
+    ]
+  },
+  {
+    "PalabraClave": "Declinatoria",
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "27",
+    "Texto": "En cualquier etapa del procedimiento, salvo las excepciones previstas en este Código, el Órgano jurisdiccional que reconozca su incompetencia remitirá los registros correspondientes al que considere competente y, en su caso, pondrá también a su disposición al imputado.",
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "La declinatoria se podrá promover por escrito, o de forma oral, en cualquiera de las audiencias ante el Órgano jurisdiccional que conozca del asunto hasta antes del auto de apertura a juicio, pidiéndole que se abstenga del conocimiento del mismo y que remita el caso y sus registros al que estime competente."
+      },
+      {
+        "Párrafo": " 3",
+        "Texto": "Si la incompetencia es del Órgano jurisdiccional deberá promoverse dentro del plazo de tres días siguientes a que surta sus efectos la notificación de la resolución que fije la fecha para la realización de la audiencia de juicio. En este supuesto, se promoverá ante el Juez de control que fijó la competencia del Tribunal de enjuiciamiento, sin perjuicio de ser declarada de oficio."
+      }
+    ],
+    "Fracciones": [],
+    "NotasOrientadoras": [
+      "La declinatoria permite que un órgano jurisdiccional remita el caso a otro que considere competente.",
+      "Puede promoverse por escrito u oralmente antes del auto de apertura a juicio.",
+      "Si la incompetencia se detecta en etapa de juicio, debe promoverse en un plazo de tres días ante el Juez de control.",
+      "El artículo permite que la incompetencia también sea declarada de oficio."
+    ]
+    },
+    
+  {
+    "PalabraClave": "Incompetencia por inhibitoria",
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "28",
+    "Texto": "En cualquier etapa del procedimiento, la inhibitoria se tramitará a petición de cualquiera de las partes ante el Órgano jurisdiccional que crea competente para que se avoque al conocimiento del asunto; en caso de ser procedente, el Órgano jurisdiccional que reconozca su incompetencia remitirá los registros correspondientes al que se determine competente y, en su caso, pondrá también a su disposición al imputado.",
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "La inhibitoria se podrá promover por escrito, o de forma oral, en audiencia ante el Juez de control que se considere debe conocer del asunto hasta antes de que se dicte auto de apertura a juicio."
+      },
+      {
+        "Párrafo": "3",
+        "Texto": "Si la incompetencia es del Tribunal de enjuiciamiento, deberá promover la incompetencia dentro del plazo de tres días siguientes a que surta sus efectos la notificación de la resolución que fije la fecha para la realización de la audiencia de juicio. En este supuesto, se promoverá ante el Tribunal de enjuiciamiento que se considere debe conocer del asunto."
+      }
+    ],
+    "Fracciones": [],
+    "NotasOrientadoras": [
+      "La inhibitoria permite que un órgano jurisdiccional solicite a otro que se avoque al conocimiento del caso.",
+      "Puede promoverse por escrito u oralmente antes del auto de apertura a juicio.",
+      "Si el conflicto surge en etapa de juicio, debe promoverse en tres días ante el Tribunal que se considere competente.",
+      "Este mecanismo busca garantizar que el órgano adecuado conozca del asunto desde el inicio."
+    ]
+  },
+  {
+    "PalabraClave": "Actuaciones urgentes, declinatoria, inhibitoria",
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "29",
+    "Texto": "La competencia por declinatoria o inhibitoria no podrá resolverse sino hasta después de que se practiquen las actuaciones que no admitan demora como las providencias precautorias y, en caso de que exista detenido, cuando se haya resuelto sobre la legalidad de la detención, formulado la imputación, resuelto la procedencia de las medidas cautelares solicitadas y la vinculación a proceso.",
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "El Juez de control incompetente por declinatoria o inhibitoria enviará de oficio los registros y en su caso, pondrá a disposición al imputado del Juez de control competente después de haber practicado las diligencias urgentes enunciadas en el párrafo anterior."
+      }
+    ],
+    "Fracciones": [],
+    "NotasOrientadoras": [
+      "Antes de resolver la competencia, deben realizarse diligencias urgentes que no admitan demora.",
+      "Incluye medidas cautelares, legalidad de la detención, imputación y vinculación a proceso.",
+      "El Juez incompetente debe actuar primero y luego remitir el caso al Juez competente.",
+      "Este artículo garantiza que no se vulneren derechos por demoras procesales en conflictos de competencia."
+    ]
+  },
+  {
+  "PalabraClave": "Separación de procesos, acumulación, demora procesal, Juez de control",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "35",
+  "Texto": "Separación de los procesos Podrá ordenarse la separación de procesos cuando concurran las siguientes circunstancias:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Cuando la solicite una de las partes antes del auto de apertura al juicio."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Cuando el Juez de control estime que de continuar la acumulación el proceso se demoraría."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite separar procesos acumulados para evitar demoras injustificadas.",
+    "La solicitud debe hacerse antes del auto de apertura a juicio.",
+    "El Juez de control puede ordenar la separación si considera que la acumulación afecta la celeridad procesal.",
+    "Busca garantizar eficiencia sin comprometer derechos procesales."
+  ]
+  },
+  {
+  "PalabraClave": "Excusa, recusación",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "36",
+  "Texto": "Excusa o recusación Los jueces y magistrados deberán excusarse o podrán ser recusados para conocer de los asuntos en que intervengan por cualquiera de las causas de impedimento que se establecen en este Código, mismas que no podrán dispensarse por voluntad de las partes.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Este artículo establece que los jueces y magistrados deben excusarse o pueden ser recusados si existe alguna causa de impedimento.",
+    "Las causas de impedimento están definidas en el propio Código y no pueden ser ignoradas por acuerdo entre las partes.",
+    "La excusa y la recusación garantizan imparcialidad y objetividad en la actuación judicial.",
+    "Protege el debido proceso frente a posibles conflictos de interés o parcialidad."
+  ]
+  },
+  {
+  "PalabraClave": "Impedimento, conflicto de interés, recusación, excusa, jueces, magistrados",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "37",
+  "Texto": "Causas de impedimento Son causas de impedimento de los jueces y magistrados:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Haber intervenido en el mismo procedimiento como Ministerio Público, Defensor, Asesor jurídico, denunciante o querellante, o haber ejercido la acción penal particular; haber actuado como perito, consultor técnico, testigo o tener interés directo en el procedimiento."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Ser cónyuge, concubina o concubinario, conviviente, tener parentesco en línea recta sin limitación de grado, en línea colateral por consanguinidad y por afinidad hasta el segundo grado con alguno de los interesados, o que éste cohabite o haya cohabitado con alguno de ellos."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Ser o haber sido tutor, curador, haber estado bajo tutela o curatela de alguna de las partes, ser o haber sido administrador de sus bienes por cualquier título."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Cuando él, su cónyuge, concubina, concubinario, conviviente, o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, tenga un juicio pendiente iniciado con anterioridad con alguna de las partes."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Cuando él, su cónyuge, concubina, concubinario, conviviente, o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, sea acreedor, deudor, arrendador, arrendatario o fiador de alguna de las partes, o tengan alguna sociedad con éstos."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Cuando antes de comenzar el procedimiento o durante éste, haya presentado él, su cónyuge, concubina, concubinario, conviviente o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, querella, denuncia, demanda o haya entablado cualquier acción legal en contra de alguna de las partes, o cuando antes de comenzar el procedimiento hubiera sido denunciado o acusado por alguna de ellas."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Haber dado consejos o manifestado extrajudicialmente su opinión sobre el procedimiento o haber hecho promesas que impliquen parcialidad a favor o en contra de alguna de las partes."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Cuando él, su cónyuge, concubina, concubinario, conviviente o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, hubiera recibido o reciba beneficios de alguna de las partes o si, después de iniciado el procedimiento, hubiera recibido presentes o dádivas independientemente de cuál haya sido su valor."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Para el caso de los jueces del Tribunal de enjuiciamiento, haber fungido como Juez de control en el mismo procedimiento."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo enumera las causas específicas por las que un juez o magistrado debe excusarse o puede ser recusado.",
+    "Incluye vínculos previos con el procedimiento, relaciones personales o familiares, intereses económicos o actuaciones previas.",
+    "Busca garantizar la imparcialidad judicial y prevenir conflictos de interés.",
+    "Complementa el artículo 36 al detallar los supuestos concretos de impedimento."
+  ]
+  },
+  {
+  "PalabraClave": "Excusa, impedimento, separación del asunto, Órgano jurisdiccional",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "38",
+  "Texto": "Excusa. Cuando un Juez o Magistrado advierta que se actualiza alguna de las causas de impedimento, se declarará separado del asunto sin audiencia de las partes y remitirá los registros al Órgano jurisdiccional competente, de conformidad con lo que establezca la Ley Orgánica, para que resuelva quién debe seguir conociendo del mismo.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La excusa procede cuando el juzgador detecta un impedimento que le impide conocer del asunto.",
+    "No requiere audiencia de las partes; se remite directamente al órgano competente.",
+    "Se garantiza imparcialidad desde el inicio del proceso."
+  ]
+  },
+  {
+  "PalabraClave": "Recusación, impedimento, falta de excusa",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "39",
+  "Texto": "Recusación. Cuando el Juez o Magistrado no se excuse a pesar de tener algún impedimento, procederá la recusación.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La recusación es el mecanismo para cuestionar la imparcialidad del juzgador.",
+    "Aplica cuando no se excusa voluntariamente pese a tener impedimento.",
+    "Protege el derecho a un juez imparcial."
+  ]
+  },
+  {
+  "PalabraClave": "Recusación, plazo, forma, audiencia",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "40",
+  "Texto": "Tiempo y forma de recusar. La recusación debe interponerse ante el propio Juez o Magistrado recusado, por escrito y dentro de las cuarenta y ocho horas siguientes a que se tuvo conocimiento del impedimento. Se interpondrá oralmente si se conoce en el curso de una audiencia y en ella se indicará, bajo pena de inadmisibilidad, la causa en que se justifica y los medios de prueba pertinentes.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El plazo para recusar es de 48 horas desde que se conoce el impedimento.",
+    "Puede presentarse oralmente si ocurre durante audiencia.",
+    "Debe justificarse la causa y ofrecer medios de prueba pertinentes.",
+    "La omisión de estos requisitos puede hacerla inadmisible."
+  ]
+  },
+{
+  "PalabraClave": "Recusación, trámite, informe, audiencia, resolución",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "41",
+  "Texto": "Trámite de recusación. Interpuesta la recusación, el recusado remitirá el registro de lo actuado y los medios de prueba ofrecidos al Órgano jurisdiccional competente, de conformidad con lo que establezca la Ley Orgánica para que la califique.",
+  "Párrafos": [
+    {
+      "Párrafo": "1",
+      "Texto": "Recibido el escrito, se pedirá informe al juzgador recusado, quien lo rendirá dentro del plazo de veinticuatro horas, señalándosele fecha y hora para realizar la audiencia dentro de los tres días siguientes a que se recibió el informe, misma que se celebrará con las partes que comparezcan, las que podrán hacer uso de la palabra sin que se admitan réplicas."
+    },
+    {
+      "Párrafo": "2",
+      "Texto": "Concluido el debate, el Órgano jurisdiccional competente resolverá de inmediato sobre la legalidad de la causa de recusación que se hubiere señalado y, contra la misma, no habrá recurso alguno."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El trámite inicia con la remisión del registro y pruebas al órgano competente.",
+    "El juzgador debe rendir informe en 24 horas.",
+    "Se celebra audiencia dentro de los tres días siguientes, sin réplicas.",
+    "La resolución es inmediata y definitiva."
+  ]
+  },
+  {
+  "PalabraClave": "Recusación, excusa, suspensión, actos urgentes",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "42",
+  "Texto": "Efectos de la recusación y excusa. El Juez o Magistrado recusado se abstendrá de seguir conociendo de la audiencia correspondiente, ordenará la suspensión de la misma y sólo podrá realizar aquellos actos de mero trámite o urgentes que no admitan dilación.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Durante la recusación o excusa, el juzgador no puede continuar con la audiencia.",
+    "Solo se permiten actos urgentes o de mero trámite.",
+    "Se protege la legalidad del proceso mientras se resuelve la recusación."
+  ]
+  },
+  {
+  "PalabraClave": "Impedimentos, Ministerio Público, peritos, excusa, recusación",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "43",
+  "Texto": "Impedimentos del Ministerio Público y de peritos. El Ministerio Público y los peritos deberán excusarse o podrán ser recusados por las mismas causas previstas para los jueces o magistrados.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Los impedimentos aplican también al Ministerio Público y peritos.",
+    "Deben excusarse o pueden ser recusados por las mismas causas que los jueces.",
+    "Se extiende la garantía de imparcialidad a todos los actores procesales."
+  ]
+  },
+  {
+  "PalabraClave": "Oralidad, audiencias, documentos, medios técnicos, argumentación",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "44",
+  "Texto": "Oralidad de las actuaciones procesales. Las audiencias se desarrollarán de forma oral, pudiendo auxiliarse las partes con documentos o con cualquier otro medio. En la práctica de las actuaciones procesales se utilizarán los medios técnicos disponibles que permitan darle mayor agilidad, exactitud y autenticidad a las mismas, sin perjuicio de conservar registro de lo acontecido.",
+  "Párrafos": [
+    {
+      "Párrafo": "1",
+      "Texto": "El Órgano jurisdiccional propiciará que las partes se abstengan de leer documentos completos o apuntes de sus actuaciones que demuestren falta de argumentación y desconocimiento del asunto. Sólo se podrán leer registros de la investigación para apoyo de memoria, así como para demostrar o superar contradicciones; la parte interesada en dar lectura a algún documento o registro, solicitará al juzgador que presida la audiencia, autorización para proceder a ello indicando específicamente el motivo de su solicitud conforme lo establece este artículo, sin que ello sea motivo de que se reemplace la argumentación oral."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La oralidad es principio rector en las audiencias, aunque se permite el uso de documentos como apoyo.",
+    "Se promueve el uso de medios técnicos para agilizar y autenticar las actuaciones.",
+    "El juzgador debe evitar que las partes sustituyan la argumentación oral con lectura de documentos.",
+    "Solo se permite leer registros de investigación para apoyar memoria o aclarar contradicciones.",
+    "La lectura debe ser autorizada por el juzgador y justificada conforme al artículo.",
+    "Se protege la calidad argumentativa y la autenticidad del debate oral."
+  ]
+  },
+  {
+  "PalabraClave": "Idioma, español, traductor, intérprete, discapacidad, comprensión",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "45",
+  "Texto": "Idioma. Los actos procesales deberán realizarse en idioma español.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando las personas no hablen o no entiendan el idioma español, deberá proveerse traductor o intérprete, y se les permitirá hacer uso de su propia lengua o idioma, al igual que las personas que tengan algún impedimento para darse a entender. En el caso de que el imputado no hable o entienda el idioma español deberá ser asistido por traductor o intérprete para comunicarse con su Defensor en las entrevistas que con él mantenga. El imputado podrá nombrar traductor o intérprete de su confianza, por su cuenta."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Si se trata de una persona con algún tipo de discapacidad, tiene derecho a que se le facilite un intérprete o aquellos medios tecnológicos que le permitan obtener de forma comprensible la información solicitada o, a falta de éstos, a alguien que sepa comunicarse con ella. En los actos de comunicación, los Órganos jurisdiccionales deberán tener certeza de que la persona con discapacidad ha sido informada de las decisiones judiciales que deba conocer y de que comprende su alcance. Para ello deberá utilizarse el medio que, según el caso, garantice que tal comprensión exista."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El idioma oficial de los actos procesales es el español, garantizando uniformidad y comprensión.",
+    "Se reconoce el derecho de las personas a expresarse en su lengua materna si no dominan el español.",
+    "El imputado tiene derecho a intérprete en todas las etapas, incluyendo entrevistas con su defensor.",
+    "Puede nombrar traductor o intérprete de confianza, siempre que lo costee personalmente.",
+    "Las personas con discapacidad deben recibir apoyo comunicativo adecuado: intérprete, tecnología o persona capacitada.",
+    "Los órganos jurisdiccionales deben asegurarse de que la persona con discapacidad comprenda plenamente las decisiones judiciales.",
+    "La comprensión debe ser garantizada por el medio más eficaz según el caso concreto."
+  ]
+  },
+  {
+  "PalabraClave": "Interrogatorio, idioma, intérprete, traductor, testigos",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "46",
+  "Texto": "Declaraciones e interrogatorios con intérpretes y traductores. Las personas serán interrogadas en idioma español, mediante la asistencia de un traductor o intérprete. En ningún caso las partes o los testigos podrán ser intérpretes.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El idioma oficial para interrogatorios es el español, con asistencia obligatoria de intérprete si se requiere.",
+    "Se prohíbe que partes o testigos actúen como intérpretes, garantizando imparcialidad y profesionalismo."
+  ]
+  },
+  {
+  "PalabraClave": "Audiencias, lugar, orden público, seguridad, legislación aplicable",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "47",
+  "Texto": "Lugar de audiencias. El Órgano jurisdiccional celebrará las audiencias en la sala que corresponda, excepto si ello puede provocar una grave alteración del orden público, no garantiza la defensa de alguno de los intereses comprometidos en el procedimiento u obstaculiza seriamente su realización, en cuyo caso se celebrarán en el lugar que para tal efecto designe el Órgano jurisdiccional y bajo las medidas de seguridad que éste determine, de conformidad con lo que establezca la legislación aplicable.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las audiencias se celebran en salas oficiales, salvo excepciones justificadas por seguridad o viabilidad.",
+    "El Órgano jurisdiccional puede designar otro lugar, siempre bajo medidas de seguridad y conforme a la ley."
+  ]
+  },
+{
+  "PalabraClave": "Tiempo, actos procesales, registro, nulidad",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "48",
+  "Texto": "Tiempo. Los actos procesales podrán ser realizados en cualquier día y a cualquier hora, sin necesidad de previa habilitación. Se registrará el lugar, la hora y la fecha en que se cumplan. La omisión de estos datos no hará nulo el acto, salvo que no pueda determinarse, de acuerdo con los datos del registro u otros conexos, la fecha en que se realizó.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Los actos procesales no están limitados por horario ni día específico.",
+    "Debe registrarse lugar, hora y fecha; su omisión no nulifica el acto salvo que impida determinar cuándo ocurrió."
+  ]
+  },
+  {
+  "PalabraClave": "Protesta, declaración, sanciones, verdad, imputado",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "49",
+  "Texto": "Protesta. Dentro de cualquier audiencia y antes de que toda persona mayor de dieciocho años de edad inicie su declaración, con excepción del imputado, se le informará de las sanciones penales que la ley establece a los que se conducen con falsedad, se nieguen a declarar o a otorgar la protesta de ley; acto seguido se le tomará protesta de decir verdad.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Toda persona mayor de 18 años debe ser advertida sobre sanciones antes de declarar, excepto el imputado.",
+    "Se exige la protesta de decir verdad como acto formal previo a la declaración."
+  ]
+  },
+  {
+  "PalabraClave": "Carpetas digitales, acceso, audiencias, privacidad, presunción de inocencia",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "50",
+  "Texto": "Acceso a las carpetas digitales. Las partes siempre tendrán acceso al contenido de las carpetas digitales consistente en los registros de las audiencias y complementarios. Dichos registros también podrán ser consultados por terceros cuando dieren cuenta de actuaciones que fueren públicas, salvo que durante el proceso el Órgano jurisdiccional restrinja el acceso para evitar que se afecte su normal sustanciación, el principio de presunción de inocencia o los derechos a la privacidad o a la intimidad de las partes, o bien, se encuentre expresamente prohibido en la ley de la materia.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las partes tienen acceso permanente a las carpetas digitales del proceso.",
+    "Terceros pueden consultar registros públicos, salvo restricciones por privacidad, presunción de inocencia o ley aplicable.",
+    "El Órgano jurisdiccional puede limitar el acceso para proteger el desarrollo del proceso y los derechos involucrados."
+  ]
+  },
+  {
+  "PalabraClave": "Medios electrónicos, proceso penal, denuncias en línea, informe policial",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "51",
+  "Texto": "Utilización de medios electrónicos. Durante todo el proceso penal, se podrán utilizar los medios electrónicos en todas las actuaciones para facilitar su operación, incluyendo el informe policial; así como también podrán instrumentar, para la presentación de denuncias o querellas en línea que permitan su seguimiento.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Se permite el uso de medios electrónicos en todas las etapas del proceso penal.",
+    "Incluye informes policiales y presentación de denuncias o querellas en línea con seguimiento digital.",
+    "La digitalización busca facilitar la operación procesal sin perder formalidad ni autenticidad."
+  ]
+  },
+  {
+  "PalabraClave": "Audiencias, actos procedimentales, resolución, excepciones",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "52",
+  "Texto": "Los actos procedimentales que deban ser resueltos por el Órgano jurisdiccional se llevarán a cabo mediante audiencias, salvo los casos de excepción que prevea este Código. Las cuestiones debatidas en una audiencia deberán ser resueltas en ella.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Los actos procesales deben resolverse en audiencias, garantizando transparencia y oralidad.",
+    "Las excepciones a esta regla deben estar expresamente previstas en el Código.",
+    "Las decisiones sobre cuestiones debatidas en audiencia deben tomarse en el mismo acto."
+  ]
+  },
+  {
+  "PalabraClave": "Disciplina, audiencias, medidas de apremio, comunicación del imputado",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "53",
+  "Texto": "El orden en las audiencias estará a cargo del Órgano jurisdiccional. Toda persona que altere el orden en éstas podrá ser acreedora a una medida de apremio sin perjuicio de que se pueda solicitar su retiro de la sala de audiencias y su puesta a disposición de la autoridad competente.\nAntes y durante las audiencias, el imputado tendrá derecho a comunicarse con su Defensor, pero no con el público. Si infringe esa disposición, el Órgano jurisdiccional podrá imponerle una medida de apremio.",
+  "Párrafos": [
+    "Antes y durante las audiencias, el imputado tendrá derecho a comunicarse con su Defensor, pero no con el público. Si infringe esa disposición, el Órgano jurisdiccional podrá imponerle una medida de apremio."
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El Órgano jurisdiccional es responsable de mantener el orden en las audiencias.",
+    "Las personas que alteren el orden pueden ser sancionadas con medidas de apremio o retiradas de la sala.",
+    "El imputado tiene derecho a comunicarse con su defensor, pero no con el público durante las audiencias.",
+    "La infracción de esta norma puede derivar en sanciones por parte del juez."
+  ]
+  },
+  {
+  "PalabraClave": "Identificación, declarantes, datos personales, voluntad",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "54",
+  "Texto": "Previo a cualquier audiencia, se llevará a cabo la identificación de toda persona que vaya a declarar, para lo cual deberá proporcionar su nombre, apellidos, edad y domicilio. Dicho registro lo llevará a cabo el personal auxiliar de la sala, dejando constancia de la manifestación expresa de la voluntad del declarante de hacer públicos, o no, sus datos personales.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Toda persona que declare en audiencia debe identificarse con datos básicos.",
+    "El personal auxiliar registra la información y la voluntad del declarante sobre la publicidad de sus datos.",
+    "Se protege el derecho a la privacidad mediante la manifestación expresa del declarante."
+  ]
+  },
+  {
+  "PalabraClave": "Acceso restringido, audiencias, seguridad, orden",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "55",
+  "Texto": "I. Personas armadas, salvo que cumplan funciones de vigilancia o custodia;\nII. Personas que porten distintivos gremiales o partidarios;\nIII. Personas que porten objetos peligrosos o prohibidos o que no observen las disposiciones que se establezcan, o\nIV. Cualquier otra que el Órgano jurisdiccional considere como inapropiada para el orden o seguridad en el desarrollo de la audiencia.",
+  "Párrafos": [],
+  "Fracciones": [
+    "I. Personas armadas, salvo que cumplan funciones de vigilancia o custodia;",
+    "II. Personas que porten distintivos gremiales o partidarios;",
+    "III. Personas que porten objetos peligrosos o prohibidos o que no observen las disposiciones que se establezcan, o",
+    "IV. Cualquier otra que el Órgano jurisdiccional considere como inapropiada para el orden o seguridad en el desarrollo de la audiencia."
+  ],
+  "NotasOrientadoras": [
+    "El acceso a las audiencias puede restringirse para preservar el orden y la seguridad.",
+    "Se prohíbe la entrada de personas armadas, salvo funciones oficiales, y de quienes porten símbolos gremiales o partidarios.",
+    "El juez puede limitar el acceso a cualquier persona que represente un riesgo o altere el desarrollo adecuado de la audiencia."
+  ]
+  },
+  {
+  "PalabraClave": "Presencia, imputado, audiencia, medidas de seguridad",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "56",
+  "Texto": "Las audiencias se realizarán con la presencia ininterrumpida de quien o quienes integren el Órgano jurisdiccional y de las partes que intervienen en el proceso, salvo disposición en contrario. El imputado no podrá retirarse de la audiencia sin autorización del Órgano jurisdiccional.\nEl imputado asistirá a la audiencia libre en su persona y ocupará un asiento a lado de su defensor. Sólo en casos excepcionales podrán disponerse medidas de seguridad que impliquen su confinamiento en un cubículo aislado en la sala de audiencia, cuando ello sea una medida indispensable para salvaguardar la integridad física de los intervinientes en la audiencia.",
+  "Párrafos": [
+    "El imputado asistirá a la audiencia libre en su persona y ocupará un asiento a lado de su defensor. Sólo en casos excepcionales podrán disponerse medidas de seguridad que impliquen su confinamiento en un cubículo aislado en la sala de audiencia, cuando ello sea una medida indispensable para salvaguardar la integridad física de los intervinientes en la audiencia."
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La presencia continua del juez y las partes es obligatoria durante la audiencia.",
+    "El imputado debe permanecer en la audiencia salvo autorización judicial.",
+    "Se garantiza la dignidad del imputado al permitirle estar libre junto a su defensor.",
+    "Medidas de seguridad excepcionales pueden aplicarse para proteger a los participantes."
+  ]
+  },
+  {
+  "PalabraClave": "Ausencia, defensores, Ministerio Público, sustitución, sanciones, víctimas",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "57",
+  "Texto": "Ausencia de las partes. En el caso de que estuvieren asignados varios Defensores o varios Ministerios Públicos, la presencia de cualquiera de ellos bastará para celebrar la audiencia respectiva.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El Defensor no podrá renunciar a su cargo conferido ni durante las audiencias ni una vez notificado de ellas."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Si el Defensor no comparece a la audiencia, o se ausenta de la misma sin causa justificada, se considerará abandonada la defensa y se procederá a su reemplazo con la mayor prontitud por el Defensor público que le sea designado, salvo que el imputado designe de inmediato otro Defensor."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "Si el Ministerio Público no comparece a la audiencia o se ausenta de la misma, se procederá a su remplazo dentro de la misma audiencia. Para tal efecto se notificará por cualquier medio a su superior jerárquico para que lo designe de inmediato."
+    },
+    {
+      "Párrafo": "5",
+      "Texto": "El Ministerio Público sustituto o el nuevo Defensor podrán solicitar al Órgano jurisdiccional que aplace el inicio de la audiencia o suspenda la misma por un plazo que no podrá exceder de diez días para la adecuada preparación de su intervención en el juicio. El Órgano jurisdiccional resolverá considerando la complejidad del caso, las circunstancias de la ausencia de la defensa o del Ministerio Público y las posibilidades de aplazamiento."
+    },
+    {
+      "Párrafo": "6",
+      "Texto": "En el caso de que el Defensor, Asesor jurídico o el Ministerio Público se ausenten de la audiencia sin causa justificada, se les impondrá una multa de diez a cincuenta días de salario mínimo vigente, sin perjuicio de las sanciones administrativas o penales que correspondan."
+    },
+    {
+      "Párrafo": "7",
+      "Texto": "Si la víctima u ofendido no concurren, o se retiran de la audiencia, la misma continuará sin su presencia, sin perjuicio de que pueda ser citado a comparecer en calidad de testigo."
+    },
+    {
+      "Párrafo": "9",
+      "Texto": "Si el Asesor jurídico de la víctima u ofendido abandona su asesoría, o ésta es deficiente, el Órgano jurisdiccional le informará a la víctima u ofendido su derecho a nombrar a otro Asesor jurídico. Si la víctima u ofendido no quiere o no puede nombrar un Asesor jurídico, el Órgano jurisdiccional lo informará a la instancia correspondiente para efecto de que se designe a otro, y en caso de ausencia, y de manera excepcional, lo representará el Ministerio Público."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La presencia de al menos un Defensor o Ministerio Público es suficiente para celebrar la audiencia.",
+    "El Defensor no puede renunciar a su cargo una vez notificado o durante la audiencia.",
+    "La ausencia injustificada del Defensor implica abandono de la defensa y sustitución inmediata.",
+    "El Ministerio Público también puede ser sustituido en caso de ausencia, previa notificación a su superior.",
+    "El sustituto puede solicitar aplazamiento de la audiencia por hasta diez días, según la complejidad del caso.",
+    "Las ausencias injustificadas conllevan multas y posibles sanciones administrativas o penales.",
+    "La audiencia continúa sin la víctima u ofendido, aunque pueden ser citados como testigos.",
+    "Si el Asesor jurídico abandona o actúa deficientemente, se debe informar a la víctima u ofendido para que designe otro.",
+    "En caso de que no se designe un nuevo Asesor jurídico, el Ministerio Público podrá representarlos excepcionalmente."
+  ]
+  },
+  {
+  "PalabraClave": "Audiencia, asistentes, conducta, grabaciones, respeto",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "58",
+  "Texto": "Quienes asistan a la audiencia deberán permanecer en la misma respetuosamente, en silencio y no podrán introducir instrumentos que permitan grabar imágenes de video, sonidos o gráficas. Tampoco podrán portar armas ni adoptar un comportamiento intimidatorio, provocativo, contrario al decoro, ni alterar o afectar el desarrollo de la audiencia.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Los asistentes a la audiencia deben mantener una conducta respetuosa y permanecer en silencio.",
+    "Está prohibido introducir dispositivos de grabación de video, audio o imágenes.",
+    "No se permite portar armas ni adoptar comportamientos que alteren el orden o intimiden a los presentes."
+  ]
+  },
+  {
+  "PalabraClave": "Medios de apremio, orden, decisiones, audiencias",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "59",
+  "Texto": "Para asegurar el orden en las audiencias o restablecerlo cuando hubiere sido alterado, así como para garantizar la observancia de sus decisiones en audiencia, el Órgano jurisdiccional podrá aplicar indistintamente cualquiera de los medios de apremio establecidos en este Código.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El Órgano jurisdiccional puede aplicar medios de apremio para mantener o restablecer el orden en las audiencias.",
+    "También puede usarlos para asegurar el cumplimiento de sus decisiones.",
+    "Los medios de apremio están regulados por el propio Código."
+  ]
+  },
+  {
+  "PalabraClave": "Hechos delictivos, audiencia, Ministerio Público, denuncia",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "60",
+  "Texto": "Si durante la audiencia se advierte que existen elementos que hagan presumir la existencia de un hecho delictivo distinto del que constituye la materia del procedimiento, el Órgano jurisdiccional lo hará del conocimiento del Ministerio Público competente y le remitirá el registro correspondiente.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El juez debe informar al Ministerio Público si detecta indicios de otro delito durante la audiencia.",
+    "Se remite el registro correspondiente para que se investigue el nuevo hecho.",
+    "Este procedimiento garantiza la actuación inmediata ante posibles delitos descubiertos en audiencia."
+  ]
+  },
+  {
+  "PalabraClave": "Registro, audiencias, tecnología, conservación, Poder Judicial",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "61",
+  "Texto": "Todas las audiencias previstas en este Código serán registradas por cualquier medio tecnológico que tenga a su disposición el Órgano jurisdiccional.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "La grabación o reproducción de imágenes o sonidos se considerará como parte de las actuaciones y registros y se conservarán en resguardo del Poder Judicial para efectos del conocimiento de otros órganos distintos que conozcan del mismo procedimiento y de las partes, garantizando siempre su conservación."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las audiencias deben ser registradas mediante medios tecnológicos disponibles.",
+    "Las grabaciones forman parte de las actuaciones procesales y deben conservarse oficialmente.",
+    "El resguardo de estos registros garantiza su disponibilidad para otros órganos y las partes involucradas."
+  ]
+  },
+  {
+  "PalabraClave": "Asistencia, imputado, audiencia, seguridad, comparecencia",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "62",
+  "Texto": "Si el imputado se encuentra privado de su libertad, el Órgano jurisdiccional determinará las medidas especiales de seguridad o los mecanismos necesarios para garantizar el adecuado desarrollo de la audiencia: impedir la fuga o la realización de actos de violencia de parte del imputado o en su contra.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Si la persona está en libertad, asistirá a la audiencia el día y hora en que se determine; en caso de no presentarse, el Órgano jurisdiccional podrá imponerle un medio de apremio y en su caso, previa solicitud del Ministerio Público, ordenar su comparecencia."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Cuando el imputado está privado de libertad, el juez debe garantizar su seguridad y el desarrollo adecuado de la audiencia.",
+    "Se deben prevenir riesgos como la fuga o actos de violencia.",
+    "Si el imputado está en libertad y no se presenta, puede ser compelido mediante medios de apremio o comparecencia forzada."
+  ]
+  },
+  {
+  "PalabraClave": "Notificación, resoluciones, audiencia, oralidad, registro",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "63",
+  "Texto": "Las resoluciones del Órgano jurisdiccional serán dictadas en forma oral, con expresión de sus fundamentos y motivaciones, quedando los intervinientes en ellas y quienes estaban obligados a asistir formalmente notificados de su emisión, lo que constará en el registro correspondiente en los términos previstos en este Código.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las resoluciones judiciales se dictan oralmente durante la audiencia.",
+    "Deben incluir fundamentos y motivaciones claras.",
+    "Los intervinientes y obligados quedan formalmente notificados en ese momento, y se registra conforme al Código."
+  ]
+  },
+  {
+  "PalabraClave": "Publicidad, excepciones, puerta cerrada, seguridad, interés superior del menor",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "64",
+  "Texto": "El debate será público, pero el Órgano jurisdiccional podrá resolver excepcionalmente, aun de oficio, que se desarrolle total o parcialmente a puerta cerrada, cuando:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Pueda afectar la integridad de alguna de las partes, o de alguna persona citada para participar en él."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "La seguridad pública o la seguridad nacional puedan verse gravemente afectadas."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Peligre un secreto oficial, particular, comercial o industrial, cuya revelación indebida sea punible."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "El Órgano jurisdiccional estime conveniente."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Se afecte el Interés Superior del Niño y de la Niña en términos de lo establecido por los Tratados y las leyes en la materia."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Esté previsto en este Código o en otra ley."
+    }
+  ],
+  "NotasOrientadoras": [
+    "El principio de publicidad puede ser limitado por el juez en casos excepcionales.",
+    "Las audiencias pueden realizarse a puerta cerrada para proteger la integridad de las partes o participantes.",
+    "La seguridad pública, nacional o la protección de secretos punibles justifican la restricción.",
+    "También se puede restringir el acceso por interés superior de menores o por disposición legal expresa.",
+    "El juez puede ordenar esta medida incluso de oficio, sin solicitud previa."
+  ]
+  },
+  {
+  "PalabraClave": "Audiencia pública, reapertura, causa de excepción, transparencia",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "65",
+  "Texto": "Una vez desaparecida la causa de excepción prevista en el artículo anterior, se permitirá ingresar nuevamente al público y, el juzgador que presida la audiencia de juicio, informará brevemente sobre el resultado esencial de los actos desarrollados a puerta cerrada.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Cuando cesa la causa que justificó la audiencia a puerta cerrada, se permite nuevamente el ingreso del público.",
+    "El juzgador debe informar de manera breve el resultado esencial de lo ocurrido en privado.",
+    "Se garantiza la transparencia procesal tras una excepción al principio de publicidad."
+  ]
+  },
+  {
+  "PalabraClave": "Intervención, audiencia, defensa, uso de la palabra, orden procesal",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "66",
+  "Texto": "En las audiencias, el imputado podrá defenderse por sí mismo y deberá estar asistido por un licenciado en derecho o abogado titulado que haya elegido o se le haya designado como Defensor.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El Ministerio Público, el imputado o su Defensor, así como la víctima u ofendido y su Asesor jurídico, podrán intervenir y replicar cuantas veces y en el orden que lo autorice el Órgano jurisdiccional."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "El imputado o su Defensor podrán hacer uso de la palabra en último lugar, por lo que el Órgano jurisdiccional que preside la audiencia preguntará siempre al imputado o su Defensor, antes de cerrar el debate o la audiencia misma, si quieren hacer uso de la palabra, concediéndosela en caso afirmativo."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El imputado tiene derecho a defenderse personalmente, pero debe contar con asistencia legal.",
+    "Todas las partes procesales pueden intervenir y replicar durante la audiencia, según el orden autorizado por el juez.",
+    "El imputado o su defensor tienen el derecho de hablar en último lugar antes de cerrar el debate.",
+    "El juez debe preguntar expresamente si desean hacer uso de la palabra antes de concluir la audiencia."
+  ]
+  },
+  {
+  "PalabraClave": "Resoluciones judiciales, sentencias, autos, oralidad, efectos legales",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "67",
+  "Texto": "La autoridad judicial pronunciará sus resoluciones en forma de sentencias y autos. Dictará sentencia para decidir en definitiva y poner término al procedimiento y autos en todos los demás casos. Las resoluciones judiciales deberán mencionar a la autoridad que resuelve, el lugar y la fecha en que se dictaron y demás requisitos que este Código prevea para cada caso. Los autos y resoluciones del Órgano jurisdiccional serán emitidos oralmente y surtirán sus efectos a más tardar al día siguiente. Deberán constar por escrito, después de su emisión oral, los siguientes:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Las que resuelven sobre providencias precautorias;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Las órdenes de aprehensión y comparecencia;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "La de control de la detención;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "La de vinculación a proceso;"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La de medidas cautelares;"
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "La de apertura a juicio;"
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Las que versen sobre sentencias definitivas de los procesos especiales y de juicio;"
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Las de sobreseimiento,"
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Las que autorizan técnicas de investigación con control judicial previo."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Las resoluciones judiciales se clasifican en sentencias (decisión definitiva) y autos (decisiones intermedias).",
+    "Deben contener datos esenciales como autoridad que resuelve, lugar, fecha y requisitos específicos según el caso.",
+    "Se emiten oralmente y surten efectos legales a más tardar al día siguiente.",
+    "Algunas resoluciones deben constar por escrito obligatoriamente, como las órdenes de aprehensión, medidas cautelares y sentencias definitivas.",
+    "Se refuerza el principio de oralidad sin perder la formalidad documental en decisiones clave."
+  ]
+  },
+  {
+  "PalabraClave": "Congruencia, contenido, autos, sentencias, claridad",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "68",
+  "Texto": "Los autos y las sentencias deberán ser congruentes con la petición o acusación formulada y contendrán de manera concisa los antecedentes, los puntos a resolver y que estén debidamente fundados y motivados; deberán ser claros, concisos y evitarán formulismos innecesarios, privilegiando el esclarecimiento de los hechos.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las resoluciones deben guardar congruencia con lo solicitado o acusado.",
+    "Deben incluir antecedentes, puntos a resolver, y estar debidamente fundamentadas.",
+    "Se privilegia la claridad y el entendimiento de los hechos sobre el formalismo excesivo."
+  ]
+  },
+  {
+  "PalabraClave": "Aclaración, resolución judicial, ambigüedad, suspensión de recursos",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "69",
+  "Texto": "En cualquier momento, el Órgano jurisdiccional, de oficio o a petición de parte, podrá aclarar los términos oscuros, ambiguos o contradictorios en que estén emitidas las resoluciones judiciales, siempre que tales aclaraciones no impliquen una modificación o alteración del sentido de la resolución.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "En la misma audiencia, después de dictada la resolución y hasta dentro de los tres días posteriores a la notificación, las partes podrán solicitar su aclaración, la cual, si procede, deberá efectuarse dentro de las veinticuatro horas siguientes. La solicitud suspenderá el término para interponer los recursos que procedan."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El juez puede aclarar resoluciones oscuras o contradictorias, sin cambiar su sentido.",
+    "Las partes pueden solicitar aclaración dentro de los tres días posteriores a la notificación.",
+    "La solicitud suspende el plazo para interponer recursos, y debe resolverse en 24 horas si procede."
+  ]
+  },
+  {
+  "PalabraClave": "Firma, resolución escrita, validez, responsabilidad disciplinaria",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "70",
+  "Texto": "Las resoluciones escritas serán firmadas por los jueces o magistrados. No invalidará la resolución el hecho de que el juzgador no la haya firmado oportunamente, siempre que la falta sea suplida y no exista ninguna duda sobre su participación en el acto que debió suscribir, sin perjuicio de la responsabilidad disciplinaria a que haya lugar.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las resoluciones deben ser firmadas por el juez o magistrado correspondiente.",
+    "La falta de firma no invalida la resolución si se subsana y no hay duda sobre la participación del juzgador.",
+    "Puede haber consecuencias disciplinarias por no firmar oportunamente."
+  ]
+  },
+  {
+  "PalabraClave": "Copia auténtica, sentencia, reposición, medios electrónicos",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "71",
+  "Texto": "Se considera copia auténtica al documento o registro del original de las sentencias, o de otros actos procesales, que haya sido certificado por la autoridad autorizada para tal efecto.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando, por cualquier causa se destruya, se pierda o sea sustraído el original de las sentencias o de otros actos procesales, la copia auténtica tendrá el valor de aquéllos. Para tal fin, el Órgano jurisdiccional ordenará a quien tenga la copia entregarla, sin perjuicio del derecho de obtener otra en forma gratuita cuando así lo solicite. La reposición del original de la sentencia o de otros actos procesales también podrá efectuarse utilizando los archivos informáticos o electrónicos del juzgado."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Cuando la sentencia conste en medios informáticos, electrónicos, magnéticos o producidos por nuevas tecnologías, la autenticación de la autorización del fallo por el Órgano jurisdiccional, se hará constar a través del medio o forma más adecuada, de acuerdo con el propio sistema utilizado."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La copia auténtica certificada tiene el mismo valor que el original.",
+    "Si el original se pierde o destruye, puede ser repuesto mediante copia auténtica o archivos digitales.",
+    "Las sentencias emitidas por medios tecnológicos deben ser autenticadas conforme al sistema utilizado."
+  ]
+  },
+  {
+  "PalabraClave": "Restitución, renovación, actos procesales, prueba de preexistencia",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "72",
+  "Texto": "Si no existe copia de las sentencias o de otros actos procesales el Órgano jurisdiccional ordenará que se repongan, para lo cual recibirá de las partes los datos y medios de prueba que evidencien su preexistencia y su contenido. Cuando esto sea imposible, ordenará la renovación de los mismos, señalando el modo de realizarla.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Si no hay copia de una sentencia o acto procesal, el juez ordenará su reposición con base en pruebas aportadas por las partes.",
+    "Si no puede reponerse, se ordenará su renovación, indicando cómo debe realizarse.",
+    "Se protege la continuidad del proceso ante pérdida documental."
+  ]
+  },
+  {
+  "PalabraClave": "Comunicación entre autoridades, auxilio, autenticidad",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "73",
+  "Texto": "El Órgano jurisdiccional o el Ministerio Público, de manera fundada y motivada, podrán solicitar el auxilio a otra autoridad para la práctica de un acto procedimental. Dicha solicitud podrá realizarse por cualquier medio que garantice su autenticidad. La autoridad requerida colaborará y tramitará sin demora los requerimientos que reciba.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las autoridades pueden solicitar apoyo a otras para realizar actos procesales.",
+    "La solicitud debe estar fundada, motivada y garantizar autenticidad.",
+    "La autoridad requerida debe colaborar sin demora."
+  ]
+  },
+  {
+  "PalabraClave": "Colaboración procesal, autoridades, convenios, legalidad",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "74",
+  "Texto": "Los actos de colaboración entre el Ministerio Público o la Policía con autoridades federales o de alguna Entidad federativa, se sujetarán a lo previsto en la Constitución, en el presente Código, así como a las disposiciones contenidas en otras normas y convenios de colaboración que se hayan emitido o suscrito de conformidad con ésta.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La colaboración entre autoridades debe respetar la Constitución y el Código.",
+    "También se rige por convenios y normas específicas previamente suscritas.",
+    "Se garantiza la legalidad y coordinación interinstitucional."
+  ]
+  },
+  {
+  "PalabraClave": "Exhortos, requisitorias, comunicación interterritorial, jerarquía",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "75",
+  "Texto": "Cuando tengan que practicarse actos procesales fuera del ámbito territorial del Órgano jurisdiccional que conozca del asunto, éste solicitará su cumplimiento por medio de exhorto, si la autoridad requerida es de la misma jerarquía que la requirente, o por medio de requisitoria, si ésta es inferior. La comunicación que deba hacerse a autoridades no judiciales se hará por cualquier medio de comunicación expedito y seguro que garantice su autenticidad, siendo aplicable en lo conducente lo previsto en el artículo siguiente.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Los actos fuera del territorio del juez se solicitan por exhorto o requisitoria según jerarquía.",
+    "La comunicación con autoridades no judiciales debe ser segura y auténtica.",
+    "Se aplican las reglas del artículo siguiente para garantizar eficacia."
+  ]
+  },
+  {
+  "PalabraClave": "Medios de comunicación, autenticidad, seguridad, confirmación",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "76",
+  "Texto": "Para el envío de oficios, exhortos o requisitorias, el Órgano jurisdiccional, el Ministerio Público, o la Policía, podrán emplear cualquier medio de comunicación idóneo y ágil que ofrezca las condiciones razonables de seguridad, de autenticidad y de confirmación posterior en caso de ser necesario, debiendo expresarse, con toda claridad, la actuación que ha de practicarse, el nombre del imputado si fuere posible, el delito de que se trate, el número único de causa, así como el fundamento de la providencia y, en caso necesario, el aviso de que se mandará la información: el oficio de colaboración y el exhorto o requisitoria que ratifique el mensaje. La autoridad requirente deberá cerciorarse de que el requerido recibió la comunicación que se le dirigió y el receptor resolverá lo conducente, acreditando el origen de la petición y la urgencia de su atención.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Se permite el uso de medios ágiles y seguros para enviar comunicaciones procesales.",
+    "Debe incluirse información clara sobre el acto, imputado, delito, causa y fundamento.",
+    "La autoridad que envía debe confirmar la recepción y el receptor debe acreditar origen y urgencia.",
+    "Se refuerza la trazabilidad y eficacia en la comunicación interinstitucional."
+  ]
+  },
+  {
+  "PalabraClave": "Plazo, exhortos, requisitorias, cumplimiento, jurisdicción",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "77",
+  "Texto": "Los exhortos o requisitorias se proveerán dentro de las veinticuatro horas siguientes a su recepción y se despacharán dentro de los tres días siguientes, a no ser que las actuaciones que se hayan de practicar exijan necesariamente mayor tiempo, en cuyo caso, el Juez de control fijará el que crea conveniente y lo notificará al requirente, indicando las razones existentes para la ampliación. Si el Juez de control requerido estima que no es procedente la práctica del acto solicitado, lo hará saber al requirente dentro de las veinticuatro horas siguientes a la recepción de la solicitud, con indicación expresa de las razones que tenga para abstenerse de darle cumplimiento.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Si el Juez de control exhortado o requerido estimare que no debe cumplimentarse el acto solicitado, porque el asunto no resulta ser de su competencia o si tuviere dudas sobre su procedencia, podrá comunicarse con el Órgano jurisdiccional exhortante o requirente, oirá al Ministerio Público y resolverá dentro de los tres días siguientes, promoviendo, en su caso, la competencia respectiva."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Cuando se cumpla una orden de aprehensión, el exhortado o requerido pondrá al detenido, sin dilación alguna, a disposición del Órgano jurisdiccional que libró aquella. Si no fuere posible poner al detenido inmediatamente a disposición del exhortante o requirente, el requerido dará vista al Ministerio Público para que formule la imputación; se decidirá sobre las medidas cautelares que se le soliciten y resolverá su vinculación a proceso, remitirá las actuaciones y, en su caso, al detenido, al Órgano jurisdiccional que haya librado el exhorto dentro de las veinticuatro horas siguientes a la determinación de fondo que adopte. Cuando un Juez de control no pueda dar cumplimiento al exhorto o requisitoria, por hallarse en otra jurisdicción la persona o las cosas que sean objeto de la diligencia, lo remitirá al Juez de control del lugar en que aquélla o éstas se encuentren, y lo hará saber al exhortante o requirente dentro de las veinticuatro horas siguientes. Si el Juez de control que recibe el exhorto o requisitoria del juzgador originalmente exhortado, resuelve desahogarlo, una vez hecho lo devolverá directamente al exhortante."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Los exhortos y requisitorias deben proveerse en 24 horas y despacharse en 3 días, salvo que se requiera más tiempo, lo cual debe justificarse.",
+    "Si el juez requerido considera improcedente el acto, debe comunicarlo en 24 horas con razones claras.",
+    "En caso de duda o falta de competencia, el juez puede consultar al requirente y resolver en 3 días, promoviendo la competencia adecuada.",
+    "Cuando se cumple una orden de aprehensión, el detenido debe ser puesto a disposición del juez que la emitió sin demora.",
+    "Si no es posible la entrega inmediata, se inicia imputación, medidas cautelares y vinculación, y se remite todo en 24 horas tras la resolución.",
+    "Si la persona o cosa está fuera de la jurisdicción, el exhorto se remite al juez competente del lugar correspondiente.",
+    "El juez receptor debe devolver directamente el exhorto una vez cumplido."
+  ]
+  },
+  {
+  "PalabraClave": "Tribunales extranjeros, solicitudes, traducción, trámite internacional",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "78",
+  "Texto": "Las solicitudes que provengan de tribunales extranjeros, deberán ser tramitadas de conformidad con el Título XI del presente Código.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Toda solicitud que se reciba del extranjero en idioma distinto del español deberá acompañarse de su traducción."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las solicitudes de tribunales extranjeros se tramitan conforme al Título XI del Código.",
+    "Si la solicitud está en otro idioma, debe incluir traducción al español.",
+    "Se garantiza la comprensión y legalidad de los actos internacionales."
+  ]
+  },
+  {
+  "PalabraClave": "Exhortos internacionales, homologación, ejecución coactiva, trámite",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "79",
+  "Texto": "Los exhortos internacionales que se reciban sólo requerirán homologación cuando implique ejecución coactiva sobre personas, bienes o derechos. Los exhortos relativos a notificaciones, recepción de pruebas y a otros asuntos de mero trámite se diligenciarán sin formar incidente.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La homologación de exhortos internacionales solo es necesaria si implican ejecución coactiva.",
+    "Los exhortos de mero trámite, como notificaciones o recepción de pruebas, se diligencian directamente.",
+    "Se agiliza la cooperación internacional sin formalismos innecesarios."
+  ]
+  },
+  {
+  "PalabraClave": "Actos procesales, extranjero, exhortos, vía diplomática",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "80",
+  "Texto": "Los exhortos que se remitan al extranjero serán comunicaciones oficiales escritas que contendrán la petición de realización de las actuaciones necesarias en el procedimiento en que se expidan. Dichas comunicaciones contendrán los datos e información necesaria, las constancias y demás anexos procedentes según sea el caso.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Los exhortos serán transmitidos al Órgano jurisdiccional requerido a través de los funcionarios consulares o agentes diplomáticos, o por la autoridad competente del Estado requirente o requerido según sea el caso."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Los exhortos enviados al extranjero deben ser comunicaciones oficiales con todos los datos y anexos necesarios.",
+    "Se transmiten por vía diplomática o mediante autoridades competentes del Estado correspondiente.",
+    "Se garantiza la formalidad y eficacia en la cooperación internacional."
+  ]
+  },
+  {
+  "PalabraClave": "Demora, rechazo, requerimientos, autoridad superior, tramitación",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "81",
+  "Texto": "Cuando la cumplimentación de un requerimiento de cualquier naturaleza fuere demorada o rechazada injustificadamente, la autoridad requirente podrá dirigirse al superior jerárquico de la autoridad que deba cumplimentar dicho requerimiento a fin de que, de considerarlo procedente, ordene o gestione su tramitación inmediata.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Si un requerimiento es demorado o rechazado sin justificación, puede elevarse al superior jerárquico.",
+    "El superior puede ordenar o gestionar su cumplimiento inmediato.",
+    "Se establece un mecanismo para evitar obstrucciones procesales injustificadas."
+  ]
+  },
+  {
+  "PalabraClave": "Notificaciones, formas",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "82",
+  "Texto": "Las notificaciones se practicarán personalmente, por lista, estrado o boletín judicial según corresponda y por edictos.",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Personalmente podrán ser:",
+      "Incisos": [
+        {
+          "Inciso": "a",
+          "Texto": "En Audiencia"
+        },
+        {
+          "Inciso": "b",
+          "Texto": "Por alguno de los medios tecnológicos señalados por el interesado o su representante legal"
+        },
+        {
+          "Inciso": "c",
+          "Texto": "En las instalaciones del Órgano jurisdiccional"
+        },
+        {
+          "Inciso": "d",
+          "Texto": "En el domicilio que éste establezca para tal efecto"
+        }
+      ]
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Lista, Estrado o Boletín Judicial según corresponda"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Por edictos, cuando se desconozca la identidad o domicilio del interesado, en cuyo caso se publicará por una sola ocasión en el medio de publicación oficial de la Federación o de las Entidades federativas y en un periódico de circulación nacional, los cuales deberán contener un resumen de la resolución que deba notificarse"
+    }
+  ],
+  "NotasOrientadoras": [
+    "Las notificaciones pueden realizarse de forma personal, por medios públicos o por edictos.",
+    "La notificación personal incluye audiencia, medios tecnológicos, instalaciones judiciales o domicilio señalado.",
+    "Lista, estrado o boletín judicial se usan según el procedimiento aplicable.",
+    "Los edictos se emplean cuando se desconoce la identidad o domicilio del interesado, y deben publicarse oficialmente y en un periódico nacional con resumen de la resolución."
+  ]
+  },
+  {
+  "PalabraClave": "Medios de notificación, fax, correo electrónico, teléfono, constancia",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "83",
+  "Texto": "Los actos que requieran una intervención de las partes se podrán notificar mediante fax y correo electrónico, debiendo imprimirse copia de envío y recibido, y agregarse al registro, o bien se guardará en el sistema electrónico existente para tal efecto; asimismo, podrá notificarse a las partes por teléfono o cualquier otro medio, de conformidad con las disposiciones previstas en las leyes orgánicas o, en su caso, los acuerdos emitidos por los órganos competentes, debiendo dejarse constancia de ello.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Se permite el uso de medios tecnológicos para notificar actos procesales.",
+    "Debe dejarse constancia del envío y recepción, ya sea impresa o en sistema electrónico.",
+    "La notificación puede hacerse por teléfono u otros medios, según lo autoricen las leyes o acuerdos aplicables."
+  ]
+  },
+  {
+  "PalabraClave": "Regla general, notificación personal, audiencia, discapacidad",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "84",
+  "Texto": "Las resoluciones deberán notificarse personalmente a quien corresponda, dentro de las veinticuatro horas siguientes a que se hayan dictado. Se tendrán por notificadas las personas que se presenten a la audiencia donde se dicte la resolución o se desahoguen las respectivas diligencias.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando la notificación deba hacerse a una persona con discapacidad o cualquier otra circunstancia que le impida comprender el alcance de la notificación, deberá realizarse en los términos establecidos en el presente Código."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las resoluciones deben notificarse personalmente en un plazo de 24 horas.",
+    "Quienes asistan a la audiencia se consideran notificados automáticamente.",
+    "Se prevé un trato adecuado para personas con discapacidad o condiciones que dificulten la comprensión de la notificación."
+  ]
+  },
+  {
+  "PalabraClave": "Lugar de notificación, domicilio, jurisdicción, medios tecnológicos",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "85",
+  "Texto": "Al comparecer en el procedimiento, las partes deberán señalar domicilio dentro del lugar en donde éste se sustancie y en su caso, manifestarse sobre la forma más conveniente para ser notificados conforme a los medios establecidos en este Código.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El Ministerio Público, Defensor y Asesor jurídico, cuando éstos últimos sean públicos, serán notificados en sus respectivas oficinas, siempre que éstas se encuentren dentro de la jurisdicción del Órgano jurisdiccional que ordene la notificación, salvo que hayan presentado solicitud de ser notificadas por fax, por correo electrónico, por teléfono o por cualquier otro medio. En caso de que las oficinas se encuentren fuera de la jurisdicción, deberán señalar domicilio dentro de dicha jurisdicción."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las partes deben señalar domicilio dentro del lugar donde se lleva el procedimiento.",
+    "Pueden elegir el medio más conveniente para recibir notificaciones.",
+    "El Ministerio Público, Defensor y Asesor jurídico serán notificados en sus oficinas si están dentro de la jurisdicción, o deberán señalar domicilio dentro de ella si están fuera."
+  ]
+  },
+  {
+  "PalabraClave": "Notificación, defensor particular, asesor jurídico, imputado, víctima",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "86",
+  "Texto": "Cuando se designe Defensor o Asesor jurídico y éstos sean particulares, las notificaciones deberán ser dirigidas a éstos, sin perjuicio de notificar al imputado y a la víctima u ofendido, según sea el caso, cuando la ley o la naturaleza del acto así lo exijan.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las notificaciones deben dirigirse al defensor o asesor jurídico particular.",
+    "También se debe notificar al imputado o víctima si la ley o el acto lo requieren.",
+    "Se garantiza que todas las partes relevantes estén informadas."
+  ]
+  },
+  {
+  "PalabraClave": "Medios electrónicos, correo certificado, sistemas autorizados, efectos legales",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "87",
+  "Texto": "La notificación realizada por medios electrónicos surtirá efecto el mismo día a aquel en que por sistema se confirme que recibió el archivo electrónico correspondiente.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Asimismo, podrá notificarse mediante otros sistemas autorizados en la ley de la materia, siempre que no causen indefensión. También podrá notificarse por correo certificado y el plazo correrá a partir del día siguiente hábil en que fue recibida la notificación."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las notificaciones electrónicas surten efecto el mismo día en que se confirma su recepción.",
+    "Se permiten otros sistemas autorizados, siempre que no generen indefensión.",
+    "El correo certificado también es válido, y el plazo inicia al día siguiente hábil de su recepción."
+  ]
+  },
+  {
+  "PalabraClave": "Nulidad, notificación, indefensión, formalidades",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "88",
+  "Texto": "La notificación podrá ser nula cuando cause indefensión y no se cumplan las formalidades previstas en el presente Código.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Una notificación puede ser declarada nula si causa indefensión.",
+    "También será nula si no cumple con las formalidades establecidas en el Código.",
+    "Se protege el derecho de defensa y debido proceso."
+  ]
+  },
+  {
+  "PalabraClave": "Validez, conocimiento,notificación informal",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "89",
+  "Texto": "Si a pesar de no haberse hecho la notificación en la forma prevista en este ordenamiento, la persona que deba ser notificada se muestra sabedora de la misma, ésta surtirá efectos legales.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La notificación será válida si la persona demuestra conocimiento del acto, aunque no se haya realizado conforme a la forma prevista.",
+    "Se reconoce el principio de eficacia sobre la forma.",
+    "Evita nulidades innecesarias cuando no hay indefensión."
+  ]
+  },
+  {
+  "PalabraClave": "Citación, comparecencia, servidores públicos, excepción, medios tecnológicos",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "90",
+  "Texto": "Toda persona está obligada a presentarse ante el Órgano jurisdiccional o ante el Ministerio Público, cuando sea citada. Quedan exceptuados de esa obligación el Presidente de la República y los servidores públicos a que se refieren los párrafos primero y quinto del artículo 111 de la Constitución, el Consejero Jurídico del Ejecutivo, los magistrados y jueces y las personas imposibilitadas físicamente ya sea por su edad, por enfermedad grave o alguna otra que dificulte su comparecencia.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando haya que examinar a los servidores públicos o a las personas señaladas en el párrafo anterior, el Órgano jurisdiccional dispondrá que dicho testimonio sea desahogado en el juicio por sistemas de reproducción a distancia de imágenes y sonidos o cualquier otro medio que permita su trasmisión, en sesión privada."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "La citación a quien desempeñe un empleo, cargo o comisión en el servicio público, distintos a los señalados en este artículo, se hará por conducto del superior jerárquico respectivo, a menos que para garantizar el éxito de la comparecencia se requiera que la citación se realice en forma distinta."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "En el caso de cualquier persona que se haya desempeñado como servidor público y no sea posible su localización, el Órgano jurisdiccional solicitará a la institución donde haya prestado sus servicios la información del domicilio, número telefónico, y en su caso, los datos necesarios para su localización, a efecto de que comparezca a la audiencia respectiva."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Toda persona está obligada a comparecer cuando sea citada por autoridad judicial o ministerial.",
+    "Existen excepciones para altos funcionarios y personas con impedimentos físicos.",
+    "El testimonio de personas exceptuadas puede realizarse por medios tecnológicos en sesión privada.",
+    "La citación a servidores públicos se realiza por medio de su superior jerárquico, salvo que se requiera otra forma.",
+    "Si no se localiza a un ex servidor público, se solicitará a su institución datos para su ubicación."
+  ]
+  },
+  {
+  "PalabraClave": "Citación, forma, medios,requisitos",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "91",
+  "Texto": "Cuando sea necesaria la presencia de una persona para la realización de un acto procesal, la autoridad que conoce del asunto deberá ordenar su citación mediante oficio, correo certificado o telegrama con aviso de entrega en el domicilio proporcionado, cuando menos con cuarenta y ocho horas de anticipación a la celebración del acto. La citación deberá contener:",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "También podrá citarse por teléfono al testigo o perito que haya manifestado expresamente su voluntad para que se le cite por este medio, siempre que haya proporcionado su número, sin perjuicio de que si no es posible realizar tal citación, se pueda realizar por alguno de los otros medios señalados en este Capítulo."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "En caso de que las partes ofrezcan como prueba a un testigo o perito, deberán presentarlo el día y hora señalados, salvo que soliciten al Órgano jurisdiccional que por su conducto sea citado en virtud de que se encuentran imposibilitados para su comparecencia debido a la naturaleza de las circunstancias.\nEn caso de que las partes, estando obligadas a presentar a sus testigos o peritos, no cumplan con dicha comparecencia, se les tendrá por desistidos de la prueba, a menos que justifiquen la imposibilidad que se tuvo para presentarlos, dentro de las veinticuatro horas siguientes a la fecha fijada para la comparecencia de sus testigos o peritos."
+    }
+  ],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "La autoridad y el domicilio ante la que deberá presentarse"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El día y hora en que debe comparecer"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "El objeto de la misma"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "El procedimiento del que se deriva"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La firma de la autoridad que la ordena"
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "El apercibimiento de la imposición de un medio de apremio en caso de incumplimiento"
+    }
+  ],
+  "NotasOrientadoras": [
+    "La citación debe realizarse con al menos 48 horas de anticipación mediante oficio, correo certificado o telegrama.",
+    "Puede usarse el teléfono si el testigo o perito lo autoriza expresamente.",
+    "Las partes deben presentar a sus testigos o peritos, o justificar su ausencia en 24 horas si no comparecen.",
+    "La citación debe incluir datos esenciales como autoridad, fecha, objeto, procedimiento, firma y apercibimiento."
+  ]
+  },
+  {
+  "PalabraClave": "Citación al imputado, defensor, requisitos, contacto",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "92",
+  "Texto": "Siempre que sea requerida la presencia del imputado para realizar un acto procesal por el Órgano jurisdiccional, según corresponda, lo citará junto con su Defensor a comparecer.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "La citación deberá contener, además de los requisitos señalados en el artículo anterior, el domicilio, el número telefónico y en su caso, los datos necesarios para comunicarse con la autoridad que ordene la citación."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El imputado debe ser citado junto con su defensor para actos procesales.",
+    "La citación debe incluir datos de contacto adicionales para facilitar la comunicación con la autoridad."
+  ]
+  },
+  {
+  "PalabraClave": "Actuaciones, Ministerio Público, comunicación, medios",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "93",
+  "Texto": "Cuando en el curso de una investigación el Ministerio Público deba comunicar alguna actuación a una persona, podrá hacerlo por cualquier medio que garantice la recepción del mensaje. Serán aplicables, en lo que corresponda, las disposiciones de este Código.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El Ministerio Público puede comunicar actuaciones por cualquier medio que garantice la recepción.",
+    "Se aplican las disposiciones del Código según corresponda.",
+    "Se promueve la eficiencia y flexibilidad en la comunicación procesal."
+  ]
+  },
+  {
+  "PalabraClave": "Reglas generales, plazos, días hábiles, actos urgentes",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "94",
+  "Texto": "Los actos procedimentales serán cumplidos en los plazos establecidos, en los términos que este Código autorice.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Los plazos sujetos al arbitrio judicial serán determinados conforme a la naturaleza del procedimiento y a la importancia de la actividad que se deba de desarrollar, teniendo en cuenta los derechos de las partes."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "No se computarán los días sábados, los domingos ni los días que sean determinados inhábiles por los ordenamientos legales aplicables, salvo que se trate de los actos relativos a providencias precautorias, puesta del imputado a disposición del Órgano jurisdiccional, resolver la legalidad de la detención, formulación de la imputación, resolver sobre la procedencia de las medidas cautelares en su caso y decidir sobre la procedencia de su vinculación a proceso, para tal efecto todos los días se computarán como hábiles."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Los actos procesales deben cumplirse en los plazos autorizados por el Código.",
+    "Los plazos judiciales se fijan según la naturaleza e importancia del procedimiento, respetando los derechos de las partes.",
+    "Sábados, domingos y días inhábiles no se computan, excepto en actos urgentes como detención, medidas cautelares y vinculación a proceso."
+  ]
+  },
+  {
+  "PalabraClave": "Renuncia, abreviación, plazo, consentimiento",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "95",
+  "Texto": "Las partes en cuyo favor se haya establecido un plazo podrán renunciar a él o consentir su abreviación mediante manifestación expresa. En caso de que el plazo sea común para las partes, para proceder en los mismos términos, todos los interesados deberán expresar su voluntad en el mismo sentido.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Las partes pueden renunciar o abreviar un plazo si lo hacen expresamente.",
+    "Si el plazo es común, todos los interesados deben manifestarse en el mismo sentido.",
+    "Se reconoce la autonomía procesal de las partes."
+  ]
+  },
+  {
+  "PalabraClave": "Reposición, plazo, causa justificada, solicitud fundada",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "96",
+  "Texto": "La parte que no haya podido observar un plazo por causa no atribuible a él, podrá solicitar de manera fundada y motivada su reposición total o parcial, con el fin de realizar el acto omitido o ejercer la facultad concedida por la ley, dentro de las veinticuatro horas siguientes a aquel en que el perjudicado tenga conocimiento fehaciente del acto cuya reposición del plazo se pretenda. El Órgano jurisdiccional podrá ordenar la reposición una vez que haya escuchado a las partes.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Se permite solicitar la reposición de un plazo si no se cumplió por causa ajena a la parte.",
+    "La solicitud debe ser fundada y presentada dentro de 24 horas desde el conocimiento del acto.",
+    "El juez decide tras escuchar a las partes involucradas."
+  ]
+  },
+  {
+  "PalabraClave": "Nulidad, derechos humanos, acto inválido, declaración de oficio",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "97",
+  "Texto": "Cualquier acto realizado con violación de derechos humanos será nulo y no podrá ser saneado, ni convalidado y su nulidad deberá ser declarada de oficio por el Órgano jurisdiccional al momento de advertirla o a petición de parte en cualquier momento.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Los actos que violen derechos humanos son nulos de pleno derecho.",
+    "No pueden ser saneados ni convalidados.",
+    "El juez debe declarar la nulidad de oficio o a petición de parte en cualquier momento."
+  ]
+  },
+  {
+  "PalabraClave": "Nulidad, formalidades, solicitud escrita, audiencia",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "98",
+  "Texto": "La solicitud de declaración de nulidad deberá estar fundada y motivada y presentarse por escrito dentro de los dos días siguientes a aquel en que el perjudicado tenga conocimiento fehaciente del acto cuya invalidación se pretenda. Si el vicio se produjo en una actuación realizada en audiencia y el afectado estuvo presente, deberá presentarse verbalmente antes del término de la misma audiencia.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La nulidad por violación de formalidades debe solicitarse por escrito dentro de dos días desde el conocimiento del acto.",
+    "Si el vicio ocurrió en audiencia y el afectado estuvo presente, debe solicitarse verbalmente antes de que termine la audiencia.",
+    "Se exige que la solicitud esté debidamente fundada y motivada."
+  ]
+  },
+  {
+  "PalabraClave": "Saneamiento, defecto formal, corrección, plazo, garantías",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "99",
+  "Texto": "Los actos ejecutados con inobservancia de las formalidades previstas en este Código podrán ser saneados, reponiendo el acto, rectificando el error o realizando el acto omitido a petición del interesado.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "La autoridad judicial que constate un defecto formal saneable en cualquiera de sus actuaciones, lo comunicará al interesado y le otorgará un plazo para corregirlo, el cual no será mayor de tres días. Si el acto no quedare saneado en dicho plazo, el Órgano jurisdiccional resolverá lo conducente."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "La autoridad judicial podrá corregir en cualquier momento de oficio, o a petición de parte, los errores puramente formales contenidos en sus actuaciones o resoluciones, respetando siempre los derechos y garantías de los intervinientes."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Los actos con errores formales pueden ser saneados mediante reposición, corrección o realización del acto omitido.",
+    "El juez debe comunicar el defecto al interesado y otorgar un plazo de hasta tres días para corregirlo.",
+    "Los errores puramente formales pueden corregirse de oficio o a petición, siempre respetando los derechos de las partes."
+  ]
+  },
+  {
+  "PalabraClave": "Convalidación, formalidades, aceptación, saneamiento, plazo",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "100",
+  "Texto": "Los actos ejecutados con inobservancia de las formalidades previstas en este Código que afectan al Ministerio Público, la víctima u ofendido o el imputado, quedarán convalidados cuando:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Las partes hayan aceptado, expresa o tácitamente, los efectos del acto"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Ninguna de las partes hayan solicitado su saneamiento en los términos previstos en este Código"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Dentro de las veinticuatro horas siguientes de haberse realizado el acto, la parte que no hubiere estado presente o participado en él no solicita su saneamiento. En caso de que por las especiales circunstancias del caso no hubiera sido posible advertir en forma oportuna el defecto en la realización del acto procesal, el interesado deberá solicitar en forma justificada el saneamiento del acto, dentro de las veinticuatro horas siguientes a que haya tenido conocimiento del mismo."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Los actos con defectos formales pueden quedar convalidados si las partes aceptan sus efectos.",
+    "También se convalidan si ninguna parte solicita el saneamiento conforme al Código.",
+    "Si una parte no estuvo presente y no solicita saneamiento en 24 horas, el acto se convalida, salvo que justifique que no pudo advertir el defecto oportunamente.",
+    "Convalidación: La convalidación en el derecho penal se refiere a la acción y efecto de regularizar o rectificar un acto jurídico que, aunque inicialmente válido, presenta defectos que pueden ser subsanados."
+  ]
+  },
+  {
+  "PalabraClave": "nulidad procesal, ¿que es la nulidad procesal?",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "101",
+  "Texto": "Cuando sea imposible sanear o convalidar un acto, el órgano jurisdiccional, a petición de parte y de forma fundada y motivada, deberá declarar su nulidad, señalando los efectos y los actos relacionados que también queden anulados. El Tribunal de enjuiciamiento no podrá declarar la nulidad de actos realizados en etapas previas al juicio, salvo excepciones previstas en este Código. Para decretar la nulidad y ordenar su reposición, no basta la simple infracción de la norma, sino que se requiere:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Que se haya ocasionado una afectación real a alguna de las partes."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Que la reposición sea esencial para garantizar los derechos o intereses del sujeto afectado."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula la nulidad de actos procesales en el procedimiento penal cuando no pueden ser saneados.",
+    "Exige que la nulidad sea solicitada por parte interesada y que se funde y motive adecuadamente.",
+    "Establece criterios sustanciales: afectación real y necesidad de reposición para proteger derechos.",
+    "Limita al Tribunal de enjuiciamiento respecto a actos previos al juicio, salvo excepciones legales.",
+    "**Principio rector: Protección efectiva de derechos procesales mediante nulidad fundada, proporcional y garantista.**"
+  ]
+  },
+  {
+  "PalabraClave": "solicitud de nulidad procesal",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "102",
+  "Texto": "Sólo podrá solicitar la declaración de nulidad el interviniente perjudicado por un vicio en el procedimiento, siempre que no hubiere contribuido a causarlo.",
+  "NotasOrientadoras": [
+    "Este artículo delimita quién está legitimado para solicitar la nulidad de un acto procesal.",
+    "La nulidad procesal sólo puede ser promovida por quien resulte afectado directamente y no haya generado el vicio.",
+    "La legitimación activa es una condición esencial para que la nulidad sea procedente.",
+    "La nulidad procesal es la invalidez jurídica de un acto dentro del proceso penal, cuando dicho acto vulnera derechos fundamentales o rompe con las garantías del debido proceso.",
+    "**Principio rector: Protección del debido proceso mediante nulidad fundada y promovida por parte legítima.**"
+  ]
+  },
+  {
+  "PalabraClave": "prueba pericial",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "103",
+  "Texto": "Tratándose de la prueba pericial, el órgano jurisdiccional ordenará, a petición de parte, la designación de peritos de instituciones públicas, las cuales estarán obligadas a practicar el peritaje correspondiente, siempre que no exista impedimento material para ello.",
+  "NotasOrientadoras": [
+    "Este artículo regula la producción de prueba pericial en el proceso penal.",
+    "Establece que los peritos públicos deben intervenir cuando sean requeridos por el órgano jurisdiccional.",
+    "La obligación está condicionada a que no exista impedimento material para realizar el peritaje.",
+    "La prueba pericial es aquella que requiere conocimientos técnicos o científicos para esclarecer hechos relevantes en el proceso.",
+    "**Principio rector: Acceso equitativo a la prueba técnica mediante peritos institucionales en condiciones materiales viables.**"
+  ]
+  },
+  {
+  "PalabraClave": "medios de apremio",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "104",
+  "Texto": "El órgano jurisdiccional y el Ministerio Público podrán disponer de los siguientes medios de apremio para el cumplimiento de los actos que ordenen en el ejercicio de sus funciones:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El Ministerio Público contará con las siguientes medidas de apremio:",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "Amonestación." },
+        { "Inciso": "b", "Texto": "Multa de veinte a mil días de salario mínimo vigente. En el caso de jornaleros, obreros y trabajadores que perciban salario mínimo, la multa no excederá de un día de salario; para trabajadores no asalariados, no excederá de un día de ingreso." },
+        { "Inciso": "c", "Texto": "Auxilio de la fuerza pública." },
+        { "Inciso": "d", "Texto": "Arresto hasta por treinta y seis horas." }
+      ]
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El órgano jurisdiccional contará con las siguientes medidas de apremio:",
+      "Incisos": [
+        { "Inciso": "a", "Texto": "Amonestación." },
+        { "Inciso": "b", "Texto": "Multa de veinte a cinco mil días de salario mínimo vigente. En el caso de jornaleros, obreros y trabajadores que perciban salario mínimo, la multa no excederá de un día de salario; para trabajadores no asalariados, no excederá de un día de ingreso." },
+        { "Inciso": "c", "Texto": "Auxilio de la fuerza pública." },
+        { "Inciso": "d", "Texto": "Arresto hasta por treinta y seis horas." }
+      ]
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece los medios coercitivos que pueden aplicar el Ministerio Público y el órgano jurisdiccional para asegurar el cumplimiento de sus órdenes.",
+    "Los medios de apremio incluyen amonestación, multa, auxilio de la fuerza pública y arresto.",
+    "Las multas se ajustan proporcionalmente según el tipo de trabajador, protegiendo a quienes perciben ingresos mínimos.",
+    "Los medios de apremio son mecanismos legales para garantizar la eficacia procesal sin vulnerar derechos fundamentales.",
+    "**Principio rector: Ejecución legítima y proporcional de actos procesales mediante medios de apremio regulados.**"
+  ]
+  },
+  {
+  "PalabraClave": "sujetos procesales",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "105",
+  "Texto": "Son sujetos del procedimiento penal los siguientes:",
+  "Fracciones": [
+    { "Fracción": "I", "Texto": "La víctima u ofendido." },
+    { "Fracción": "II", "Texto": "El Asesor jurídico." },
+    { "Fracción": "III", "Texto": "El imputado." },
+    { "Fracción": "IV", "Texto": "El Defensor." },
+    { "Fracción": "V", "Texto": "El Ministerio Público." },
+    { "Fracción": "VI", "Texto": "La Policía." },
+    { "Fracción": "VII", "Texto": "El Órgano jurisdiccional." },
+    { "Fracción": "VIII", "Texto": "La autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso." }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo enumera los sujetos que intervienen formalmente en el procedimiento penal.",
+    "Cada sujeto cumple funciones específicas que garantizan el equilibrio procesal y la protección de derechos.",
+    "El imputado es la persona a quien se atribuye la comisión de un delito; el defensor es quien lo representa legalmente.",
+    "La víctima u ofendido es quien ha sufrido el daño derivado del hecho delictivo.",
+    "**Principio rector: Identificación clara y funcional de los actores procesales para garantizar un juicio justo.**"
+  ]
+  },
+  {
+  "PalabraClave": "reserva de identidad, confidencialidad",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "106",
+  "Texto": "En ningún caso se podrá hacer referencia o comunicar a terceros no legitimados la información confidencial relativa a los datos personales de los sujetos del procedimiento penal o de cualquier persona relacionada o mencionada en éste.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Toda violación al deber de reserva por parte de los servidores públicos será sancionada por la legislación aplicable."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece el deber de confidencialidad sobre la identidad y datos personales de los sujetos procesales.",
+    "La reserva de identidad protege la privacidad y seguridad de las personas involucradas en el proceso penal.",
+    "Los servidores públicos que incumplan este deber pueden ser sancionados conforme a la legislación correspondiente.",
+    "La confidencialidad es clave para evitar revictimización, represalias o exposición indebida.",
+    "**Principio rector: Protección de la privacidad y dignidad de los sujetos procesales mediante reserva legal.**"
+  ]
+  },
+  {
+  "PalabraClave": "probidad procesal, conducta ética",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "107",
+  "Texto": "Los sujetos del procedimiento que intervengan en calidad de parte deberán conducirse con probidad, evitando los planteamientos dilatorios de carácter formal o cualquier abuso en el ejercicio de las facultades o derechos que este Código les concede.",
+  "NotasOrientadoras": [
+    "Este artículo impone un deber de conducta ética a las partes que intervienen en el procedimiento penal.",
+    "La probidad procesal implica actuar con honestidad, buena fe y respeto al proceso.",
+    "Se prohíben maniobras dilatorias o abusos que obstaculicen el desarrollo del juicio.",
+    "La probidad es esencial para preservar la integridad del sistema acusatorio.",
+    "**Principio rector: Ética procesal como base de un procedimiento penal justo, eficiente y respetuoso de los derechos.**"
+  ]
+  },
+  {
+  "PalabraClave": "víctima, ofendido",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "108",
+  "Texto": "Para los efectos de este Código, se considera víctima del delito al sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva. Asimismo, se considerará ofendido a la persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista en la ley penal como delito.",
+  "NotasOrientadoras": [
+    "Este artículo define jurídicamente quién es considerado víctima y quién es considerado ofendido en el proceso penal.",
+    "La víctima es quien sufre directamente el daño físico, psicológico o moral causado por el delito.",
+    "El ofendido es el titular del bien jurídico afectado, aunque no necesariamente haya sufrido el daño en forma directa.",
+    "Ambos tienen derechos procesales reconocidos en el CNPP y pueden intervenir en el procedimiento.",
+    "**Principio rector: Reconocimiento dual de afectación directa e indirecta para garantizar protección integral en el proceso penal.**"
+  ]
+  },
+  {
+  "PalabraClave": "derechos de la víctima",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "109",
+  "Texto": "En los procedimientos previstos en este Código, la víctima u ofendido tendrán los siguientes derechos:",
+  "Fracciones": [
+    { "Fracción": "I", "Texto": "A ser informado de los derechos que en su favor le reconoce la Constitución." },
+    { "Fracción": "II", "Texto": "A que el Ministerio Público y el Órgano jurisdiccional les faciliten el acceso a la justicia y les presten servicios con legalidad, honradez, imparcialidad, profesionalismo, eficiencia, perspectiva de género y debida diligencia." },
+    { "Fracción": "III", "Texto": "A contar con información sobre sus derechos, recibir atención médica y psicológica de urgencia, y asistencia jurídica por un Asesor jurídico." },
+    { "Fracción": "IV", "Texto": "A comunicarse inmediatamente con un familiar o su Asesor jurídico tras la comisión del delito." },
+    { "Fracción": "V", "Texto": "A ser informado del desarrollo del procedimiento penal por su Asesor jurídico, el Ministerio Público o el Juez." },
+    { "Fracción": "VI", "Texto": "A ser tratado con respeto y dignidad." },
+    { "Fracción": "VII", "Texto": "A contar con un Asesor jurídico gratuito en cualquier etapa del procedimiento." },
+    { "Fracción": "VIII", "Texto": "A recibir trato sin discriminación y protección de sus derechos sin distinción alguna." },
+    { "Fracción": "IX", "Texto": "A acceder a la justicia de manera pronta, gratuita e imparcial." },
+    { "Fracción": "X", "Texto": "A participar en mecanismos alternativos de solución de controversias." },
+    { "Fracción": "XI", "Texto": "A recibir asistencia gratuita de intérprete o traductor si pertenece a un grupo indígena o no comprende el idioma español." },
+    { "Fracción": "XII", "Texto": "A que se realicen ajustes al procedimiento si tiene alguna discapacidad." },
+    { "Fracción": "XIII", "Texto": "A recibir asistencia migratoria si tiene otra nacionalidad." },
+    { "Fracción": "XIV", "Texto": "A presentar pruebas, intervenir en el juicio e interponer recursos." },
+    { "Fracción": "XV", "Texto": "A intervenir en todo el procedimiento por sí o a través de su Asesor jurídico." },
+    { "Fracción": "XVI", "Texto": "A recibir protección si existe riesgo para su vida o integridad." },
+    { "Fracción": "XVII", "Texto": "A solicitar actos de investigación, salvo negativa fundada del Ministerio Público." },
+    { "Fracción": "XVIII", "Texto": "A recibir atención médica y psicológica o ser canalizado a instituciones que lo proporcionen." },
+    { "Fracción": "XIX", "Texto": "A solicitar medidas de protección, providencias precautorias y medidas cautelares." },
+    { "Fracción": "XX", "Texto": "A solicitar traslado de la autoridad si no puede comparecer por edad, enfermedad o impedimento físico o psicológico." },
+    { "Fracción": "XXI", "Texto": "A impugnar omisiones o negligencias del Ministerio Público." },
+    { "Fracción": "XXII", "Texto": "A tener acceso a los registros de investigación y obtener copia gratuita, salvo reserva judicial." },
+    { "Fracción": "XXIII", "Texto": "A ser restituido en sus derechos cuando estén acreditados." },
+    { "Fracción": "XXIV", "Texto": "A que se le garantice la reparación del daño durante el procedimiento." },
+    { "Fracción": "XXV", "Texto": "A solicitar directamente la reparación del daño al Órgano jurisdiccional." },
+    { "Fracción": "XXVI", "Texto": "Al resguardo de su identidad y datos personales en casos sensibles o cuando sean menores de edad." },
+    { "Fracción": "XXVII", "Texto": "A ser notificado del desistimiento de la acción penal y de resoluciones que finalicen el procedimiento." },
+    { "Fracción": "XXVIII", "Texto": "A solicitar la reapertura del proceso si fue suspendido." },
+    { "Fracción": "XXIX", "Texto": "A ejercer los demás derechos que establezcan este Código y otras leyes aplicables." }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo consagra un catálogo amplio de derechos para la víctima u ofendido en el proceso penal.",
+    "Incluye derechos de información, intervención, protección, asistencia jurídica, médica, psicológica y migratoria.",
+    "Reconoce el derecho a la reparación del daño, a la no discriminación y al acceso a mecanismos alternativos.",
+    "La víctima es el sujeto pasivo que sufre directamente el daño; el ofendido es el titular del bien jurídico afectado.",
+    "**Principio rector: Garantía integral de protección, participación y reparación para la víctima u ofendido en el proceso penal.**"
+  ]
+  },
+  {
+  "PalabraClave": "Designacion de asesor juridico",
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "110",
+  "Texto": "En cualquier etapa del procedimiento, las víctimas u ofendidos podrán designar a un Asesor jurídico, el cual deberá ser licenciado en derecho o abogado titulado, quien deberá acreditar su profesión desde el inicio de su intervención mediante cédula profesional. Si la víctima u ofendido no puede designar uno particular, tendrá derecho a uno de oficio.",
+  "NotasOrientadoras": [
+    "Este artículo garantiza el derecho de la víctima u ofendido a contar con representación jurídica especializada durante todo el procedimiento penal.",
+    "El asesor jurídico debe ser abogado titulado y acreditar su profesión mediante cédula profesional.",
+    "Si la víctima no puede contratar uno particular, el Estado debe proporcionarle uno de oficio sin costo.",
+    "El asesor jurídico es quien representa legalmente a la víctima u ofendido, asegurando la defensa de sus derechos en el proceso penal.",
+    "**Principio rector: Acceso universal a la representación jurídica para proteger los derechos de la víctima u ofendido.**"
+  ]
+  },
+  {
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "111",
+  "PalabraClave": "restablecimiento bienes",
+  "Texto": "En cualquier estado del procedimiento, la víctima u ofendido podrá solicitar al Órgano jurisdiccional, ordene como medida provisional, cuando la naturaleza del hecho lo permita, la restitución de sus bienes, objetos, instrumentos o productos del delito, o la reposición o restablecimiento de las cosas al estado que tenían antes del hecho, siempre que haya suficientes elementos para decidirlo.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Solicitud de la víctima u ofendido al Órgano jurisdiccional para ordenar la restitución o restablecimiento, sujeta a la evaluación de suficientes elementos probatorios.",
+  "NotasOrientadoras": [
+    "Permite a la víctima u ofendido solicitar la restitución de bienes o restablecimiento del estado previo en cualquier etapa del procedimiento.",
+    "La medida es provisional y depende de la naturaleza del hecho delictivo.",
+    "Requiere suficientes elementos probatorios para que el Órgano jurisdiccional apruebe la solicitud.",
+    "Abarca bienes, objetos, instrumentos o productos relacionados con el delito."
+  ]
+  },
+  {
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "112",
+  "PalabraClave": "Denominacion generica al imputado",
+  "Texto": "Se denominará genéricamente imputado a quien sea señalado por el Ministerio Público como posible autor o partícipe de un hecho que la ley señale como delito.",
+  "Párrafos": [
+    {
+      "Párrafo": "Segundo",
+      "Texto": "Además, se denominará acusado a la persona contra quien se ha formulado acusación y sentenciado a aquel sobre quien ha recaído una sentencia aunque no haya sido declarada firme."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "Define el término 'imputado' como la persona señalada por el Ministerio Público como posible autor o partícipe de un delito.",
+    "Establece 'acusado' como la persona contra quien se ha formulado una acusación formal.",
+    "Define 'sentenciado' como la persona que ha recibido una sentencia, aunque no sea firme.",
+    "Proporciona claridad en las denominaciones usadas en el procedimiento penal para distintas etapas."
+  ]
+  },
+  {
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "113",
+  "PalabraClave": "derechos del imputado",
+  "Texto": "El imputado tendrá los siguientes derechos:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "A ser considerado y tratado como inocente hasta que se demuestre su responsabilidad."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "A comunicarse con un familiar y con su Defensor cuando sea detenido, debiendo brindarle el Ministerio Público todas las facilidades para lograrlo."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "A declarar o a guardar silencio, en el entendido que su silencio no podrá ser utilizado en su perjuicio."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "A estar asistido de su Defensor al momento de rendir su declaración, así como en cualquier otra actuación y a entrevistarse en privado previamente con él."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el Juez de control, los hechos que se le imputan y los derechos que le asisten, así como, en su caso, el motivo de la privación de su libertad y el servidor público que la ordenó, exhibiéndosele, según corresponda, la orden emitida en su contra."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "A no ser sometido en ningún momento del procedimiento a técnicas ni métodos que atenten contra su dignidad, induzcan o alteren su libre voluntad."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "A solicitar ante la autoridad judicial la modificación de la medida cautelar que se le haya impuesto, en los casos en que se encuentre en prisión preventiva, en los supuestos señalados por este Código."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "A tener acceso él y su defensa, salvo las excepciones previstas en la ley, a los registros de la investigación, así como a obtener copia gratuita, registro fotográfico o electrónico de los mismos, en términos de los artículos 218 y 219 de este Código."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "A que se le reciban los medios pertinentes de prueba que ofrezca, concediéndosele el tiempo necesario para tal efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite y que no pueda presentar directamente, en términos de lo establecido por este Código."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "A ser juzgado en audiencia por un Tribunal de enjuiciamiento, antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa."
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "A tener una defensa adecuada por parte de un licenciado en derecho o abogado titulado, con cédula profesional, al cual elegirá libremente incluso desde el momento de su detención y, a falta de éste, por el Defensor público que le corresponda, así como a reunirse o entrevistarse con él en estricta confidencialidad."
+    },
+    {
+      "Fracción": "XII",
+      "Texto": "A ser asistido gratuitamente por un traductor o intérprete en el caso de que no comprenda o hable el idioma español; cuando el imputado perteneciere a un pueblo o comunidad indígena, el Defensor deberá tener conocimiento de su lengua y cultura y, en caso de que no fuere posible, deberá actuar asistido de un intérprete de la cultura y lengua de que se trate."
+    },
+    {
+      "Fracción": "XIII",
+      "Texto": "A ser presentado ante el Ministerio Público o ante el Juez de control, según el caso, inmediatamente después de ser detenido o aprehendido."
+    },
+    {
+      "Fracción": "XIV",
+      "Texto": "A no ser expuesto a los medios de comunicación."
+    },
+    {
+      "Fracción": "XV",
+      "Texto": "A no ser presentado ante la comunidad como culpable."
+    },
+    {
+      "Fracción": "XVI",
+      "Texto": "A solicitar desde el momento de su detención, asistencia social para los menores de edad o personas con discapacidad o personas adultas mayores cuyo cuidado personal tenga a su cargo."
+    },
+    {
+      "Fracción": "XVII",
+      "Texto": "A obtener su libertad en el caso de que haya sido detenido, cuando no se ordene la prisión preventiva, u otra medida cautelar restrictiva de su libertad."
+    },
+    {
+      "Fracción": "XVIII",
+      "Texto": "A que se informe a la embajada o consulado que corresponda cuando sea detenido, y se le proporcione asistencia migratoria cuando tenga nacionalidad extranjera."
+    },
+    {
+      "Fracción": "XIX",
+      "Texto": "Los demás que establezca este Código y otras disposiciones aplicables."
+    }
+  ],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "Garantiza al imputado derechos fundamentales, como la presunción de inocencia y el derecho a la defensa.",
+    "Incluye derechos a la comunicación, asistencia legal y protección contra tratos indignos durante el procedimiento.",
+    "Asegura el acceso a registros de investigación y la presentación oportuna de pruebas por parte del imputado.",
+    "Protege a imputados vulnerables, como indígenas o extranjeros, con asistencia lingüística y consular."
+  ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "114",
+    "PalabraClave": "Derecho de declaración del imputado",
+    "Texto": "El imputado tendrá derecho a declarar durante cualquier etapa del procedimiento. En este caso, podrá hacerlo ante el Ministerio Público o ante el Órgano jurisdiccional, con pleno respeto a los derechos que lo amparan y en presencia de su Defensor.",
+    "Párrafos": [
+      {
+        "Párrafo": "Segundo",
+        "Texto": "En caso que el imputado manifieste a la Policía su deseo de declarar sobre los hechos que se investigan, ésta deberá comunicar dicha situación al Ministerio Público para que se reciban sus manifestaciones con las formalidades previstas en este Código."
+      }
+    ],
+    "Fracciones": [],
+    "Procedimiento": "El imputado puede declarar ante el Ministerio Público o el Órgano jurisdiccional con asistencia de su Defensor; si manifiesta su deseo de declarar a la Policía, esta debe notificarlo al Ministerio Público para cumplir con las formalidades establecidas.",
+    "NotasOrientadoras": [
+      "Garantiza el derecho del imputado a declarar en cualquier etapa del procedimiento penal.",
+      "La declaración debe realizarse con respeto a los derechos del imputado y en presencia de su Defensor.",
+      "La Policía debe notificar al Ministerio Público si el imputado desea declarar, asegurando las formalidades legales.",
+      "Protege el derecho a una declaración libre y conforme a las normas del Código."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "115",
+    "PalabraClave": "designación del defensor",
+    "Texto": "El Defensor podrá ser designado por el imputado desde el momento de su detención, mismo que deberá ser licenciado en derecho o abogado titulado con cédula profesional. A falta de éste o ante la omisión de su designación, será nombrado el Defensor público que corresponda.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": "El imputado designa a su Defensor, quien debe ser licenciado en derecho con cédula profesional, desde la detención; si no lo designa, se asigna un Defensor público.",
+    "NotasOrientadoras": [
+      "Permite al imputado elegir libremente a su Defensor desde el momento de su detención.",
+      "El Defensor debe ser un licenciado en derecho o abogado titulado con cédula profesional.",
+      "Garantiza la asignación de un Defensor público si el imputado no designa uno.",
+      "Asegura el derecho a la defensa técnica desde las primeras etapas del procedimiento."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "116",
+    "PalabraClave": "acreditación del defensor",
+    "Texto": "Los Defensores designados deberán acreditar su profesión ante el Órgano jurisdiccional desde el inicio de su intervención en el procedimiento, mediante cédula profesional legalmente expedida por la autoridad competente.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": "Los Defensores deben presentar su cédula profesional ante el Órgano jurisdiccional al inicio de su intervención para acreditar su profesión.",
+    "NotasOrientadoras": [
+      "Exige que los Defensores acrediten su profesión mediante cédula profesional legalmente expedida.",
+      "La acreditación debe realizarse desde el inicio de la intervención del Defensor en el procedimiento.",
+      "Garantiza que solo abogados calificados participen en la defensa del imputado.",
+      "Se presenta ante el Órgano jurisdiccional para validar la competencia profesional del Defensor."
+    ]
+  },
+  {
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "117",
+  "PalabraClave": "obligaciones del defensor",
+  "Texto": "Son obligaciones del Defensor:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Entrevistar al imputado para conocer directamente su versión de los hechos que motivan la investigación, a fin de ofrecer los datos y medios de prueba pertinentes que sean necesarios para llevar a cabo una adecuada defensa."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Asesorar al imputado sobre la naturaleza y las consecuencias jurídicas de los hechos punibles que se le atribuyen."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Comparecer y asistir jurídicamente al imputado en el momento en que rinda su declaración, así como en cualquier diligencia o audiencia que establezca la ley."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Analizar las constancias que obren en la carpeta de investigación, a fin de contar con mayores elementos para la defensa."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Comunicarse directa y personalmente con el imputado, cuando lo estime conveniente, siempre y cuando esto no altere el desarrollo normal de las audiencias."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Recabar y ofrecer los medios de prueba necesarios para la defensa."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Presentar los argumentos y datos de prueba que desvirtúen la existencia del hecho que la ley señala como delito, o aquellos que permitan hacer valer la procedencia de alguna causal de inimputabilidad, sobreseimiento o excluyente de responsabilidad a favor del imputado y la prescripción de la acción penal o cualquier otra causal legal que sea en beneficio del imputado."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Solicitar el no ejercicio de la acción penal."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Ofrecer los datos o medios de prueba en la audiencia correspondientes y promover la exclusión de los ofrecidos por el Ministerio Público o la víctima u ofendido cuando no se ajusten a la ley."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "Promover a favor del imputado la aplicación de mecanismos alternativos de solución de controversias o formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables."
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "Participar en la audiencia de juicio, en la que podrá exponer sus alegatos de apertura, desahogar las pruebas ofrecidas, controvertir las de los otros intervinientes, hacer las objeciones que procedan y formular sus alegatos finales."
+    },
+    {
+      "Fracción": "XII",
+      "Texto": "Mantener informado al imputado sobre el desarrollo y seguimiento del procedimiento o juicio."
+    },
+    {
+      "Fracción": "XIII",
+      "Texto": "En los casos en que proceda, formular solicitudes de procedimientos especiales."
+    },
+    {
+      "Fracción": "XIV",
+      "Texto": "Guardar el secreto profesional en el desempeño de sus funciones."
+    },
+    {
+      "Fracción": "XV",
+      "Texto": "Interponer los recursos e incidentes en términos de este Código y de la legislación aplicable y, en su caso, promover el juicio de Amparo."
+    },
+    {
+      "Fracción": "XVI",
+      "Texto": "Informar a los imputados y a sus familiares la situación jurídica en que se encuentre su defensa."
+    },
+    {
+      "Fracción": "XVII",
+      "Texto": "Las demás que señalen las leyes."
+    }
+  ],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "Establece las obligaciones del Defensor para garantizar una defensa adecuada al imputado.",
+    "Incluye la recolección de pruebas, asesoramiento jurídico y participación activa en audiencias.",
+    "Promueve el uso de mecanismos alternativos y recursos legales para beneficiar al imputado.",
+    "Exige el cumplimiento del secreto profesional y la comunicación constante con el imputado."
+  ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "118",
+    "PalabraClave": "nombramiento de un nuevo defensor",
+    "Texto": "Durante el transcurso del procedimiento el imputado podrá designar a un nuevo Defensor, sin embargo, hasta en tanto el nuevo Defensor no comparezca a aceptar el cargo conferido, el Órgano jurisdiccional o el Ministerio Público le designarán al imputado un Defensor público, a fin de no dejarlo en estado de indefensión.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": "El imputado puede designar un nuevo Defensor durante el procedimiento; si el nuevo Defensor no comparece, se asigna un Defensor público para evitar la indefensión.",
+    "NotasOrientadoras": [
+      "Permite al imputado cambiar de Defensor en cualquier momento del procedimiento penal.",
+      "Garantiza la asignación de un Defensor público hasta que el nuevo Defensor acepte el cargo.",
+      "Busca evitar el estado de indefensión del imputado durante la transición de Defensores.",
+      "Involucra al Órgano jurisdiccional o al Ministerio Público en la asignación del Defensor público."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "119",
+    "PalabraClave": "inadmisibilidad defensor",
+    "Texto": "En ningún caso podrá nombrarse como Defensor del imputado a cualquier persona que sea coimputada del acusado, haya sido sentenciada por el mismo hecho o imputada por ser autor o partícipe del encubrimiento o favorecimiento del mismo hecho.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": null,
+    "NotasOrientadoras": [
+      "Prohíbe nombrar como Defensor a personas con conflictos de interés, como coimputados.",
+      "Excluye a quienes hayan sido sentenciados por el mismo hecho delictivo.",
+      "Impide la designación de personas imputadas por encubrimiento o favorecimiento.",
+      "Garantiza la imparcialidad y objetividad en la defensa del imputado."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "120",
+    "PalabraClave": "renuncia del defensor",
+    "Texto": "Cuando el Defensor renuncie o abandone la defensa, el Ministerio Público o el Órgano jurisdiccional le harán saber al imputado que tiene derecho a designar a otro Defensor; sin embargo, en tanto no lo designe o no quiera o no pueda nombrarlo, se le designará un Defensor público.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": "En caso de renuncia o abandono del Defensor, se informa al imputado de su derecho a designar otro; si no lo hace, se asigna un Defensor público.",
+    "NotasOrientadoras": [
+      "Establece el procedimiento ante la renuncia o abandono del Defensor por parte del imputado.",
+      "Garantiza que el imputado sea informado de su derecho a nombrar un nuevo Defensor.",
+      "Asegura la asignación de un Defensor público si el imputado no designa otro.",
+      "Evita la indefensión del imputado durante la transición de Defensores."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "121",
+    "PalabraClave": "defensa técnica",
+    "Texto": "Siempre que el Órgano jurisdiccional advierta que existe una manifiesta y sistemática incapacidad técnica del Defensor, prevendrá al imputado para que designe otro.",
+    "Párrafos": [
+      {
+        "Párrafo": "Segundo",
+        "Texto": "Si se trata de un Defensor privado, el imputado contará con tres días para designar un nuevo Defensor. Si prevenido el imputado, no se designa otro, un Defensor público será asignado para colaborar en su defensa."
+      }
+    ],
+    "Fracciones": [],
+    "Procedimiento": "El Órgano jurisdiccional notifica al imputado sobre la incapacidad técnica del Defensor y le da tres días para designar otro si es privado; si no se designa, se asigna un Defensor público.",
+    "NotasOrientadoras": [
+      "Garantiza una defensa técnica adecuada al detectar incapacidad manifiesta del Defensor.",
+      "El imputado debe designar un nuevo Defensor privado en un plazo de tres días.",
+      "Asigna un Defensor público si el imputado no nombra un nuevo Defensor tras la advertencia.",
+      "Protege el derecho del imputado a una defensa competente y efectiva."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "122",
+    "PalabraClave": "defensor público",
+    "Texto": "Cuando el imputado no pueda o se niegue a designar un Defensor particular, el Ministerio Público solicitará a la autoridad competente se nombre un Defensor público; si es ante el Órgano jurisdiccional éste designará al defensor público, que lleve la representación de la defensa desde el primer acto en que intervenga. Será responsabilidad del defensor la oportuna comparecencia.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": "El Ministerio Público solicita la designación de un Defensor público si el imputado no nombra un Defensor particular; el Órgano jurisdiccional lo designa si el caso está en su ámbito, y el Defensor público asume la defensa desde su primer acto, siendo responsable de comparecer oportunamente.",
+    "NotasOrientadoras": [
+      "Garantiza la asignación de un Defensor público si el imputado no puede o no quiere designar uno particular.",
+      "El Ministerio Público o el Órgano jurisdiccional son responsables de la designación del Defensor público.",
+      "El Defensor público debe intervenir desde el primer acto y comparecer oportunamente.",
+      "Evita la indefensión del imputado al asegurar representación legal."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "123",
+    "PalabraClave": "múltiples defensores",
+    "Texto": "El imputado podrá designar el número de Defensores que considere conveniente, los cuales, en las audiencias, tomarán la palabra en orden y deberán actuar en todo caso con respeto.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": null,
+    "NotasOrientadoras": [
+      "Permite al imputado designar múltiples Defensores según su conveniencia.",
+      "Los Defensores deben intervenir en orden durante las audiencias.",
+      "Exige que los Defensores actúen con respeto en todo momento.",
+      "Refuerza el derecho del imputado a una defensa amplia y organizada."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "124",
+    "PalabraClave": "defensor común",
+    "Texto": "La defensa de varios imputados en un mismo proceso por un Defensor común no será admisible, a menos que se acredite que no existe incompatibilidad ni conflicto de intereses de las defensas de los imputados. Si se autoriza el Defensor común y la incompatibilidad se advierte en el curso del proceso, será corregida de oficio y se proveerá lo necesario para reemplazar al Defensor.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": "Se prohíbe un Defensor común para varios imputados salvo que se acredite la inexistencia de conflictos de intereses; si surge un conflicto durante el proceso, el Órgano jurisdiccional lo corrige de oficio y reemplaza al Defensor.",
+    "NotasOrientadoras": [
+      "Prohíbe un Defensor común si hay incompatibilidad o conflicto de intereses entre imputados.",
+      "Permite un Defensor común si se acredita la ausencia de conflictos.",
+      "El Órgano jurisdiccional corrige de oficio cualquier conflicto detectado en el proceso.",
+      "Garantiza la imparcialidad y efectividad de la defensa de cada imputado."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "125",
+    "PalabraClave": "entrevista con el defensor",
+    "Texto": "El imputado que se encuentre detenido por cualquier circunstancia, antes de rendir declaración tendrá derecho a entrevistarse oportunamente y en forma privada con su Defensor, cuando así lo solicite, en el lugar que para tal efecto se designe. La autoridad del conocimiento tiene la obligación de implementar todo lo necesario para el libre ejercicio de este derecho.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": "El imputado detenido puede solicitar entrevistarse privadamente con su Defensor antes de declarar, y la autoridad debe garantizar las condiciones para este derecho.",
+    "NotasOrientadoras": [
+      "Garantiza el derecho del imputado detenido a una entrevista privada con su Defensor antes de declarar.",
+      "La autoridad debe facilitar las condiciones para el ejercicio de este derecho.",
+      "La entrevista debe ser oportuna y en un lugar designado específicamente.",
+      "Refuerza el derecho a una defensa adecuada en la etapa previa a la declaración."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "126",
+    "PalabraClave": "entrevista con otras personas",
+    "Texto": "Si antes de una audiencia, con motivo de su preparación, el Defensor tuviera necesidad de entrevistar a una persona o interviniente del procedimiento que se niega a recibirlo, podrá solicitar el auxilio judicial, explicándole las razones por las que se hace necesaria la entrevista. El Órgano jurisdiccional, en caso de considerar fundada la solicitud, expedirá la orden para que dicha persona sea entrevistada por el Defensor en el lugar y tiempo que aquélla establezca o el propio Órgano jurisdiccional determine. Esta autorización no se concederá en aquellos casos en que, a solicitud del Ministerio Público, el Órgano jurisdiccional estime que la víctima o los testigos deben estar sujetos a protocolos especiales de protección.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": "El Defensor puede solicitar auxilio judicial para entrevistar a una persona que se niega, justificando la necesidad; el Órgano jurisdiccional ordena la entrevista si lo considera fundado, salvo en casos de víctimas o testigos bajo protocolos de protección.",
+    "NotasOrientadoras": [
+      "Permite al Defensor solicitar auxilio judicial para entrevistar a personas relevantes que se niegan.",
+      "El Órgano jurisdiccional evalúa la solicitud y puede ordenar la entrevista en un lugar y tiempo específicos.",
+      "Excluye a víctimas o testigos sujetos a protocolos especiales de protección, a solicitud del Ministerio Público.",
+      "Facilita la preparación de la defensa al garantizar acceso a intervinientes clave."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "127",
+    "PalabraClave": "competencia Ministerio Público",
+    "Texto": "Compete al Ministerio Público conducir la investigación, coordinar a las Policías y a los servicios periciales durante la investigación, resolver sobre el ejercicio de la acción penal en la forma establecida por la ley y, en su caso, ordenar las diligencias pertinentes y útiles para demostrar, o no, la existencia del delito y la responsabilidad de quien lo cometió o participó en su comisión.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": "El Ministerio Público dirige la investigación, coordina a las Policías y servicios periciales, decide sobre el ejercicio de la acción penal y ordena diligencias para esclarecer el delito y la responsabilidad del imputado.",
+    "NotasOrientadoras": [
+      "Asigna al Ministerio Público la conducción de la investigación penal.",
+      "Incluye la coordinación de Policías y servicios periciales para recabar pruebas.",
+      "Faculta al Ministerio Público para decidir sobre el ejercicio de la acción penal.",
+      "Busca esclarecer la existencia del delito y la responsabilidad del imputado."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "128",
+    "PalabraClave": "deber lealtad Ministerio Público",
+    "Texto": "El Ministerio Público deberá actuar durante todas las etapas del procedimiento en las que intervenga con absoluto apego a lo previsto en la Constitución, en este Código y en la demás legislación aplicable.",
+    "Párrafos": [
+      {
+        "Párrafo": "Segundo",
+        "Texto": "El Ministerio Público deberá proporcionar información veraz sobre los hechos, sobre los hallazgos en la investigación y tendrá el deber de no ocultar a los intervinientes elemento alguno que pudiera resultar favorable para la posición que ellos asumen, sobre todo cuando resuelva no incorporar alguno de esos elementos al procedimiento, salvo la reserva que en determinados casos la ley autorice en las investigaciones."
+      }
+    ],
+    "Fracciones": [],
+    "Procedimiento": null,
+    "NotasOrientadoras": [
+      "Exige al Ministerio Público actuar con lealtad y apego a la legalidad en todas las etapas.",
+      "Obliga a proporcionar información veraz y no ocultar elementos favorables a las partes.",
+      "Permite la reserva de información solo en casos autorizados por la ley.",
+      "Garantiza la transparencia y equidad en el procedimiento penal."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "129",
+    "PalabraClave": "objetividad de investigación",
+    "Texto": "La investigación debe ser objetiva y referirse tanto a los elementos de cargo como de descargo y conducida con la debida diligencia, a efecto de garantizar el respeto de los derechos de las partes y el debido proceso.",
+    "Párrafos": [
+      {
+        "Párrafo": "Segundo",
+        "Texto": "Al concluir la investigación complementaria puede solicitar el sobreseimiento del proceso, o bien, en la audiencia de juicio podrá concluir solicitando la absolución o una condena más leve que aquella que sugiere la acusación, cuando en ésta surjan elementos que conduzcan a esa conclusión, de conformidad con lo previsto en este Código."
+      },
+      {
+        "Párrafo": "Tercero",
+        "Texto": "Durante la investigación, tanto el imputado como su Defensor, así como la víctima o el ofendido, podrán solicitar al Ministerio Público todos aquellos actos de investigación que consideraren pertinentes y útiles para el esclarecimiento de los hechos. El Ministerio Público dentro del plazo de tres días resolverá sobre dicha solicitud. Para tal efecto, podrá disponer que se lleven a cabo las diligencias que se estimen conducentes para efectos de la investigación."
+      }
+    ],
+    "Fracciones": [],
+    "Procedimiento": "El Ministerio Público realiza una investigación objetiva con elementos de cargo y descargo; puede solicitar sobreseimiento o absolución en la audiencia de juicio; el imputado, su Defensor, la víctima o el ofendido pueden solicitar actos de investigación, que el Ministerio Público resuelve en tres días.",
+    "NotasOrientadoras": [
+      "Exige objetividad en la investigación, considerando elementos de cargo y descargo.",
+      "Permite al Ministerio Público solicitar sobreseimiento, absolución o condenas más leves.",
+      "Faculta al imputado, Defensor, víctima u ofendido a solicitar actos de investigación.",
+      "Establece un plazo de tres días para que el Ministerio Público resuelva solicitudes."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "130",
+    "PalabraClave": "carga de la prueba",
+    "Texto": "La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": null,
+    "NotasOrientadoras": [
+      "Asigna a la parte acusadora la responsabilidad de probar la culpabilidad del imputado.",
+      "Se basa en el principio de presunción de inocencia del imputado.",
+      "La prueba debe ajustarse al tipo penal correspondiente al delito.",
+      "Garantiza el debido proceso al establecer claramente la carga probatoria."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "131",
+    "PalabraClave": "obligaciones Ministerio Público",
+    "Texto": "Para los efectos del presente Código, el Ministerio Público tendrá las siguientes obligaciones:",
+    "Párrafos": [],
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Vigilar que en toda investigación de los delitos se cumpla estrictamente con los derechos humanos reconocidos en la Constitución y en los Tratados."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito."
+      },
+      {
+        "Fracción": "III",
+        "Texto": "Ejercer la conducción y el mando de la investigación de los delitos, para lo cual deberá coordinar a las Policías y a los peritos durante la misma."
+      },
+      {
+        "Fracción": "IV",
+        "Texto": "Ordenar o supervisar, según sea el caso, la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia del mismo, así como cerciorarse de que se han seguido las reglas y protocolos para su preservación y procesamiento."
+      },
+      {
+        "Fracción": "V",
+        "Texto": "Iniciar la investigación correspondiente cuando así proceda y, en su caso, ordenar la recolección de indicios y medios de prueba que deberán servir para sus respectivas resoluciones y las del Órgano jurisdiccional, así como recabar los elementos necesarios que determinen el daño causado por el delito y la cuantificación del mismo para los efectos de su reparación. Cuando se trate del delito de feminicidio se deberán aplicar los protocolos previstos para tales efectos."
+      },
+      {
+        "Fracción": "VI",
+        "Texto": "Ejercer funciones de investigación respecto de los delitos en materias concurrentes, cuando ejerza la facultad de atracción y en los demás casos que las leyes lo establezcan."
+      },
+      {
+        "Fracción": "VII",
+        "Texto": "Ordenar a la Policía y a sus auxiliares, en el ámbito de su competencia, la práctica de actos de investigación conducentes para el esclarecimiento del hecho delictivo, así como analizar las que dichas autoridades hubieren practicado."
+      },
+      {
+        "Fracción": "VIII",
+        "Texto": "Instruir a las Policías sobre la legalidad, pertinencia, suficiencia y contundencia de los indicios recolectados o por recolectar, así como las demás actividades y diligencias que deben ser llevadas a cabo dentro de la investigación."
+      },
+      {
+        "Fracción": "IX",
+        "Texto": "Requerir informes o documentación a otras autoridades y a particulares, así como solicitar la práctica de peritajes y diligencias para la obtención de otros medios de prueba."
+      },
+      {
+        "Fracción": "X",
+        "Texto": "Solicitar al Órgano jurisdiccional la autorización de actos de investigación y demás actuaciones que sean necesarias dentro de la misma."
+      },
+      {
+        "Fracción": "XI",
+        "Texto": "Ordenar la detención y la retención de los imputados cuando resulte procedente en los términos que establece este Código."
+      },
+      {
+        "Fracción": "XII",
+        "Texto": "Brindar las medidas de seguridad necesarias, a efecto de garantizar que las víctimas u ofendidos o testigos del delito puedan llevar a cabo la identificación del imputado sin riesgo para ellos."
+      },
+      {
+        "Fracción": "XIII",
+        "Texto": "Determinar el archivo temporal y el no ejercicio de la acción penal, así como ejercer la facultad de no investigar en los casos autorizados por este Código."
+      },
+      {
+        "Fracción": "XIV",
+        "Texto": "Decidir la aplicación de criterios de oportunidad en los casos previstos en este Código."
+      },
+      {
+        "Fracción": "XV",
+        "Texto": "Promover las acciones necesarias para que se provea la seguridad y proporcionar el auxilio a víctimas, ofendidos, testigos, jueces, magistrados, agentes del Ministerio Público, Policías, peritos y, en general, a todos los sujetos que con motivo de su intervención en el procedimiento, cuya vida o integridad corporal se encuentren en riesgo inminente."
+      },
+      {
+        "Fracción": "XVI",
+        "Texto": "Ejercer la acción penal cuando proceda."
+      },
+      {
+        "Fracción": "XVII",
+        "Texto": "Poner a disposición del Órgano jurisdiccional a las personas detenidas dentro de los plazos establecidos en el presente Código."
+      },
+      {
+        "Fracción": "XVIII",
+        "Texto": "Promover la aplicación de mecanismos alternativos de solución de controversias o formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables."
+      },
+      {
+        "Fracción": "XIX",
+        "Texto": "Solicitar las medidas cautelares aplicables al imputado en el proceso, en atención a las disposiciones conducentes y promover su cumplimiento."
+      },
+      {
+        "Fracción": "XX",
+        "Texto": "Comunicar al Órgano jurisdiccional y al imputado los hechos, así como los datos de prueba que los sustentan y la fundamentación jurídica, atendiendo al objetivo o finalidad de cada etapa del procedimiento."
+      },
+      {
+        "Fracción": "XXI",
+        "Texto": "Solicitar a la autoridad judicial la imposición de las penas o medidas de seguridad que correspondan."
+      },
+      {
+        "Fracción": "XXII",
+        "Texto": "Solicitar el pago de la reparación del daño a favor de la víctima u ofendido del delito, sin perjuicio de que éstos lo pudieran solicitar directamente."
+      },
+      {
+        "Fracción": "XXIII",
+        "Texto": "Actuar en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución."
+      },
+      {
+        "Fracción": "XXIII Bis",
+        "Texto": "Tratándose de delitos por razón de género, se deberá investigar con perspectiva de género."
+      },
+      {
+        "Fracción": "XXIV",
+        "Texto": "Las demás que señale este Código y otras disposiciones aplicables."
+      }
+    ],
+    "Procedimiento": null,
+    "NotasOrientadoras": [
+      "Establece múltiples obligaciones del Ministerio Público para garantizar una investigación efectiva y legal.",
+      "Incluye la recepción de denuncias, conducción de investigaciones y protección de derechos humanos.",
+      "Promueve la aplicación de medidas cautelares, mecanismos alternativos y reparación del daño.",
+      "Exige perspectiva de género en delitos relacionados y apego a principios de legalidad."
+    ]
+  },
+  {
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "132",
+  "PalabraClave": "obligaciones de la policía",
+  "Texto": "Para los efectos del presente Código, el Policía tendrá las siguientes obligaciones:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que éste coordine la investigación."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Realizar detenciones en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que ésta le otorga."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores. Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de los gobernados a quienes tiene la obligación de proteger."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Informar sin dilación por cualquier medio al Ministerio Público sobre la detención de cualquier persona, e inscribir inmediatamente las detenciones en el registro que al efecto establezcan las disposiciones aplicables."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Practicar las inspecciones y otros actos de investigación, así como reportar sus resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Preservar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios. En su caso deberá dar aviso a la Policía con capacidades para procesar la escena del hecho y al Ministerio Público conforme a las disposiciones previstas en este Código y en la legislación aplicable."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Recolectar y resguardar objetos relacionados con la investigación de los delitos, en los términos de la fracción anterior."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación."
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente."
+    },
+    {
+      "Fracción": "XII",
+      "Texto": "Proporcionar atención a víctimas u ofendidos o testigos del delito. Para tal efecto, deberá: a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables; b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen; c) Procurar que reciban atención médica y psicológica cuando sea necesaria; d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica, y e) Tratándose de delitos por razón de género, deberá actuar con perspectiva de género."
+    },
+    {
+      "Fracción": "XII Bis",
+      "Texto": "Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos previstos para tales efectos."
+    },
+    {
+      "Fracción": "XIII",
+      "Texto": "Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+    },
+    {
+      "Fracción": "XIV",
+      "Texto": "Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales."
+    },
+    {
+      "Fracción": "XV",
+      "Texto": "Las demás que le confieran este Código y otras disposiciones aplicables."
+    }
+  ],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "Establece las obligaciones de la Policía en la investigación y prevención de delitos.",
+    "Incluye recibir denuncias, realizar detenciones y preservar indicios bajo la coordinación del Ministerio Público.",
+    "Prioriza la atención a víctimas y testigos, con perspectiva de género en delitos relacionados.",
+    "Exige cumplimiento de mandamientos y protocolos, especialmente en casos de violencia de género."
+  ]
+  },
+  {
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "132",
+  "PalabraClave": "obligaciones policía",
+  "Texto": "Para los efectos del presente Código, el Policía tendrá las siguientes obligaciones:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que éste coordine la investigación."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Realizar detenciones en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que ésta le otorga."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores. Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de los gobernados a quienes tiene la obligación de proteger."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Informar sin dilación por cualquier medio al Ministerio Público sobre la detención de cualquier persona, e inscribir inmediatamente las detenciones en el registro que al efecto establezcan las disposiciones aplicables."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Practicar las inspecciones y otros actos de investigación, así como reportar sus resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Preservar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios. En su caso deberá dar aviso a la Policía con capacidades para procesar la escena del hecho y al Ministerio Público conforme a las disposiciones previstas en este Código y en la legislación aplicable."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Recolectar y resguardar objetos relacionados con la investigación de los delitos, en los términos de la fracción anterior."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación."
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente."
+    },
+    {
+      "Fracción": "XII",
+      "Texto": "Proporcionar atención a víctimas u ofendidos o testigos del delito. Para tal efecto, deberá: a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables; b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen; c) Procurar que reciban atención médica y psicológica cuando sea necesaria; d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica, y e) Tratándose de delitos por razón de género, deberá actuar con perspectiva de género."
+    },
+    {
+      "Fracción": "XII Bis",
+      "Texto": "Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos previstos para tales efectos."
+    },
+    {
+      "Fracción": "XIII",
+      "Texto": "Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+    },
+    {
+      "Fracción": "XIV",
+      "Texto": "Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales."
+    },
+    {
+      "Fracción": "XV",
+      "Texto": "Las demás que le confieran este Código y otras disposiciones aplicables."
+    }
+  ],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "Establece las obligaciones de la Policía en la investigación y prevención de delitos.",
+    "Incluye recibir denuncias, realizar detenciones y preservar indicios bajo la coordinación del Ministerio Público.",
+    "Prioriza la atención a víctimas y testigos, con perspectiva de género en delitos relacionados.",
+    "Exige cumplimiento de mandamientos y protocolos, especialmente en casos de violencia de género."
+  ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "133",
+    "PalabraClave": "competencia jurisdiccional",
+    "Texto": "Para los efectos de este Código, la competencia jurisdiccional comprende a los siguientes órganos:",
+    "Párrafos": [],
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Juez de control, con competencia para ejercer las atribuciones que este Código le reconoce desde el inicio de la etapa de investigación hasta el dictado del auto de apertura a juicio."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Tribunal de enjuiciamiento, que preside la audiencia de juicio y dictará la sentencia."
+      },
+      {
+        "Fracción": "III",
+        "Texto": "Tribunal de alzada, que conocerá de los medios de impugnación y demás asuntos que prevé este Código."
+      }
+    ],
+    "Procedimiento": null,
+    "NotasOrientadoras": [
+      "Define los órganos judiciales con competencia en el procedimiento penal.",
+      "El Juez de control actúa desde la investigación hasta la apertura del juicio.",
+      "El Tribunal de enjuiciamiento preside el juicio y emite la sentencia.",
+      "El Tribunal de alzada resuelve impugnaciones y otros asuntos previstos."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "134",
+    "PalabraClave": "deberes de los jueces",
+    "Texto": "En el ámbito de sus respectivas competencias y atribuciones, son deberes comunes de los jueces y magistrados, los siguientes:",
+    "Párrafos": [],
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "Resolver los asuntos sometidos a su consideración con la debida diligencia, dentro de los términos previstos en la ley y con sujeción a los principios que deben regir el ejercicio de la función jurisdiccional."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "Respetar, garantizar y velar por la salvaguarda de los derechos de quienes intervienen en el procedimiento."
+      },
+      {
+        "Fracción": "III",
+        "Texto": "Guardar reserva sobre los asuntos relacionados con su función, aun después de haber cesado en el ejercicio del cargo."
+      },
+      {
+        "Fracción": "IV",
+        "Texto": "Atender oportuna y debidamente las peticiones dirigidas por los sujetos que intervienen dentro del procedimiento penal."
+      },
+      {
+        "Fracción": "V",
+        "Texto": "Abstenerse de presentar en público al imputado o acusado como culpable si no existiera condena."
+      },
+      {
+        "Fracción": "VI",
+        "Texto": "Mantener el orden en las salas de audiencias."
+      },
+      {
+        "Fracción": "VI Bis",
+        "Texto": "Tratándose de delitos por razón de género, se deberá juzgar con perspectiva de género."
+      },
+      {
+        "Fracción": "VI Ter",
+        "Texto": "Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos para juzgar con perspectiva de género."
+      },
+      {
+        "Fracción": "VII",
+        "Texto": "Los demás establecidos en la Ley Orgánica, en este Código y otras disposiciones aplicables."
+      }
+    ],
+    "Procedimiento": null,
+    "NotasOrientadoras": [
+      "Establece deberes comunes de jueces y magistrados para garantizar un proceso justo.",
+      "Incluye resolver con diligencia, proteger derechos y mantener reserva de los asuntos.",
+      "Prohíbe presentar al imputado como culpable sin condena.",
+      "Exige juzgar con perspectiva de género en delitos relacionados, siguiendo protocolos."
+    ]
+ },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "135",
+    "PalabraClave": "queja contra juzgado",
+    "Texto": "Procederá queja en contra del juzgador de primera instancia por no realizar un acto procesal dentro del plazo señalado por este Código. La queja podrá ser promovida por cualquier parte del procedimiento y se tramitará sin perjuicio de las otras consecuencias legales que tenga la omisión del juzgador.",
+    "Párrafos": [
+      {
+        "Párrafo": "Segundo",
+        "Texto": "La queja será interpuesta ante el Órgano jurisdiccional omiso; éste tiene un plazo de veinticuatro horas para subsanar dicha omisión, o bien, realizar un informe breve y conciso sobre las razones por las cuales no se ha verificado el acto procesal o la formalidad exigidos por la norma omitida y remitir el recurso y dicho informe al Órgano jurisdiccional competente."
+      },
+      {
+        "Párrafo": "Tercero",
+        "Texto": "La autoridad jurisdiccional competente tramitará y resolverá en un plazo no mayor a tres días en los términos de las disposiciones aplicables."
+      }
+    ],
+    "Fracciones": [],
+    "Procedimiento": "Cualquier parte puede interponer una queja contra el juzgador de primera instancia por omisión de un acto procesal ante el Órgano jurisdiccional omiso, que tiene 24 horas para subsanar o justificar la omisión; el Órgano jurisdiccional competente resuelve en un plazo máximo de tres días.",
+    "NotasOrientadoras": [
+      "Permite a cualquier parte del procedimiento presentar una queja por omisión del juzgador.",
+      "El Órgano jurisdiccional omiso debe subsanar o justificar la omisión en 24 horas.",
+      "La resolución de la queja se realiza en un plazo máximo de tres días.",
+      "No afecta otras consecuencias legales derivadas de la omisión del juzgador."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "136",
+    "PalabraClave": "consultores técnicos",
+    "Texto": "Si por las circunstancias del caso, las partes que intervienen en el procedimiento consideran necesaria la asistencia de un consultor en una ciencia, arte o técnica, así lo plantearán al Órgano jurisdiccional. El consultor técnico podrá acompañar en las audiencias a la parte con quien colabora, para apoyarla técnicamente.",
+    "Párrafos": [],
+    "Fracciones": [],
+    "Procedimiento": "Las partes pueden solicitar al Órgano jurisdiccional la participación de un consultor técnico, quien podrá acompañarlas en las audiencias para brindar apoyo técnico.",
+    "NotasOrientadoras": [
+      "Permite a las partes solicitar un consultor técnico en ciencias, artes o técnicas.",
+      "El consultor técnico asiste a la parte en las audiencias para apoyo técnico.",
+      "La solicitud debe presentarse al Órgano jurisdiccional para su aprobación.",
+      "Facilita el manejo de casos complejos que requieren conocimientos especializados."
+    ]
+  },
+  {
+  "Ley": "Código Nacional de Procedimientos Penales",
+  "Artículo": "137",
+  "PalabraClave": "medidas protección",
+  "Texto": "El Ministerio Público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Prohibición de acercarse o comunicarse con la víctima u ofendido."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Limitación para asistir o acercarse al domicilio de la víctima u ofendido o al lugar donde se encuentre."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Separación inmediata del domicilio."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Vigilancia en el domicilio de la víctima u ofendido."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Protección policial de la víctima u ofendido."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "Traslado de la víctima u ofendido a refugios o albergues temporales, así como de sus descendientes."
+    },
+    {
+      "Fracción": "X",
+      "Texto": "El reingreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su seguridad."
+    }
+  ],
+  "Procedimiento": "El Ministerio Público ordena medidas de protección fundadas y motivadas cuando el imputado representa un riesgo inminente para la víctima u ofendido, aplicando las medidas necesarias para garantizar su seguridad.",
+  "NotasOrientadoras": [
+    "El Ministerio Público debe justificar las medidas de protección basándose en un riesgo inminente.",
+    "Incluye medidas como prohibición de contacto, vigilancia policial y traslado a refugios.",
+    "Protege a la víctima u ofendido y, en su caso, a sus descendientes.",
+    "Garantiza la seguridad mediante restricciones al imputado y apoyo policial."
+  ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "138",
+    "PalabraClave": "providencias precautorias",
+    "Texto": "Para garantizar la reparación del daño, la víctima, el ofendido o el Ministerio Público, podrán solicitar al juez las siguientes providencias precautorias:",
+    "Párrafos": [],
+    "Fracciones": [
+      {
+        "Fracción": "I",
+        "Texto": "El embargo de bienes."
+      },
+      {
+        "Fracción": "II",
+        "Texto": "La inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero."
+      }
+    ],
+    "Procedimiento": "La víctima, el ofendido o el Ministerio Público pueden solicitar al juez el embargo de bienes o la inmovilización de cuentas para garantizar la reparación del daño.",
+    "NotasOrientadoras": [
+      "Permite a la víctima, el ofendido o el Ministerio Público solicitar providencias precautorias.",
+      "Incluye el embargo de bienes y la inmovilización de cuentas financieras.",
+      "Busca garantizar la reparación del daño causado por el delito.",
+      "La solicitud se presenta ante el juez para su autorización."
+    ]
+  },
+  {
+    "Ley": "Código Nacional de Procedimientos Penales",
+    "Artículo": "139",
+    "PalabraClave": "duración medidas protección",
+    "Texto": "La imposición de las medidas de protección y de las providencias precautorias tendrá una duración máxima de sesenta días naturales, prorrogables hasta por treinta días.",
+    "Párrafos": [
+      {
+        "Párrafo": "Segundo",
+        "Texto": "Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el imputado, su Defensor o en su caso el Ministerio Público, podrán solicitar al Juez de control que la deje sin efectos."
+      },
+      {
+        "Párrafo": "Tercero",
+        "Texto": "Tratándose de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+      }
+    ],
+    "Fracciones": [],
+    "Procedimiento": "Las medidas de protección y providencias precautorias tienen una duración de hasta 60 días, prorrogables por 30 días; el imputado, su Defensor o el Ministerio Público pueden solicitar su cancelación al Juez de control si la causa desaparece; en delitos de violencia de género, se aplica supletoriamente la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+    "NotasOrientadoras": [
+      "Establece una duración máxima de 60 días para medidas de protección y providencias, prorrogable por 30 días.",
+      "Permite al imputado, Defensor o Ministerio Público solicitar la cancelación de medidas si la causa desaparece.",
+      "Aplica supletoriamente la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia en casos de violencia de género.",
+      "Garantiza la protección de víctimas mientras se respetan los plazos legales."
+    ]
+  }
+]
+
+

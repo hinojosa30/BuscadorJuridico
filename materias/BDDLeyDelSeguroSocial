@@ -1,0 +1,2251 @@
+[   
+    {
+  "PalabraClave": "Régimen del seguro social",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "6",
+  "Texto": "El Seguro Social comprende: ",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El régimen obligatorio."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El régimen voluntario."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo delimita los dos regímenes bajo los cuales opera el Seguro Social.",
+    "El régimen obligatorio implica afiliación forzosa conforme a la Ley.",
+    "El régimen voluntario permite la incorporación por decisión propia, bajo condiciones específicas.",
+    "Cada régimen define el tipo de prestaciones, requisitos y sujetos obligados.",
+    "**Principio rector: Universalidad de cobertura mediante esquemas diferenciados.**"
+    ]
+    },
+    {
+  "PalabraClave": "Prestaciones, Contingencias",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "7",
+  "Texto": "El Seguro Social cubre las contingencias y proporciona los servicios que se especifican a propósito de cada régimen particular, mediante prestaciones en especie y en dinero, en las formas y condiciones previstas por esta Ley y sus reglamentos.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Define el alcance de la protección que brinda el Seguro Social.",
+    "Las prestaciones pueden ser en especie (servicios) o en dinero (pagos).",
+    "Cada régimen tiene condiciones específicas para otorgar dichas prestaciones.",
+    "La Ley y sus reglamentos determinan las formas de acceso y cobertura.",
+    "**Principio rector: Integralidad en la protección social.**"
+    ]
+    },
+    {
+  "PalabraClave": "Derechohabientes, Requisitos, Identificación, Prestaciones, Instituto",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "8",
+  "Texto": "Los derechohabientes para recibir o, en su caso, seguir disfrutando de las prestaciones que esta Ley otorga, deberán cumplir con los requisitos establecidos en la misma y en sus reglamentos.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Para tal efecto el Instituto expedirá a todos los derechohabientes, un documento de identificación a fin de que puedan ejercitar los derechos que la Ley les confiere, según el caso."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Establece la obligación de cumplir requisitos para acceder a las prestaciones.",
+    "El Instituto debe facilitar un documento de identificación a los derechohabientes.",
+    "Este documento permite ejercer los derechos conferidos por la Ley.",
+    "La continuidad de las prestaciones depende del cumplimiento normativo.",
+    "**Principio rector: Accesibilidad condicionada por cumplimiento normativo.**"
+    ]
+    },
+    {
+  "PalabraClave": "Aplicación supletoria, Cargas fiscales, Procedimiento administrativo",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "9",
+  "Texto": "Las disposiciones fiscales de esta Ley que establecen cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas las normas que se refieran a sujeto, objeto, base de cotización y tasa.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "A falta de norma expresa en esta Ley, se aplicarán supletoriamente las disposiciones de la Ley Federal de Trabajo, del Código o del derecho común, en ese orden, cuando su aplicación no sea contraria a la naturaleza propia del régimen de seguridad social que establece esta Ley."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "El Instituto deberá sujetarse al Título Tercero A de la Ley Federal del Procedimiento Administrativo para efectos de lo previsto en éste, con las excepciones que la citada ley indica y las correspondientes a los trámites y procedimientos directamente relacionados con la prestación de servicios médicos de carácter preventivo, de diagnóstico, rehabilitación, manejo y tratamiento hospitalarios."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece que las disposiciones fiscales deben interpretarse de forma estricta, sin extensiones.",
+    "Define qué se entiende por cargas: sujeto, objeto, base de cotización y tasa.",
+    "En ausencia de norma expresa, se aplican leyes supletorias en orden jerárquico, siempre que no contradigan la naturaleza del régimen.",
+    "El Instituto debe acatar el procedimiento administrativo federal, salvo en trámites médicos específicos.",
+    "**Principio rector: Legalidad estricta y supletoriedad condicionada por la naturaleza del régimen de seguridad social.**"
+    ]
+    },
+    {
+  "PalabraClave": "Inembargabilidad, ",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "10",
+  "Texto": "Las prestaciones que corresponden a los asegurados y a sus beneficiarios son inembargables. Sólo en los casos de obligaciones alimenticias a su cargo, pueden embargarse por la autoridad judicial las pensiones y subsidios hasta por el cincuenta por ciento de su monto.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Establece la protección jurídica de las prestaciones otorgadas por el Seguro Social.",
+    "Las pensiones y subsidios son inembargables, salvo por obligaciones alimenticias.",
+    "La excepción permite el embargo judicial hasta el 50% del monto correspondiente.",
+    "Se garantiza el acceso a prestaciones sin riesgo de afectación por deudas comunes.",
+    "**Principio rector: Protección patrimonial de las prestaciones frente a terceros.**"
+    ]
+    },
+    {
+  "PalabraClave": "Régimen obligatorio, Seguros sociales, Cobertura, Prestaciones, IMSS",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "11",
+  "Texto": "El régimen obligatorio comprende los seguros de:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Riesgos de trabajo;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Enfermedades y maternidad;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Invalidez y vida;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Retiro, cesantía en edad avanzada y vejez;"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Guarderías y prestaciones sociales."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Enumera los seguros que integran el régimen obligatorio del Seguro Social.",
+    "Cada seguro cubre contingencias específicas vinculadas al trabajo y la vida.",
+    "La cobertura incluye salud, riesgos laborales, pensiones y servicios sociales.",
+    "Este régimen es financiado por aportaciones tripartitas y tiene carácter obligatorio.",
+    "**Principio rector: Cobertura integral de riesgos sociales mediante seguros específicos.**"
+    ]
+    },
+    {
+  "PalabraClave": "Sujetos asegurados, Régimen obligatorio, LFT, Cooperativas, Trabajadoras del hogar",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "12",
+  "Texto": "Son sujetos de aseguramiento del régimen obligatorio:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Las personas que de conformidad con los artículos 20 y 21 de la Ley Federal del Trabajo, presten, en forma permanente o eventual, a otras de carácter físico o moral o unidades económicas sin personalidad jurídica, un servicio remunerado, personal y subordinado, cualquiera que sea el acto que le dé origen y cualquiera que sea la personalidad jurídica o la naturaleza económica del patrón aun cuando éste, en virtud de alguna ley especial, esté exento del pago de contribuciones;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Los socios de sociedades cooperativas;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las personas que determine el Ejecutivo Federal a través del Decreto respectivo, bajo los términos y condiciones que señala esta Ley y los reglamentos correspondientes;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las personas trabajadoras del hogar."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Define quiénes están obligados a incorporarse al régimen obligatorio del Seguro Social.",
+    "Incluye trabajadores subordinados, socios cooperativistas y personas determinadas por decreto.",
+    "Reconoce expresamente a las personas trabajadoras del hogar como sujetos de aseguramiento.",
+    "La inclusión no depende de la personalidad jurídica del patrón ni de su obligación fiscal.",
+    "**Principio rector: Inclusión laboral amplia en el sistema de seguridad social.**"
+    ]
+    },
+    {
+  "PalabraClave": "Aseguramiento voluntario, Independientes, Administraciones públicas, Derogaciones, Régimen obligatorio",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "13",
+  "Texto": "Voluntariamente podrán ser sujetos de aseguramiento al régimen obligatorio:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Los trabajadores independientes o por cuenta propia;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Los trabajadores al servicio de las administraciones públicas de la Federación, entidades federativas y municipios que estén excluidas o no comprendidas en otras leyes o decretos como sujetos de seguridad social."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite el aseguramiento voluntario al régimen obligatorio en casos específicos.",
+    "Incluye a trabajadores independientes y servidores públicos no cubiertos por otras leyes.",
+    "Las fracciones II, III y IV han sido derogadas, lo que delimita el alcance actual del artículo.",
+    "La incorporación voluntaria requiere convenio conforme a lo previsto en la Ley.",
+    "**Principio rector: Inclusión voluntaria condicionada por exclusión normativa previa.**"
+    ]
+    },
+    {
+  "PalabraClave": "Convenios, Prestaciones, Cuotas, Gobierno Federal, Inscripción",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "14",
+  "Texto": "En los convenios a que se refiere el artículo 13 se establecerá:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "La fecha de inicio de la prestación de los servicios y los sujetos de aseguramiento que comprende;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "La vigencia;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las prestaciones que se otorgarán;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las cuotas a cargo de los asegurados y demás sujetos obligados;"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La contribución a cargo del Gobierno Federal, cuando en su caso proceda;"
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Los procedimientos de inscripción y los de cobro de las cuotas;"
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Las demás modalidades que se requieran conforme a esta Ley y sus reglamentos."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula el contenido mínimo de los convenios de aseguramiento voluntario.",
+    "Establece los elementos operativos: inicio, vigencia, prestaciones y cuotas.",
+    "Incluye la participación del Gobierno Federal cuando proceda como contribuyente.",
+    "Permite adaptar modalidades conforme a la Ley y sus reglamentos.",
+    "**Principio rector: Formalización normativa de convenios de aseguramiento voluntario.**"
+    ]
+    },
+    {
+  "PalabraClave": "Convenios, Prestaciones, Cuotas, Gobierno Federal, Inscripción",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "14",
+  "Texto": "En los convenios a que se refiere el artículo anterior se establecerá:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "La fecha de inicio de la prestación de los servicios y los sujetos de aseguramiento que comprende;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "La vigencia;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las prestaciones que se otorgarán;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las cuotas a cargo de los asegurados y demás sujetos obligados;"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La contribución a cargo del Gobierno Federal, cuando en su caso proceda;"
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Los procedimientos de inscripción y los de cobro de las cuotas;"
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Las demás modalidades que se requieran conforme a esta Ley y sus reglamentos."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula el contenido mínimo de los convenios de aseguramiento voluntario.",
+    "Establece los elementos operativos: inicio, vigencia, prestaciones y cuotas.",
+    "Incluye la participación del Gobierno Federal cuando proceda como contribuyente.",
+    "Permite adaptar modalidades conforme a la Ley y sus reglamentos.",
+    "**Principio rector: Formalización normativa de convenios de aseguramiento voluntario.**"
+    ]
+    },
+    {
+  "PalabraClave": "Servicios especializados, Contratos, Subcontratación, STPS, Seguridad social",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "15 A",
+  "Texto": "La contratación de servicios especializados o la ejecución de obras especializadas deberán cumplir con las condiciones y requisitos establecidos en la Ley Federal del Trabajo. La persona física o moral que preste servicios especializados o ejecute obras especializadas deberá proporcionar cuatrimestralmente a más tardar el día 17 de los meses de enero, mayo y septiembre, la información de los contratos celebrados en el cuatrimestre de que se trate, conforme a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "De las partes en el contrato: Nombre, denominación o razón social; Registro Federal de Contribuyentes, domicilio social o convencional en caso de ser distinto al fiscal, correo electrónico y teléfono de contacto."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "De cada contrato: Objeto; periodo de vigencia; relación de trabajadores u otros sujetos que prestarán los servicios especializados o ejecutarán las obras especializadas a favor del beneficiario, indicando su nombre, CURP, número de seguridad social y salario base de cotización, así como nombre y Registro Federal de Contribuyentes del beneficiario de los servicios por cada uno de los contratos."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Copia simple del registro emitido por la Secretaría del Trabajo y Previsión Social para la prestación de servicios especializados o la ejecución de obras especializadas."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula la subcontratación especializada en materia de seguridad social.",
+    "Establece la obligación de informar cuatrimestralmente sobre los contratos celebrados.",
+    "Detalla los datos que deben proporcionarse sobre las partes, los contratos y los trabajadores involucrados.",
+    "Exige contar con el registro oficial emitido por la Secretaría del Trabajo y Previsión Social.",
+    "**Principio rector: Transparencia y trazabilidad en la contratación especializada vinculada al régimen de seguridad social.**"
+    ]
+    },
+    {
+  "PalabraClave": "Convenio en parcialidades, Casa habitación, Remodelaciones, Cuotas obrero patronales, Alta de trabajadores",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "15 B",
+  "Texto": "Las personas que no se encuentren en el supuesto establecido en el penúltimo párrafo del artículo 15 de esta Ley, que realicen en su casa habitación ampliaciones, remodelaciones, o bien, la construcción de su propia casa habitación y aquéllas que de manera esporádica realicen ampliaciones o remodelaciones de cualquier tipo de obra, podrán celebrar convenio de pago en parcialidades de las cuotas obrero patronales que resulten a su cargo, desde el momento en que den de alta a los trabajadores que se encarguen de las mismas, individualizando la cuenta del trabajador.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite a particulares celebrar convenios para pagar en parcialidades las cuotas obrero patronales.",
+    "Aplica a quienes realicen obras en su casa habitación o remodelaciones esporádicas fuera del supuesto del artículo 15.",
+    "La obligación surge desde el momento en que se da de alta a los trabajadores involucrados.",
+    "Se exige individualizar la cuenta del trabajador para efectos de control y registro.",
+    "**Principio rector: Flexibilidad contributiva para obras particulares con responsabilidad individualizada.**"
+    ]
+    },
+    {
+  "PalabraClave": "Dictamen, Contador público, Visita domiciliaria, Obligaciones patronales, Reglamento",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "16",
+  "Texto": "Los patrones que de conformidad con el reglamento cuenten con un promedio anual de trescientos o más trabajadores en el ejercicio fiscal inmediato anterior, están obligados a dictaminar el cumplimiento de sus obligaciones ante el Instituto por contador público autorizado, en los términos que se señalen en el reglamento que al efecto emita el Ejecutivo Federal. Los patrones que presenten dictamen, no serán sujetos de visita domiciliaria por los ejercicios dictaminados a excepción de que:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El dictamen se haya presentado con abstención de opinión, con opinión negativa o con salvedades sobre aspectos que, a juicio del contador público, recaigan sobre elementos esenciales del dictamen."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Derivado de la revisión interna del dictamen, se determinaren diferencias a su cargo y éstas no fueran aclaradas y, en su caso, pagadas."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece la obligación de dictaminar el cumplimiento de obligaciones ante el Instituto para patrones con más de 300 trabajadores.",
+    "El dictamen debe ser elaborado por contador público autorizado conforme al reglamento emitido por el Ejecutivo.",
+    "Los patrones que dictaminen no serán sujetos de visita domiciliaria, salvo en casos específicos.",
+    "Las excepciones incluyen dictámenes con abstención, opinión negativa o salvedades relevantes, y diferencias no aclaradas ni pagadas.",
+    "**Principio rector: Fiscalización condicionada por dictamen profesional y cumplimiento verificable.**"
+    ]
+    },
+    {
+  "PalabraClave": "Avisos, Excepciones, Cuotas, Baja, Verificación",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "17",
+  "Texto": "Al dar los avisos a que se refiere la fracción I del artículo 15 de esta Ley, el patrón puede expresar por escrito los motivos en que funde alguna excepción o duda acerca de sus obligaciones, sin que por ello quede relevado de pagar las cuotas correspondientes. El Instituto, dentro de un plazo de cuarenta y cinco días hábiles, notificará al patrón la resolución que dicte y, en su caso, procederá a dar de baja al patrón, al trabajador o a ambos, así como al reembolso correspondiente.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "La información que proporcionen los patrones para su registro podrá ser analizada por el Instituto, a fin de verificar la existencia de los supuestos y requisitos establecidos en esta Ley. Si el Instituto determina que no se dan los supuestos previstos en el artículo 12, fracción I, de esta Ley, notificará al presunto patrón para que éste, en el plazo de cinco días hábiles manifieste lo que a su derecho convenga y, en el caso de que no desvirtúe tales situaciones, el Instituto procederá a dar de baja al presunto patrón, a los presuntos trabajadores o a ambos."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite al patrón expresar dudas o excepciones al presentar avisos, sin que ello lo exima del pago de cuotas.",
+    "El Instituto tiene un plazo de 45 días hábiles para resolver y, en su caso, dar de baja al patrón, trabajador o ambos.",
+    "La información proporcionada por el patrón puede ser verificada por el Instituto para confirmar los supuestos legales.",
+    "Si no se cumplen los requisitos del artículo 12, fracción I, el Instituto puede dar de baja al presunto patrón y trabajadores tras un proceso de notificación.",
+    "**Principio rector: Transparencia y verificación institucional ante excepciones patronales.**"
+    ]
+    },
+    {
+  "PalabraClave": "Inscripción, Modificaciones salariales, Documentación laboral, Pensiones, Obligaciones patronales",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "18",
+  "Texto": "Los trabajadores tienen el derecho de solicitar al Instituto su inscripción, comunicar las modificaciones de su salario y demás condiciones de trabajo y, en su caso, presentar la documentación que acredite dicha relación, demuestre el período laborado y los salarios percibidos. Lo anterior no libera a los patrones del cumplimiento de sus obligaciones ni les exime de las sanciones y responsabilidades en que hubieran incurrido.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Asimismo el trabajador por conducto del Instituto podrá realizar los trámites administrativos necesarios para ejercer los derechos derivados de las pensiones establecidas por esta Ley."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo reconoce el derecho del trabajador a solicitar su inscripción y comunicar cambios en sus condiciones laborales.",
+    "El trabajador puede presentar documentación que respalde su relación laboral, tiempo trabajado y salario recibido.",
+    "El cumplimiento de estas acciones no exime al patrón de sus obligaciones ni de posibles sanciones.",
+    "También se faculta al trabajador para realizar trámites relacionados con pensiones a través del Instituto.",
+    "**Principio rector: Protección activa de derechos laborales y previsionales del trabajador.**"
+    ]
+    },
+    {
+  "PalabraClave": "Sociedades cooperativas, Cuotas patronales, Socios, Fracción II, Obligaciones",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "19",
+  "Texto": "Para los efectos de esta Ley, las sociedades cooperativas pagarán la cuota correspondiente a los patrones, y cada uno de los socios a que se refiere la fracción II del artículo 12 de esta Ley cubrirán sus cuotas como trabajadores.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece la obligación de las sociedades cooperativas de cubrir las cuotas patronales.",
+    "Cada socio, conforme a la fracción II del artículo 12, debe pagar su cuota como trabajador.",
+    "Se equipara la responsabilidad de las cooperativas con la de los patrones tradicionales.",
+    "La norma busca garantizar la cobertura del Seguro Social para socios cooperativistas.",
+    "**Principio rector: Equidad contributiva entre figuras patronales y cooperativas.**"
+    ]
+    },
+    {
+  "PalabraClave": "Semanas cotizadas, Prestaciones, Días acumulados, Sobrante, Cálculo proporcional",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "20",
+  "Texto": "Las semanas reconocidas para el otorgamiento de las prestaciones a que se refiere este título, se obtendrán dividiendo entre siete los días de cotización acumulados, hecha esta división, si existiera un sobrante de días mayor a tres, éste se considerará como otra semana completa, no tomándose en cuenta el exceso si el número de días fuera de tres o menor.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo define el método para calcular semanas cotizadas a partir de días acumulados.",
+    "Se establece que cada siete días de cotización equivalen a una semana reconocida.",
+    "Un sobrante mayor a tres días se considera como una semana adicional completa.",
+    "Si el sobrante es de tres días o menos, no se contabiliza como semana adicional.",
+    "**Principio rector: Proporcionalidad técnica en el reconocimiento de derechos por cotización.**"
+      ]
+    },
+    {
+  "PalabraClave": "Baja, Incapacidad temporal, Efectos legales, Seguro Social, Protección laboral",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "21",
+  "Texto": "Los avisos de baja de los trabajadores incapacitados temporalmente para el trabajo, no surtirán efectos para las finalidades del Seguro Social, mientras dure el estado de incapacidad.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo protege al trabajador incapacitado temporalmente frente a bajas indebidas.",
+    "Los avisos de baja no tienen efectos legales mientras dure la incapacidad.",
+    "Se garantiza la continuidad de derechos durante el periodo de incapacidad.",
+    "El Instituto reconoce la suspensión de efectos administrativos en estos casos.",
+    "**Principio rector: Salvaguarda de derechos durante incapacidad laboral.**"
+      ]
+    },
+    {
+  "PalabraClave": "Confidencialidad, Instituto, Juicios, Convenios, Autoridades",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "22",
+  "Texto": "Los documentos, datos e informes que los trabajadores, patrones y demás personas proporcionen al Instituto, en cumplimiento de las obligaciones que les impone esta Ley, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer en forma nominativa e individual.",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Se trate de juicios y procedimientos en que el Instituto fuere parte."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Se hubieran celebrado convenios de colaboración con la Federación, entidades federativas o municipios o sus respectivas administraciones públicas, para el intercambio de información relacionada con el cumplimiento de sus objetivos, con las restricciones pactadas en los convenios en los cuales se incluirá invariablemente una cláusula de confidencialidad y no difusión de la información intercambiada."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Lo soliciten la Secretaría de la Función Pública, la Contraloría Interna en el Instituto, las autoridades fiscales federales, las instituciones de seguridad social y el Ministerio Público Federal, en ejercicio de sus atribuciones."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "En los casos previstos en ley."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo garantiza la confidencialidad de la información proporcionada al Instituto por trabajadores, patrones y terceros.",
+    "La divulgación nominativa e individual está prohibida, salvo en casos expresamente previstos.",
+    "Se permiten excepciones en juicios donde el Instituto sea parte o mediante convenios con autoridades públicas.",
+    "También pueden acceder a la información ciertas autoridades en ejercicio de sus atribuciones o cuando lo disponga la ley.",
+    "**Principio rector: Protección de datos personales con excepciones institucionales reguladas.**"
+      ]
+    },
+    {
+  "PalabraClave": "Contratos colectivos, Prestaciones, Cuotas, Aportes, Seguros adicionales",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "23",
+  "Texto": "Cuando los contratos colectivos concedan prestaciones inferiores a las otorgadas por esta Ley, el patrón pagará al Instituto todos los aportes proporcionales a las prestaciones contractuales. Para satisfacer las diferencias entre estas últimas y las establecidas por la Ley, las partes cubrirán las cuotas correspondientes.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Si en los contratos colectivos se pactan prestaciones iguales a las establecidas por esta Ley, el patrón pagará al Instituto íntegramente las cuotas obrero patronales."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "En los casos en que los contratos colectivos consignen prestaciones superiores a las que concede esta Ley, se estará a lo dispuesto en el párrafo anterior hasta la igualdad de prestaciones, y respecto de las excedentes el patrón quedará obligado a cumplirlas. Tratándose de prestaciones económicas, el patrón podrá contratar con el Instituto los seguros adicionales correspondientes, en los términos del Título Tercero capítulo II de esta Ley."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula la relación entre prestaciones contractuales y las establecidas por la Ley del Seguro Social.",
+    "Si las prestaciones contractuales son inferiores, el patrón cubre aportes proporcionales y las partes pagan las diferencias.",
+    "Cuando las prestaciones son iguales, el patrón debe pagar íntegramente las cuotas obrero patronales.",
+    "Si las prestaciones son superiores, el patrón debe cumplir con las excedentes y puede contratar seguros adicionales con el Instituto.",
+    "**Principio rector: Equilibrio contributivo según el nivel de prestaciones pactadas.**"
+    ]
+    },
+    {
+  "PalabraClave": "Prestaciones contractuales, Descuento, Instituto, Patrón, Equivalencia",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "24",
+  "Texto": "Los patrones tendrán el derecho a descontar del importe de las prestaciones contractuales que deben cubrir directamente, las cuantías correspondientes a las prestaciones de la misma naturaleza otorgadas por el Instituto.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo permite al patrón descontar de las prestaciones contractuales las cuantías equivalentes otorgadas por el Instituto.",
+    "El descuento aplica únicamente cuando ambas prestaciones son de la misma naturaleza.",
+    "Se busca evitar duplicidad en el cumplimiento de obligaciones patronales.",
+    "La norma reconoce la cobertura institucional como parte del cumplimiento contractual.",
+    "**Principio rector: Equivalencia contributiva entre prestaciones contractuales e institucionales.**"
+      ]
+    },
+    {
+  "PalabraClave": "Contribución estatal, Valuación actuarial, Cuotas, Prestaciones en especie, Porcentaje",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "25",
+  "Texto": "En los casos previstos por el artículo 23, el Estado aportará la contribución que le corresponda en términos de esta Ley, independientemente de la que resulte a cargo del patrón por la valuación actuarial de su contrato, pagando éste, tanto su propia cuota como la parte de la cuota obrera que le corresponda conforme a dicha valuación.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Para cubrir las prestaciones en especie del seguro de enfermedades y maternidad de los pensionados y sus beneficiarios, en los seguros de riesgos de trabajo, invalidez y vida, así como retiro, cesantía en edad avanzada y vejez, los patrones, los trabajadores y el Estado aportarán una cuota de uno punto cinco por ciento sobre el salario base de cotización. De dicha cuota corresponderá al patrón pagar el uno punto cero cinco por ciento, a los trabajadores el cero punto trescientos setenta y cinco por ciento y al Estado el cero punto cero setenta y cinco por ciento."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece la participación del Estado en las contribuciones derivadas de contratos colectivos.",
+    "El patrón debe cubrir su cuota y la parte obrera conforme a la valuación actuarial.",
+    "Se define una cuota conjunta del 1.5% para prestaciones en especie de seguros clave.",
+    "La cuota se distribuye entre patrón, trabajador y Estado con porcentajes específicos.",
+    "**Principio rector: Solidaridad tripartita en el financiamiento de prestaciones sociales.**"
+      ]
+    },
+    {
+  "PalabraClave": "Sujetos obligados, Aplicación conducente, Patrones, Trabajadores, Aseguramiento",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "26",
+  "Texto": "Las disposiciones de esta Ley, que se refieren a los patrones y a los trabajadores, serán aplicables, en lo conducente, a los demás sujetos obligados y de aseguramiento.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo amplía el alcance de la Ley a otros sujetos obligados además de patrones y trabajadores.",
+    "La aplicación se realiza en lo conducente, respetando la naturaleza de cada figura jurídica.",
+    "Se garantiza la inclusión normativa de actores relevantes en el sistema de aseguramiento.",
+    "La disposición permite adaptar obligaciones según el tipo de sujeto involucrado.",
+    "**Principio rector: Inclusión normativa proporcional en el régimen de seguridad social.**"
+      ]
+    },
+    {
+  "PalabraClave": "Salario base, Cotización, Exclusiones, Prestaciones, Aportaciones",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "27",
+  "Texto": "El salario base de cotización se integra con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquiera otra cantidad o prestación que se entregue al trabajador por su trabajo. Se excluyen como integrantes del salario base de cotización, dada su naturaleza, los siguientes conceptos:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Los instrumentos de trabajo tales como herramientas, ropa y otros similares."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El ahorro, cuando se integre por un depósito de cantidad semanaria, quincenal o mensual igual del trabajador y de la empresa; si se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, integrará salario; tampoco se tomarán en cuenta las cantidades otorgadas por el patrón para fines sociales de carácter sindical."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Las aportaciones adicionales que el patrón convenga otorgar a favor de sus trabajadores por concepto de cuotas del seguro de retiro, cesantía en edad avanzada y vejez."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Las cuotas que en términos de esta Ley le corresponde cubrir al patrón, las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, y las participaciones en las utilidades de la empresa."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "La alimentación y la habitación cuando se entreguen en forma onerosa a los trabajadores; se entiende que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario que rija en el Distrito Federal."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Las despensas en especie o en dinero, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general diario vigente en el Distrito Federal."
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Los premios por asistencia y puntualidad, siempre que el importe de cada uno de estos conceptos no rebase el diez por ciento del salario base de cotización."
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro."
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "El tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo define los elementos que integran el salario base de cotización para efectos del Seguro Social.",
+    "Incluye pagos en efectivo y prestaciones derivadas directamente del trabajo realizado.",
+    "Establece una lista de conceptos excluidos por su naturaleza, como herramientas, ahorro condicionado y aportaciones específicas.",
+    "Las exclusiones buscan evitar distorsiones en la base de cálculo de las cuotas y asegurar proporcionalidad.",
+    "**Principio rector: Claridad y equidad en la determinación del salario base para cotización.**"
+      ]
+    },
+    {
+  "PalabraClave": "Salario base, Cotización, Límite superior, Límite inferior, Afiliación",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "28",
+  "Texto": "Los asegurados se inscribirán con el salario base de cotización que perciban en el momento de su afiliación, estableciéndose como límite superior el equivalente a veinticinco veces el salario mínimo general que rija en el Distrito Federal y como límite inferior el salario mínimo general del área geográfica respectiva.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece que el salario base de cotización se determina al momento de la afiliación del asegurado.",
+    "Se fija un límite superior de veinticinco veces el salario mínimo general vigente en el Distrito Federal.",
+    "El límite inferior corresponde al salario mínimo general del área geográfica respectiva.",
+    "La disposición busca mantener proporcionalidad y evitar distorsiones en la base de cotización.",
+    "**Principio rector: Equidad contributiva mediante límites salariales razonables.**"
+      ]
+    },
+    {
+  "PalabraClave": "Sujetos obligados, Fracción II, Percepciones, Trabajo personal, Base de cotización",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "28 A",
+  "Texto": "La base de cotización para los sujetos obligados señalados en la fracción II del artículo 12 de esta Ley, se integrará por el total de las percepciones que reciban por la aportación de su trabajo personal, aplicándose en lo conducente lo establecido en los artículos 28, 29, 30, 32 y demás aplicables de esta Ley.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo define la base de cotización para los sujetos obligados conforme a la fracción II del artículo 12.",
+    "Se considera el total de percepciones derivadas del trabajo personal como base de cotización.",
+    "Se aplican de forma conducente las disposiciones de los artículos 28, 29, 30, 32 y demás correlativos.",
+    "La norma extiende el régimen contributivo a figuras no tradicionales bajo criterios equivalentes.",
+    "**Principio rector: Inclusión proporcional de sujetos obligados en el régimen de cotización.**"
+      ]
+    },
+    {
+  "PalabraClave": "Cotización, Salario diario, Periodicidad, Unidad de tiempo, Mínimo legal",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "29",
+  "Texto": "Para determinar la forma de cotización se aplicarán las siguientes reglas:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El mes natural será el período de pago de cuotas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Para fijar el salario diario en caso de que se pague por semana, quincena o mes, se dividirá la remuneración correspondiente entre siete, quince o treinta respectivamente. Análogo procedimiento será empleado cuando el salario se fije por períodos distintos a los señalados."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Si por la naturaleza o peculiaridades de las labores, el salario no se estipula por semana o por mes, sino por día trabajado y comprende menos días de los de una semana o el asegurado labora jornadas reducidas y su salario se determina por unidad de tiempo, en ningún caso se recibirán cuotas con base en un salario inferior al mínimo."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece reglas para calcular la forma de cotización según la periodicidad del salario.",
+    "El mes natural se considera como el período estándar para el pago de cuotas.",
+    "Se definen fórmulas para convertir remuneraciones semanales, quincenales o mensuales en salario diario.",
+    "Se garantiza que ningún asegurado cotice por debajo del salario mínimo, incluso en jornadas reducidas.",
+    "**Principio rector: Uniformidad y protección mínima en la base de cotización.**"
+      ]
+    },
+    {
+  "PalabraClave": "Salario diario, Elementos fijos, Variables, Mixto, Cotización",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "30",
+  "Texto": "Para determinar el salario diario base de cotización se estará a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Cuando además de los elementos fijos del salario el trabajador percibiera regularmente otras retribuciones periódicas de cuantía previamente conocida, éstas se sumarán a dichos elementos fijos."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Si por la naturaleza del trabajo, el salario se integra con elementos variables que no puedan ser previamente conocidos, se sumarán los ingresos totales percibidos durante los dos meses inmediatos anteriores y se dividirán entre el número de días de salario devengado en ese período. Si se trata de un trabajador de nuevo ingreso, se tomará el salario probable que le corresponda en dicho período."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "En los casos en que el salario de un trabajador se integre con elementos fijos y variables, se considerará de carácter mixto, por lo que, para los efectos de cotización, se sumará a los elementos fijos el promedio obtenido de los variables en términos de lo que se establece en la fracción anterior."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo define cómo calcular el salario diario base de cotización según la composición del salario.",
+    "Las retribuciones periódicas conocidas se suman a los elementos fijos para obtener el salario base.",
+    "Cuando el salario incluye elementos variables, se promedia lo devengado en los dos meses anteriores.",
+    "En caso de salario mixto, se suman los elementos fijos y el promedio de los variables para cotizar.",
+    "**Principio rector: Precisión proporcional en la determinación del salario base.**"
+      ]
+    },
+    {
+  "PalabraClave": "Ausencias, Cotización, Enfermedades, Incapacidad médica, Nómina",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "31",
+  "Texto": "Cuando por ausencias del trabajador a sus labores no se paguen salarios, pero subsista la relación laboral, la cotización mensual se ajustará a las reglas siguientes:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Si las ausencias del trabajador son por períodos menores de ocho días consecutivos o interrumpidos, se cotizará y pagará por dichos períodos únicamente en el seguro de enfermedades y maternidad. En estos casos los patrones deberán presentar la aclaración correspondiente, indicando que se trata de cuotas omitidas por ausentismo y comprobarán la falta de pago de salarios respectivos, mediante la exhibición de las listas de raya o de las nóminas correspondientes. Para este efecto el número de días de cada mes se obtendrá restando del total de días que contenga el período de cuotas de que se trate, el número de ausencias sin pago de salario correspondiente al mismo período."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "En los casos de las fracciones II y III del artículo 30, se seguirán las mismas reglas de la fracción anterior."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "En el caso de ausencias de trabajadores comprendidos en la fracción III del artículo 29, cualquiera que sea la naturaleza del salario que perciban, el reglamento determinará lo procedente conforme al criterio sustentado en las bases anteriores."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Tratándose de ausencias amparadas por incapacidades médicas expedidas por el Instituto no será obligatorio cubrir las cuotas obrero patronales, excepto por lo que se refiere al ramo de retiro."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula cómo ajustar la cotización mensual cuando hay ausencias sin pago de salario.",
+    "Las ausencias menores a ocho días se cotizan solo en el seguro de enfermedades y maternidad.",
+    "Los patrones deben justificar el ausentismo mediante nóminas o listas de raya.",
+    "Las incapacidades médicas eximen del pago de cuotas, salvo en el ramo de retiro.",
+    "**Principio rector: Ajuste proporcional de cotización ante ausencias justificadas.**"
+     ]
+    },
+    {
+  "PalabraClave": "Alimentación, Habitación, Prestaciones, Aumento salarial, Porcentaje",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "32",
+  "Texto": "Si además del salario en dinero el trabajador recibe del patrón, sin costo para aquél, habitación o alimentación, se estimará aumentado su salario en un veinticinco por ciento y si recibe ambas prestaciones se aumentará en un cincuenta por ciento.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando la alimentación no cubra los tres alimentos, sino uno o dos de éstos, por cada uno de ellos se adicionará el salario en un ocho punto treinta y tres por ciento."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece cómo se incrementa el salario base cuando el trabajador recibe alimentación o habitación sin costo.",
+    "Si recibe una de las dos prestaciones, el salario se incrementa en 25%; si recibe ambas, en 50%.",
+    "Cuando la alimentación cubre solo uno o dos alimentos, se adiciona 8.33% por cada uno.",
+    "La norma busca reflejar el valor económico de las prestaciones en especie en la base de cotización.",
+    "**Principio rector: Inclusión proporcional de prestaciones en especie en el salario base.**"
+      ]
+    },
+    {
+  "PalabraClave": "Prestaciones en dinero, Múltiples patrones, Salario combinado, Límite superior, Cotización proporcional",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "33",
+  "Texto": "Para el disfrute de las prestaciones en dinero, en caso que el asegurado preste servicios a varios patrones se tomará en cuenta la suma de los salarios percibidos en los distintos empleos, cuando ésta sea menor al límite superior establecido en el artículo 28 los patrones cubrirán separadamente los aportes a que estén obligados con base en el salario que cada uno de ellos pague al asegurado.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando la suma de los salarios que percibe un trabajador llegue o sobrepase el límite superior establecido en el artículo 28 de esta Ley, a petición de los patrones, éstos cubrirán los aportes del salario máximo de cotización, pagando entre ellos la parte proporcional que resulte entre el salario que cubre individualmente y la suma total de los salarios que percibe el trabajador."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula cómo se determina la base de cotización cuando el trabajador tiene múltiples empleadores.",
+    "Si la suma de salarios es menor al límite superior, cada patrón cotiza por separado según lo que paga.",
+    "Cuando se supera el límite, los patrones pueden optar por cotizar proporcionalmente hasta el salario máximo.",
+    "La cotización proporcional se distribuye según el salario que cada patrón paga respecto al total.",
+    "**Principio rector: Equidad contributiva entre patrones ante pluralidad de relaciones laborales.**"
+      ]
+    },
+    {
+  "PalabraClave": "Modificación salarial, Aviso al Instituto, Elementos fijos, Elementos variables, Plazos",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "34",
+  "Texto": "Cuando encontrándose el asegurado al servicio de un mismo patrón se modifique el salario estipulado, se estará a lo siguiente:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "En los casos previstos en la fracción I del artículo 30, el patrón estará obligado a presentar al Instituto los avisos de modificación del salario diario base de cotización dentro de un plazo máximo de cinco días hábiles, contados a partir del día siguiente a la fecha en que cambie el salario."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "En los casos previstos en la fracción II del artículo 30, los patrones estarán obligados a comunicar al Instituto dentro de los primeros cinco días hábiles de los meses de enero, marzo, mayo, julio, septiembre y noviembre, las modificaciones del salario diario promedio obtenido en el bimestre anterior."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "En los casos previstos en la fracción III del artículo 30, si se modifican los elementos fijos del salario, el patrón deberá presentar el aviso de modificación dentro de los cinco días hábiles siguientes de la fecha en que cambie el salario. Si al concluir el bimestre respectivo hubo modificación de los elementos variables que se integran al salario, el patrón presentará al Instituto el aviso de modificación en los términos de la fracción II anterior."
+    }
+  ],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo regula los plazos y condiciones para reportar modificaciones salariales ante el Instituto.",
+    "Las modificaciones del salario base diario deben notificarse en cinco días hábiles desde el cambio.",
+    "Las variaciones en salario promedio por bimestre se reportan en meses específicos del calendario.",
+    "Se distingue entre elementos fijos y variables del salario para efectos de notificación.",
+    "**Principio rector: Transparencia y puntualidad en la actualización de la base de cotización.**"
+      ]
+    },
+    {
+  "PalabraClave": "Modificación salarial, Salario mínimo, Efectos inmediatos, Cotización, Prestaciones",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "35",
+  "Texto": "Los cambios en el salario base de cotización derivados de las modificaciones señaladas en el artículo anterior, así como aquellos que por Ley deben efectuarse al salario mínimo, surtirán efectos a partir de la fecha en que ocurrió el cambio, tanto para la cotización como para las prestaciones en dinero.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece que los cambios en el salario base de cotización tienen efectos inmediatos.",
+    "Aplica tanto a modificaciones voluntarias como a ajustes obligatorios por Ley al salario mínimo.",
+    "Los efectos se reflejan en la cotización y en las prestaciones en dinero desde la fecha del cambio.",
+    "No se contempla periodo de gracia ni retroactividad para el ajuste.",
+    "**Principio rector: Aplicación inmediata de ajustes salariales en la seguridad social.**"
+      ]
+    },
+    {
+  "PalabraClave": "Salario mínimo, Cuota íntegra, Obligación patronal, Cotización, Seguridad social",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "36",
+  "Texto": "Corresponde al patrón pagar íntegramente la cuota señalada para los trabajadores, en los casos en que éstos perciban como cuota diaria el salario mínimo.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo impone al patrón la obligación de cubrir la totalidad de la cuota cuando el trabajador gana el salario mínimo.",
+    "El trabajador no debe aportar parte de la cuota en estos casos.",
+    "Se protege al trabajador de menor ingreso mediante esta disposición.",
+    "La cuota íntegra se refiere a la parte obrero-patronal que normalmente se divide.",
+    "**Principio rector: Protección económica al trabajador con salario mínimo.**"
+      ]
+    },
+    {
+  "PalabraClave": "Aviso de baja, Cotización indebida, Devolución, Alta duplicada, Obligación patronal",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "37",
+  "Texto": "En tanto el patrón no presente al Instituto el aviso de baja del trabajador, subsistirá su obligación de cubrir las cuotas obrero patronales respectivas; sin embargo, si se comprueba que dicho trabajador fue inscrito por otro patrón, el Instituto devolverá al patrón omiso, a su solicitud, el importe de las cuotas obrero patronales pagadas en exceso, a partir de la fecha de la nueva alta.",
+  "Fracciones": [],
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece que la obligación de cotizar persiste hasta que se presenta el aviso de baja.",
+    "Si el trabajador ya fue dado de alta por otro patrón, se puede solicitar devolución de cuotas duplicadas.",
+    "La devolución aplica desde la fecha de la nueva alta, no desde la omisión.",
+    "El Instituto requiere comprobación para autorizar la devolución.",
+    "**Principio rector: No duplicidad en cotizaciones ante alta múltiple comprobada.**"
+      ]
+    },
+    {
+  "PalabraClave": "Retención de cuotas, Pago oportuno, Cotizaciones acumuladas, Responsabilidad patronal, Instituto",
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "38",
+  "Texto": "El patrón al efectuar el pago de salarios a sus trabajadores, deberá retener las cuotas que a éstos les corresponde cubrir.",
+  "Fracciones": [],
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando no lo haga en tiempo oportuno, sólo podrá descontar al trabajador cuatro cotizaciones semanales acumuladas, quedando las restantes a su cargo."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "El patrón tendrá el carácter de retenedor de las cuotas que descuente a sus trabajadores y deberá determinar y enterar al Instituto las cuotas obrero patronales, en los términos establecidos por esta Ley y sus reglamentos."
+    }
+    ],
+  "NotasOrientadoras": [
+    "Este artículo establece la obligación del patrón de retener las cuotas correspondientes al trabajador.",
+    "Si no lo hace oportunamente, solo puede recuperar hasta cuatro semanas; el resto queda a su cargo.",
+    "El patrón actúa como retenedor legal ante el Instituto.",
+    "Debe determinar y enterar las cuotas conforme a la Ley y reglamentos aplicables.",
+    "**Principio rector: Responsabilidad patronal en la retención y entero de cuotas.**"
+      ]
+    },
+  {
+    "Artículo": "39",
+    "Ley": "Ley del Seguro Social",
+    "Texto": "Las cuotas obrero patronales se causan por mensualidades vencidas y el patrón está obligado a determinar sus importes en los formatos impresos o usando el programa informático, autorizado por el Instituto. Asimismo, el patrón deberá presentar ante el Instituto las cédulas de determinación de cuotas del mes de que se trate, y realizar el pago respectivo, a más tardar el día diecisiete del mes inmediato siguiente.",
+    "PalabraClave": "cuotas obrero patronales determinación pago",
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "La obligación de determinar las cuotas deberá cumplirse aun en el supuesto de que no se realice el pago correspondiente dentro del plazo señalado en el párrafo anterior."
+      }
+    ],
+    "NotasOrientadoras": [
+      "Este artículo establece la obligación patronal de determinar y pagar cuotas.",
+      "El Instituto autoriza formatos impresos o digitales para cumplir con esta obligación.",
+      "El plazo límite para el pago es el día 17 del mes siguiente.",
+      "El párrafo 2 aclara que la determinación es obligatoria incluso si no se paga a tiempo.",
+      "Principio rector: Cumplimiento fiscal y responsabilidad patronal."
+    ]
+  },
+  {
+    "Artículo": "39 A",
+    "Ley": "Ley del Seguro Social",
+    "Texto": "Sin perjuicio de lo dispuesto en el primer párrafo del artículo 39, el Instituto, en apoyo a los patrones, podrá entregar una propuesta de cédula de determinación, elaborada con los datos con que cuente de los movimientos afiliatorios comunicados al Instituto por los propios patrones y, en su caso, por sus trabajadores en los términos de la presente Ley.",
+    "PalabraClave": "propuesta cédula determinación medios digitales",
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "La propuesta a que se refiere el párrafo anterior podrá ser entregada por el Instituto en documento impreso, o bien, previa solicitud por escrito del patrón o su representante legal, en medios magnéticos, digitales, electrónicos o de cualquier otra naturaleza."
+      },
+      {
+        "Párrafo": "3",
+        "Texto": "En el caso de los patrones que reciban la propuesta a través de medios magnéticos, digitales, electrónicos, ópticos, magneto óptico o de cualquier otra naturaleza, y opten por usarla para cumplir con su obligación fiscal, invariablemente, para efectos de pago, deberán utilizar el programa informático previamente autorizado por el Instituto, a que se refiere el artículo 39."
+      },
+      {
+        "Párrafo": "4",
+        "Texto": "Cuando los patrones opten por usar la propuesta en documento impreso para cumplir la obligación fiscal a su cargo, bastará con que la presenten y efectúen el pago de la misma en la oficina autorizada por el Instituto, dentro del plazo señalado en el artículo 39 de esta Ley."
+      }
+    ],
+    "NotasOrientadoras": [
+      "Este artículo permite al Instituto generar propuestas de cédulas para apoyar a los patrones.",
+      "La propuesta puede entregarse en formato impreso o digital, previa solicitud.",
+      "El uso de medios digitales exige el programa autorizado por el Instituto.",
+      "El párrafo 4 simplifica el proceso si se usa la propuesta impresa.",
+      "Principio rector: Facilitación administrativa y cumplimiento asistido."
+    ]
+    },
+    {
+    "Artículo": "39 B",
+    "Ley": "Ley del Seguro Social",
+    "Texto": "Las cédulas de determinación presentadas al Instituto por el patrón, tendrán para éste el carácter de acto vinculatorio.",
+    "PalabraClave": "cédula determinación acto vinculatorio",
+    "NotasOrientadoras": [
+      "Este artículo otorga carácter vinculante a las cédulas presentadas por el patrón.",
+      "Implica que el patrón reconoce formalmente los datos contenidos en la cédula.",
+      "Refuerza la responsabilidad del patrón en la autodeclaración de cuotas.",
+      "El Instituto puede tomar la cédula como base para fiscalización posterior.",
+      "Principio rector: Vinculación jurídica por declaración voluntaria."
+    ]
+  },
+  {
+    "Artículo": "39 C",
+    "Ley": "Ley del Seguro Social",
+    "Texto": "En el caso en que el patrón o sujeto obligado no cubra oportunamente el importe de las cuotas obrero patronales o lo haga en forma incorrecta, el Instituto podrá determinarlas presuntivamente y fijarlas en cantidad líquida, con base en los datos con que cuente o con apoyo en los hechos que conozca con motivo del ejercicio de las facultades de comprobación de que goza como autoridad fiscal o bien a través de los expedientes o documentos proporcionados por otras autoridades fiscales. Esta determinación deberá considerar tanto los saldos a favor del Instituto como los que pudiera haber a favor del patrón debido a errores en lo presentado por este último.",
+    "PalabraClave": "determinación presuntiva cuotas comprobación fiscal",
+    "NotasOrientadoras": [
+      "Este artículo faculta al Instituto para determinar cuotas presuntivamente.",
+      "La determinación se basa en datos propios o proporcionados por otras autoridades.",
+      "Se contempla tanto lo adeudado como posibles saldos a favor del patrón.",
+      "Aplica cuando hay omisión o errores en el pago de cuotas.",
+      "Principio rector: Equidad fiscal y facultad de comprobación."
+    ]
+  },
+  {
+    "Artículo": "39 D",
+    "Ley": "Ley del Seguro Social",
+    "Texto": "Respecto de las cédulas de liquidación emitidas por el Instituto en el supuesto señalado en el segundo párrafo del artículo anterior, el patrón podrá, dentro de los cinco días hábiles siguientes a la fecha en que surta sus efectos la notificación, formular aclaraciones ante la oficina que corresponda a su registro patronal, las que deberán estar debidamente sustentadas y sólo podrán versar sobre errores aritméticos, mecanográficos, avisos afiliatorios presentados previamente por el patrón al Instituto, certificados de incapacidad expedidos por éste o situaciones de hecho que no impliquen una controversia jurídica.",
+    "PalabraClave": "aclaración administrativa cédula liquidación errores",
+    "Párrafos": [
+      {
+        "Párrafo": "2",
+        "Texto": "La aclaración administrativa en ningún caso suspenderá o interrumpirá el plazo establecido para efectuar el pago hasta por la suma reconocida. El Instituto contará con veinte días hábiles para resolver la aclaración administrativa que presente el patrón. Si transcurrido este plazo no se resolviera la aclaración, se suspenderá la cuenta de días hábiles señalada en el párrafo anterior."
+      }
+    ],
+    "NotasOrientadoras": [
+      "Este artículo regula el procedimiento de aclaración administrativa ante el IMSS.",
+      "Las aclaraciones deben versar sobre errores técnicos o situaciones no jurídicas.",
+      "El plazo para presentar aclaraciones es de cinco días hábiles tras la notificación.",
+      "El párrafo 2 establece que el pago no se suspende y fija plazos para resolver.",
+      "Principio rector: Derecho de aclaración sin suspensión de obligaciones."
+    ]
+    },
+    {
+  "Artículo": "40",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "Las cédulas de liquidación emitidas por el Instituto por concepto de cuotas, capitales constitutivos, actualización, recargos o multas, serán notificadas a los patrones personalmente, en los términos establecidos en el Código. El Instituto podrá optar, a solicitud del patrón, por realizar las notificaciones a través de medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza en los términos del Código, en cuyo caso, en sustitución de la firma autógrafa se emplearán medios de identificación electrónica, y producirán los mismos efectos que la notificación firmada autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones legales aplicables otorgan a ésta.",
+  "PalabraClave": "notificación electrónica cédula liquidación firma digital",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Para el efecto de las notificaciones de las cédulas de liquidación por transmisión electrónica, los patrones y sujetos obligados deberán proporcionar por escrito a través de un representante legal, ante la oficina que corresponda a su registro patronal, su correo electrónico, así como cualquier modificación del mismo. Además, deberán remitir un acuse de recibo electrónico que acredite la fecha y hora de la notificación, a falta de éste, se entenderá que la notificación se realizó el día en que la envió el Instituto."
+    }
+    ],
+  "NotasOrientadoras": [
+    "Este artículo regula la forma en que el Instituto notifica las cédulas de liquidación.",
+    "Se permite la notificación electrónica con efectos jurídicos equivalentes a la firma autógrafa.",
+    "El patrón debe registrar su correo electrónico y mantenerlo actualizado.",
+    "El acuse de recibo electrónico acredita la fecha de notificación; si falta, se presume la fecha de envío.",
+    "Principio rector: Equivalencia probatoria y modernización administrativa."
+    ]
+    },
+    {
+  "Artículo": "40 A",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "Cuando no se enteren las cuotas o los capitales constitutivos dentro del plazo establecido en las disposiciones respectivas, el patrón cubrirá a partir de la fecha en que los créditos se hicieran exigibles, la actualización y los recargos correspondientes en los términos del Código, sin perjuicio de las sanciones que procedan.",
+  "PalabraClave": "cuotas, exigibles, recargos",
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo establece las consecuencias por el incumplimiento en el pago de cuotas o capitales constitutivos.",
+    "El patrón debe cubrir actualización y recargos desde que el crédito es exigible.",
+    "Las sanciones aplicables se suman a las obligaciones económicas del patrón.",
+    "Principio rector: Responsabilidad fiscal y cumplimiento oportuno como base de la seguridad social."
+   ]
+  },
+  {
+  "Artículo": "40 B",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "Se aceptarán como forma de pago: dinero en efectivo, cheques certificados o de caja, así como las transferencias electrónicas de fondos y tarjetas de crédito o de débito expedidas por instituciones de crédito, en los términos del correspondiente reglamento. También se podrá efectuar el pago mediante las notas de crédito que expida el Instituto para la devolución de cantidades enteradas sin justificación legal, las cuales sólo serán recibidas en las oficinas que el Instituto autorice.",
+  "PalabraClave": "formas de pago, notas de crédito, monetización",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El patrón podrá aplicar las notas de crédito expedidas por el Instituto, dentro de los cinco años siguientes a su expedición o solicitar su monetización una vez vencido dicho plazo, siempre y cuando no tenga adeudos con el Instituto. En este último caso, deberá presentar ante la oficina correspondiente, la solicitud de monetización a la que adjuntará la nota de crédito original para que se tramite el pago de la misma."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula las formas válidas de pago ante el Instituto, incluyendo medios electrónicos y físicos.",
+    "Las notas de crédito pueden utilizarse como forma de pago o solicitarse en efectivo tras cinco años.",
+    "El patrón debe estar al corriente en sus obligaciones para solicitar la monetización de notas de crédito.",
+    "Principio rector: Flexibilidad administrativa y garantía de devolución justa en el sistema de seguridad social."
+  ]
+  },
+  {
+  "Artículo": "40 C",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "El Instituto a solicitud de los patrones podrá conceder prórroga para el pago de los créditos adeudados por concepto de cuotas, capitales constitutivos, actualización, recargos y multas. Durante el plazo concedido se causarán recargos sobre el saldo insoluto actualizado en los términos que establece el Código. El plazo para el pago en parcialidades no excederá de cuarenta y ocho meses.",
+  "PalabraClave": "prórroga, parcialidades, recargos",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "En ningún caso se autorizará prórroga para el pago de las cuotas que los patrones hayan retenido a los trabajadores, en los términos de la presente Ley, debiendo los patrones enterarlas al Instituto en el plazo legal establecido."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "El trámite de las solicitudes a que se refiere este artículo, se realizará en los términos y con los requisitos establecidos en el reglamento respectivo."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite al Instituto conceder prórrogas para el pago de créditos patronales bajo ciertas condiciones.",
+    "Los recargos se calculan sobre el saldo insoluto actualizado durante el plazo concedido.",
+    "No se autoriza prórroga para cuotas retenidas a trabajadores; deben enterarse puntualmente.",
+    "Principio rector: Equilibrio entre facilidades administrativas y protección de derechos laborales."
+  ]
+  },
+  {
+  "Artículo": "40 D",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "Tratándose de cuotas del seguro de retiro, cesantía en edad avanzada y vejez, no pagadas oportunamente, sólo se podrá autorizar plazo para el pago diferido por periodos completos adeudados, sin condonación de accesorios.",
+  "PalabraClave": "pago diferido, cuentas individuales, accesorios",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Los pagos diferidos que los patrones realicen con base en convenio, se aplicarán a las cuentas individuales de los trabajadores, en forma proporcional a los salarios base de cotización que sirvieron para la determinación de las cuotas convenidas."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "El pago diferido de las cuotas del seguro de retiro, cesantía en edad avanzada y vejez, también causará los accesorios a que se refiere el artículo anterior, depositándose las cuotas actualizadas y los recargos en la cuenta individual del trabajador."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo regula el pago diferido de cuotas de retiro, cesantía y vejez cuando no se cubren oportunamente.",
+    "Sólo se permite el pago por periodos completos y sin condonación de accesorios.",
+    "Los pagos se aplican proporcionalmente a las cuentas individuales de los trabajadores.",
+    "Principio rector: Protección patrimonial del trabajador y preservación íntegra de sus derechos previsionales."
+  ]
+  },
+  {
+  "Artículo": "40 E",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "El Consejo Técnico del Instituto por el voto de al menos las tres cuartas partes de sus integrantes podrá autorizar, de manera excepcional y previa solicitud del patrón, el pago a plazos o diferido de las cuotas a su cargo, que se generen hasta por los seis periodos posteriores a la fecha de su solicitud, cuando cumpla con los siguientes requisitos:",
+  "PalabraClave": "pago diferido, requisitos, interés fiscal",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "No tener adeudos en los dos últimos ejercicios anteriores a la fecha de solicitud."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Que no se le hayan determinado y notificado diferencias en el pago de cuotas dentro de los dos ejercicios anteriores, o bien que éstas hayan sido aclaradas o, en su caso, pagadas."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Cubrir por lo menos el diez por ciento de la emisión del período respectivo solicitado."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Que el plazo solicitado para el pago no exceda de doce meses, a partir del último periodo a que se refiera la solicitud correspondiente. El porcentaje excedente del señalado en la fracción anterior deberá estar pagado al término del plazo indicado en la solicitud."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Demostrar a satisfacción del Instituto las razones económicas excepcionales por las cuales no puede cumplir con sus obligaciones."
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Garantizar el interés fiscal en términos del Código."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo permite al Consejo Técnico autorizar pagos diferidos de cuotas patronales en casos excepcionales.",
+    "El patrón debe cumplir requisitos estrictos como no tener adeudos, aclarar diferencias y cubrir un porcentaje inicial.",
+    "La solicitud debe justificar razones económicas excepcionales y garantizar el interés fiscal.",
+    "Principio rector: Equidad administrativa condicionada al cumplimiento previo y protección del interés público."
+  ]
+  },
+  {
+  "Artículo": "40 F",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "En ningún caso el Instituto podrá liberar a los patrones del pago de las cuotas obrero patronales. Tampoco podrá condonar, total o parcialmente, la actualización de las cuotas ni los recargos correspondientes.",
+  "PalabraClave": "cuotas, condonación, recargos",
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo prohíbe liberar a los patrones del pago de cuotas obrero patronales.",
+    "No se permite condonar actualización ni recargos, total o parcialmente.",
+    "Refuerza la obligación fiscal plena del patrón ante el Instituto.",
+    "Principio rector: Irrenunciabilidad de obligaciones contributivas en el sistema de seguridad social."
+  ]
+  },
+  {
+  "Artículo": "41",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "Riesgos de trabajo son los accidentes y enfermedades a que están expuestos los trabajadores en ejercicio o con motivo del trabajo.",
+  "PalabraClave": "riesgos, accidentes, enfermedades",
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Define el concepto de riesgos de trabajo como accidentes y enfermedades vinculadas al ejercicio laboral.",
+    "Establece el vínculo causal entre el trabajo y el daño sufrido.",
+    "Es base para determinar prestaciones por siniestros laborales.",
+    "Principio rector: Reconocimiento jurídico del riesgo inherente al trabajo como fuente de protección social."
+  ]
+  },
+  {
+  "Artículo": "42",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "Se considera accidente de trabajo toda lesión orgánica o perturbación funcional, inmediata o posterior; o la muerte, producida repentinamente en ejercicio, o con motivo del trabajo, cualquiera que sea el lugar y el tiempo en que dicho trabajo se preste.",
+  "PalabraClave": "accidente, lesión, traslado",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "También se considerará accidente de trabajo el que se produzca al trasladarse el trabajador, directamente de su domicilio al lugar del trabajo, o de éste a aquél."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo define el accidente de trabajo como lesión, perturbación o muerte vinculada al ejercicio laboral.",
+    "Incluye los accidentes ocurridos durante el traslado directo entre domicilio y lugar de trabajo.",
+    "Amplía la protección al trabajador más allá del espacio físico laboral.",
+    "Principio rector: Protección integral del trabajador ante contingencias derivadas del entorno laboral y su desplazamiento."
+  ]
+  },
+  {
+  "Artículo": "43",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "Enfermedad de trabajo es todo estado patológico derivado de la acción continuada de una causa que tenga su origen o motivo en el trabajo, o en el medio en que el trabajador se vea obligado a prestar sus servicios. En todo caso, serán enfermedades de trabajo las consignadas en la Ley Federal del Trabajo.",
+  "PalabraClave": "enfermedad, causa laboral, patología",
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Define enfermedad de trabajo como estado patológico originado por causas laborales continuadas.",
+    "Reconoce el entorno laboral como factor de riesgo para la salud del trabajador.",
+    "Remite a la Ley Federal del Trabajo para identificar enfermedades específicas.",
+    "Principio rector: Protección preventiva y correctiva frente a daños derivados del ambiente laboral."
+  ]
+  },
+  {
+  "Artículo": "44",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "Cuando el trabajador asegurado no esté conforme con la calificación que del accidente o enfermedad haga el Instituto de manera definitiva, podrá interponer el recurso de inconformidad.",
+  "PalabraClave": "inconformidad, calificación, prestaciones",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "En el supuesto a que se refiere el párrafo anterior, entre tanto se tramita el recurso o el juicio respectivo, el Instituto otorgará al trabajador asegurado o a sus beneficiarios legales las prestaciones a que tuvieran derecho en los seguros de enfermedades y maternidad o invalidez y vida, siempre y cuando se satisfagan los requisitos señalados por esta Ley."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo otorga al trabajador el derecho a impugnar la calificación del Instituto sobre accidentes o enfermedades.",
+    "Durante el trámite del recurso, se garantizan las prestaciones correspondientes si se cumplen los requisitos legales.",
+    "Protege la continuidad de derechos mientras se resuelve la controversia.",
+    "Principio rector: Garantía de acceso a la justicia y continuidad en la protección social del trabajador."
+  ]
+  },
+  {
+  "Artículo": "45",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "La existencia de estados anteriores tales como discapacidad física, mental o sensorial, intoxicaciones o enfermedades crónicas, no es causa para disminuir el grado de la incapacidad temporal o permanente, ni las prestaciones que correspondan al trabajador.",
+  "PalabraClave": "discapacidad, incapacidad, prestaciones",
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo garantiza que condiciones preexistentes no afecten el reconocimiento de una nueva incapacidad.",
+    "Protege el acceso íntegro a las prestaciones, sin discriminación por antecedentes médicos.",
+    "Refuerza el principio de equidad en la evaluación de incapacidades laborales.",
+    "Principio rector: No discriminación y respeto a la dignidad del trabajador en el acceso a la seguridad social."
+  ]
+  },
+  {
+  "Artículo": "46",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "No se considerarán para los efectos de esta Ley, riesgos de trabajo los que sobrevengan por alguna de las causas siguientes:",
+  "PalabraClave": "riesgos excluidos, conducta dolosa, responsabilidad",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Si el accidente ocurre encontrándose el trabajador en estado de embriaguez."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Si el accidente ocurre encontrándose el trabajador bajo la acción de algún psicotrópico, narcótico o droga enervante, salvo que exista prescripción suscrita por médico titulado y que el trabajador hubiera exhibido y hecho del conocimiento del patrón lo anterior."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Si el trabajador se ocasiona intencionalmente una incapacidad o lesión por sí o de acuerdo con otra persona."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Si la incapacidad o siniestro es el resultado de alguna riña o intento de suicidio."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Si el siniestro es resultado de un delito intencional del que fuere responsable el trabajador asegurado."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo delimita los casos en que no se consideran riesgos de trabajo por conductas dolosas o imprudentes del trabajador.",
+    "Excluye accidentes bajo efectos de sustancias, salvo prescripción médica debidamente notificada.",
+    "Protege al sistema de seguridad social de abusos y actos voluntarios que generen siniestros.",
+    "Principio rector: Responsabilidad individual y exclusión de conductas dolosas en la protección laboral."
+  ]
+  },
+  {
+  "Artículo": "47",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "En los casos señalados en el artículo 46 se observarán las reglas siguientes:",
+  "PalabraClave": "exclusión, prestaciones, fallecimiento",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El trabajador asegurado tendrá derecho a las prestaciones consignadas en el seguro de enfermedades y maternidad o bien a la pensión de invalidez señalada en esta Ley, si reúne los requisitos consignados en las disposiciones relativas."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Si el riesgo trae como consecuencia la muerte del asegurado, los beneficiarios legales de éste tendrán derecho a las prestaciones en dinero que otorga el presente capítulo. Por lo que se refiere a las prestaciones en especie de enfermedades y maternidad, éstas se otorgarán conforme al capítulo IV de este Título."
+    }
+  ],
+  "NotasOrientadoras": [
+    "Este artículo establece las prestaciones aplicables incluso en casos excluidos por conducta del trabajador.",
+    "Se garantiza el acceso a pensión o prestaciones si se cumplen los requisitos legales.",
+    "Los beneficiarios conservan derechos en caso de fallecimiento por riesgo excluido.",
+    "Principio rector: Protección residual y continuidad de derechos frente a exclusiones específicas."
+  ]
+  },
+  {
+  "Artículo": "48",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "Si el Instituto comprueba que el riesgo de trabajo fue producido intencionalmente por el patrón, por sí o por medio de tercera persona, el Instituto otorgará al asegurado las prestaciones en dinero y en especie que la presente Ley establece y el patrón quedará obligado a restituir íntegramente al Instituto las erogaciones que éste haga por tales conceptos.",
+  "PalabraClave": "riesgo intencional, patrón, restitución",
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo responsabiliza al patrón por riesgos de trabajo provocados intencionalmente.",
+    "El Instituto otorga prestaciones al trabajador y exige restitución total al patrón.",
+    "Refuerza la protección del asegurado frente a conductas dolosas del empleador.",
+    "Principio rector: Responsabilidad patronal plena ante actos intencionales que afecten al trabajador."
+  ]
+  },
+  {
+  "Artículo": "49",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "En los términos establecidos por la Ley Federal del Trabajo, cuando el asegurado sufra un riesgo de trabajo por falta inexcusable del patrón a juicio de los Tribunales federales en materia laboral, las prestaciones en dinero que este capítulo establece a favor del trabajador asegurado, se aumentarán en el porcentaje que los propios Tribunales determinen en sus resoluciones. El patrón tendrá la obligación de pagar al Instituto el capital constitutivo sobre el incremento correspondiente.",
+  "PalabraClave": "falta inexcusable, incremento, capital constitutivo",
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo contempla el aumento de prestaciones por riesgos derivados de falta inexcusable del patrón.",
+    "El incremento lo determina el Tribunal laboral y debe ser cubierto por el patrón.",
+    "El patrón debe pagar el capital constitutivo sobre el aumento otorgado.",
+    "Principio rector: Sanción proporcional y reparación económica ante negligencia patronal grave."
+  ]
+  },
+  {
+  "Artículo": "50",
+  "Ley": "Ley del Seguro Social",
+  "Texto": "El asegurado que sufra algún accidente o enfermedad de trabajo, para gozar de las prestaciones en dinero a que se refiere este Capítulo, deberá someterse a los exámenes médicos y a los tratamientos que determine el Instituto, salvo cuando justifique la causa de no hacerlo. El Instituto deberá dar aviso al patrón cuando califique de profesional algún accidente o enfermedad, o en caso de recaída con motivo de éstos.",
+  "PalabraClave": "exámenes médicos, recaída, aviso al patrón",
+  "Párrafos": [],
+  "NotasOrientadoras": [
+    "Este artículo condiciona el acceso a prestaciones en dinero a la aceptación de exámenes y tratamientos médicos.",
+    "El Instituto debe notificar al patrón sobre la calificación profesional del accidente o enfermedad.",
+    "Se permite justificar la negativa a someterse a tratamiento en casos excepcionales.",
+    "Principio rector: Coordinación médico-laboral para garantizar prestaciones y transparencia en el proceso."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "52",
+  "PalabraClave": "Ocultacion de accidente de trabajo",
+  "Texto": "El patrón que oculte la realización de un accidente sufrido por alguno de sus trabajadores durante su trabajo o lo reporte indebidamente como accidente en trayecto, se hará acreedor a las sanciones que determine esta Ley y el reglamento respectivo.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social podrá iniciar auditorías o investigaciones para verificar la correcta notificación de los accidentes de trabajo y aplicar las sanciones correspondientes en caso de incumplimiento.",
+  "NotasOrientadoras": [
+    "El artículo sanciona a los patrones que oculten o reporten incorrectamente accidentes de trabajo, protegiendo los derechos de los trabajadores.",
+    "La incorrecta clasificación de un accidente laboral como accidente en trayecto puede derivar en sanciones conforme a esta Ley y su reglamento.",
+    "El Instituto Mexicano del Seguro Social supervisa el cumplimiento de estas obligaciones mediante auditorías."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "53",
+  "PalabraClave": "Aseguramiento en materia de riesgos de trabajo",
+  "Texto": "El patrón que haya asegurado a los trabajadores a su servicio contra riesgos de trabajo, quedará relevado en los términos que señala esta Ley, del cumplimiento de las obligaciones que sobre responsabilidad por esta clase de riesgos establece la Ley Federal del Trabajo.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "El artículo exime a los patrones de ciertas responsabilidades laborales si aseguran a sus trabajadores contra riesgos de trabajo conforme a esta Ley.",
+    "La cobertura de riesgos de trabajo por el Seguro Social sustituye las obligaciones establecidas en la Ley Federal del Trabajo.",
+    "Es obligatorio que los patrones inscriban a sus trabajadores en el IMSS para beneficiarse de esta exención."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "54",
+  "PalabraClave": "Discrepancia en salario base de cotización",
+  "Texto": "Si el patrón hubiera manifestado un salario inferior al real, el Instituto pagará al asegurado el subsidio o la pensión a que se refiere este capítulo, de acuerdo con el salario en el que estuviese inscrito, sin perjuicio de que, al comprobarse su salario real, el Instituto le cubra, con base en éste la pensión o el subsidio.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "En estos casos, el patrón deberá pagar los capitales constitutivos que correspondan a las diferencias que resulten, incluyendo el cinco por ciento por gastos de administración sobre el importe de dicho capital, como parte integrante del mismo."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social realizará revisiones para determinar el salario real del trabajador y calculará los capitales constitutivos adeudados por el patrón en caso de discrepancias.",
+  "NotasOrientadoras": [
+    "El artículo regula la corrección de pagos de pensiones o subsidios cuando el patrón reporta un salario inferior al real.",
+    "El párrafo segundo establece que el patrón debe cubrir las diferencias en los capitales constitutivos, incluyendo gastos administrativos del 5%.",
+    "El IMSS ajustará los beneficios al trabajador una vez verificado el salario real, protegiendo sus derechos."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "55",
+  "PalabraClave": "riesgos de trabajo",
+  "Texto": "Los riesgos de trabajo pueden producir:",
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Incapacidad temporal"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Incapacidad permanente parcial"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Incapacidad permanente total"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Muerte"
+    }
+  ],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "El artículo enumera las consecuencias posibles de los riesgos de trabajo, incluyendo incapacidades y muerte.",
+    "Se entenderá por incapacidad temporal, incapacidad permanente parcial e incapacidad permanente total, lo que al respecto disponen los artículos relativos de la Ley Federal del Trabajo.",
+    "La Fracción IV incluye la muerte como una posible consecuencia de un riesgo laboral, lo que puede derivar en beneficios para dependientes."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "56",
+  "PalabraClave": "Prestaciones en especie derivadas de riesgos de trabajo",
+  "Texto": "El asegurado que sufra un riesgo de trabajo tiene derecho a las siguientes prestaciones en especie:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Asistencia médica, quirúrgica y farmacéutica"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Servicio de hospitalización"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Aparatos de prótesis y ortopedia"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Rehabilitación"
+    }
+  ],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "El artículo establece las prestaciones en especie a las que tiene derecho un asegurado que sufra un riesgo de trabajo.",
+    "Incluye servicios médicos, hospitalización, prótesis y rehabilitación para apoyar la recuperación del trabajador.",
+    "Estas prestaciones son proporcionadas directamente por el Instituto Mexicano del Seguro Social."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "57",
+  "PalabraClave": "Reglamentación de prestaciones",
+  "Texto": "Las prestaciones a que se refiere el artículo anterior se concederán de conformidad con las disposiciones previstas en esta Ley y en sus reglamentos.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "El artículo establece que las prestaciones en especie del Artículo 56 se otorgan conforme a la Ley del Seguro Social y sus reglamentos.",
+    "Garantiza que las prestaciones se rijan por normas específicas para su correcta implementación.",
+    "El Instituto Mexicano del Seguro Social es responsable de aplicar estas disposiciones reglamentarias."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "58",
+  "PalabraClave": "Prestaciones en dinero derivadas de riesgos de trabajo",
+  "Texto": "El asegurado que sufra un riesgo de trabajo tiene derecho a las siguientes prestaciones en dinero:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Si lo incapacita para trabajar recibirá mientras dure la inhabilitación, el cien por ciento del salario en que estuviese cotizando en el momento de ocurrir el riesgo."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Al declararse la incapacidad permanente total del asegurado, éste recibirá una pensión mensual definitiva equivalente al setenta por ciento del salario en que estuviere cotizando en el momento de ocurrir el riesgo. En el caso de enfermedades de trabajo, se calculará con el promedio del salario base de cotización de las cincuenta y dos últimas semanas o las que tuviere si su aseguramiento fuese por un tiempo menor para determinar el monto de la pensión. Igualmente, el incapacitado deberá contratar un seguro de sobrevivencia para el caso de su fallecimiento, que otorgue a sus beneficiarios las pensiones y demás prestaciones económicas a que tengan derecho en los términos de esta Ley."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Si la incapacidad declarada es permanente parcial, superior al cincuenta por ciento, el asegurado recibirá una pensión que será otorgada por la institución de seguros que elija en los términos de la fracción anterior."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "El Instituto otorgará a los pensionados por incapacidad permanente total y parcial con un mínimo de más del cincuenta por ciento de incapacidad, un aguinaldo anual equivalente a quince días del importe de la pensión que perciban."
+    }
+  ],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social evaluará la incapacidad del asegurado mediante dictámenes médicos para determinar el tipo y monto de las prestaciones en dinero, y verificará el cumplimiento del seguro de sobrevivencia cuando corresponda.",
+  "NotasOrientadoras": [
+    "El artículo detalla las prestaciones monetarias otorgadas a asegurados por riesgos de trabajo, según el tipo de incapacidad.",
+    "La Fracción I garantiza el 100% del salario durante la incapacidad temporal, mientras que las Fracciones II y III regulan pensiones por incapacidades permanentes.",
+    "La Fracción IV asegura un aguinaldo anual para pensionados con incapacidades significativas, y la Fracción II exige un seguro de sobrevivencia."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "59",
+  "PalabraClave": "pensión por incapacidad permanente total",
+  "Texto": "La pensión que se otorgue en el caso de incapacidad permanente total, será siempre superior a la que le correspondería al asegurado por invalidez, y comprenderá en todos los casos, las asignaciones familiares y la ayuda asistencial, así como cualquier otra prestación en dinero a que tenga derecho en los términos de este capítulo.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "El artículo garantiza que la pensión por incapacidad permanente total es mayor que la de invalidez y incluye beneficios adicionales.",
+    "Las asignaciones familiares y la ayuda asistencial son componentes obligatorios de esta pensión.",
+    "Cubre todas las prestaciones monetarias adicionales previstas en el capítulo correspondiente."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "60",
+  "PalabraClave": "Certificado de incapacidad temporal",
+  "Texto": "Los certificados de incapacidad temporal que expida el Instituto se sujetarán a lo que establezca el reglamento relativo.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El pago de los subsidios se hará por períodos vencidos no mayores de siete días."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "El artículo regula la emisión de certificados de incapacidad temporal por el Instituto Mexicano del Seguro Social.",
+    "El segundo párrafo establece que los subsidios por incapacidad temporal se pagan en períodos semanales.",
+    "Los certificados deben cumplir con las disposiciones del reglamento correspondiente para ser válidos."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "61",
+  "PalabraClave": "pensión provisional derivada de la declaracion de incapacidad",
+  "Texto": "Al declararse la incapacidad permanente, sea parcial o total, se concederá al trabajador asegurado la pensión que le corresponda, con carácter provisional, por un período de adaptación de dos años.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Durante ese período de dos años, en cualquier momento el Instituto podrá ordenar y, por su parte, el trabajador asegurado tendrá derecho a solicitar la revisión de la incapacidad con el fin de modificar la cuantía de la pensión."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social realizará revisiones médicas durante el período de dos años para evaluar la incapacidad y ajustar la pensión si es necesario.",
+  "NotasOrientadoras": [
+    "El artículo establece un período provisional de dos años para las pensiones por incapacidad permanente, ya sea parcial o total.",
+    "El segundo párrafo permite revisiones de la incapacidad durante el período provisional para ajustar el monto de la pensión.",
+    "Tanto el IMSS como el trabajador pueden iniciar una revisión para garantizar que la pensión sea adecuada."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "62",
+  "PalabraClave": "recaída por riesgo de trabajo",
+  "Texto": "Si el asegurado que sufrió un riesgo de trabajo fue dado de alta y posteriormente sufre una recaída con motivo del mismo accidente o enfermedad de trabajo, tendrá derecho a gozar del subsidio a que se refiere la fracción I del artículo 58 de esta Ley, ya sea que esté o no vigente su condición de asegurado, siempre y cuando sea el Instituto quien así lo determine.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando el asegurado al que se le haya declarado una incapacidad permanente total o parcial que le dé derecho a la contratación de la renta vitalicia y del seguro de sobrevivencia en los términos previstos en los artículos 58 fracciones II y III, 61 y 159 fracciones IV y VI de esta Ley, se rehabilite y tenga un trabajo remunerado en la misma actividad en que se desempeñaba, que le proporcione un ingreso cuando menos equivalente al cincuenta por ciento de la remuneración habitual que hubiere percibido de continuar trabajando, dejará de tener derecho al pago de la pensión por parte de la aseguradora. En este caso, la aseguradora deberá devolver al Instituto y a la administradora de fondos para el retiro el fondo de reserva de las obligaciones futuras, pendientes de cubrir. La proporción que corresponderá al Instituto y a la administradora de fondos para el retiro, del fondo de reserva devuelto por la aseguradora, será equivalente a la proporción que representó la suma asegurada y el saldo de la cuenta individual del trabajador en la constitución del monto constitutivo. La administradora de fondos para el retiro abrirá nuevamente la cuenta individual al trabajador con los recursos que le fueran devueltos por la aseguradora."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social determinará mediante evaluación médica si una recaída por riesgo de trabajo da derecho a subsidios, y supervisará la rehabilitación del asegurado para ajustar o suspender pensiones según corresponda.",
+  "NotasOrientadoras": [
+    "El artículo regula los derechos del asegurado en caso de recaída por un riesgo de trabajo previo, incluyendo subsidios aunque no esté vigente su aseguramiento.",
+    "El segundo párrafo establece que la rehabilitación y reincorporación laboral con ingresos suficientes pueden suspender la pensión por incapacidad permanente.",
+    "La devolución del fondo de reserva por la aseguradora al IMSS y a la AFORE asegura la correcta gestión de los recursos tras la suspensión de la pensión."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "63",
+  "PalabraClave": "pago de subsidios",
+  "Texto":"Los subsidios previstos en este capítulo se pagarán directamente al asegurado o su representante debidamente acreditado, salvo el caso de incapacidad mental comprobada ante el Instituto, en que se podrán pagar a la persona o personas a cuyo cuidado quede el incapacitado.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El Instituto podrá celebrar convenios con los patrones para el efecto de facilitar el pago de subsidios a sus trabajadores incapacitados, salvo las cuotas previstas en el artículo 168 de la presente Ley, que se aplicarán a las cuentas individuales de los trabajadores."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social verificará la acreditación de representantes o la incapacidad mental del asegurado para determinar a quién se pagan los subsidios, y podrá coordinarse con los patrones para agilizar los pagos.",
+  "NotasOrientadoras": [
+    "El artículo regula el pago directo de subsidios al asegurado o su representante, con excepción para casos de incapacidad mental.",
+    "El segundo párrafo permite convenios con patrones para facilitar los pagos, excluyendo las cuotas del Artículo 168 destinadas a cuentas individuales.",
+    "El IMSS asegura que los pagos se realicen correctamente mediante la verificación de las condiciones del asegurado."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "64",
+  "PalabraClave": "pensión por fallecimiento",
+  "Texto": "Si el riesgo de trabajo trae como consecuencia la muerte del asegurado, el Instituto calculará el monto constitutivo al que se le restará los recursos acumulados en la cuenta individual del trabajador fallecido, a efecto de determinar la suma asegurada que el Instituto deberá cubrir a la institución de seguros, necesaria para obtener una pensión, ayudas asistenciales y demás prestaciones económicas previstas en este capítulo a los beneficiarios.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social determinará el monto constitutivo mediante cálculos actuariales, restando los recursos de la cuenta individual del fallecido, y transferirá la suma asegurada a la institución de seguros para garantizar las prestaciones a los beneficiarios.",
+  "NotasOrientadoras": [
+    "El artículo regula el cálculo del monto constitutivo para otorgar pensiones y prestaciones a los beneficiarios tras la muerte del asegurado por riesgo de trabajo.",
+    "El IMSS resta los recursos de la cuenta individual del trabajador fallecido para determinar la suma asegurada.",
+    "Las prestaciones incluyen pensiones, ayudas asistenciales y otras prestaciones económicas previstas en el capítulo."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "65",
+  "PalabraClave": "beneficiarios de pensión",
+  "Texto": "Sólo a falta de la o el cónyuge, tendrá derecho a recibir la pensión señalada en la fracción II del artículo anterior, la persona con quien la o el asegurado vivió como si fueran matrimonio durante los cinco años que precedieron inmediatamente a su muerte o con quien procreó o registró hijos, siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato o la persona con quien suscribió una unión civil. Si al morir la o el asegurado tenía varias o varios concubinas o concubinarios ninguno de ellos gozará la pensión.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social verificará la condición de los beneficiarios, incluyendo la inexistencia de cónyuge y el cumplimiento de los requisitos de concubinato o unión civil, para otorgar la pensión correspondiente.",
+  "NotasOrientadoras": [
+    "El artículo establece los requisitos para que concubinos o personas en unión civil reciban una pensión tras la muerte del asegurado, en ausencia de cónyuge.",
+    "Se requiere un concubinato de cinco años o hijos en común, y ambos deben haber estado libres de matrimonio durante ese período.",
+    "La existencia de múltiples concubinos al momento de la muerte del asegurado anula el derecho a la pensión."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "66",
+  "PalabraClave": "distribución de pensiones",
+  "Texto": "El total de las pensiones atribuidas a las personas señaladas en los artículos anteriores, en caso de fallecimiento de la o el asegurado, no excederá de la que correspondería a éste sí hubiese sufrido incapacidad permanente total. En caso de exceso, se reducirán proporcionalmente cada una de las pensiones.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando se extinga el derecho de alguno de los pensionados se hará nueva distribución de las pensiones que queden vigentes, entre los restantes, sin que se rebasen las cuotas parciales ni el monto total de dichas pensiones."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "A falta de viuda o viudo, huérfanos, concubina o concubinario con derecho a pensión, o de quien haya suscrito una unión civil, a cada uno de los ascendientes que dependían económicamente del trabajador fallecido, se le pensionará con una cantidad igual al veinte por ciento de la pensión que hubiese correspondido al asegurado, en el caso de incapacidad permanente total."
+    },
+    {
+      "Párrafo": "4",
+      "Texto": "Tratándose de la viuda o del viudo, o de la concubina o concubinario, o de quien haya suscrito una unión civil y que sobreviva, la pensión se pagará mientras éstos no contraigan matrimonio o suscriban una unión civil o vivan en concubinato. Al contraer matrimonio o al suscribir alguna unión civil, cualquiera de los beneficiarios mencionados recibirá una suma global equivalente a tres anualidades de la pensión otorgada. En esta última situación, la aseguradora respectiva deberá devolver al Instituto el fondo de reserva de las obligaciones futuras pendientes de cubrir, previo descuento de la suma global que se otorgue."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social ajustará las pensiones de los beneficiarios para no exceder el monto de una pensión por incapacidad permanente total, redistribuirá las pensiones tras la extinción de derechos, y verificará las condiciones de los beneficiarios para otorgar sumas globales o pensiones a ascendientes.",
+  "NotasOrientadoras": [
+    "El artículo limita el total de pensiones por fallecimiento al monto de una pensión por incapacidad permanente total, con ajustes proporcionales si hay exceso.",
+    "Los párrafos segundo y tercero regulan la redistribución de pensiones entre beneficiarios y la pensión del 20% para ascendientes dependientes.",
+    "El cuarto párrafo establece la suspensión de la pensión por nuevo matrimonio o unión civil, otorgando una suma global equivalente a tres anualidades."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "67",
+  "PalabraClave": "incapacidades parciales",
+  "Texto": "Cuando se reúnan dos o más incapacidades parciales, el asegurado o sus beneficiarios, no tendrán derecho a recibir una pensión mayor de la que hubiese correspondido a la incapacidad permanente total.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "El artículo limita la pensión total por múltiples incapacidades parciales al monto correspondiente a una incapacidad permanente total.",
+    "Protege el equilibrio financiero del sistema al evitar que las pensiones acumuladas excedan un límite establecido.",
+    "Aplica tanto al asegurado como a sus beneficiarios en caso de riesgos de trabajo."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "68",
+  "PalabraClave": "actualización de pensiones",
+  "Texto": "La cuantía de las pensiones por incapacidad permanente será actualizada anualmente en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor correspondiente al año calendario anterior.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social ajustará las pensiones por incapacidad permanente cada febrero, utilizando el Índice Nacional de Precios al Consumidor del año anterior como base.",
+  "NotasOrientadoras": [
+    "El artículo establece la actualización anual de las pensiones por incapacidad permanente para mantener su valor real.",
+    "La actualización se realiza en febrero, basada en el Índice Nacional de Precios al Consumidor (INPC).",
+    "El IMSS es responsable de implementar los ajustes conforme a las disposiciones legales."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "69",
+  "PalabraClave": "pensiones de beneficiarios",
+  "Texto": "Las pensiones de viudez, orfandad y ascendientes del asegurado o asegurada por riesgos de trabajo serán revisadas e incrementadas en la proporción que corresponda, en términos de lo dispuesto en el artículo 68.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social revisará y ajustará anualmente las pensiones de viudez, orfandad y ascendientes, utilizando el Índice Nacional de Precios al Consumidor, conforme al Artículo 68.",
+  "NotasOrientadoras": [
+    "El artículo garantiza que las pensiones de viudez, orfandad y ascendientes se actualicen anualmente, al igual que las de incapacidad permanente.",
+    "Los incrementos se basan en el Índice Nacional de Precios al Consumidor, según el Artículo 68.",
+    "El IMSS asegura la revisión y el ajuste de estas pensiones para beneficiar a los dependientes del asegurado."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "70",
+  "PalabraClave": "financiamiento de prestaciones",
+  "Texto": "Las prestaciones del seguro de riesgos de trabajo, inclusive los capitales constitutivos de las rentas líquidas al fin de año y los gastos administrativos, serán cubiertos íntegramente por las cuotas que para este efecto aporten los patrones y demás sujetos obligados.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "El artículo establece que las prestaciones por riesgos de trabajo se financian completamente con las cuotas de los patrones y otros obligados.",
+    "Incluye los capitales constitutivos y los gastos administrativos dentro de los costos cubiertos por estas cuotas.",
+    "Garantiza que el seguro de riesgos de trabajo no dependa de fondos adicionales más allá de las aportaciones obligatorias."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "71",
+  "PalabraClave": "cuotas de riesgos de trabajo",
+  "Texto": "Las cuotas que por el seguro de riesgos de trabajo deban pagar los patrones, se determinarán en relación con la cuantía del salario base de cotización, y con los riesgos inherentes a la actividad de la negociación de que se trate, en los términos que establezca el reglamento relativo.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social calculará las cuotas de los patrones según el salario base de cotización y la clasificación de riesgos de la actividad, conforme al reglamento correspondiente.",
+  "NotasOrientadoras": [
+    "El artículo regula el cálculo de las cuotas patronales para el seguro de riesgos de trabajo, basadas en el salario y los riesgos laborales.",
+    "Los riesgos inherentes a la actividad de la empresa determinan la tasa de las cuotas, según el reglamento.",
+    "El IMSS es responsable de aplicar las disposiciones reglamentarias para establecer estas cuotas."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "72",
+  "PalabraClave": "determinación prima de riesgos de trabajo",
+  "Texto": "Para los efectos de la fijación de primas a cubrir por el seguro de riesgos de trabajo, las empresas deberán calcular sus primas, multiplicando la siniestralidad de la empresa por un factor de prima, y al producto se le sumará el 0.005. El resultado será la prima a aplicar sobre los salarios de cotización, conforme a la fórmula siguiente:",
+  "Párrafos": [],
+  "Procedimiento": "Prima=  [(S/365)+V * (I + D)] * (F/N) + M. Donde: V= 28 años, F= 2.3, N= Numero de trabajadores expuestos al riesgo, S= Total de los días subsidiados a causa de incapacidad temporal, I= Suma de los porcentajes de las incapacidades permanentes parciales y totales divididos entre 100, D= NUmero de defunciones, M= 0.005 que es la prima de riesgo minima .",
+  "NotasOrientadoras": [
+    "No se tomarán en cuenta para la siniestralidad de las empresas, los accidentes que ocurran a los trabajadores al trasladarse de su domicilio al centro de labores o viceversa. ",
+    "Las empresas de menos de 10 trabajadores, podrán optar por presentar la declaración anual correspondiente o cubrir la prima media que les corresponda conforme al reglamento, de acuerdo al artículo 73 de esta Ley. .",
+    "El IMSS verifica la correcta aplicación de la fórmula, aunque los detalles específicos de la fracción I no están incluidos en el texto proporcionado."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "73",
+  "PalabraClave": "prima media de riesgos de trabajo",
+  "Texto": "Al inscribirse por primera vez en el Instituto o al cambiar de actividad, las empresas cubrirán la prima media de la clase que conforme al Reglamento les corresponda, de acuerdo a la tabla siguiente:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "1",
+      "Texto": "Clase I, 0.54355%"
+    },
+    {
+      "Fracción": "2",
+      "Texto": "Clase II, 1.13065%"
+    },
+    {
+      "Fracción": "3",
+      "Texto": "Clase III, 2.59840%"
+    },
+    {
+      "Fracción": "4",
+      "Texto": "Clase IV, 4.65326%"
+    },
+    {
+      "Fracción": "5",
+      "Texto": "Clase V, 7.58875%"
+    }
+  ],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social clasificará a las empresas según su actividad y asignará la prima media correspondiente a la clase establecida en el Reglamento, aplicándola al momento de la inscripción inicial o cambio de actividad.",
+  "NotasOrientadoras": [
+    "El artículo establece las primas medias que las empresas deben pagar por el seguro de riesgos de trabajo al inscribirse o cambiar de actividad.",
+    "Las primas varían según la clase (I a V), determinada por el Reglamento, con porcentajes que van del 0.54355% al 7.58875%.",
+    "El IMSS supervisa la asignación de la clase y la aplicación de la prima correspondiente a cada empresa."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "74",
+  "PalabraClave": "obligación sobre revisión de siniestralidad",
+  "Texto": "Las empresas tendrán la obligación de revisar anualmente su siniestralidad, conforme al período y dentro del plazo que señale el reglamento, para determinar si permanecen en la misma prima, se disminuye o aumenta.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "La prima conforme a la cual estén cubriendo sus cuotas las empresas podrá ser modificada, aumentándola o disminuyéndola en una proporción no mayor al uno por ciento con respecto a la del inmediato anterior, tomando en consideración los riesgos de trabajo terminados durante el lapso que fije el reglamento respectivo, con independencia de la fecha en que éstos hubieran ocurrido y la comprobación documental del establecimiento de programas o acciones preventivas de accidentes y enfermedades de trabajo. Estas modificaciones no podrán exceder los límites fijados para la prima mínima y máxima, que serán de cero punto cinco por ciento y quince por ciento de los salarios base de cotización respectivamente."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social supervisará la revisión anual de siniestralidad de las empresas, verificando los riesgos de trabajo terminados y los programas preventivos para ajustar las primas dentro de los límites establecidos.",
+  "NotasOrientadoras": [
+    "El artículo obliga a las empresas a revisar anualmente su siniestralidad para ajustar la prima del seguro de riesgos de trabajo.",
+    "El segundo párrafo establece que los ajustes de la prima no excederán el 1% anual y estarán limitados entre 0.5% y 15% del salario base de cotización.",
+    "La revisión considera los riesgos terminados y los programas preventivos documentados, conforme al reglamento."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "75",
+  "PalabraClave": "clasificación de actividades",
+  "Texto": "La determinación de las clases comprenderá una lista de los diversos tipos de actividades y ramas industriales, catalogándolas en razón de la mayor o menor peligrosidad a que están expuestos los trabajadores, y asignando a cada uno de los grupos que formen dicha lista, una clase determinada. Este supuesto sólo se aplicará a las empresas que se inscriben por primera vez en el Instituto o cambien de actividad.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social clasificará las actividades de las empresas según su nivel de peligrosidad al momento de su inscripción inicial o cambio de actividad, asignando una clase conforme al reglamento correspondiente.",
+  "NotasOrientadoras": [
+    "El artículo regula la clasificación de actividades industriales según su nivel de riesgo para determinar las primas de riesgos de trabajo.",
+    "La clasificación aplica solo a empresas que se inscriben por primera vez o cambian de actividad.",
+    "El IMSS asigna una clase específica a cada grupo de actividades, conforme a la lista establecida en el reglamento."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "76",
+  "PalabraClave": "revisión de fórmula para el cálculo de la prima de riesgos de trabajo",
+  "Texto": "El Consejo Técnico del Instituto promoverá ante las instancias competentes y éstas ante el H. Congreso de la Unión, cada tres años, la revisión de la fórmula para el cálculo de la prima, para asegurar que se mantenga o restituya en su caso, el equilibrio financiero de este seguro, tomando en cuenta a todas las empresas del país. Para tal efecto se considerará la opinión que al respecto sustente el Comité Consultivo del Seguro de Riesgos de Trabajo, el cual estará integrado de manera tripartita.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Consejo Técnico del Instituto Mexicano del Seguro Social, con la opinión del Comité Consultivo, propondrá cada tres años al Congreso de la Unión la revisión de la fórmula de cálculo de primas para garantizar el equilibrio financiero del seguro de riesgos de trabajo.",
+  "NotasOrientadoras": [
+    "El artículo establece una revisión trienal de la fórmula de cálculo de primas para el seguro de riesgos de trabajo.",
+    "El Consejo Técnico del IMSS y el Comité Consultivo tripartita son responsables de proponer ajustes al Congreso de la Unión.",
+    "El objetivo es mantener el equilibrio financiero del seguro, considerando a todas las empresas del país."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "77",
+  "PalabraClave": "obligación de asegurar a los trabajadores contra riesgos de trabajo",
+  "Texto": "El patrón que estando obligado a asegurar a sus trabajadores contra riesgos de trabajo no lo hiciera, deberá enterar al Instituto, en caso de que ocurra el siniestro, los capitales constitutivos de las prestaciones en dinero y en especie, de conformidad con lo dispuesto en la presente Ley, sin perjuicio de que el Instituto otorgue desde luego las prestaciones a que haya lugar.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "La misma regla se observará cuando el patrón asegure a sus trabajadores en forma tal que se disminuyan las prestaciones a que los trabajadores asegurados o sus beneficiarios tuvieran derecho, limitándose los capitales constitutivos, en este caso, a la suma necesaria para completar las prestaciones correspondientes señaladas en la Ley."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "Esta regla se aplicará tratándose de recaídas por riesgos de trabajo, con el mismo patrón con el que ocurrió el riesgo o con otro distinto."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social exigirá a los patrones incumplidos el pago de los capitales constitutivos para cubrir las prestaciones en dinero y en especie, garantizando que los trabajadores o beneficiarios reciban las prestaciones correspondientes.",
+  "NotasOrientadoras": [
+    "El artículo sanciona a los patrones que no aseguren a sus trabajadores contra riesgos de trabajo, obligándolos a cubrir los capitales constitutivos en caso de siniestro.",
+    "El segundo párrafo extiende la obligación a casos donde el aseguramiento insuficiente reduzca las prestaciones, requiriendo completarlas.",
+    "El tercer párrafo aplica la misma regla a recaídas por riesgos de trabajo, independientemente del patrón."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "78",
+  "PalabraClave": "liberación de responsabilidades",
+  "Texto": "Los patrones que cubrieren los capitales constitutivos determinados por el Instituto, en los casos previstos por el artículo anterior, quedarán liberados, en los términos de esta Ley, del cumplimiento de las obligaciones que sobre responsabilidad por riesgos de trabajo establece la Ley Federal del Trabajo, así como de la de enterar las cuotas que prescribe la presente Ley, por el lapso anterior al siniestro, con respecto al trabajador accidentado y al seguro de riesgos de trabajo; subsistiendo para todos los efectos legales la responsabilidad y sanciones que en su caso fijen la Ley y sus reglamentos.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": null,
+  "NotasOrientadoras": [
+    "El artículo exime a los patrones que paguen los capitales constitutivos de ciertas responsabilidades establecidas en la Ley Federal del Trabajo y de cuotas previas al siniestro.",
+    "La liberación se aplica solo al trabajador accidentado y al seguro de riesgos de trabajo, según el Artículo 77.",
+    "A pesar de la exención, los patrones siguen sujetos a sanciones legales y reglamentarias por incumplimiento."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "79",
+  "PalabraClave": "capitales constitutivos",
+  "Texto": "Los capitales constitutivos se integran con el importe de alguna o algunas de las prestaciones siguientes:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Asistencia médica"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Hospitalización"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Medicamentos y material de curación"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Servicios auxiliares de diagnóstico y de tratamiento"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Intervenciones quirúrgicas"
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Aparatos de prótesis y ortopedia"
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Gastos de traslado del trabajador accidentado y pago de viáticos en su caso"
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "Subsidios"
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "En su caso, gastos de funeral"
+    },
+    {
+      "Fracción": "X",
+      "Texto": "Indemnizaciones globales en sustitución de la pensión, en los términos del último párrafo de la fracción III del artículo 58 de esta Ley"
+    },
+    {
+      "Fracción": "XI",
+      "Texto": "Valor actual de la pensión, que es la cantidad calculada a la fecha del siniestro y que, invertida a una tasa anual de interés compuesto del cinco por ciento, sea suficiente, la cantidad pagada y sus intereses, para que el beneficiario disfrute la pensión durante el tiempo a que tenga derecho a ella, en la cuantía y condiciones aplicables que determina esta Ley, tomando en cuenta las probabilidades de reactividad, de muerte y de reingreso al trabajo, así como la edad y sexo del pensionado"
+    },
+    {
+      "Fracción": "XII",
+      "Texto": "El cinco por ciento del importe de los conceptos que lo integren, por gastos de administración"
+    }
+  ],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social calculará los capitales constitutivos sumando las prestaciones aplicables, incluyendo el valor actual de las pensiones y los gastos administrativos, conforme a las disposiciones de esta Ley.",
+  "NotasOrientadoras": [
+    "El artículo enumera las prestaciones que integran los capitales constitutivos para cubrir los costos derivados de riesgos de trabajo.",
+    "Incluye tanto prestaciones en especie (como asistencia médica y hospitalización) como en dinero (subsidios, pensiones, y gastos de funeral).",
+    "El cálculo del valor actual de la pensión (Fracción XI) considera factores como la tasa de interés, edad, sexo, y probabilidades de reactividad o muerte."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "80",
+  "PalabraClave": "prevención de riesgos",
+  "Texto": "El Instituto está facultado para proporcionar servicios de carácter preventivo, individualmente o a través de procedimientos de alcance general, con el objeto de evitar la realización de riesgos de trabajo entre la población asegurada.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social implementará servicios preventivos, ya sea de manera individual o general, para reducir los riesgos de trabajo entre los asegurados, conforme a las disposiciones de esta Ley.",
+  "NotasOrientadoras": [
+    "El artículo autoriza al IMSS a ofrecer servicios preventivos para evitar riesgos de trabajo en la población asegurada.",
+    "Los servicios pueden ser individuales o generales, según las necesidades identificadas por el Instituto.",
+    "El objetivo es proteger a los trabajadores asegurados mediante la prevención de accidentes y enfermedades laborales."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "81",
+  "PalabraClave": "coordinación preventiva",
+  "Texto": "El Instituto se coordinará con la Secretaría del Trabajo y Previsión Social, con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas y concertará, en igual forma, con la representación de las organizaciones de los sectores social y privado, con el objeto de realizar programas para la prevención de los accidentes y las enfermedades de trabajo.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social establecerá acuerdos con la Secretaría del Trabajo, entidades públicas y organizaciones sociales y privadas para desarrollar y ejecutar programas de prevención de riesgos laborales.",
+  "NotasOrientadoras": [
+    "El artículo promueve la colaboración del IMSS con entidades públicas y privadas para prevenir accidentes y enfermedades de trabajo.",
+    "La coordinación incluye a la Secretaría del Trabajo y Previsión Social, así como a organizaciones de los sectores social y privado.",
+    "El objetivo es implementar programas conjuntos que reduzcan los riesgos laborales en beneficio de los trabajadores."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "82",
+  "PalabraClave": "investigación de riesgos",
+  "Texto": "El Instituto llevará a cabo las investigaciones que estime convenientes sobre riesgos de trabajo y sugerirá a los patrones las técnicas y prácticas convenientes a efecto de prevenir la realización de dichos riesgos.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El Instituto podrá verificar el establecimiento de programas o acciones preventivas de riesgos de trabajo en aquellas empresas que por la siniestralidad registrada, puedan disminuir el monto de la prima de este seguro."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social realizará investigaciones sobre riesgos laborales y verificará los programas preventivos en empresas, especialmente aquellas con alta siniestralidad, para recomendar medidas y ajustar primas conforme al reglamento.",
+  "NotasOrientadoras": [
+    "El artículo faculta al IMSS para investigar riesgos de trabajo y sugerir medidas preventivas a los patrones.",
+    "El segundo párrafo permite al IMSS verificar programas preventivos en empresas para reducir primas según la siniestralidad.",
+    "Las investigaciones y verificaciones buscan minimizar los riesgos laborales y optimizar el seguro de riesgos de trabajo."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "83",
+  "PalabraClave": "cooperación de patrones para la prevención de riesgos de trabajo",
+  "Texto": "Los patrones deben cooperar con el Instituto en la prevención de los riesgos de trabajo, en los términos siguientes:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Facilitarle la realización de estudios e investigaciones"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Proporcionarle datos e informes para la elaboración de estadísticas sobre riesgos de trabajo"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Colaborar en el ámbito de sus empresas a la adopción y difusión de las normas sobre prevención de riesgos de trabajo"
+    }
+  ],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social solicitará a los patrones la colaboración en investigaciones, entrega de datos y adopción de normas preventivas, supervisando el cumplimiento de estas obligaciones.",
+  "NotasOrientadoras": [
+    "El artículo obliga a los patrones a cooperar con el IMSS en la prevención de riesgos de trabajo mediante acciones específicas.",
+    "Las fracciones detallan las formas de cooperación: facilitar investigaciones, proporcionar datos y promover normas preventivas.",
+    "La colaboración de los patrones es esencial para reducir los riesgos laborales y mejorar las estadísticas del IMSS."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "84",
+  "PalabraClave": "beneficiarios del seguro",
+  "Texto": "Quedan amparados por este seguro:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "El asegurado o asegurada"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "El pensionado o pensionada por: a) Incapacidad permanente total o parcial; b) Invalidez; c) Cesantía en edad avanzada y vejez, y d) Viudez, orfandad o ascendencia"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "La o el cónyuge del asegurado o asegurada o, a falta de éstos, la concubina o el concubinario con quien ha hecho vida marital durante los cinco años anteriores a la enfermedad, con quien ha procreado o registrado hijos, siempre que ambos permanezcan libres de matrimonio, unión civil o concubinato, o la persona con quien haya suscrito una unión civil con el asegurado o asegurada. Si la o el asegurado tiene varias o varios concubinas o concubinarios ninguno de ellos tendrá derecho a la protección"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "La esposa o esposo del pensionado o pensionada en los términos de los incisos a), b) y c) de la fracción II, a falta de esposa o esposo, a la concubina o el concubinario si reúnen los requisitos de la fracción III, or a quien haya suscrito una unión civil con el asegurado o asegurada"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Los hijos menores de dieciséis años del asegurado y de los pensionados"
+    },
+    {
+      "Fracción": "VI",
+      "Texto": "Los hijos del asegurado cuando no puedan mantenerse por su propio trabajo debido a una enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, hasta en tanto no desaparezca la incapacidad que padecen o hasta la edad de veinticinco años cuando realicen estudios en planteles del sistema educativo nacional"
+    },
+    {
+      "Fracción": "VII",
+      "Texto": "Los hijos mayores de dieciséis años de los pensionados por invalidez, cesantía en edad avanzada y vejez, que se encuentren disfrutando de asignaciones familiares, así como los de los pensionados por incapacidad permanente, en los mismos casos y condiciones establecidos en el artículo 136"
+    },
+    {
+      "Fracción": "VIII",
+      "Texto": "El padre y la madre del asegurado que vivan en el hogar de éste"
+    },
+    {
+      "Fracción": "IX",
+      "Texto": "El padre y la madre del pensionado en los términos de los incisos a), b) y c) de la fracción II, si reúnen el requisito de convivencia señalado en la fracción VIII"
+    }
+  ],
+  "Procedimiento": "El Instituto Mexicano del Seguro Social verificará la elegibilidad de los beneficiarios amparados por el seguro, conforme a los requisitos establecidos en cada fracción, para garantizar el acceso a las prestaciones correspondientes.",
+  "NotasOrientadoras": [
+    "El artículo enumera las personas amparadas por el seguro, incluyendo asegurados, pensionados y sus dependientes, como cónyuges, hijos y padres.",
+    "Las Fracciones III y IV establecen requisitos específicos para cónyuges, concubinos y personas en unión civil, excluyendo múltiples concubinos.",
+    "Las Fracciones V, VI y VII protegen a los hijos menores, discapacitados o estudiantes, con condiciones específicas para su cobertura."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "85",
+  "PalabraClave": "certificación médica",
+  "Texto": "Para los efectos de este seguro se tendrá como fecha de iniciación de la enfermedad, aquélla en que el Instituto certifique el padecimiento.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El disfrute de las prestaciones de maternidad se iniciará a partir del día en que el Instituto certifique el estado de embarazo. La certificación señalará la fecha probable del parto, la que servirá de base para el cómputo de los cuarenta y dos días anteriores a aquél, para los efectos del disfrute del subsidio que, en su caso, se otorgue en los términos de esta Ley."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El IMSS certifica el inicio de enfermedades y embarazos para activar las prestaciones correspondientes. En el caso de maternidad, la fecha probable de parto sirve como base para calcular el subsidio por los 42 días previos.",
+  "NotasOrientadoras": [
+    "La certificación médica del IMSS determina el inicio formal de la enfermedad para efectos del seguro.",
+    "En maternidad, la certificación activa el subsidio y fija la fecha probable de parto como referencia temporal.",
+    "Este artículo vincula la atención médica con el acceso oportuno a prestaciones económicas."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "86",
+  "PalabraClave": "tratamiento obligatorio",
+  "Texto": "Para tener derecho a las prestaciones consignadas en este capítulo, el asegurado, el pensionado y los beneficiarios deberán sujetarse a las prescripciones y tratamientos médicos indicados por el Instituto.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Los beneficiarios del seguro deben seguir los tratamientos médicos indicados por el IMSS para conservar el derecho a las prestaciones.",
+  "NotasOrientadoras": [
+    "El cumplimiento de las indicaciones médicas del IMSS es requisito para acceder a las prestaciones.",
+    "Este artículo refuerza la corresponsabilidad entre el Instituto y el asegurado en el proceso de atención.",
+    "La sujeción al tratamiento busca garantizar eficacia médica y uso adecuado de los recursos del seguro."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "87",
+  "PalabraClave": "hospitalización",
+  "Texto": "El Instituto podrá determinar la hospitalización del asegurado, del pensionado o de los beneficiarios, cuando así lo exija la enfermedad, particularmente tratándose de padecimientos contagiosos.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Para la hospitalización se requiere el consentimiento expreso del enfermo, a menos que la naturaleza de la enfermedad haga dispensable esa medida. La hospitalización de menores de edad y demás incapacitados, precisa el consentimiento de quienes ejerzan la patria potestad o la tutela, o bien, del Ministerio Público o autoridad legalmente competente."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El IMSS puede ordenar hospitalización por razones médicas, especialmente en casos contagiosos. Se requiere consentimiento del paciente, salvo excepciones médicas. En menores o incapacitados, el consentimiento debe provenir de tutores o autoridades competentes.",
+  "NotasOrientadoras": [
+    "La hospitalización puede ser determinada por el IMSS cuando la enfermedad lo requiera.",
+    "El consentimiento del paciente es necesario, salvo en casos donde la urgencia médica lo dispense.",
+    "Para menores o personas incapacitadas, el consentimiento debe ser otorgado por tutores legales o autoridades competentes."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "88",
+  "PalabraClave": "responsabilidad patronal",
+  "Texto": "El patrón es responsable de los daños y perjuicios que se causaren al asegurado, a sus familiares derechohabientes o al Instituto, cuando por incumplimiento de la obligación de inscribirlo o de avisar los salarios efectivos o los cambios de éstos, no pudieran otorgarse las prestaciones en especie y en dinero del seguro de enfermedades y maternidad, o bien cuando el subsidio a que tuvieran derecho se viera disminuido en su cuantía.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El Instituto, se subrogará en los derechos de los derechohabientes y concederá las prestaciones mencionadas en el párrafo anterior. En este caso, el patrón enterará al Instituto el importe de los capitales constitutivos. Dicho importe será deducible del monto de las cuotas obrero patronales omitidas hasta esa fecha que correspondan al seguro de enfermedades y maternidad, del trabajador de que se trate."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "No procederá la determinación del capital constitutivo, cuando el Instituto otorgue a los derechohabientes las prestaciones en especie y en dinero a que tengan derecho, siempre y cuando los avisos de ingreso o alta de los trabajadores asegurados y los de modificaciones de su salario, hubiesen sido entregados al Instituto dentro de los plazos que señalan los artículos 15, fracción I y 34 de esta Ley."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El patrón debe inscribir correctamente al trabajador y reportar su salario. Si incumple, será responsable de los daños y deberá cubrir capitales constitutivos. El IMSS puede subrogarse en los derechos del trabajador. No se exige capital constitutivo si los avisos fueron entregados en tiempo.",
+  "NotasOrientadoras": [
+    "El patrón responde por omisiones que afecten el acceso a prestaciones del trabajador.",
+    "El IMSS puede otorgar prestaciones y exigir al patrón el pago de capitales constitutivos.",
+    "No se genera capital constitutivo si los avisos fueron entregados dentro del plazo legal."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "89",
+  "PalabraClave": "prestación de servicios médicos",
+  "Texto": "El Instituto prestará los servicios que tiene encomendados, en cualquiera de las siguientes formas:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Directamente, a través de su propio personal e instalaciones;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Indirectamente, en virtud de convenios con otros organismos públicos o particulares, para que se encarguen de impartir los servicios del ramo de enfermedades y maternidad y proporcionar las prestaciones en especie y subsidios del ramo de riesgos de trabajo, siempre bajo la vigilancia y responsabilidad del Instituto. Los convenios fijarán el plazo de su vigencia, la amplitud del servicio subrogado, los pagos que deban hacerse, la forma de cubrirlos y las causas y procedimientos de terminación, así como las demás condiciones pertinentes;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Asimismo, podrá celebrar convenios con quienes tuvieren establecidos servicios médicos y hospitalarios, pudiendo convenirse, si se tratare de patrones con obligación al seguro, en la reversión de una parte de la cuota patronal y obrera en proporción a la naturaleza y cuantía de los servicios relativos. En dichos convenios se pactará, en su caso, el pago de subsidios mediante un sistema de reembolsos. Estos convenios no podrán celebrarse sin la previa anuencia de los trabajadores o de su organización representativa;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Mediante convenios de cooperación y colaboración con instituciones y organismos de salud de los sectores públicos federal, estatal y municipal, en términos que permitan el óptimo aprovechamiento de la capacidad instalada de todas las instituciones y organismos. De igual forma, el Instituto podrá dar servicio en sus instalaciones a la población atendida por dichas instituciones y organismos, de acuerdo a su disponibilidad y sin perjuicio de su capacidad financiera,"
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Para el Instituto, será obligatoria la atención de las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en términos de las disposiciones aplicables para tal efecto, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento."
+    }
+  ],
+  "Procedimiento": "El IMSS puede prestar servicios directamente o mediante convenios con instituciones públicas o privadas. Estos convenios deben establecer condiciones claras y respetar la vigilancia del Instituto. También puede revertir cuotas patronales en ciertos casos, siempre con consentimiento de los trabajadores. Además, debe atender urgencias obstétricas sin importar afiliación.",
+  "NotasOrientadoras": [
+    "El artículo establece cinco formas en que el IMSS puede prestar servicios, incluyendo atención directa y convenios con terceros.",
+    "Los convenios deben garantizar vigilancia institucional, condiciones claras y respeto a los derechos laborales.",
+    "La atención obstétrica urgente es obligatoria, sin importar si la mujer está afiliada al IMSS.",
+    "La reversión de cuotas y el sistema de reembolsos requieren consentimiento previo de los trabajadores.",
+    "Se promueve el aprovechamiento colaborativo de infraestructura médica entre instituciones públicas."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "90",
+  "PalabraClave": "cuadro básico de medicamentos",
+  "Texto": "El Instituto elaborará los cuadros básicos de medicamentos que considere necesarios, sujetos a permanente actualización, a fin de que los productos en ellos comprendidos sean los de mayor eficacia terapéutica.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El IMSS define y actualiza continuamente los cuadros básicos de medicamentos, priorizando aquellos con mayor eficacia terapéutica para garantizar atención médica de calidad.",
+  "NotasOrientadoras": [
+    "El artículo establece la responsabilidad del IMSS de mantener actualizados los medicamentos esenciales.",
+    "La eficacia terapéutica es el criterio central para incluir productos en el cuadro básico.",
+    "La actualización permanente busca asegurar tratamientos adecuados y éticos para los asegurados."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "91",
+  "PalabraClave": "asistencia médica por enfermedad común",
+  "Texto": "En caso de enfermedad no profesional, el Instituto otorgará al asegurado la asistencia médico quirúrgica, farmacéutica y hospitalaria que sea necesaria, desde el comienzo de la enfermedad y durante el plazo de cincuenta y dos semanas para el mismo padecimiento.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El IMSS brinda asistencia médica integral al asegurado por enfermedades no profesionales, desde el inicio del padecimiento y durante un periodo de hasta 52 semanas.",
+  "NotasOrientadoras": [
+    "Este artículo garantiza atención médica completa ante enfermedades comunes.",
+    "El plazo de 52 semanas permite continuidad en el tratamiento del mismo padecimiento.",
+    "La cobertura incluye servicios médicos, quirúrgicos, farmacéuticos y hospitalarios."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "92",
+  "PalabraClave": "prórroga médica",
+  "Texto": "Si al concluir el período de cincuenta y dos semanas previsto en el artículo 91, el asegurado continúa enfermo, el Instituto prorrogará su tratamiento hasta por cincuenta y dos semanas más, previo dictamen médico.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Si el asegurado sigue enfermo tras las primeras 52 semanas de tratamiento, el IMSS puede extender la atención médica por otras 52 semanas, siempre que exista dictamen médico que lo justifique.",
+  "NotasOrientadoras": [
+    "La prórroga médica permite extender el tratamiento si el padecimiento persiste.",
+    "El dictamen médico es requisito para autorizar la extensión del servicio.",
+    "Este artículo refuerza el compromiso del IMSS con la continuidad terapéutica."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "93",
+  "PalabraClave": "extensión de prestaciones",
+  "Texto": "Las prestaciones en especie que señala el artículo 91 de esta Ley, se otorgarán también a los demás sujetos protegidos por este seguro que se mencionan en el artículo 84 de este ordenamiento.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Los padres del asegurado o pensionado fallecido, conservarán el derecho a los servicios que señala el artículo 91 de la Ley."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El IMSS extiende las prestaciones médicas en especie a otros sujetos protegidos por el seguro, incluyendo a los padres del asegurado o pensionado fallecido, quienes conservan el derecho a dichos servicios.",
+  "NotasOrientadoras": [
+    "Las prestaciones médicas se amplían a otros beneficiarios definidos en el artículo 84.",
+    "Los padres del asegurado fallecido mantienen el acceso a servicios médicos.",
+    "Este artículo refuerza la protección familiar y continuidad asistencial tras el fallecimiento del titular."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "94",
+  "PalabraClave": "prestaciones por maternidad",
+  "Texto": "En caso de maternidad, el Instituto otorgará a la asegurada durante el embarazo, el alumbramiento y el puerperio, las prestaciones siguientes:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Asistencia obstétrica;"
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Ayuda en especie por seis meses para lactancia y capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida;"
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Durante el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para efectuar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia;"
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Una canastilla al nacer el hijo, cuyo importe será señalado por el Consejo Técnico."
+    }
+  ],
+  "Procedimiento": "El IMSS otorga a la asegurada prestaciones durante embarazo, parto y puerperio, incluyendo asistencia obstétrica, apoyo para lactancia, descansos laborales para amamantar o extraer leche, y una canastilla al nacer. Estas medidas promueven el bienestar materno-infantil y la lactancia exclusiva.",
+  "NotasOrientadoras": [
+    "El artículo garantiza atención integral a la mujer durante el embarazo, parto y puerperio.",
+    "Se fomenta activamente la lactancia materna como práctica saludable y ética.",
+    "Los descansos laborales para lactancia respetan la dignidad y necesidades de la madre trabajadora.",
+    "La canastilla representa un apoyo simbólico y material al inicio de la crianza.",
+    "Estas prestaciones refuerzan el vínculo entre salud, trabajo digno y cuidado materno-infantil."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "95",
+  "PalabraClave": "extensión de maternidad",
+  "Texto": "Tendrán derecho a disfrutar de las prestaciones señaladas en las fracciones I y II del artículo anterior, las beneficiarias que se señalan en las fracciones III y IV del artículo 84 de esta Ley.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Las beneficiarias mencionadas en el artículo 84, fracciones III y IV, también tienen derecho a recibir asistencia obstétrica y apoyo para lactancia, ampliando el alcance de las prestaciones por maternidad más allá de la asegurada directa.",
+  "NotasOrientadoras": [
+    "El artículo extiende las prestaciones de maternidad a otras beneficiarias protegidas por el seguro.",
+    "La asistencia obstétrica y el apoyo para lactancia no se limitan a la asegurada titular.",
+    "Se refuerza el enfoque inclusivo y familiar del sistema de seguridad social.",
+    "La protección se amplía conforme a las relaciones familiares definidas en el artículo 84."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "96",
+  "PalabraClave": "subsidio por incapacidad",
+  "Texto": "En caso de enfermedad no profesional, el asegurado tendrá derecho a un subsidio en dinero que se otorgará cuando la enfermedad lo incapacite para el trabajo. El subsidio se pagará a partir del cuarto día del inicio de la incapacidad, mientras dure ésta y hasta por el término de cincuenta y dos semanas.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El IMSS otorga un subsidio económico al asegurado incapacitado por enfermedad no profesional, iniciando el pago desde el cuarto día de incapacidad y hasta por 52 semanas.",
+  "NotasOrientadoras": [
+    "El subsidio aplica cuando la enfermedad impide al asegurado trabajar.",
+    "El pago inicia en el cuarto día de incapacidad, no desde el primero.",
+    "La duración máxima del subsidio es de 52 semanas por el mismo padecimiento."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "97",
+  "PalabraClave": "requisitos para subsidio",
+  "Texto": "El asegurado sólo percibirá el subsidio que se establece en el artículo 96, cuando tenga cubiertas por lo menos cuatro cotizaciones semanales inmediatamente anteriores a la enfermedad.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Los trabajadores eventuales percibirán el subsidio cuando tengan cubiertas seis cotizaciones semanales en los últimos cuatro meses anteriores a la enfermedad."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "Para recibir el subsidio por incapacidad, el asegurado debe tener al menos cuatro semanas cotizadas previas a la enfermedad. En el caso de trabajadores eventuales, se requieren seis semanas cotizadas en los últimos cuatro meses.",
+  "NotasOrientadoras": [
+    "El acceso al subsidio está condicionado al historial de cotización reciente.",
+    "Los trabajadores eventuales tienen un requisito diferenciado por su tipo de contratación.",
+    "Este artículo garantiza que el subsidio se otorgue a quienes han contribuido al sistema."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "98",
+  "PalabraClave": "monto del subsidio en dinero",
+  "Texto": "El subsidio en dinero que se otorgue a los asegurados será igual al sesenta por ciento del último salario diario de cotización. El subsidio se pagará por períodos vencidos que no excederán de una semana, directamente al asegurado o a su representante debidamente acreditado.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El IMSS paga al asegurado un subsidio equivalente al 60% de su último salario diario de cotización, en períodos vencidos semanales, directamente o mediante representante acreditado.",
+  "NotasOrientadoras": [
+    "El subsidio representa el 60% del salario diario registrado.",
+    "El pago se realiza por semanas vencidas, no anticipadamente.",
+    "Puede entregarse al asegurado o a su representante legalmente acreditado."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "99",
+  "PalabraClave": "suspensión del subsidio",
+  "Texto": "En caso de incumplimiento por parte del enfermo a la indicación del Instituto de someterse a hospitalización, o cuando interrumpa el tratamiento sin la autorización debida, se suspenderá el pago del subsidio.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El IMSS suspenderá el subsidio si el asegurado no cumple con la indicación médica de hospitalización o interrumpe el tratamiento sin autorización.",
+  "NotasOrientadoras": [
+    "El cumplimiento del tratamiento médico es condición para recibir el subsidio.",
+    "La negativa a hospitalización o interrupción no autorizada suspende el beneficio.",
+    "Este artículo refuerza la corresponsabilidad entre el asegurado y el Instituto."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "100",
+  "PalabraClave": "subsidio durante hospitalización",
+  "Texto": "Cuando el Instituto hospitalice al asegurado, el subsidio establecido en el artículo 98 de esta Ley se pagará a él o a sus familiares derechohabientes señalados en el artículo 84 de este ordenamiento.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Si el asegurado es hospitalizado por el IMSS, el subsidio económico correspondiente puede ser pagado directamente a él o, en su caso, a sus familiares derechohabientes conforme al artículo 84.",
+  "NotasOrientadoras": [
+    "El subsidio por incapacidad se mantiene durante la hospitalización del asegurado.",
+    "El pago puede realizarse al asegurado o a sus familiares derechohabientes, según lo establecido.",
+    "Este artículo garantiza continuidad económica durante la atención médica intensiva.",
+    "Se refuerza la protección familiar en situaciones de vulnerabilidad médica."
+  ]
+  }
+]
