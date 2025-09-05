@@ -2247,5 +2247,35 @@
     "Este artículo garantiza continuidad económica durante la atención médica intensiva.",
     "Se refuerza la protección familiar en situaciones de vulnerabilidad médica."
   ]
-  }
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "101",
+  "PalabraClave": "subsidio por maternidad, certificado único de incapacidad",
+  "Texto": "La asegurada tendrá derecho durante el embarazo y el puerperio a un subsidio en dinero igual al cien por ciento del último salario diario de cotización, el cual recibirá durante cuarenta y dos días anteriores al parto y cuarenta y dos días posteriores al mismo.",
+  "Párrafos": [
+    {
+      "Párrafo": "1",
+      "Texto": "En los casos en que la fecha fijada por los médicos del Instituto no concuerde exactamente con la del parto, deberán cubrirse a la asegurada los subsidios correspondientes por cuarenta y dos días posteriores al mismo, sin importar que el período anterior al parto se haya excedido."
+    },
+    {
+      "Párrafo": "2",
+      "Texto": "Los días en que se haya prolongado el período anterior al parto, se pagarán como continuación de incapacidades originadas por enfermedad. El subsidio se pagará por períodos vencidos que no excederán de una semana."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "El subsidio en dinero a que se refiere el presente artículo, a solicitud expresa de la asegurada que se encuentre certificada de su estado de embarazo por el Instituto, con atención médica institucional o externa, se pagará mediante la emisión de un certificado único de incapacidad por ochenta y cuatro días, el cual deberá ser entregado en una sola exhibición, desde el inicio de la incapacidad."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "Cuando la asegurada esté certificada por el Instituto respecto a su embarazo, se emitirá un certificado único de incapacidad por ochenta y cuatro días. El subsidio correspondiente se pagará en una sola exhibición desde el inicio de la incapacidad. Si la fecha del parto no coincide con la estimada, se ajustará el pago de los días posteriores, y los días excedidos antes del parto se cubrirán como incapacidad por enfermedad.",
+  "NotasOrientadoras": [
+    "La asegurada tiene derecho a un subsidio completo durante el embarazo y puerperio, equivalente al 100% de su salario diario.",
+    "El subsidio se otorga por 84 días, distribuidos en 42 antes y 42 después del parto, ajustables según la fecha real del nacimiento.",
+    "Los días excedidos antes del parto se consideran como incapacidad por enfermedad, garantizando cobertura médica y económica.",
+    "El certificado único de incapacidad permite un pago único desde el inicio, simplificando el trámite y asegurando continuidad financiera."
+  ]
+    }
+  
+
 ]
