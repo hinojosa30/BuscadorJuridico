@@ -2275,7 +2275,964 @@
     "Los días excedidos antes del parto se consideran como incapacidad por enfermedad, garantizando cobertura médica y económica.",
     "El certificado único de incapacidad permite un pago único desde el inicio, simplificando el trámite y asegurando continuidad financiera."
   ]
+    },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "102",
+  "PalabraClave": "requisitos para subsidio por maternidad",
+  "Texto": "Para que la asegurada tenga derecho al subsidio que se señala en el artículo anterior, se requiere:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Que haya cubierto por lo menos treinta cotizaciones semanales en el período de doce meses anteriores a la fecha en que debiera comenzar el pago del subsidio."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Que se haya certificado por el Instituto el embarazo y la fecha probable del parto."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Que no ejecute trabajo alguno mediante retribución durante los períodos anteriores y posteriores al parto."
     }
-  
-
+  ],
+  "Procedimiento": "La asegurada debe cumplir tres requisitos para acceder al subsidio por maternidad: tener al menos treinta semanas cotizadas en los últimos doce meses, contar con certificación médica del embarazo y la fecha probable de parto por parte del Instituto, y no realizar trabajo remunerado durante los períodos previos y posteriores al parto.",
+  "NotasOrientadoras": [
+    "Este artículo establece los requisitos formales para acceder al subsidio por maternidad.",
+    "La certificación médica institucional es indispensable para activar el derecho al subsidio.",
+    "Se protege la integridad del descanso materno al prohibir actividades remuneradas durante el período cubierto.",
+    "El historial de cotización reciente es clave para garantizar el acceso al beneficio económico."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "102 Bis",
+  "PalabraClave": "transferencia de semanas de descanso por maternidad",
+  "Texto": "A solicitud expresa de la asegurada, con la previa autorización escrita del médico del Instituto o, en su caso, del médico externo que lleve el control y vigilancia prenatal, y tomando en cuenta la opinión del patrón y la naturaleza del trabajo que desempeñe, se podrán transferir hasta cuatro de las seis semanas de descanso previas al parto para después del mismo.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "En caso de que se presente autorización de médicos particulares, ésta deberá contener el nombre y número de cédula profesional de quien los expida, la fecha y el estado médico de la trabajadora."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "La asegurada puede solicitar que hasta cuatro semanas del descanso prenatal se transfieran al periodo posterior al parto. Para ello, debe contar con autorización escrita del médico institucional o externo que supervise el embarazo, considerar la opinión del patrón y la naturaleza del trabajo. Si la autorización proviene de médicos particulares, debe incluir nombre, cédula profesional, fecha y estado médico de la trabajadora.",
+  "NotasOrientadoras": [
+    "Este artículo permite flexibilidad en el uso del descanso por maternidad, adaptándolo a las necesidades de la trabajadora.",
+    "La transferencia de semanas requiere autorización médica y consideración del entorno laboral.",
+    "Las autorizaciones médicas externas deben cumplir requisitos formales para ser válidas.",
+    "Se reconoce la autonomía de la asegurada en la gestión de su periodo de incapacidad, dentro de un marco médico y laboral."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "103",
+  "PalabraClave": "exención patronal por subsidio de maternidad",
+  "Texto": "El goce por parte de la asegurada del subsidio establecido en el artículo 101, exime al patrón de la obligación del pago del salario íntegro a que se refiere la fracción V del artículo 170 de la Ley Federal del Trabajo, hasta los límites establecidos por esta Ley.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Cuando la asegurada no cumpla con lo establecido en la fracción I del artículo anterior, quedará a cargo del patrón el pago del salario íntegro."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "Si la asegurada cumple con los requisitos del artículo 101, el patrón queda exento de pagar el salario íntegro durante el periodo de maternidad. En caso de que no se cumpla con la fracción I del artículo 102, el patrón deberá cubrir el salario completo.",
+  "NotasOrientadoras": [
+    "Este artículo delimita la responsabilidad económica del patrón frente al subsidio por maternidad.",
+    "La exención aplica solo si la asegurada cumple con los requisitos establecidos en la ley.",
+    "Se protege al empleador de una doble carga económica cuando el subsidio es otorgado por el Instituto.",
+    "La falta de cumplimiento por parte de la asegurada transfiere la obligación salarial al patrón."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "104",
+  "PalabraClave": "ayuda por gastos de funeral",
+  "Texto": "Cuando fallezca un pensionado o un asegurado que tenga reconocidas cuando menos doce cotizaciones semanales en los nueve meses anteriores al fallecimiento, el Instituto pagará a la persona preferentemente familiar del asegurado o del pensionado, que presente copia del acta de defunción y la cuenta original de los gastos de funeral, una ayuda por este concepto, consistente en dos meses del salario mínimo general que rija en el Distrito Federal en la fecha del fallecimiento.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "En caso de fallecimiento de un asegurado o pensionado con al menos doce semanas cotizadas en los últimos nueve meses, el Instituto otorgará una ayuda por gastos funerarios equivalente a dos meses del salario mínimo vigente en el Distrito Federal, previa presentación del acta de defunción y comprobantes originales.",
+  "NotasOrientadoras": [
+    "Este artículo garantiza apoyo económico inmediato ante el fallecimiento de un asegurado o pensionado.",
+    "La ayuda por gastos de funeral se otorga a quien presente la documentación requerida, preferentemente un familiar.",
+    "Se exige un mínimo de cotizaciones recientes para acceder al beneficio.",
+    "La prestación busca aliviar la carga económica en momentos de vulnerabilidad familiar."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "105",
+  "PalabraClave": "financiamiento del seguro de enfermedades y maternidad",
+  "Texto": "Los recursos necesarios para cubrir las prestaciones en dinero, las prestaciones en especie y los gastos administrativos del seguro de enfermedades y maternidad, se obtendrán de las cuotas que están obligados a cubrir los patrones y los trabajadores o demás sujetos y de la contribución que corresponda al Estado.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El financiamiento del seguro de enfermedades y maternidad proviene de las cuotas aportadas por patrones, trabajadores y demás sujetos obligados, así como de la contribución correspondiente del Estado.",
+  "NotasOrientadoras": [
+    "Este artículo define la fuente de recursos para sostener el seguro de enfermedades y maternidad.",
+    "La responsabilidad financiera se distribuye entre empleadores, trabajadores y el Estado.",
+    "Se garantiza la continuidad de las prestaciones mediante un esquema tripartita de aportación.",
+    "El modelo busca equilibrio entre obligación contributiva y cobertura social."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "106",
+  "PalabraClave": "determinación del financiamiento de prestaciones en especie",
+  "Texto": "Las prestaciones en especie del seguro de enfermedades y maternidad, se financiarán en la forma siguiente:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Por cada asegurado se pagará mensualmente una cuota diaria patronal equivalente al trece punto nueve por ciento de un salario mínimo general diario para el Distrito Federal."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Para los asegurados cuyo salario base de cotización sea mayor a tres veces el salario mínimo general diario para el Distrito Federal; se cubrirá además de la cuota establecida en la fracción anterior, una cuota adicional patronal equivalente al seis por ciento y otra adicional obrera del dos por ciento, de la cantidad que resulte de la diferencia entre el salario base de cotización y tres veces el salario mínimo citado."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "El Gobierno Federal cubrirá mensualmente una cuota diaria por cada asegurado, equivalente a trece punto nueve por ciento de un salario mínimo general para el Distrito Federal, a la fecha de entrada en vigor de esta Ley, la cantidad inicial que resulte se actualizará trimestralmente de acuerdo a la variación del Índice Nacional de Precios al Consumidor."
+    }
+  ],
+  "Procedimiento": "Las prestaciones en especie se financian mediante cuotas patronales, obreras y gubernamentales. El patrón paga una cuota base por cada asegurado, y si el salario excede tres veces el mínimo, se agregan cuotas adicionales. El Gobierno Federal también aporta una cuota fija, actualizada trimestralmente según la inflación.",
+  "NotasOrientadoras": [
+    "El financiamiento de prestaciones en especie se distribuye entre empleadores, trabajadores y el Estado.",
+    "Los asegurados con salarios altos generan cuotas adicionales proporcionales a su excedente.",
+    "La participación del Gobierno Federal se ajusta periódicamente según el índice de precios.",
+    "Este esquema busca equidad contributiva y sostenibilidad financiera del seguro."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "107",
+  "PalabraClave": "determinación de cuotas para prestaciones en dinero",
+  "Texto": "Las prestaciones en dinero del seguro de enfermedades y maternidad se financiarán con una cuota del uno por ciento sobre el salario base de cotización, que se pagará de la forma siguiente:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "A los patrones les corresponderá pagar el setenta por ciento de dicha cuota."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "A los trabajadores les corresponderá pagar el veinticinco por ciento de la misma."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Al Gobierno Federal le corresponderá pagar el cinco por ciento restante."
+    }
+  ],
+  "Procedimiento": "Las prestaciones en dinero se financian con una cuota del 1% sobre el salario base de cotización. Esta cuota se divide entre patrones (70%), trabajadores (25%) y el Gobierno Federal (5%).",
+  "NotasOrientadoras": [
+    "Este artículo establece la distribución porcentual de la cuota para prestaciones económicas.",
+    "El mayor peso contributivo recae en los empleadores, seguido por los trabajadores.",
+    "La participación del Estado complementa el esquema de financiamiento.",
+    "El modelo busca equilibrio entre responsabilidad laboral y protección social."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "108",
+  "PalabraClave": "aportaciones federales y ajustes por inflación",
+  "Texto": "Las aportaciones del Gobierno Federal serán cubiertas en pagos mensuales iguales, equivalentes a la doceava parte de la estimación que presente el Instituto para el año siguiente a la Secretaría de Hacienda y Crédito Público, en el mes de julio de cada ejercicio. En el caso de que en un cuatrimestre la inflación sea cuatro puntos porcentuales mayor o menor a la prevista en dichos cálculos, se harán las compensaciones preliminares correspondientes antes de que termine el siguiente bimestre, realizándose los ajustes definitivos, en base a la inflación real anual, durante el mes de enero del año siguiente.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Gobierno Federal realiza aportaciones mensuales equivalentes a la doceava parte de la estimación anual presentada por el Instituto. Si la inflación varía significativamente respecto a lo previsto, se aplican compensaciones preliminares y ajustes definitivos en enero del siguiente año.",
+  "NotasOrientadoras": [
+    "Este artículo regula la forma en que el Gobierno Federal aporta recursos al seguro.",
+    "Las estimaciones se presentan anualmente y se distribuyen en pagos mensuales.",
+    "Se contempla un mecanismo de ajuste por inflación para mantener el equilibrio financiero.",
+    "La flexibilidad del modelo permite correcciones oportunas ante variaciones económicas."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "109",
+  "PalabraClave": "derecho a asistencia médica tras desocupación",
+  "Texto": "El asegurado que quede privado de trabajo remunerado, pero que haya cubierto inmediatamente antes de tal privación un mínimo de ocho cotizaciones semanales ininterrumpidas, conservará durante las ocho semanas posteriores a la desocupación, el derecho a recibir, exclusivamente la asistencia médica y de maternidad, quirúrgica, farmacéutica y hospitalaria que sea necesaria. Del mismo derecho disfrutarán sus beneficiarios.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Si un asegurado queda sin trabajo pero ha cotizado al menos ocho semanas consecutivas antes de la desocupación, conserva durante ocho semanas el derecho a recibir atención médica integral. Este derecho también se extiende a sus beneficiarios.",
+  "NotasOrientadoras": [
+    "Este artículo protege el acceso a servicios médicos tras la pérdida de empleo.",
+    "Se requiere un mínimo de ocho semanas cotizadas para conservar el derecho.",
+    "La cobertura incluye atención médica, quirúrgica, farmacéutica y hospitalaria.",
+    "Los beneficiarios del asegurado también conservan el derecho durante el periodo de desocupación."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "109 Bis",
+  "PalabraClave": "derecho médico en caso de desaparición",
+  "Texto": "Cuando el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia, los beneficiarios conservarán el derecho a recibir la asistencia médica y de maternidad, quirúrgica, farmacéutica y hospitalaria que sea necesaria.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Si el trabajador es declarado como persona desaparecida mediante Declaración Especial de Ausencia, sus beneficiarios mantienen el derecho a recibir atención médica integral conforme a lo establecido por la ley.",
+  "NotasOrientadoras": [
+    "Este artículo garantiza protección médica a los beneficiarios de trabajadores desaparecidos.",
+    "La Declaración Especial de Ausencia es requisito legal para conservar el derecho.",
+    "La cobertura incluye asistencia médica, quirúrgica, farmacéutica y hospitalaria.",
+    "Se reconoce la situación de desaparición como causa legítima para mantener derechos sociales."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "110",
+  "PalabraClave": "programas de medicina preventiva",
+  "Texto": "Con el propósito de proteger la salud y prevenir las enfermedades y la discapacidad, los servicios de medicina preventiva del Instituto llevarán a cabo programas de difusión para la salud, prevención y rehabilitación de la discapacidad, estudios epidemiológicos, producción de inmunobiológicos, inmunizaciones, campañas sanitarias y otros programas especiales enfocados a resolver problemas médico-sociales.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto implementa programas de medicina preventiva que incluyen difusión para la salud, estudios epidemiológicos, producción de inmunobiológicos, campañas sanitarias y acciones para prevenir y rehabilitar la discapacidad.",
+  "NotasOrientadoras": [
+    "Este artículo establece el compromiso institucional con la medicina preventiva.",
+    "Los programas buscan prevenir enfermedades y atender problemas médico-sociales.",
+    "Se incluyen acciones como inmunizaciones, estudios epidemiológicos y campañas sanitarias.",
+    "La prevención y rehabilitación de la discapacidad forman parte integral de la estrategia de salud."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "111",
+  "PalabraClave": "coordinación institucional en salud",
+  "Texto": "El Instituto se coordinará con la Secretaría de Salud y con otras dependencias y organismos públicos, con objeto de realizar las campañas y programas a que se refiere el artículo anterior.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto colabora con la Secretaría de Salud y otras entidades públicas para ejecutar campañas y programas de salud establecidos en el artículo 110.",
+  "NotasOrientadoras": [
+    "Este artículo promueve la coordinación interinstitucional para fortalecer la salud pública.",
+    "Las campañas de medicina preventiva se realizan en conjunto con otras dependencias.",
+    "La colaboración permite ampliar el alcance y efectividad de los programas sanitarios.",
+    "Se refuerza el enfoque integral en la atención médica y prevención de enfermedades."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "111 A",
+  "PalabraClave": "expediente clínico electrónico",
+  "Texto": "El Instituto para realizar los registros, anotaciones y certificaciones relativas a la atención a la salud de la población derechohabiente, podrá utilizar medios escritos, electrónicos, magnéticos, ópticos o magneto ópticos para integrar un expediente clínico electrónico único para cada derechohabiente, en las unidades médicas o en cualquier otra instalación que determine el Instituto.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto puede utilizar diversos medios tecnológicos para registrar y certificar la atención médica, integrando un expediente clínico electrónico único por derechohabiente en sus unidades médicas o instalaciones autorizadas.",
+  "NotasOrientadoras": [
+    "Este artículo autoriza el uso de tecnologías para consolidar la información médica del derechohabiente.",
+    "El expediente clínico electrónico mejora la continuidad y calidad de la atención.",
+    "Se permite el uso de medios físicos y digitales para garantizar trazabilidad médica.",
+    "La digitalización fortalece la gestión institucional y la protección del historial clínico."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "112",
+  "PalabraClave": "riesgos protegidos: invalidez y muerte",
+  "Texto": "Los riesgos protegidos en este capítulo son la invalidez y la muerte del asegurado o del pensionado por invalidez, en los términos y con las modalidades previstos en esta Ley.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Este capítulo protege al asegurado o pensionado por invalidez frente a los riesgos de invalidez y muerte, conforme a las disposiciones establecidas en la Ley.",
+  "NotasOrientadoras": [
+    "La protección incluye tanto al asegurado activo como al pensionado por invalidez.",
+    "Los riesgos cubiertos son invalidez y muerte, bajo condiciones específicas.",
+    "Este artículo establece el alcance general del capítulo de protección.",
+    "La cobertura se otorga conforme a las modalidades previstas en la Ley."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "113",
+  "PalabraClave": "requisitos de cotización para prestaciones",
+  "Texto": "El otorgamiento de las prestaciones establecidas en este capítulo requiere del cumplimiento de períodos de espera, medidos en semanas de cotización reconocidas por el Instituto, según se señala en las disposiciones relativas a cada uno de los riesgos amparados.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Para acceder a las prestaciones por invalidez o muerte, el asegurado debe cumplir con períodos mínimos de cotización reconocidos por el Instituto, conforme a lo que se establezca para cada tipo de riesgo.",
+  "NotasOrientadoras": [
+    "Las prestaciones están condicionadas al cumplimiento de semanas cotizadas.",
+    "Cada riesgo amparado tiene requisitos específicos de cotización.",
+    "El Instituto valida las semanas reconocidas para otorgar el beneficio.",
+    "Este artículo establece el principio de espera como requisito previo."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "114",
+  "PalabraClave": "suspensión de pensión por reincorporación laboral",
+  "Texto": "El pago de la pensión de invalidez, en su caso, se suspenderá durante el tiempo en que el pensionado desempeñe un trabajo en un puesto igual a aquél que desarrollaba al declarase ésta.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Si el pensionado por invalidez se reincorpora a un puesto igual al que tenía al momento de declararse la invalidez, se suspende el pago de la pensión durante ese periodo.",
+  "NotasOrientadoras": [
+    "La pensión de invalidez no se acumula con ingresos por trabajo equivalente.",
+    "El artículo busca evitar duplicidad de ingresos por la misma capacidad laboral.",
+    "La suspensión es temporal y depende del tipo de puesto desempeñado.",
+    "Se protege la integridad del sistema de pensiones frente a reincorporaciones laborales."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "115",
+  "PalabraClave": "acumulación de derechos pensionarios",
+  "Texto": "Cuando una persona tuviera derecho a dos o más de las pensiones establecidas en esta Ley, por ser simultáneamente pensionado, asegurado y beneficiario de otro u otros asegurados, recibirá en su caso, la pensión de acuerdo a los recursos acumulados en la cuenta individual que corresponda.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Si una persona tiene derecho a múltiples pensiones por distintas condiciones, se le otorgará la pensión conforme a los recursos acumulados en la cuenta individual correspondiente.",
+  "NotasOrientadoras": [
+    "Este artículo regula la concurrencia de derechos pensionarios.",
+    "La pensión se determina según los recursos disponibles en la cuenta individual.",
+    "Se evita duplicidad de beneficios y se respeta la acumulación legítima.",
+    "La norma aplica a quienes son simultáneamente pensionados, asegurados y beneficiarios."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "116",
+  "PalabraClave": "límite de pensiones acumuladas",
+  "Texto": "Si una persona tiene derecho a cualquiera de las pensiones de este capítulo y también a pensión proveniente del seguro de riesgos de trabajo, percibirá ambas sin que la suma de sus cuantías exceda del cien por ciento del salario mayor, de los que sirvieron de base para determinar la cuantía de las pensiones concedidas. Los ajustes para no exceder del límite señalado no afectarán la pensión proveniente de riesgos de trabajo.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El asegurado puede recibir pensiones por invalidez y por riesgos de trabajo, siempre que la suma no exceda el 100% del salario mayor que sirvió de base para calcularlas. Si se excede, se ajusta la pensión distinta a la de riesgos de trabajo.",
+  "NotasOrientadoras": [
+    "Se permite la acumulación de pensiones con un límite máximo.",
+    "La pensión por riesgos de trabajo no se ve afectada por ajustes.",
+    "El límite se calcula sobre el salario mayor utilizado como base.",
+    "Este artículo protege el equilibrio financiero del sistema sin afectar derechos adquiridos."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "117",
+  "PalabraClave": "pensión en el extranjero",
+  "Texto": "Cuando cualquier pensionado traslade su domicilio al extranjero, podrá continuar recibiendo su pensión mientras dure su ausencia, conforme a lo dispuesto por convenio internacional, o que los gastos administrativos de traslado de los fondos corran por cuenta del pensionado.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El pensionado que se traslade al extranjero puede seguir recibiendo su pensión, siempre que exista convenio internacional aplicable o que asuma los gastos administrativos del traslado de fondos.",
+  "NotasOrientadoras": [
+    "Este artículo garantiza la continuidad del derecho pensionario fuera del país.",
+    "Los convenios internacionales facilitan el acceso transfronterizo a la pensión.",
+    "El pensionado puede asumir los costos administrativos si no hay convenio.",
+    "Se reconoce la movilidad internacional sin perder derechos adquiridos."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "118",
+  "PalabraClave": "retención de pensión para créditos financieros",
+  "Texto": "Los asegurados que obtengan una pensión definitiva por invalidez y vida o por riesgos de trabajo, así como aquellos que gocen de una pensión por retiro, cesantía en edad avanzada o vejez, podrán optar por que, con cargo a su pensión, se cubran los créditos que les hayan sido otorgados por las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El pensionado puede autorizar que se cubran créditos financieros con cargo a su pensión, siempre que dichos créditos hayan sido otorgados por entidades reguladas conforme a la Ley de Transparencia y Ordenamiento de los Servicios Financieros.",
+  "NotasOrientadoras": [
+    "Este artículo permite al pensionado usar su pensión para cubrir créditos financieros.",
+    "La retención debe ser voluntaria y aplicada a créditos regulados por ley.",
+    "Se facilita la gestión financiera del pensionado sin perder control sobre su pensión.",
+    "La norma vincula el sistema de pensiones con el ordenamiento financiero nacional."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "119",
+  "PalabraClave": "definición de invalidez",
+  "Texto": "Para los efectos de esta Ley existe invalidez cuando el asegurado se halle imposibilitado para procurarse, mediante un trabajo igual, una remuneración superior al cincuenta por ciento de su remuneración habitual percibida durante el último año de trabajo y que esa imposibilidad derive de una enfermedad o accidente no profesionales.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Se considera invalidez cuando el asegurado no puede obtener, mediante un trabajo similar, más del 50% de su salario habitual del último año, debido a enfermedad o accidente no profesional.",
+  "NotasOrientadoras": [
+    "La invalidez se define por la pérdida de capacidad para generar ingresos equivalentes.",
+    "Debe derivarse de causas no profesionales como enfermedades o accidentes comunes.",
+    "El umbral económico es el 50% del salario habitual del último año.",
+    "Este artículo establece el criterio técnico para reconocer el estado de invalidez."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "120",
+  "PalabraClave": "prestaciones por invalidez",
+  "Texto": "El estado de invalidez da derecho al asegurado, en los términos de esta Ley y sus reglamentos, al otorgamiento de las prestaciones siguientes:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Pensión temporal."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Pensión definitiva."
+    }
+  ],
+  "Procedimiento": "El asegurado en estado de invalidez tiene derecho a recibir pensión temporal o definitiva, según lo establecido en la Ley y sus reglamentos.",
+  "NotasOrientadoras": [
+    "La Ley reconoce dos tipos de pensión por invalidez: temporal y definitiva.",
+    "La pensión se otorga conforme al grado y evolución del estado de invalidez.",
+    "Este artículo delimita las prestaciones disponibles para el asegurado inválido.",
+    "La clasificación permite adaptar el beneficio a la situación médica del trabajador."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "121",
+  "PalabraClave": "definición de pensión temporal y definitiva",
+  "Texto": "Pensión temporal es la que otorgue el Instituto, con cargo a este seguro, por períodos renovables al asegurado en los casos de existir posibilidad de recuperación para el trabajo, o cuando por la continuación de una enfermedad no profesional se termine el disfrute del subsidio y la enfermedad persista. Es pensión definitiva la que corresponde al estado de invalidez que se estima de naturaleza permanente.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "La pensión temporal se otorga cuando existe posibilidad de recuperación o cuando persiste una enfermedad no profesional tras agotarse el subsidio. La pensión definitiva aplica cuando la invalidez se considera permanente.",
+  "NotasOrientadoras": [
+    "La pensión temporal permite apoyo económico mientras existe posibilidad de recuperación.",
+    "La pensión definitiva se otorga ante una invalidez permanente sin expectativa de mejora.",
+    "Este artículo define los criterios para clasificar el tipo de pensión.",
+    "La distinción permite una respuesta proporcional a la situación médica del asegurado."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "122",
+  "PalabraClave": "requisitos de cotización para pensión por invalidez",
+  "Texto": "Para gozar de las prestaciones del ramo de invalidez se requiere que al declararse ésta el asegurado tenga acreditado el pago de doscientas cincuenta semanas de cotización. En el caso que el dictamen respectivo determine el setenta y cinco por ciento o más de invalidez sólo se requerirá que tenga acreditadas ciento cincuenta semanas de cotización.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El declarado en estado de invalidez de naturaleza permanente que no reúna las semanas de cotización señaladas en el párrafo anterior podrá retirar, en el momento que lo desee, el saldo de su cuenta individual del seguro de retiro, cesantía en edad avanzada y vejez en una sola exhibición."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "Para acceder a la pensión por invalidez se requieren 250 semanas cotizadas. Si el dictamen indica una invalidez del 75% o más, bastan 150 semanas. Si no se cumplen estos requisitos, el asegurado puede retirar el saldo de su cuenta individual en una sola exhibición.",
+  "NotasOrientadoras": [
+    "Este artículo establece los requisitos de cotización para acceder a la pensión por invalidez.",
+    "Se flexibiliza el requisito si el grado de invalidez es igual o superior al 75%.",
+    "Quienes no cumplan con las semanas requeridas pueden retirar su ahorro acumulado.",
+    "La norma garantiza una salida económica digna ante la imposibilidad de pensionarse."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "123",
+  "PalabraClave": "exclusiones para pensión de invalidez",
+  "Texto": "No se tiene derecho a disfrutar de pensión de invalidez, cuando el asegurado:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Por sí o de acuerdo con otra persona se haya provocado intencionalmente la invalidez."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Resulte responsable del delito intencional que originó la invalidez."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Padezca un estado de invalidez anterior a su afiliación al régimen obligatorio."
+    }
+  ],
+  "Procedimiento": "El asegurado no podrá acceder a la pensión por invalidez si esta fue provocada intencionalmente, si deriva de un delito cometido por él, o si existía antes de su afiliación al régimen obligatorio.",
+  "NotasOrientadoras": [
+    "Este artículo establece las causas que excluyen el derecho a pensión por invalidez.",
+    "Se protege al sistema contra fraudes o simulaciones voluntarias.",
+    "La invalidez debe ser posterior a la afiliación para ser cubierta.",
+    "La responsabilidad penal del asegurado anula el derecho al beneficio."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "124",
+  "PalabraClave": "verificación del estado de invalidez",
+  "Texto": "Los asegurados que soliciten el otorgamiento de una pensión de invalidez y los inválidos que se encuentren disfrutándola, deberán sujetarse a las investigaciones de carácter médico, social y económico que el Instituto estime necesarias, para comprobar si existe o subsiste el estado de invalidez.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Con la finalidad de evitar simulaciones en el otorgamiento de la pensión referida en el párrafo anterior, cualquier irregularidad que se advirtiera sobre el particular por parte del Instituto, será sancionada por la autoridad correspondiente de conformidad con lo dispuesto por las normas penales que en su caso resulten aplicables."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto puede realizar investigaciones médicas, sociales y económicas para verificar la existencia o continuidad del estado de invalidez. Si detecta irregularidades, estas serán sancionadas conforme a la legislación penal aplicable.",
+  "NotasOrientadoras": [
+    "Este artículo permite al Instituto verificar la legitimidad del estado de invalidez.",
+    "Las investigaciones buscan evitar simulaciones o fraudes en el otorgamiento de pensiones.",
+    "Las irregularidades detectadas pueden ser sancionadas penalmente.",
+    "Se refuerza la transparencia y legalidad en el acceso a prestaciones por invalidez."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "125",
+  "PalabraClave": "inicio del derecho a pensión por invalidez",
+  "Texto": "El derecho a la pensión de invalidez comenzará desde el día en que se produzca el siniestro y si no puede fijarse el día, desde la fecha de la presentación de la solicitud para obtenerla.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "La pensión por invalidez inicia desde el día del siniestro. Si no puede determinarse con precisión, se considera la fecha de presentación de la solicitud como punto de partida.",
+  "NotasOrientadoras": [
+    "Este artículo establece el momento en que inicia el derecho a pensión por invalidez.",
+    "Se prioriza el día del siniestro como referencia principal.",
+    "La solicitud formal actúa como respaldo cuando no hay fecha exacta del evento.",
+    "Se garantiza el acceso oportuno al beneficio económico ante la invalidez."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "126",
+  "PalabraClave": "suspensión de pensión por incumplimiento médico",
+  "Texto": "Cuando un pensionado por invalidez se niegue a someterse a los exámenes previos o posteriores y a los tratamientos médicos prescritos o abandone éstos, el Instituto ordenará la suspensión del pago de la pensión. Dicha suspensión subsistirá mientras el pensionado no cumpla con lo dispuesto en este artículo.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Si el pensionado por invalidez se niega a someterse a exámenes o tratamientos médicos, o los abandona, el Instituto suspenderá el pago de la pensión hasta que se cumpla con lo requerido.",
+  "NotasOrientadoras": [
+    "Este artículo condiciona la continuidad de la pensión al cumplimiento médico.",
+    "La negativa o abandono de tratamientos puede suspender el beneficio.",
+    "El Instituto tiene facultad para verificar el seguimiento clínico del pensionado.",
+    "Se busca asegurar que la pensión se mantenga solo si el estado de invalidez persiste."
+  ]
+  },
+  {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "127",
+  "PalabraClave": "prestaciones por fallecimiento del asegurado o pensionado",
+  "Texto": "Cuando ocurra la muerte de la o el asegurado o del pensionado por invalidez, el Instituto otorgará a sus beneficiarios, conforme a lo dispuesto en el presente capítulo, las siguientes prestaciones:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Pensión de viudez."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Pensión de orfandad."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Pensión a ascendientes."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Ayuda asistencial al pensionado o a la pensionada por viudez, en los casos en que lo requiera, de acuerdo con el dictamen médico que al efecto se formule."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Asistencia médica, en los términos del capítulo IV de este Título."
+    }
+  ],
+  "Procedimiento": "Ante el fallecimiento del asegurado o pensionado por invalidez, el Instituto otorga a sus beneficiarios pensiones por viudez, orfandad y ascendencia, así como ayuda asistencial y asistencia médica conforme a dictamen médico y disposiciones del capítulo IV.",
+  "NotasOrientadoras": [
+    "Este artículo establece las prestaciones que se otorgan a los beneficiarios tras el fallecimiento del asegurado o pensionado.",
+    "La cobertura incluye pensiones familiares y asistencia médica.",
+    "La ayuda asistencial depende de dictamen médico que justifique la necesidad.",
+    "Se garantiza protección integral a los sobrevivientes en condiciones de vulnerabilidad."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "128",
+  "PalabraClave": "requisitos para pensión por fallecimiento",
+  "Texto": "Son requisitos para que se otorguen a los beneficiarios las prestaciones contenidas en el artículo 127, las siguientes:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Que el asegurado al fallecer hubiese tenido reconocido el pago al Instituto de un mínimo de ciento cincuenta cotizaciones semanales, o bien que se encontrara disfrutando de una pensión de invalidez."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Que la muerte del asegurado o pensionado por invalidez no se deba a un riesgo de trabajo."
+    }
+  ],
+  "Procedimiento": "Para que los beneficiarios accedan a las prestaciones por fallecimiento, el asegurado debe haber cotizado al menos 150 semanas o estar pensionado por invalidez, y la causa de muerte no debe estar relacionada con riesgos de trabajo.",
+  "NotasOrientadoras": [
+    "Este artículo establece los requisitos mínimos para que los beneficiarios accedan a pensiones por fallecimiento.",
+    "La cotización previa o el estado pensionario son condiciones necesarias.",
+    "Se excluyen los casos en que la muerte derive de riesgos laborales.",
+    "La norma delimita el origen del derecho y protege la integridad del sistema."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "129",
+  "PalabraClave": "pensión por incapacidad permanente no laboral",
+  "Texto": "También tendrán derecho a pensión los beneficiarios de un asegurado fallecido por causa distinta a un riesgo de trabajo que se encontrara disfrutando de una pensión por incapacidad permanente derivada de un riesgo igual, si aquél tuviera acreditado el pago al Instituto de un mínimo de ciento cincuenta cotizaciones semanales y hubiese causado baja en el régimen obligatorio, cualquiera que fuere el tiempo transcurrido desde la fecha de su baja.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Los beneficiarios de un asegurado fallecido por causa no laboral, que estuviera pensionado por incapacidad permanente y hubiera cotizado al menos 150 semanas, tienen derecho a pensión, sin importar el tiempo transcurrido desde su baja en el régimen obligatorio.",
+  "NotasOrientadoras": [
+    "Este artículo extiende el derecho a pensión a beneficiarios de asegurados con incapacidad permanente no laboral.",
+    "La cotización mínima de 150 semanas es requisito indispensable.",
+    "El tiempo desde la baja no limita el acceso al beneficio.",
+    "Se reconoce la continuidad del derecho pensionario más allá de la afiliación activa."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "130",
+  "PalabraClave": "derecho a pensión de viudez",
+  "Texto": "Tendrá derecho a la pensión de viudez la o el que fuera cónyuge de la o el asegurado o la o el pensionado por invalidez. A falta de cónyuge, tendrán derecho a recibir la pensión la concubina o el concubinario de la o el asegurado o pensionado por invalidez, que haya vivido durante al menos los cinco años que precedieron inmediatamente a la muerte de aquél, o la persona con la que hubiera tenido hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, o la persona que hubiera suscrito una unión civil con la o el asegurado o la o el pensionado. Si al morir el asegurado o pensionado por invalidez tenía varias o varios concubinas o concubinarios, ninguno de ellos tendrá derecho a recibir la pensión.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "La pensión de viudez corresponde al cónyuge del asegurado o pensionado por invalidez. En ausencia de cónyuge, puede otorgarse a concubina, concubinario o persona en unión civil, siempre que cumpla con los requisitos de convivencia, descendencia o estado civil. Si hay múltiples concubinas o concubinarios, ninguno tiene derecho.",
+  "NotasOrientadoras": [
+    "Este artículo define quién tiene derecho a recibir pensión de viudez.",
+    "Se reconoce el concubinato y la unión civil como figuras válidas bajo condiciones específicas.",
+    "La convivencia prolongada y la existencia de hijos son criterios relevantes.",
+    "Se evita conflicto por múltiples relaciones simultáneas al momento del fallecimiento."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "131",
+  "PalabraClave": "monto de pensión de viudez",
+  "Texto": "La pensión de viudez será igual al noventa por ciento de la que hubiera correspondido al asegurado en el caso de invalidez o de la que venía disfrutando el pensionado por este supuesto.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "La pensión de viudez equivale al 90% de la pensión por invalidez que habría recibido el asegurado o que ya disfrutaba el pensionado.",
+  "NotasOrientadoras": [
+    "Este artículo establece el monto de la pensión de viudez como proporción de la pensión por invalidez.",
+    "El porcentaje fijado es del 90%, garantizando continuidad económica al sobreviviente.",
+    "Se respeta el nivel de protección previamente otorgado al asegurado o pensionado.",
+    "La norma busca equilibrio entre sostenibilidad financiera y protección familiar."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "132",
+  "PalabraClave": "exclusiones para pensión de viudez",
+  "Texto": "No se tendrá derecho a la pensión de viudez que establece el artículo anterior, en los siguientes casos:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Cuando la muerte del asegurado acaeciera antes de cumplir seis meses de matrimonio."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Se deroga."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Se deroga."
+    }
+  ],
+  "Procedimiento": "La pensión de viudez no se otorga si el fallecimiento ocurre antes de cumplir seis meses de matrimonio. Las fracciones II y III han sido derogadas.",
+  "NotasOrientadoras": [
+    "Este artículo establece una restricción temporal para acceder a la pensión de viudez.",
+    "La duración mínima del matrimonio es requisito para el derecho pensionario.",
+    "Las fracciones derogadas ya no aplican en el marco legal vigente.",
+    "Se busca evitar simulaciones o matrimonios estratégicos de último momento."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "133",
+  "PalabraClave": "vigencia y terminación de pensión de viudez",
+  "Texto": "El derecho al goce de la pensión de viudez comenzará desde el día del fallecimiento del asegurado o pensionado por invalidez y cesará con la muerte del beneficiario, o cuando la viuda, viudo, concubina o concubinario contrajeran matrimonio o entraran en concubinato. El disfrute de esta pensión no se suspenderá porque aquéllos desempeñe un trabajo remunerado.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "La pensión de viudez inicia desde el fallecimiento del asegurado o pensionado y termina con la muerte del beneficiario, o si éste contrae matrimonio o entra en concubinato. El beneficio no se suspende por desempeño laboral.",
+  "NotasOrientadoras": [
+    "Este artículo define el inicio y fin del derecho a pensión de viudez.",
+    "El trabajo remunerado no afecta el disfrute de la pensión.",
+    "La pensión cesa por matrimonio, concubinato o fallecimiento del beneficiario.",
+    "Se garantiza estabilidad económica sin penalizar la reinserción laboral."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "134",
+  "PalabraClave": "requisitos y extensión de pensión de orfandad",
+  "Texto": "Tendrán derecho a recibir pensión de orfandad cada uno de los hijos menores de dieciséis años, cuando muera el padre o la madre y alguno de éstos hubiera tenido el carácter de asegurado, y acrediten tener ante el Instituto un mínimo de ciento cincuenta cotizaciones semanales o haber tenido la calidad de pensionados por invalidez.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El Instituto prorrogará la pensión de orfandad, después de alcanzar el huérfano la edad de dieciséis años, y hasta la edad de veinticinco, si se encuentra estudiando en planteles del sistema educativo nacional, tomando en consideración las condiciones económicas, familiares y personales del beneficiario, siempre que no sea sujeto del régimen obligatorio."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "El huérfano mayor de dieciséis años que desempeñe un trabajo remunerado no tiene derecho a percibir esta pensión; salvo que no pueda mantenerse por su propio trabajo, debido a una enfermedad crónica, defecto físico o psíquico, en tanto no desaparezca la incapacidad que padece."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "Los hijos menores de 16 años tienen derecho a pensión de orfandad si el padre o madre fallecido era asegurado con al menos 150 semanas cotizadas o pensionado por invalidez. La pensión puede extenderse hasta los 25 años si el huérfano estudia y no está afiliado al régimen obligatorio. Si trabaja, pierde el derecho salvo que tenga una incapacidad permanente.",
+  "NotasOrientadoras": [
+    "La pensión de orfandad protege a hijos menores tras el fallecimiento de un asegurado.",
+    "Puede extenderse hasta los 25 años si el huérfano estudia y no cotiza.",
+    "El trabajo remunerado suspende el beneficio, salvo por incapacidad médica.",
+    "Se considera la situación económica y personal del beneficiario para prórrogas."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "135",
+  "PalabraClave": "monto de pensión de orfandad",
+  "Texto": "La pensión del huérfano de padre o madre será igual al veinte por ciento de la pensión de invalidez que el asegurado estuviese gozando al fallecer o de la que le hubiera correspondido suponiendo realizado el estado de invalidez. Si el huérfano lo fuera de padre y madre, se le otorgará en las mismas condiciones una pensión igual al treinta por ciento de la misma base.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "La pensión de orfandad equivale al 20% de la pensión de invalidez del asegurado fallecido. Si el huérfano ha perdido a ambos padres, se le otorga el 30% sobre la misma base.",
+  "NotasOrientadoras": [
+    "Este artículo establece el monto proporcional de la pensión de orfandad.",
+    "El porcentaje varía según si el huérfano ha perdido a uno o ambos padres.",
+    "Se toma como base la pensión de invalidez que correspondía al asegurado.",
+    "La norma garantiza apoyo económico proporcional a la situación familiar."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "137",
+  "PalabraClave": "pensión a ascendientes por fallecimiento",
+  "Texto": "Si no existieran viuda, viudo, huérfanos, ni concubina o concubinario con derecho a pensión, o quien haya suscrito una unión civil y que le sobreviva, ésta se otorgará a cada uno de los ascendientes que dependían económicamente de la o el asegurado o pensionado por invalidez fallecido, por una cantidad igual al veinte por ciento de la pensión que el asegurado o asegurada estuviese gozando al fallecer, o de la que le hubiera correspondido suponiendo realizado el estado de invalidez.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "En ausencia de cónyuge, concubina, concubinario, unión civil o hijos con derecho a pensión, ésta se otorga a los ascendientes que dependían económicamente del asegurado o pensionado fallecido. El monto será igual al 20% de la pensión que gozaba o que le habría correspondido por invalidez.",
+  "NotasOrientadoras": [
+    "Este artículo garantiza protección económica a los ascendientes dependientes del asegurado o pensionado fallecido.",
+    "La pensión se otorga solo si no existen otros beneficiarios con derecho preferente.",
+    "El monto es proporcional a la pensión de invalidez que correspondía al fallecido.",
+    "Se reconoce la dependencia económica como criterio legítimo para acceder al beneficio."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "137 Bis",
+  "PalabraClave": "pensión provisional por desaparición del pensionado",
+  "Texto": "Si un pensionado desaparece de su domicilio por más de un mes sin que se tengan noticias de su paradero, sus beneficiarios con derecho a la pensión, disfrutarán de la misma en los términos de la sección del ramo de vida del seguro de invalidez y vida con carácter provisional, y previa la solicitud respectiva, bastando para ello que se compruebe el parentesco y la desaparición del pensionado, exhibiendo la denuncia presentada ante el Ministerio Público correspondiente. Si posteriormente y en cualquier tiempo, el pensionado se presentase, tendrá derecho a disfrutar él mismo su pensión y a recibir las diferencias entre el importe original de la misma y aquél que hubiese sido entregado a sus beneficiarios, sin que en ningún caso pueda entenderse una obligación del Instituto respecto de aquellos importes que hubieran sido pagados a los beneficiarios. Cuando se compruebe el fallecimiento del pensionado, la transmisión será definitiva.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Si un pensionado desaparece por más de un mes, sus beneficiarios pueden solicitar el pago provisional de la pensión, presentando denuncia ante el Ministerio Público y comprobando parentesco. Si el pensionado reaparece, recupera el derecho a su pensión y puede recibir la diferencia no entregada, sin que el Instituto esté obligado a recuperar lo pagado a los beneficiarios. Si se confirma su fallecimiento, la pensión se transmite de forma definitiva.",
+  "NotasOrientadoras": [
+    "Este artículo permite el acceso provisional a la pensión en caso de desaparición del pensionado.",
+    "La denuncia ante el Ministerio Público y el parentesco son requisitos para activar el beneficio.",
+    "Si el pensionado reaparece, se restablece su derecho sin afectar lo ya entregado.",
+    "La transmisión definitiva se realiza solo cuando se comprueba el fallecimiento."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "138",
+  "PalabraClave": "asignaciones familiares por pensión de invalidez",
+  "Texto": "Las asignaciones familiares consisten en una ayuda por concepto de carga familiar y se concederá a los beneficiarios del pensionado o pensionada por invalidez, de acuerdo con las reglas siguientes:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "Fracción": "I",
+      "Texto": "Para la o el cónyuge, o para quien hubiere mantenido relación de concubinato, o a quien haya suscrito una unión civil, el quince por ciento de la cuantía de la pensión."
+    },
+    {
+      "Fracción": "II",
+      "Texto": "Para cada uno de los hijos menores de dieciséis años del pensionado, el diez por ciento de la cuantía de la pensión."
+    },
+    {
+      "Fracción": "III",
+      "Texto": "Si el pensionado o pensionada no tuviera cónyuge o no mantuviere relación de concubinato o no haya suscrito una unión civil, ni tuviera hijos menores de dieciséis años, se concederá una asignación del diez por ciento para cada uno de los padres de la o el pensionado si dependieran económicamente de él o de ella."
+    },
+    {
+      "Fracción": "IV",
+      "Texto": "Si el pensionado o pensionada no estuviera casado civilmente o no mantuviere relación de concubinato o no tuviera suscrita una unión civil, ni tuviera hijos, ni ascendientes que dependan económicamente de él o ella, se le concederá una ayuda asistencial equivalente al quince por ciento de la cuantía de la pensión que le corresponda."
+    },
+    {
+      "Fracción": "V",
+      "Texto": "Si el pensionado sólo tuviera un ascendiente con derecho al disfrute de asignación familiar, se le concederá una ayuda asistencial equivalente al diez por ciento de la cuantía de la pensión que deba disfrutar."
+    }
+  ],
+  "Procedimiento": "Las asignaciones familiares se otorgan como complemento económico a la pensión por invalidez, según la composición del núcleo familiar. El monto varía entre el 10% y el 15% de la pensión, dependiendo de si existen cónyuge, hijos menores, padres dependientes o si el pensionado no tiene familiares con derecho.",
+  "NotasOrientadoras": [
+    "Este artículo establece ayudas complementarias por carga familiar vinculadas a la pensión de invalidez.",
+    "El porcentaje asignado depende del tipo de beneficiario: cónyuge, hijos, padres o ausencia de ellos.",
+    "Se reconoce la situación económica y familiar del pensionado para determinar el apoyo.",
+    "La ayuda asistencial garantiza protección incluso en ausencia de familiares dependientes."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "139",
+  "PalabraClave": "exclusión de asignaciones en cálculo de pensiones",
+  "Texto": "Para calcular el aguinaldo anual o las pensiones de viudez, de orfandad o a ascendientes no serán tomadas en cuenta las asignaciones familiares y las ayudas asistenciales que se otorguen.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "Los pensionados por retiro, cesantía en edad avanzada y vejez recibirán, incluidas en la pensión que adquieran, las asignaciones familiares y las ayudas asistenciales que se establecen en esta sección, las cuales se financiarán con la cuota social que, en su caso, aporte el Estado en los términos de la fracción IV del artículo 168 de esta Ley y con las aportaciones patronales a la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "Las asignaciones familiares y ayudas asistenciales no se consideran para calcular el aguinaldo ni las pensiones por viudez, orfandad o ascendientes. Sin embargo, sí se incluyen en las pensiones por retiro, cesantía y vejez, financiadas por la cuota social del Estado y las aportaciones patronales.",
+  "NotasOrientadoras": [
+    "Este artículo delimita qué componentes se excluyen del cálculo de pensiones específicas.",
+    "Las asignaciones familiares no afectan el monto del aguinaldo ni ciertas pensiones.",
+    "En pensiones por retiro y vejez, sí se integran como parte del beneficio.",
+    "El financiamiento proviene de aportaciones estatales y patronales específicas."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "140",
+  "PalabraClave": "ayuda asistencial por dependencia física",
+  "Texto": "El Instituto concederá ayuda asistencial al pensionado por invalidez, con excepción de los casos comprendidos en las fracciones IV y V del artículo 138, así como a los viudos o viudas pensionados, cuando su estado físico requiera ineludiblemente, que lo asista otra persona de manera permanente o continua. Con base en el dictamen médico que al efecto se formule, la ayuda asistencial consistirá en el aumento hasta del veinte por ciento de la pensión de invalidez o viudez que esté disfrutando el pensionado.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El Instituto puede otorgar ayuda asistencial adicional a pensionados por invalidez o viudez que requieran asistencia permanente, excluyendo los casos previstos en las fracciones IV y V del artículo 138. El monto puede aumentar hasta un 20% de la pensión, según dictamen médico.",
+  "NotasOrientadoras": [
+    "Este artículo reconoce la necesidad de apoyo adicional para pensionados con dependencia física.",
+    "La ayuda se otorga solo si existe dictamen médico que lo justifique.",
+    "Se excluyen los casos que ya reciben ayuda asistencial por otras vías.",
+    "El incremento puede alcanzar hasta el 20% de la pensión base."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "140 Bis",
+  "PalabraClave": "licencia médica por cáncer infantil",
+  "Texto": "Para los casos de madres o padres trabajadores asegurados, cuyos hijos de hasta dieciséis años hayan sido diagnosticados por el Instituto con cáncer de cualquier tipo, podrán gozar de una licencia por cuidados médicos de los hijos para ausentarse de sus labores en caso de que el niño, niña o adolescente diagnosticado requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, de acuerdo a la prescripción del médico tratante, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El Instituto podrá expedir a alguno de los padres trabajadores asegurados, que se sitúe en el supuesto previsto en el párrafo que antecede, una constancia que acredite el padecimiento oncológico y la duración del tratamiento respectivo, a fin de que el patrón o patrones de éstos tengan conocimiento de tal licencia."
+    },
+    {
+      "Párrafo": "3",
+      "Texto": "La licencia expedida por el Instituto al padre o madre trabajador asegurado, tendrá una vigencia de uno y hasta veintiocho días. Podrán expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años sin que se excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "Los padres asegurados cuyos hijos menores de 16 años hayan sido diagnosticados con cáncer pueden solicitar licencias médicas para cuidados durante tratamiento o hospitalización. El Instituto emite constancia médica para informar al patrón. Las licencias pueden durar de 1 a 28 días, acumulables hasta 364 días en un periodo máximo de tres años.",
+  "NotasOrientadoras": [
+    "Este artículo otorga protección laboral y médica a padres de menores con cáncer.",
+    "La licencia permite ausentarse durante periodos críticos de tratamiento.",
+    "El Instituto emite constancia médica para formalizar la solicitud ante el empleador.",
+    "Las licencias son flexibles y acumulables, adaptándose a la evolución del tratamiento."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "141",
+  "PalabraClave": "cálculo de pensión por invalidez",
+  "Texto": "La cuantía de la pensión por invalidez será igual a una cuantía básica del treinta y cinco por ciento del promedio de los salarios correspondientes a las últimas quinientas semanas de cotización anteriores al otorgamiento de la misma, o las que tuviere siempre que sean suficientes para ejercer el derecho, en los términos del artículo 122 de esta Ley, actualizadas conforme al Índice Nacional de Precios al Consumidor, más las asignaciones familiares y ayudas asistenciales.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "En el caso de que la cuantía de la pensión sea inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo 170 de esta Ley, el Estado aportará la diferencia a fin de que el trabajador pueda adquirir una pensión vitalicia."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "La pensión por invalidez se calcula como el 35% del promedio salarial de las últimas 500 semanas cotizadas, ajustado por inflación y complementado con asignaciones familiares y ayudas asistenciales. Si el monto es inferior al mínimo garantizado, el Estado cubre la diferencia para asegurar una pensión vitalicia.",
+  "NotasOrientadoras": [
+    "Este artículo establece el método de cálculo de la pensión por invalidez.",
+    "Se considera el promedio salarial de hasta 500 semanas cotizadas.",
+    "El Estado garantiza un mínimo vital en caso de pensiones insuficientes.",
+    "La pensión incluye ajustes por inflación y apoyos familiares."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "142",
+  "PalabraClave": "base para pensiones derivadas y aguinaldo",
+  "Texto": "El monto determinado conforme al artículo 141, servirá de base para calcular las pensiones que se deriven de la muerte tanto del pensionado, como del asegurado, al igual que para fijar la cuantía del aguinaldo anual.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "La pensión calculada según el artículo 141 se utiliza como base para determinar pensiones por fallecimiento y el monto del aguinaldo anual.",
+  "NotasOrientadoras": [
+    "Este artículo vincula el cálculo de pensión por invalidez con otras prestaciones.",
+    "La misma base se aplica para pensiones por viudez, orfandad y ascendientes.",
+    "También se utiliza para determinar el aguinaldo anual del pensionado.",
+    "Se garantiza coherencia en el cálculo de beneficios derivados."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "143",
+  "PalabraClave": "límite máximo de pensión por invalidez",
+  "Texto": "La pensión que se otorgue por invalidez incluyendo el importe de las asignaciones familiares y ayudas asistenciales que se concedan, no excederá del cien por ciento del salario promedio que sirvió de base para fijar la cuantía de la pensión.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "La pensión por invalidez, sumando asignaciones familiares y ayudas asistenciales, no puede superar el 100% del salario promedio utilizado para calcularla.",
+  "NotasOrientadoras": [
+    "Este artículo establece un tope máximo para la pensión por invalidez.",
+    "Se evita que el monto total exceda el salario promedio base.",
+    "Incluye todos los complementos económicos en el límite.",
+    "La norma protege el equilibrio financiero del sistema sin afectar la cobertura."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "144",
+  "PalabraClave": "límite conjunto de pensiones familiares",
+  "Texto": "El total de las pensiones atribuidas a la viuda, o a la concubina y a los huérfanos de un asegurado fallecido no deberá exceder del monto de la pensión de invalidez que disfrutaba el asegurado o de la que le hubiera correspondido en el caso de invalidez. Si ese total excediera, se reducirán proporcionalmente cada una de las pensiones.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Las pensiones otorgadas a viuda, concubina y huérfanos no pueden superar el monto de la pensión de invalidez que tenía o habría tenido el asegurado. Si se excede, se aplican reducciones proporcionales.",
+  "NotasOrientadoras": [
+    "Este artículo establece un límite conjunto para pensiones familiares derivadas.",
+    "Se evita que el total de pensiones supere el monto original del asegurado.",
+    "La reducción proporcional mantiene equidad entre beneficiarios.",
+    "La norma protege la sostenibilidad del sistema sin excluir derechos."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "145",
+  "PalabraClave": "actualización anual de pensiones",
+  "Texto": "Las pensiones por invalidez y vida otorgadas serán incrementadas anualmente en el mes de febrero conforme al Índice Nacional de Precios al Consumidor.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Las pensiones por invalidez y vida se actualizan cada febrero según el Índice Nacional de Precios al Consumidor.",
+  "NotasOrientadoras": [
+    "Este artículo garantiza la actualización anual de las pensiones.",
+    "El ajuste se realiza en febrero conforme a la inflación oficial.",
+    "Se protege el poder adquisitivo del pensionado frente al costo de vida.",
+    "La norma asegura continuidad y equidad en el valor de las prestaciones."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "146",
+  "PalabraClave": "financiamiento del seguro de invalidez y vida",
+  "Texto": "Los recursos necesarios para financiar las prestaciones y los gastos administrativos del seguro de invalidez y vida, así como la constitución de las reservas técnicas, se obtendrán de las cuotas que están obligados a cubrir los patrones, los trabajadores y demás sujetos obligados, así como de la contribución que corresponda al Estado.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "El seguro de invalidez y vida se financia mediante cuotas de patrones, trabajadores y otros sujetos obligados, además de la contribución estatal correspondiente.",
+  "NotasOrientadoras": [
+    "Este artículo establece las fuentes de financiamiento del seguro de invalidez y vida.",
+    "Incluye cuotas patronales, obreras y contribuciones estatales.",
+    "Se contempla la creación de reservas técnicas para garantizar sostenibilidad.",
+    "La norma asegura cobertura integral mediante aportaciones compartidas."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "147",
+  "PalabraClave": "porcentajes de cuota para invalidez y vida",
+  "Texto": "A los patrones y a los trabajadores les corresponde cubrir, para el seguro de invalidez y vida el uno punto setenta y cinco por ciento y el cero punto seiscientos veinticinco por ciento sobre el salario base de cotización, respectivamente.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Los patrones deben aportar el 1.75% y los trabajadores el 0.625% sobre el salario base de cotización para financiar el seguro de invalidez y vida.",
+  "NotasOrientadoras": [
+    "Este artículo define los porcentajes de aportación para el seguro de invalidez y vida.",
+    "La mayor carga contributiva recae en el patrón.",
+    "Las cuotas se calculan sobre el salario base de cotización.",
+    "Se establece una fórmula clara para el financiamiento compartido."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "148",
+  "PalabraClave": "contribución estatal en ausencia de convenio",
+  "Texto": "En todos los casos en que no esté expresamente prevista por la Ley o por convenio la cuantía de la contribución del Estado para los seguros de invalidez y vida, será igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales y la cubrirá en los términos del artículo 108 de esta Ley.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "Procedimiento": "Cuando no se establezca expresamente la contribución estatal, esta será del 7.143% del total de las cuotas patronales, conforme al artículo 108.",
+  "NotasOrientadoras": [
+    "Este artículo fija un porcentaje estándar para la contribución estatal en ausencia de convenio.",
+    "La base de cálculo es el total de cuotas patronales.",
+    "Se garantiza la participación del Estado en el financiamiento del seguro.",
+    "La norma asegura continuidad financiera ante vacíos normativos."
+  ]
+    },
+    {
+  "Ley": "Ley del Seguro Social",
+  "Artículo": "149",
+  "PalabraClave": "responsabilidad patronal por omisiones",
+  "Texto": "El patrón es responsable de los daños y perjuicios que se causaren al trabajador o a sus familiares derechohabientes, cuando por falta de cumplimiento de la obligación de inscribirlo o de avisar su salario real o los cambios que sufriera éste, no pudieran otorgarse las prestaciones consignadas en este capítulo o bien dichas prestaciones se vieran disminuidas en su cuantía.",
+  "Párrafos": [
+    {
+      "Párrafo": "2",
+      "Texto": "El Instituto se subrogará en sus derechos y le otorgará las prestaciones que le correspondan. En este caso, el patrón está obligado a enterar al Instituto los capitales constitutivos respectivos."
+    }
+  ],
+  "Fracciones": [],
+  "Procedimiento": "Si el patrón incumple con inscribir al trabajador o reportar su salario real, y esto impide o reduce las prestaciones, será responsable por los daños. El Instituto se subroga en los derechos del trabajador y otorga las prestaciones, obligando al patrón a cubrir los capitales constitutivos.",
+  "NotasOrientadoras": [
+    "Este artículo establece la responsabilidad directa del patrón por omisiones en el registro o salario.",
+    "El incumplimiento puede afectar el acceso o monto de las prestaciones.",
+    "El Instituto asume el pago de prestaciones y exige al patrón el reembolso correspondiente.",
+    "Se protege al trabajador y sus beneficiarios frente a negligencias patronales."
+  ]
+    }
 ]
+
