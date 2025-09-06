@@ -5590,34 +5590,6 @@
   },
   {
   "Ley": "Código Fiscal de la Federación",
-  "Artículo": "121",
-  "PalabraClave": "plazo y suspensión del recurso de revocación",
-  "Texto": "El recurso deberá presentarse a través del buzón tributario, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación, excepto lo dispuesto en el artículo 127 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en el mismo se señala.",
-  "Párrafos": [
-    {
-      "Párrafo": "2",
-      "Texto": "El escrito de interposición del recurso también podrá enviarse a la autoridad competente en razón del domicilio o a la que emitió o ejecutó el acto, a través de los medios que autorice el Servicio de Administración Tributaria mediante reglas de carácter general."
-    },
-    {
-      "Párrafo": "3",
-      "Texto": "Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta por un año el plazo para interponer el recurso, si antes no se hubiere aceptado el cargo de representante de la sucesión. También se suspenderá el plazo para la interposición del recurso si el particular solicita a las autoridades fiscales iniciar el procedimiento de resolución de controversias contenido en un tratado para evitar la doble tributación. En este caso, la suspensión del plazo iniciará desde la fecha en la que la autoridad competente del país extranjero que recibió la solicitud de inicio del procedimiento de resolución de controversias notifique a su contraparte en México la recepción de dicha solicitud; tratándose de procedimientos cuyo inicio se solicite en México, la suspensión iniciará desde la fecha en que la solicitud haya sido recibida por la autoridad competente de México. La suspensión del plazo cesará cuando surta efectos la notificación del acto por el que la autoridad competente de México haga del conocimiento del solicitante la conclusión del procedimiento, inclusive, en el caso de que se dé por terminado a petición del interesado, o bien, cuando haya sido declarado improcedente."
-    },
-    {
-      "Párrafo": "4",
-      "Texto": "En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, cuando el particular se encuentre afectado por un acto o resolución administrativa, se suspenderá el plazo para interponer el recurso de revocación hasta por un año. La suspensión cesará cuando se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación."
-    }
-  ],
-  "Fracciones": [],
-  "Procedimiento": "El recurso de revocación debe presentarse dentro de 30 días a partir de la notificación del acto, preferentemente vía buzón tributario. Puede enviarse también por otros medios autorizados. El plazo se suspende en casos de fallecimiento, incapacidad, ausencia o cuando se inicia un procedimiento de resolución de controversias bajo tratados internacionales.",
-  "NotasOrientadoras": [
-    "Este artículo regula el plazo y medios para interponer el recurso de revocación.",
-    "Se permite la presentación por buzón tributario o por medios autorizados por el SAT.",
-    "El plazo puede suspenderse por causas personales o por procedimientos internacionales.",
-    "La norma garantiza flexibilidad y protección del derecho de defensa ante situaciones excepcionales."
-  ]
-  },
-  {
-  "Ley": "Código Fiscal de la Federación",
   "Artículo": "122",
   "PalabraClave": "contenido del escrito de revocación",
   "Texto": "El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 18 de este Código y señalar además:",
@@ -5888,5 +5860,33 @@
     "El recurso puede desecharse por improcedente o sobreseerse.",
     "La autoridad debe actuar conforme al alcance del recurso interpuesto."
   ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "121",
+  "PalabraClave": "plazo y suspensión del recurso de revocación",
+  "Texto": "El recurso deberá presentarse a través del buzón tributario, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación, excepto lo dispuesto en el artículo 127 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en el mismo se señala.",
+  "Párrafos": [
+    {
+      "numero": 2,
+      "texto": "El escrito de interposición del recurso también podrá enviarse a la autoridad competente en razón del domicilio o a la que emitió o ejecutó el acto, a través de los medios que autorice el Servicio de Administración Tributaria mediante reglas de carácter general."
+    },
+    {
+      "numero": 3,
+      "texto": "Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta por un año el plazo para interponer el recurso, si antes no se hubiere aceptado el cargo de representante de la sucesión."
+    },
+    {
+      "numero": 4,
+      "texto": "También se suspenderá el plazo para la interposición del recurso si el particular solicita a las autoridades fiscales iniciar el procedimiento de resolución de controversias contenido en un tratado para evitar la doble tributación. En este caso, la suspensión del plazo iniciará desde la fecha en la que la autoridad competente del país extranjero que recibió la solicitud de inicio del procedimiento de resolución de controversias notifique a su contraparte en México la recepción de dicha solicitud; tratándose de procedimientos cuyo inicio se solicite en México, la suspensión iniciará desde la fecha en que la solicitud haya sido recibida por la autoridad competente de México. La suspensión del plazo cesará cuando surta efectos la notificación del acto por el que la autoridad competente de México haga del conocimiento del solicitante la conclusión del procedimiento, inclusive, en el caso de que se dé por terminado a petición del interesado, o bien, cuando haya sido declarado improcedente."
+    }
+  ],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El recurso debe presentarse dentro de los treinta días siguientes a la notificación del acto.",
+    "Se permite enviar el escrito a distintas autoridades mediante medios autorizados por el SAT.",
+    "El fallecimiento del afectado suspende el plazo hasta por un año si no hay representante sucesorio.",
+    "También se suspende el plazo si se inicia un procedimiento de resolución de controversias por doble tributación."
+  ]
   }
+
 ] 
