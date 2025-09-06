@@ -5805,13 +5805,88 @@
   "Texto": "El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco federal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales federales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.",
   "Párrafos": [],
   "Fracciones": [],
-  "Procedimiento": "Los terceros que aleguen propiedad o titularidad sobre bienes embargados pueden interponer el recurso de revocación en cualquier momento antes de que se finque el remate, se enajenen los bienes o se adjudiquen al fisco. Si el tercero reclama preferencia en el pago de créditos, debe hacerlo antes de que el importe del remate se aplique al crédito fiscal.",
   "NotasOrientadoras": [
     "Este artículo reconoce el derecho de terceros a defender su propiedad o créditos frente a actos de ejecución fiscal.",
     "El recurso puede interponerse en cualquier momento antes de que se consolide la disposición de los bienes.",
     "Se protege la prelación de créditos frente a los fiscales, si se acredita legalmente.",
     "La norma garantiza que terceros no queden indefensos ante procedimientos que afecten sus derechos patrimoniales."
   ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "130",
+  "PalabraClave": "pruebas en recurso de revocación",
+  "Texto": "En el recurso de revocación se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos. Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso. La autoridad que conozca del recurso, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, así como ordenar la práctica de cualquier diligencia.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "Se admite toda clase de pruebas, salvo la testimonial y confesión de autoridades.",
+    "La solicitud de informes fiscales no está prohibida si se refieren a hechos documentados.",
+    "Las pruebas supervenientes son válidas mientras no se haya dictado resolución.",
+    "La autoridad puede ordenar diligencias para esclarecer los hechos controvertidos."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "131",
+  "PalabraClave": "plazo de resolución de recurso de revocación",
+  "Texto": "La autoridad deberá dictar resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición del recurso. El silencio de la autoridad significará que se ha confirmado el acto impugnado. El recurrente podrá decidir esperar la resolución expresa o impugnar en cualquier tiempo la presunta confirmación del acto impugnado.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "El plazo máximo para resolver es de tres meses desde la interposición.",
+    "El silencio de la autoridad equivale a confirmación tácita del acto impugnado.",
+    "El recurrente puede impugnar la confirmación presunta en cualquier momento.",
+    "Esperar resolución expresa es una decisión voluntaria del recurrente."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "132",
+  "PalabraClave": "examen de agravios en recurso de revocación",
+  "Texto": "La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la facultad de invocar hechos notorios; pero cuando se trate de agravios que se refieran al fondo de la cuestión controvertida, a menos que uno de ellos resulte fundado, deberá examinarlos todos antes de entrar al análisis de los que se planteen sobre violación de requisitos formales o vicios del procedimiento. La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución. No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.",
+  "Párrafos": [],
+  "Fracciones": [],
+  "NotasOrientadoras": [
+    "La resolución debe fundarse en derecho y abordar todos los agravios.",
+    "La autoridad puede corregir errores en la cita legal sin alterar los hechos.",
+    "Puede revocar actos ilegales aunque los agravios sean insuficientes, si lo fundamenta.",
+    "No se puede modificar lo no impugnado por el recurrente."
+  ]
+  },
+  {
+  "Ley": "Código Fiscal de la Federación",
+  "Artículo": "133",
+  "PalabraClave": "tipos de resolución en recurso de revocación.",
+  "Texto": "La resolución que ponga fin al recurso podrá:",
+  "Párrafos": [],
+  "Fracciones": [
+    {
+      "numero": "I",
+      "texto": "Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo, en su caso."
+    },
+    {
+      "numero": "II",
+      "texto": "Confirmar el acto impugnado."
+    },
+    {
+      "numero": "III",
+      "texto": "Mandar reponer el procedimiento administrativo o que se emita una nueva resolución."
+    },
+    {
+      "numero": "IV",
+      "texto": "Dejar sin efectos el acto impugnado."
+    },
+    {
+      "numero": "V",
+      "texto": "Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente."
+    }
+  ],
+  "NotasOrientadoras": [
+    "La resolución puede confirmar, modificar o dejar sin efectos el acto impugnado.",
+    "También puede reponer el procedimiento o emitir una nueva resolución.",
+    "El recurso puede desecharse por improcedente o sobreseerse.",
+    "La autoridad debe actuar conforme al alcance del recurso interpuesto."
+  ]
   }
-
 ] 
